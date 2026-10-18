@@ -10,11 +10,14 @@ BuildinZ is a collectible architectural NFT project planned for Polygon, with te
 
 GitHub Pages: https://hubcityhubcity.github.io/BuildinZ/
 
-Preview the three Neon Residences stages, simulate collecting and staking the five-building neighborhood, simulate seven staking days, and spend mock BRICK to evolve. Progress is stored locally in your browser when storage is available; Reset clears the demo progress on that device.
+Choose Neon Residences or Pulse Plaza and preview their three evolution stages, simulate collecting and staking the five-building neighborhood, simulate seven staking days, and spend mock BRICK to evolve. Each building evolves independently using the shared mock BRICK balance. Collect Pulse Plaza in the tracker to enable its evolution. Existing Neon Residences saves remain compatible.
+
+Progress is stored locally in your browser when storage is available; Reset clears the demo progress on that device.
 
 ## Files and development
 
 - `index.html`: self-contained HTML, CSS, JavaScript, and embedded artwork. No dependencies or build process.
+- `assets/pulse-stage-1.png` through `pulse-stage-3.png`: full-resolution Pulse Plaza evolution artwork.
 - `README.md`: project documentation.
 
 Open `index.html` in a modern browser, or serve the repository with any static HTTP server. The responsive layout supports desktop and mobile screens.
