@@ -30,6 +30,15 @@ GitHub Pages publishes from the `main` branch and `/ (root)` folder. Repository 
 
 Migrated from the BuildinZ prototype previously placed in `hubcityhubcity/buildings`. The original standalone HTML was preserved byte-for-byte on initial upload (blob `b58aa62d037a36ebcaed311177e2f1f48947aa8c`). The unrelated repository's GPL-3.0 LICENSE has not been copied here. No replacement license is selected in this repository.
 
+## Current development priorities (October 21, 2026)
+
+See the [project status and execution roadmap](PROJECT_STATUS.md).
+
+- [Complete the remaining three independent Neon Heights building evolutions](https://github.com/hubcityhubcity/BuildinZ/issues/1)
+- [Verify mobile/desktop quality and demo state compatibility](https://github.com/hubcityhubcity/BuildinZ/issues/2)
+
+The live site is still a **prototype**; these issues describe pending work, not completed features. No paid service or blockchain deployment is part of either task.
+
 ## Future work
 
 Production ownership, staking, tokenomics, smart contracts, security review, and blockchain integration are outside this prototype.
