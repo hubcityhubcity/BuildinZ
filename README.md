@@ -14,6 +14,10 @@ Choose Neon Residences or Pulse Plaza and preview their three evolution stages, 
 
 Progress is stored locally in your browser when storage is available; Reset clears the demo progress on that device.
 
+### HoloTech Tower — standalone evolution lab
+
+[Open the HoloTech Tower lab](holotech.html) to try a **separate** three-stage prototype: HoloTech Tower → Quantum Spire → Omninet Nexus. It has its own local, mock BRICK balance and progress; collecting or evolving here **does not sync** with Neon Heights' five-building set checker. The visuals are temporary, clearly labeled architectural schematics, not approved production art. This is a no-wallet, no-transaction experiment.
+
 ## Files and development
 
 - `index.html`: self-contained HTML, CSS, JavaScript, and embedded artwork. No dependencies or build process.
