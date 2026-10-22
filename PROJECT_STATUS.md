@@ -1,17 +1,27 @@
 # BuildinZ — Project Status & Execution Roadmap
 
-**Snapshot:** October 21, 2026  
+**Snapshot:** October 22, 2026  
 **Scope:** Existing public GitHub Pages *prototype*, not a live NFT mint.
 
 ## Current verified repository state
 
 - Repo: https://github.com/hubcityhubcity/BuildinZ (public, `main`).
 - Prototype URL documented by repository: https://hubcityhubcity.github.io/BuildinZ/ (GitHub Pages, root).
-- Most recent commit at audit: `d9267b15bd0d2f2a968558d3a7b92e84e2d76806` (October 18, 2026), **Add independent three-stage Pulse Plaza evolution demo**.
+- Last Neon Heights **main-interface** feature commit at the original audit: `d9267b15bd0d2f2a968558d3a7b92e84e2d76806` (October 18, 2026), adding independent Pulse Plaza evolution.
+- New October 22 delivery: merged PR [#3](https://github.com/hubcityhubcity/BuildinZ/pull/3), introducing a standalone [HoloTech evolution lab](holotech.html) without modifying the large `index.html` main app.
 - Prototype contains selectable three-stage **Neon Residences** and **Pulse Plaza** demonstrations, with separate per-building evolution and shared *mock* BRICK. Existing local saved Neon Residences progress was addressed in the Oct 18 implementation.
-- Repository currently holds `index.html`, `README.md`, and three `assets/pulse-stage-*.png` files. The HTML includes embedded artwork.
+- Repository holds `index.html`, `holotech.html`, `README.md`, this status tracker, and three `assets/pulse-stage-*.png` files. The main HTML includes embedded artwork. The HoloTech page is a small self-contained standalone file.
 - Earlier commits address cropped/blurry previews, annotation fragments, excessive tree coverage and frame overflow. **This status does not certify device-level browser QA**, which remains outstanding.
 - No documented production Polygon mint, on-chain evolution, wallet integration, deployable NFT contract, or approved live BRICK economy.
+
+## October 22 milestone: standalone HoloTech test lab
+
+- **Delivered to main:** the standalone, responsive [HoloTech Tower demo](holotech.html), with three stages: HoloTech Tower → Quantum Spire → Omninet Nexus.
+- Working source implementation: demo collection, seven-day mock BRICK accrual, isolated mock balance, preview without upgrading, forward-only evolution, explicit reset, locally saved state.
+- **Isolation:** uses its own key `buildinz-holotech-sandbox-v01`; it does not edit the main Neon Heights demo state, contribute to its five-of-five checker, or share its mock BRICK balance.
+- **Art status:** three distinct, temporary SVG schematic visuals based on the approved HoloTech evolution concept. The approved triptych is unchanged; final cleaned standalone stage art is still needed.
+- **Testing:** source-level structural checks completed; live GitHub Pages response and Android/desktop browser QA **not independently confirmed**. Do not mark visual QA complete.
+- **Integration blocker:** the main `index.html` is ~5.17 MB because it embeds large artwork. A full-file update through the connected GitHub editor failed. Refactor/externalize the artwork and add the shared third building using a safe, validated approach, without rewriting saves or replacing approved art.
 
 ## Foundation to preserve
 
@@ -27,7 +37,7 @@
 |---|---|---|---|---|
 | Residential | Neon Residences | Skyline Habitat | Aurora Arcology | In prototype; browser QA pending |
 | Retail | Pulse Plaza | Spectrum Galleria | Infinity Bazaar | In prototype; browser QA pending |
-| Technology | HoloTech Tower | Quantum Spire | Omninet Nexus | Next |
+| Technology | HoloTech Tower | Quantum Spire | Omninet Nexus | Standalone sandbox delivered; integration pending |
 | Entertainment | Midnight Lounge | Nocturne Palace | Eclipse Citadel | Next |
 | Landmark | Crown Spire | Sovereign Apex | Crown of Neon | Next |
 
