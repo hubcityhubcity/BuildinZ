@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0a0a19">
+<title>HoloTech Tower | BuildinZ Evolution Lab</title>
+<meta name="description" content="Explore the three evolution stages of HoloTech Tower in a free, blockchain-free BuildinZ demo.">
+<style>
+:root{color-scheme:dark;--bg:#090a18;--panel:#17172d;--line:#3a365f;--text:#f3f3ff;--muted:#a5a4c5;--aqua:#51edff;--pink:#df7cff;--green:#94ffd7}
+*{box-sizing:border-box}
+body{margin:0;font:15px/1.55 Inter,system-ui,-apple-system,Segoe UI,sans-serif;color:var(--text);background:radial-gradient(ellipse at 70% -10%,#332061,transparent 45%),radial-gradient(ellipse at 0% 65%,#102947,transparent 50%),var(--bg)}
+button,a{font:inherit}button{cursor:pointer}a{color:var(--aqua)}button:focus-visible,a:focus-visible{outline:3px solid var(--aqua);outline-offset:3px}
+.container{max-width:1130px;width:calc(100% - 32px);margin:auto}
+.strip{background:#1a1637;color:#c7eaff;font-size:11px;font-weight:800;letter-spacing:.1em;text-align:center;padding:9px 12px}
+.nav{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:22px 0}
+.brand{font-size:23px;font-weight:950;letter-spacing:.1em;color:white;text-decoration:none}.brand b{color:var(--aqua)}
+.navlink{font-size:13px;text-decoration:none;border:1px solid #646082;border-radius:10px;padding:9px 12px}
+.hero{border:1px solid var(--line);border-radius:24px;background:linear-gradient(125deg,#11152d,#1a1537 68%,#291747);padding:30px 32px;margin-bottom:18px}
+.eyebrow{font-size:11px;color:var(--aqua);font-weight:850;letter-spacing:.18em;text-transform:uppercase}
+h1{font-size:clamp(35px,6vw,58px);line-height:1.05;letter-spacing:-.05em;margin:11px 0}h1 span{color:#be91ff}
+.hero p{color:#cecae6;max-width:700px;margin:0}
+.lab{display:grid;grid-template-columns:minmax(300px,1.08fr) minmax(310px,.92fr);gap:16px}
+.panel{background:linear-gradient(155deg,#1c1a38,#111125);border:1px solid var(--line);border-radius:20px;padding:20px;min-width:0}
+.previewbox{background:#070919;border:1px solid #363258;border-radius:17px;min-height:465px;display:grid;place-items:center;overflow:hidden;position:relative}
+.previewbox img{display:block;width:100%;height:100%;max-height:550px;object-fit:contain}
+.overline{position:absolute;top:15px;left:15px;border:1px solid #5b5892;background:#090d25db;border-radius:999px;padding:5px 10px;font-size:11px;font-weight:850}
+.artnote{font-size:12px;color:#b9afdc;margin:12px 2px 4px}
+.stagebuttons{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px;margin-top:15px}
+.stage{background:#201d3e;color:white;border:1px solid #48406f;border-radius:12px;padding:11px 6px;text-align:center;min-width:0}
+.stage[aria-pressed=true]{border-color:var(--aqua);background:#19304d;box-shadow:inset 0 0 0 1px #56dffb}
+.stage small{display:block;color:#bbb6d8;font-size:10px}.stage span{display:block;font-weight:850;font-size:12px;overflow-wrap:anywhere}
+.stage .tag{color:var(--aqua)}
+h2{font-size:clamp(26px,4vw,35px);line-height:1.14;letter-spacing:-.045em;margin:8px 0 13px}
+.bodytext{color:#c5c2db;margin:0 0 22px}
+.progress{display:flex;gap:8px;margin-bottom:23px}
+.progress div{flex:1;border-top:5px solid #393450;padding-top:7px;color:#9993b7;font-size:11px;font-weight:750}
+.progress div.done{border-color:var(--aqua);color:#dfffff}
+.feature{background:#1e2942;border:1px solid #395b73;padding:17px;border-radius:15px;margin:12px 0 22px}
+.feature strong{display:block;font-size:17px}.feature p{font-size:13px;color:#bac5dc;margin:5px 0 0}
+.stats{display:flex;justify-content:space-between;gap:15px;align-items:end;border-top:1px solid var(--line);padding:18px 0;margin-top:auto}
+.stats small{display:block;font-size:10px;font-weight:900;letter-spacing:.1em;color:#aaa8c4}
+.stats strong{font-size:24px;color:var(--aqua)}
+.actions{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.btn{min-height:45px;padding:10px 14px;border-radius:12px;border:1px solid #66608e;background:#252044;color:#f6f3ff;font-weight:830}
+.btn.primary{color:#09132d;border-color:transparent;background:linear-gradient(115deg,#55ecff,#b491ff,#f28ddf)}
+.btn:disabled{opacity:.46;cursor:not-allowed}
+.btn.full{grid-column:1/-1}
+.message{min-height:24px;color:var(--green);font-size:13px;margin:12px 0}
+.note{font-size:12px;color:var(--muted);margin:16px 0 0}
+.bottom{margin:22px 0 42px;padding:19px 22px;border:1px solid #4a4279;border-radius:16px;background:#181634;color:#c8c2df}
+.bottom strong{color:#e8dbff}
+footer{border-top:1px solid var(--line);padding:20px 0 42px;display:flex;justify-content:space-between;gap:14px;color:#a7a3c5;font-size:12px}
+@media(max-width:800px){.lab{grid-template-columns:1fr}.previewbox{min-height:370px}.nav{padding:15px 0}}
+@media(max-width:480px){.hero{padding:22px 19px}.panel{padding:12px}.previewbox{min-height:340px}.actions{grid-template-columns:1fr}.btn.full{grid-column:auto}.stagebuttons{gap:5px}.stage{padding:8px 4px}.stage span{font-size:11px}.navlink{font-size:11px}footer{flex-direction:column}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="strip">BUILDINZ CONCEPT LAB · ALL NFTS & BRICK ARE SIMULATED · NO WALLET · $0 REAL TRANSACTIONS</div>
+<main class="container">
+<nav class="nav"><a class="brand" href="index.html">BUILDIN<b>Z</b></a><a class="navlink" href="index.html">← Return to Neon Heights prototype</a></nav>
+<header class="hero"><div class="eyebrow">Neon Heights / Building 003 / Technology</div><h1>HoloTech <span>Tower.</span></h1><p>Innovation evolves. Preview HoloTech's distinctive three-stage architectural lineage, collect a mock edition, and simulate irreversible building upgrades. This standalone test lab does not change your progress in the main Neon Heights demo.</p></header>
+<section class="lab" aria-label="HoloTech evolution simulator">
+<div class="panel">
+<div class="previewbox"><img id="art" alt="HoloTech stage I architectural schematic preview"><div class="overline" id="previewLabel">CURRENT · STAGE I</div></div>
+<p class="artnote">Temporary schematic illustrations based on the approved evolution concept. The original triptych has not been altered. Clean production artwork is still pending.</p>
+<div class="stagebuttons" id="stageButtons" aria-label="Preview evolution stages"></div>
+</div>
+<div class="panel" style="display:flex;flex-direction:column">
+<div class="eyebrow" id="currentTag">Current demo stage I</div>
+<h2 id="stageName">HoloTech Tower</h2><p class="bodytext" id="stageDesc"></p>
+<div class="progress" id="progress" aria-label="Evolution progress"></div>
+<div class="feature"><div class="eyebrow">Signature feature</div><strong id="feature"></strong><p id="featureDesc"></p></div>
+<div class="stats"><div><small>YOUR MOCK BRICK</small><strong id="balance">200</strong></div><div style="text-align:right"><small>NEXT UPGRADE</small><strong id="cost">120</strong></div></div>
+<div class="actions">
+<button class="btn" type="button" id="collect">＋ Collect mock HoloTech</button>
+<button class="btn" type="button" id="earn">Simulate 7 staking days</button>
+<button class="btn primary full" type="button" id="evolve">Evolve to Stage II →</button>
+<button class="btn full" type="button" id="reset">↻ Reset this standalone demo</button>
+</div>
+<div class="message" id="message" role="status" aria-live="polite"></div>
+<p class="note">Evolution only moves forward in this simulation. Only an explicit reset can take this mock edition back to Stage I. The edition, rewards, balance, and upgrade costs are not real crypto assets or promised tokenomics.</p>
+</div>
+</section>
+<div class="bottom"><strong>Production boundary.</strong> This is an isolated demonstration of HoloTech's collection/preview/evolution mechanics. Its local state is intentionally separate from the original Neon Heights demo. Building integration into the five-building set checker, final cleaned artwork, and cross-browser testing remain open development tasks.</div>
+<footer><span>BUILDINZ · Own the Building. Complete the Neighborhood. Build the City.</span><a href="https://x.com/buildinzHQ" target="_blank" rel="noopener noreferrer">Follow @buildinzHQ ↗</a></footer>
+</main>
+<script>
+(function(){
+'use strict';
+const key='buildinz-holotech-sandbox-v01', $=id=>document.getElementById(id), roman=['I','II','III'];
+const stages=[
+ {name:'HoloTech Tower',desc:'A compact innovation headquarters with a prominent holographic research facade and precision signal array.',feature:'Digital research facade + communications spire',featureDesc:'Stage I: a sleek tower with an illuminated research hub, digital displays, and a signature antenna.',cost:120},
+ {name:'Quantum Spire',desc:'The headquarters becomes a taller advanced research tower with suspended innovation platforms and a panoramic sky deck.',feature:'Suspended research platform + data crown',featureDesc:'Stage II exclusive: a sky-level glass innovation deck and expanded research spire with vibrant network lighting.',cost:280},
+ {name:'Omninet Nexus',desc:'A monumental network command center, dramatically taller and crowned by an illuminated orbital ring and satellite hubs.',feature:'Orbital nexus ring + interconnected sky hubs',featureDesc:'Stage III exclusive: a giant luminous orbital network ring, satellite platforms, and a commanding futuristic crown.',cost:null}
+];
+function schematic(level){
+ const top=[308,230,156][level-1], width=[178,200,226][level-1], x=400-width/2, floor=659;
+ const neon=level===3?'#ff59e5':level===2?'#ab7aff':'#3cdfff';
+ const skyline=Array.from({length:32},(_,i)=>{
+   const w=13+(i*13%18),h=75+(i*37%160),xx=i*27-10;
+   return '<rect x="'+xx+'" y="'+(floor-h)+'" width="'+w+'" height="'+h+'" fill="#172044" stroke="#6c4ce1" stroke-opacity=".23"/>'+
+     '<path d="M'+(xx+4)+' '+(floor-h+14)+'v'+(h-30)+'" stroke="#38dcff" stroke-opacity=".25" stroke-dasharray="3 11"/>';
+ }).join('');
+ const windows=Array.from({length:14},(_,i)=>'<line x1="'+(x+14+i*10.5)+'" y1="'+(top+52)+'" x2="'+(x+14+i*10.5)+'" y2="'+(floor-20)+'" stroke="'+neon+'" stroke-width="'+(i%3===0?3:1.3)+'" opacity="'+(i%3===0?.85:.28)+'"/>').join('');
+ const floors=Array.from({length:17},(_,i)=>'<path d="M'+(x+5)+' '+(top+72+i*26)+'H'+(x+width-5)+'" stroke="#92d7ff" stroke-opacity=".17"/>').join('');
+ const stars=Array.from({length:34},(_,i)=>'<circle cx="'+((i*167+39)%780+10)+'" cy="'+((i*89+29)%435+20)+'" r="'+(i%5===0?2:1)+'" fill="#b8a8ff" opacity="'+(i%3===0?.55:.2)+'"/>').join('');
+ const extras=level===3?
+  '<g stroke="#5af0ff" stroke-width="4"><path d="M140 565V356l33-32 34 32v209z" fill="#183570"/><path d="M587 565V366l33-29 33 29v199z" fill="#183570"/></g><path d="M207 430H293M507 443H587" stroke="#d995ff" stroke-width="13"/>':
+  level===2?'<path d="M150 431h144v-20h-144z" fill="#254870" stroke="#9c7bff" stroke-width="3"/><path d="M161 409v-43h118v43" fill="#2675a3" fill-opacity=".5" stroke="#3de6ff" stroke-width="4"/><path d="M277 421h36" stroke="#d087ff" stroke-width="9"/>':
+  '<path d="M300 552H166V513H300" fill="#1d4066" stroke="#58e4ff" stroke-width="3"/>';
+ const ring=level===3?
+  '<ellipse cx="400" cy="208" rx="220" ry="69" fill="none" stroke="#e74cff" stroke-width="16" opacity=".26"/><ellipse cx="400" cy="208" rx="219" ry="69" fill="none" stroke="#fd87ff" stroke-width="6"/><ellipse cx="400" cy="208" rx="177" ry="49" fill="none" stroke="#3de8ff" stroke-width="3"/>':
+  level===2?'<ellipse cx="400" cy="224" rx="107" ry="25" fill="none" stroke="#d66dff" stroke-width="6"/><ellipse cx="400" cy="230" rx="94" ry="22" fill="none" stroke="#46eaff" stroke-width="3"/>':
+  '<ellipse cx="400" cy="301" rx="63" ry="14" fill="none" stroke="#47dcff" stroke-width="4"/>';
+ const building='<path d="M'+x+' '+floor+'V'+(top+68)+'L'+(x+18)+' '+top+'H'+(x+width-18)+'L'+(x+width)+' '+(top+68)+'V'+floor+'Z" fill="url(#tower)" stroke="'+neon+'" stroke-width="5"/>'+
+  '<path d="M'+(x+width*.3)+' '+top+'V'+(top-38)+'L400 '+(top-102)+'L'+(x+width*.7)+' '+(top-38)+'V'+top+'" fill="#1b2d6c" stroke="'+neon+'" stroke-width="4"/>'+
+  '<path d="M400 '+(top-102)+'V'+(top-144)+'" stroke="#fc8aff" stroke-width="5"/>'+windows+floors+
+  '<rect x="'+(x+width*.3)+'" y="'+(top+150)+'" width="'+(width*.4)+'" height="150" fill="#091a41" stroke="#58bfff" stroke-opacity=".8" stroke-width="3"/>'+
+  '<text x="400" y="'+(top+208)+'" fill="#d5faff" font-size="26" font-weight="900" text-anchor="middle">H</text><text x="400" y="'+(top+236)+'" fill="#88edff" font-size="12" font-weight="900" text-anchor="middle">HOLOTECH</text>';
+ const svg='<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760"><defs>'+
+  '<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#090b25"/><stop offset=".62" stop-color="#24114e"/><stop offset="1" stop-color="#122b51"/></linearGradient>'+
+  '<linearGradient id="tower" x2="1" y2="0"><stop stop-color="#101b48"/><stop offset=".45" stop-color="#25427a"/><stop offset=".8" stop-color="#172151"/><stop offset="1" stop-color="#0e1239"/></linearGradient>'+
+  '<radialGradient id="glow"><stop stop-color="#743baf" stop-opacity=".5"/><stop offset="1" stop-color="#743baf" stop-opacity="0"/></radialGradient></defs>'+
+  '<rect width="800" height="760" fill="url(#sky)"/><circle cx="400" cy="390" r="335" fill="url(#glow)"/>'+stars+skyline+
+  '<path d="M0 663H800V760H0Z" fill="#0a0d23"/><g opacity=".6" stroke="#3eeaff" stroke-width="2"><path d="M0 703H800M0 740H800M90 664l-80 96m190-96-80 96m190-96-80 96m190-96-80 96m190-96-80 96m190-96-80 96"/></g>'+
+  extras+building+ring+
+  '<rect x="18" y="18" width="208" height="34" rx="17" fill="#0b1734" fill-opacity=".85" stroke="#57deff" stroke-opacity=".65"/>'+
+  '<text x="122" y="40" font-size="15" font-family="Arial,sans-serif" fill="#ccfaff" text-anchor="middle" font-weight="bold">SCHEMATIC PREVIEW</text>'+
+  '<text x="400" y="716" font-size="18" font-family="Arial,sans-serif" fill="#c9c6ff" text-anchor="middle">HOLOTECH · STAGE '+roman[level-1]+'</text></svg>';
+ return 'data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg);
+}
+const art=[schematic(1),schematic(2),schematic(3)];
+const defaults=()=>({stage:1,owned:false,balance:200,days:0});
+let state=defaults(),preview=1;
+try{const raw=JSON.parse(localStorage.getItem(key));if(raw&&[1,2,3].includes(raw.stage)&&typeof raw.owned==='boolean'&&Number.isFinite(raw.balance)&&raw.balance>=0&&Number.isFinite(raw.days)&&raw.days>=0)state={stage:raw.stage,owned:raw.owned,balance:raw.balance,days:raw.days};}catch(_e){}
+function save(){try{localStorage.setItem(key,JSON.stringify(state));}catch(_e){}}
+function msg(value,isError){$('message').textContent=value;$('message').style.color=isError?'#ffacba':'#94ffd7';}
+function render(){
+ const current=stages[state.stage-1];
+ $('stageName').textContent=current.name;$('stageDesc').textContent=current.desc;
+ $('feature').textContent=current.feature;$('featureDesc').textContent=current.featureDesc;
+ $('currentTag').textContent='Actual demo stage '+roman[state.stage-1];
+ $('balance').textContent=state.balance.toLocaleString('en-US',{maximumFractionDigits:2});
+ $('cost').textContent=current.cost===null?'COMPLETE':current.cost+' MOCK';
+ $('art').src=art[preview-1];$('art').alt=stages[preview-1].name+' temporary schematic illustration';
+ $('previewLabel').textContent=(preview===state.stage?'● CURRENT':'◇ PREVIEW')+' · STAGE '+roman[preview-1];
+ $('stageButtons').innerHTML=stages.map((s,i)=>'<button type="button" class="stage" data-stage="'+(i+1)+'" aria-pressed="'+(preview===i+1)+'"><small>STAGE '+roman[i]+'</small><span>'+s.name+'</span><small class="tag">'+(i+1===state.stage?'CURRENT':i+1<state.stage?'UNLOCKED':'FUTURE')+'</small></button>').join('');
+ $('progress').innerHTML=stages.map((s,i)=>'<div class="'+(i<state.stage?'done':'')+'">STAGE '+roman[i]+'</div>').join('');
+ $('collect').disabled=state.owned;$('collect').textContent=state.owned?'✓ Mock edition collected':'＋ Collect mock HoloTech';
+ $('earn').disabled=!state.owned;$('evolve').disabled=!state.owned||state.stage===3;
+ $('evolve').textContent=!state.owned?'Collect mock edition to evolve':state.stage===3?'✓ Final stage reached':'Evolve to Stage '+roman[state.stage]+' →';
+}
+$('stageButtons').addEventListener('click',e=>{const btn=e.target.closest('button[data-stage]');if(!btn)return;preview=+btn.dataset.stage;msg('',false);render();});
+$('collect').addEventListener('click',()=>{if(state.owned)return;state.owned=true;save();msg('Mock HoloTech collected. You can now simulate staking and upgrades.');render();});
+$('earn').addEventListener('click',()=>{if(!state.owned)return;state.balance=Math.round((state.balance+70)*100)/100;state.days+=7;save();msg('Simulated 7 days: +70 mock BRICK. No real tokens earned.');render();});
+$('evolve').addEventListener('click',()=>{
+ if(!state.owned||state.stage>=3)return;
+ const cost=stages[state.stage-1].cost;
+ if(state.balance<cost){msg('Insufficient mock BRICK. Simulate staking days to earn more.',true);return;}
+ if(!confirm('Spend '+cost+' MOCK BRICK to permanently evolve to '+stages[state.stage].name+' in this standalone demo?'))return;
+ state.balance=Math.round((state.balance-cost)*100)/100;state.stage+=1;preview=state.stage;save();render();msg('Demo evolution complete: '+stages[state.stage-1].name+'.');
+});
+$('reset').addEventListener('click',()=>{if(!confirm('Clear this HoloTech sandbox progress? Your main Neon Heights prototype will not be affected.'))return;state=defaults();preview=1;save();render();msg('HoloTech sandbox reset. No real assets affected.');});
+preview=state.stage;render();
+})();
+</script>
+</body>
+</html>
