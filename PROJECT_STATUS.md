@@ -1,6 +1,6 @@
 # BuildinZ — Project Status & Execution Roadmap
 
-**Snapshot:** October 22, 2026  
+**Snapshot:** October 23, 2026  
 **Scope:** Existing public GitHub Pages *prototype*, not a live NFT mint.
 
 ## Current verified repository state
@@ -23,6 +23,17 @@
 - **Testing:** source-level structural checks completed; live GitHub Pages response and Android/desktop browser QA **not independently confirmed**. Do not mark visual QA complete.
 - **Integration blocker:** the main `index.html` is ~5.17 MB because it embeds large artwork. A full-file update through the connected GitHub editor failed. Refactor/externalize the artwork and add the shared third building using a safe, validated approach, without rewriting saves or replacing approved art.
 
+## October 23 milestone: integrated approved-art preview (staged, not homepage release)
+
+- Separate public-path **preview committed on main**: [preview-holotech.html](preview-holotech.html). The existing `index.html` homepage is unchanged.
+- Draft [PR #4](https://github.com/hubcityhubcity/BuildinZ/pull/4) proposes promoting the same integrated experience to `index.html` after device/browser QA.
+- Refactored prototype `index.html` from ~5.17 MB to ~27.6 KB by extracting original embedded images into reusable standalone files. The Neon Residences original source PNG is preserved with its original three crop coordinates and recreated via client-side canvas after same-origin image load.
+- **HoloTech stage art:** all three .webp files are direct clean crops of the previously approved 3-panel artwork, preserving approved architecture and omitting title/info-card regions; no SVG schematic art in the integrated view.
+- HoloTech now has independent `holoStage` progression and uses the existing shared simulated BRICK. The local-save key and other building stage fields are preserved.
+- **Checks passed:** JavaScript parse, 11 state/interaction mock-DOM assertions (selection, stage paths, stage I→III, irreversible final state, shared BRICK, independent progress, five-of-five rule, reset), correct source image sizes and repository file presence.
+- **Still open:** live GitHub Pages HTTP verification through the external checker was inconclusive (the checker also could not open the existing homepage), visual inspection of original Neon source crops, real Android/desktop browser testing and saved-state migration regression checks. Do not claim live visual QA passed.
+- The standalone HoloTech schematic lab now directs visitors to the approved-art integrated preview. No paid services, wallet connection, blockchain operations, or real token transfers occurred.
+
 ## Foundation to preserve
 
 - Polygon **planned** Genesis universe: 10 neighborhoods × 5 distinct identities × 20 editions = **1,000 NFTs**.
@@ -37,7 +48,7 @@
 |---|---|---|---|---|
 | Residential | Neon Residences | Skyline Habitat | Aurora Arcology | In prototype; browser QA pending |
 | Retail | Pulse Plaza | Spectrum Galleria | Infinity Bazaar | In prototype; browser QA pending |
-| Technology | HoloTech Tower | Quantum Spire | Omninet Nexus | Standalone sandbox delivered; integration pending |
+| Technology | HoloTech Tower | Quantum Spire | Omninet Nexus | Integrated three-stage draft and main-branch preview; homepage merge pending QA |
 | Entertainment | Midnight Lounge | Nocturne Palace | Eclipse Citadel | Next |
 | Landmark | Crown Spire | Sovereign Apex | Crown of Neon | Next |
 
