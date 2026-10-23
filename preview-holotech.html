@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#090915" />
+  <title>BuildinZ | Neon Heights Concept Lab</title>
+  <link rel="icon" href="assets/logo.webp" />
+  <style>
+    :root{--bg:#090916;--surface:#14142b;--surface2:#1c1a39;--line:rgba(171,172,242,.18);--text:#f7f6ff;--muted:#a8a7c5;--aqua:#42e5ff;--purple:#a471ff;--pink:#f66cd8;--green:#7ce9b2;--radius:22px; color-scheme:dark}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(ellipse at 75% -10%,#2b185c 0%,transparent 36%),radial-gradient(ellipse at 10% 30%,#10243f 0%,transparent 35%),var(--bg);color:var(--text);font:15px/1.55 Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif}button{font:inherit;cursor:pointer}a{color:inherit;text-decoration:none}button:focus-visible,a:focus-visible{outline:3px solid var(--aqua);outline-offset:3px}.container{width:min(1160px,calc(100% - 40px));margin:auto}.eyebrow{text-transform:uppercase;letter-spacing:.22em;font-size:11px;font-weight:800;color:var(--aqua)}.muted{color:var(--muted)}.chip{border:1px solid var(--line);border-radius:999px;background:rgba(44,38,83,.62);padding:6px 11px;font-size:11px;letter-spacing:.03em;color:#d4d0ff}.green{color:var(--green)}.topline{background:#1b1639;border-bottom:1px solid var(--line);padding:9px;text-align:center;font-size:11px;letter-spacing:.12em;font-weight:800;color:#e0d8ff}.topline span{color:#91f4d8}.nav{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:18px 0}.brand{display:flex;align-items:center;gap:10px;font-size:23px;font-weight:900;letter-spacing:.07em}.brand img{width:42px;height:42px;border-radius:50%;border:1px solid #7370ca}.brand b{color:var(--aqua)}.navlinks{display:flex;align-items:center;gap:26px;font-size:13px;color:#d3d1e9}.navlinks a:hover{color:var(--aqua)}.btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;border:1px solid transparent;border-radius:12px;padding:12px 18px;font-weight:800;transition:background .18s,transform .18s;min-height:44px}.btn:hover:not(:disabled){transform:translateY(-1px)}.btn-primary{color:#0b0d26;background:linear-gradient(110deg,var(--aqua),#ca8eff 70%,var(--pink));box-shadow:0 7px 35px rgba(135,81,241,.25)}.btn-outline{color:#e6e2ff;background:#252142;border-color:#5b4b88}.btn-quiet{color:#c5c3e0;background:transparent;border-color:var(--line)}.btn:disabled{opacity:.5;cursor:not-allowed}.btn.full{width:100%}.hero{min-height:334px;border-radius:28px;border:1px solid var(--line);position:relative;overflow:hidden;background:linear-gradient(90deg,#0d0c22 2%,rgba(12,9,30,.97) 27%,rgba(12,9,30,.48) 66%),url('assets/banner.webp') center/cover no-repeat;display:flex;align-items:center;box-shadow:0 20px 80px rgba(0,0,0,.18)}.hero-content{padding:35px 42px;max-width:680px;position:relative;z-index:1}.hero h1{font-size:clamp(31px,5vw,59px);line-height:1.03;letter-spacing:-.05em;margin:13px 0 17px}.hero h1 span{color:#bea2ff}.hero p{color:#c6c4e2;max-width:520px;font-size:15px}.hero-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:25px}.statbar{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:16px 0 37px}.stat{padding:17px 19px;background:rgba(22,19,44,.85);border:1px solid var(--line);border-radius:15px}.stat strong{display:block;font-size:24px;line-height:1.2}.stat span{font-size:11px;color:var(--muted);letter-spacing:.03em}.heading{display:flex;align-items:end;justify-content:space-between;gap:16px;margin:29px 0 18px}.heading h2{margin:5px 0 0;font-size:clamp(23px,3.3vw,33px);letter-spacing:-.035em}.panel{background:linear-gradient(140deg,rgba(28,26,57,.93),rgba(18,18,38,.97));border:1px solid var(--line);border-radius:var(--radius)}.evolution{display:grid;grid-template-columns:minmax(270px,1.08fr) minmax(290px,.92fr);gap:18px}.artpanel{padding:15px;position:relative;overflow:hidden}.imagebox{height:500px;display:grid;place-items:center;border-radius:16px;background:radial-gradient(ellipse at 50% 60%,rgba(110,39,179,.22),transparent 65%),#060611;overflow:hidden;position:relative}.imagebox img{height:100%;width:100%;object-fit:contain;display:block;animation:appear .45s ease}.imagebox:after{content:"";pointer-events:none;position:absolute;inset:0;border:1px solid rgba(172,116,255,.15);border-radius:16px}.image-caption{position:absolute;top:27px;left:27px;padding:7px 11px;border:1px solid #7f69c7;border-radius:999px;background:rgba(8,6,25,.86);color:#d9d4ff;font-weight:800;font-size:11px;letter-spacing:.09em;text-transform:uppercase}.image-foot{text-align:center;padding:12px 0 2px;color:#9b93b7;font-size:12px}.detailpanel{padding:29px;display:flex;flex-direction:column}.detailpanel h3{font-size:31px;letter-spacing:-.04em;line-height:1.13;margin:10px 0 9px}.detailpanel p{color:#bfbed7;margin:0 0 18px}.progress{display:flex;gap:8px;margin:20px 0 28px}.step{flex:1;text-align:center;color:#8885ab;position:relative}.step:before{content:"";display:block;border-radius:99px;height:5px;background:#363150;margin-bottom:11px}.step.done:before{background:linear-gradient(90deg,#56dafb,#a471ff)}.step.current{color:#f9f6ff}.step span{font-size:11px;font-weight:800}.feature{padding:18px;border:1px solid rgba(123,224,254,.22);border-radius:14px;background:rgba(38,82,111,.15);margin-bottom:18px}.feature label{display:block;text-transform:uppercase;letter-spacing:.16em;font-size:10px;font-weight:800;color:var(--aqua);margin-bottom:5px}.feature strong{display:block;font-size:16px}.feature p{font-size:13px;margin:6px 0 0}.info{display:flex;gap:12px;justify-content:space-between;align-items:center;flex-wrap:wrap;margin-top:auto;padding:17px 0;border-top:1px solid var(--line)}.balance{font-size:23px;font-weight:900;color:var(--aqua)}.balance small{font-size:12px;color:var(--muted);font-weight:500;margin-left:5px}.next-cost{color:#e8e6fa;font-weight:800}.detail-actions{display:grid;grid-template-columns:1fr auto;gap:10px}.tiny{font-size:11px;color:#a9a6c6;margin-top:12px}.error{color:#f9aaaf;font-size:13px;min-height:20px;margin:9px 0 0}.stagepreviews{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}.preview{border:1px solid var(--line);background:rgba(30,26,58,.65);border-radius:14px;padding:10px;display:grid;grid-template-columns:44px 1fr;align-items:center;gap:10px;text-align:left;color:var(--text)}.preview:hover{border-color:#827bff}.preview img{width:44px;height:55px;object-fit:cover;border-radius:8px}.preview.active{border-color:var(--aqua);box-shadow:inset 0 0 0 1px rgba(66,229,255,.2)}.preview small{color:var(--muted);display:block}.preview span{font-size:12px;font-weight:800}.preview .lock{font-size:10px;color:#c5b5eb}.set-wrap{display:grid;grid-template-columns:minmax(290px,1.2fr) minmax(275px,.8fr);gap:18px}.setpanel{padding:22px}.building-list{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}.building{display:flex;flex-direction:column;text-align:center;background:#17172f;border:1px solid var(--line);border-radius:15px;overflow:hidden;min-width:0}.building.owned{border-color:#5a628f}.building img{width:100%;height:125px;object-fit:cover;object-position:center}.building-content{padding:11px 6px;flex:1;display:flex;flex-direction:column;align-items:center}.building strong{font-size:11px;line-height:1.3;min-height:29px}.building small{display:block;color:var(--muted);font-size:10px}.toggle{margin-top:10px;padding:6px 7px;font-size:11px;font-weight:850;border-radius:7px;border:1px solid #57527a;background:#272447;color:#e7e2f9;width:100%}.building.owned .toggle{border-color:#2c7e73;background:#113d3c;color:#9ffce3}.setsummary{padding:27px;display:flex;flex-direction:column;gap:13px}.setsummary h3{font-size:23px;margin:0}.meter{height:9px;border-radius:999px;background:#322c4f;overflow:hidden}.meter>div{height:100%;width:20%;background:linear-gradient(90deg,#50e1fb,#b97afd);transition:width .35s}.bonus{display:flex;align-items:center;justify-content:space-between;padding:15px;border-radius:12px;background:#242043;border:1px solid #3b3661}.bonus strong{font-size:23px}.mono{font-variant-numeric:tabular-nums}.explain{font-size:12px;color:var(--muted)}.notice{margin:30px 0 60px;padding:17px 20px;border:1px solid #4f3d74;border-radius:16px;background:#1a1734;display:flex;gap:14px}.notice strong{color:#e8d6ff}.footer{display:flex;justify-content:space-between;align-items:center;gap:15px;border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);font-size:12px}.footer a{color:var(--aqua)}@keyframes appear{from{opacity:.3;transform:scale(.96)}to{opacity:1;transform:scale(1)}}@media(max-width:900px){.building-list{grid-template-columns:repeat(3,1fr)}.evolution,.set-wrap{grid-template-columns:1fr}.imagebox{height:460px}.building img{height:150px}}@media(max-width:600px){.container{width:min(100% - 24px,1160px)}.navlinks{gap:12px;font-size:12px}.navlinks .hide-sm{display:none}.nav{padding:12px 0}.brand{font-size:19px}.brand img{height:36px;width:36px}.hero{min-height:340px;background-position:62% center}.hero-content{padding:25px 22px}.hero p{font-size:14px}.statbar{grid-template-columns:repeat(2,1fr);gap:9px;margin-bottom:25px}.stat{padding:13px}.stat strong{font-size:21px}.detailpanel{padding:22px}.imagebox{height:425px}.building-list{grid-template-columns:repeat(2,1fr)}.building img{height:145px}.stagepreviews{gap:6px}.preview{grid-template-columns:1fr;justify-items:center;text-align:center;padding:7px 4px}.preview img{width:50px;height:67px}.preview span{font-size:10px}.detail-actions{grid-template-columns:1fr}.footer{align-items:start;flex-direction:column}.notice{font-size:13px}}
+    @media (prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;scroll-behavior:auto!important}}
+  
+/* Complete silhouettes at every size; no cover-cropping or image animation. */
+.imagebox{display:block;height:540px;padding:46px 12px 12px}
+.imagebox img{object-fit:contain;object-position:center;animation:none;max-width:100%;max-height:100%}
+.preview{grid-template-columns:1fr;justify-items:center;text-align:center;align-content:start;min-width:0;padding:10px 6px}
+.preview img{width:100%;height:140px;object-fit:contain;object-position:center;background:#090915;border-radius:8px}
+.preview span{overflow-wrap:anywhere;font-size:12px}
+.building img{object-fit:contain;object-position:center;background:#090915}
+@media(max-width:600px){.imagebox{height:490px;padding:46px 8px 12px}.preview img{width:100%;height:110px}.preview span{font-size:11px}.preview{padding:8px 4px}.image-caption{font-size:10px;left:24px;top:24px}}
+</style>
+</head>
+<body>
+  <div class="topline"><span>●</span> CONCEPT LAB · MOCK BRICK ONLY · NO WALLET REQUIRED · NO REAL TRANSACTIONS</div>
+  <div class="container">
+    <nav class="nav"><a class="brand" href="#top"><img src="assets/logo.webp" alt="BuildinZ avatar"><span>BUILDIN<b>Z</b></span></a><div class="navlinks"><a href="#evolution">Evolution</a><a href="#neighborhood">Neighborhood</a><a class="hide-sm" href="https://x.com/buildinzHQ" target="_blank" rel="noopener noreferrer">@buildinzHQ ↗</a></div></nav>
+    <header class="hero" id="top"><div class="hero-content"><div class="eyebrow">Polygon collection · design prototype</div><h1>A city worth <span>evolving.</span></h1><p>Welcome to Neon Heights. Collect iconic buildings, complete a neighborhood, and watch your architecture permanently transform.</p><div class="hero-actions"><a class="btn btn-primary" href="#evolution">Try the evolution demo →</a><a class="btn btn-outline" href="#neighborhood">Explore the set</a></div></div></header>
+    <div class="statbar"><div class="stat"><strong>01 / 10</strong><span>NEIGHBORHOOD</span></div><div class="stat"><strong>05</strong><span>BUILDING IDENTITIES</span></div><div class="stat"><strong>03</strong><span>PERMANENT STAGES</span></div><div class="stat"><strong>$0</strong><span>REAL MONEY USED IN DEMO</span></div></div>
+    <div class="heading" id="evolution"><div><div class="eyebrow">Interactive prototype · build 001</div><h2 id="evolution-title">Neon Residences</h2></div><span class="chip" id="evolution-role">Residential · Neon Heights</span></div>
+    <div class="hero-actions" style="margin:0 0 20px" role="group" aria-label="Choose a building"><button class="btn btn-primary" data-evolution="neon" type="button">Neon Residences</button><button class="btn btn-outline" data-evolution="pulse" type="button">Pulse Plaza</button><button class="btn btn-outline" data-evolution="holo" type="button">HoloTech Tower</button></div>
+    <section class="evolution">
+      <div class="panel artpanel"><div class="imagebox"><img id="hero-art" src="assets/neon-residences-stage-1.webp" alt="Neon Residences Stage I approved concept artwork" /><div class="image-caption" id="art-stage">● CURRENT · STAGE I</div></div><div class="image-foot" id="art-foot">Built to shine. Designed to evolve.</div><div class="stagepreviews" id="previews"></div></div>
+      <div class="panel detailpanel"><div class="eyebrow">NFT #0001 · DEMO EDITION</div><h3 id="building-name">Neon Residences</h3><p id="building-desc">A premium mid-rise with a private rooftop pool retreat.</p><div class="progress" id="progress"></div><div class="feature"><label>Signature architectural feature</label><strong id="feature-name">Private rooftop pool retreat</strong><p id="feature-desc">The starting form: compact luxury, illuminated balconies, rooftop pool, understated planting.</p></div><div class="info"><div><div class="muted" style="font-size:11px;font-weight:800;letter-spacing:.08em">DEMO BALANCE</div><div class="balance mono"><span id="balance">200</span><small>mock BRICK</small></div></div><div style="text-align:right"><div class="muted" style="font-size:11px;font-weight:800;letter-spacing:.08em">NEXT EVOLUTION</div><div class="next-cost mono" id="cost">120 BRICK</div></div></div><div class="detail-actions"><button id="evolve" class="btn btn-primary" type="button">Evolve permanently →</button><button id="earn" class="btn btn-outline" type="button">Simulate 7 staking days</button></div><div class="error" id="message" aria-live="polite"></div><div class="tiny">Progress is saved in this browser if storage is permitted. Evolution is irreversible during the demo, except for an explicit demo reset. No blockchain is involved.</div></div>
+    </section>
+    <div class="heading" id="neighborhood"><div><div class="eyebrow">Test the five-building set</div><h2>Complete Neon Heights</h2></div><span class="chip">Mock collection tracker</span></div>
+    <section class="set-wrap"><div class="panel setpanel"><p class="muted" style="margin:0 0 15px">Toggle simulated ownership and staking below. A full five-building set unlocks a <strong style="color:white">+25% mock staking bonus</strong>.</p><div class="building-list" id="buildings"></div></div><aside class="panel setsummary"><div class="eyebrow">Neighborhood status</div><h3 id="set-count">1 / 5 buildings</h3><div class="meter"><div id="meter"></div></div><div class="bonus"><span id="bonus-label">Set bonus locked</span><strong id="bonus-value">+0%</strong></div><div class="explain">Demo reward rate: 10 mock BRICK per staked building per simulated day. Complete a neighborhood for +25%. These are interface-testing numbers, not a real BRICK economic model or promised rewards.</div><button class="btn btn-outline full" id="reset" type="button">↻ Reset this demo</button></aside></section>
+    <div class="notice"><div aria-hidden="true">ⓘ</div><div><strong>Prototype, not a cryptocurrency product.</strong><br>BRICK balances, NFTs, staking days, bonuses, and evolution costs are simulated. This page cannot mint NFTs, access wallets, buy tokens, or offer investment returns. Smart contracts, tokenomics, legal review, and security are future work.</div></div>
+    <footer class="footer"><div><strong style="color:white">BUILDINZ</strong> · Collect. Evolve. Build. · Prototype v0.1</div><a href="https://x.com/buildinzHQ" target="_blank" rel="noopener noreferrer">Follow @buildinzHQ ↗</a></footer>
+  </div>
+  <script>
+  // Original approved Neon Residences artwork, kept at its precise legacy crops.
+  // De-embed the 2.9 MB source image; reconstitute the three visual crops on device.
+  window.BUILDINZ_ASSETS = {};
+  window.BUILDINZ_NEON_ART_READY = new Promise(function(resolve) {
+    const image = new Image();
+    image.onload = function() {
+      try {
+        const frames = [[110,300,470,455],[645,155,450,600],[1070,0,430,755]];
+        frames.forEach(function(f,i) {
+          const c = document.createElement('canvas');
+          c.width = f[2]; c.height = f[3];
+          const ctx = c.getContext('2d');
+          if (!ctx) throw new Error('No canvas context');
+          ctx.drawImage(image,f[0],f[1],f[2],f[3],0,0,f[2],f[3]);
+          window.BUILDINZ_ASSETS['assets/neon-residences-stage-'+(i+1)+'.webp'] = c.toDataURL('image/webp',0.93);
+        });
+        resolve(true);
+      } catch(e) { resolve(false); }
+    };
+    image.onerror = function() { resolve(false); };
+    image.src = 'assets/neon-original.png';
+  });
+</script>
+  <script>
+    (function(){
+      'use strict';
+      const key='buildinz-neon-heights-demo-v01';
+      const neonStages=[
+        {name:'Neon Residences',desc:'A premium mid-rise with a private rooftop pool retreat.',feature:'Private rooftop pool retreat',featureDesc:'The starting form: compact luxury, illuminated balconies, rooftop pool, understated planting.',cost:120},
+        {name:'Skyline Habitat',desc:'An elite high-rise with a dramatic new private sky-lounge for residents.',feature:'Resident-only elevated sky-lounge',featureDesc:'Stage II exclusive: a suspended, enclosed glass sky-lounge and bigger rooftop leisure areas—not just more rooms.',cost:280},
+        {name:'Aurora Arcology',desc:'A skyline-defining residential arcology with a multi-zone private sky resort.',feature:'Multi-zone sky resort + illuminated crown',featureDesc:'Stage III exclusive: several rooftop pools, separate leisure platforms, private bar, sky cabanas, and a signature crown.',cost:null}
+      ];
+      const buildings=[
+        {id:'neon',name:'Neon Residences',role:'Residential',art:'assets/neon-residences-stage-1.webp'},
+        {id:'pulse',name:'Pulse Plaza',role:'Commercial',art:'assets/pulse.webp'},
+        {id:'holo',name:'HoloTech Tower',role:'Technology',art:'assets/holo.webp'},
+        {id:'midnight',name:'Midnight Lounge',role:'Entertainment',art:'assets/midnight.webp'},
+        {id:'crown',name:'Crown Spire',role:'Landmark',art:'assets/crown.webp'}
+      ];
+      const pulseStages=[
+        {name:'Pulse Plaza',desc:'A neon retail destination with flagship shops and rooftop dining.',feature:'Signature rooftop dining canopy',featureDesc:'Stage I: a compact shopping plaza with fashion screens and an angular illuminated canopy.',cost:120},
+        {name:'Pulse Galleria',desc:'Twin commercial towers connected by an elevated shopping promenade.',feature:'Glass shopping skybridge',featureDesc:'Stage II exclusive: an elevated retail skybridge connects twin towers above expanded shopping terraces.',cost:280},
+        {name:'Pulse Nexus',desc:'A landmark retail and entertainment destination above Neon Heights.',feature:'Suspended events deck + pulse crown',featureDesc:'Stage III exclusive: a grand suspended events deck, multiple shopping skybridges, and an illuminated pulse crown.',cost:null}
+      ];
+      const holoStages=[
+        {name:'HoloTech Tower',desc:'An iconic innovation headquarters with a holographic digital facade and communications spire.',feature:'Holographic research facade',featureDesc:'Stage I: illuminated headquarters, technology signage, elevated signal array and street-level research campus.',cost:120},
+        {name:'Quantum Spire',desc:'A much taller research tower with a glass innovation deck and elevated connected platforms.',feature:'Suspended research deck and data crown',featureDesc:'Stage II exclusive: a hovering glass research deck, expanded core tower and bright information architecture.',cost:280},
+        {name:'Omninet Nexus',desc:'Neon Heights monumental technology command center with a skyline-defining orbital nexus ring.',feature:'Orbital network ring and sky hubs',featureDesc:'Stage III exclusive: a colossal luminous network ring, interlinked observation platforms, and commanding pinnacle spire.',cost:null}
+      ];
+      let active='neon',stages=neonStages;
+      const artPath=(stage)=>active==='neon'?'assets/neon-residences-stage-'+stage+'.webp':active==='pulse'?'assets/pulse-stage-'+stage+'.png':'assets/holotech-stage-'+stage+'.webp';
+      const defaults=()=>({stage:1,balance:200,owned:['neon'],days:0,preview:0,pulseStage:1,holoStage:1});
+      let state=defaults();
+      try{const old=JSON.parse(localStorage.getItem(key));if(old && [1,2,3].includes(old.stage) && Number.isFinite(old.balance) && Array.isArray(old.owned)){state={...defaults(),...old};state.owned=old.owned.filter(id=>buildings.some(b=>b.id===id));state.preview=0;}}catch(_e){}
+      if(![1,2,3].includes(state.pulseStage))state.pulseStage=1;
+      if(![1,2,3].includes(state.holoStage))state.holoStage=1;
+      const $=id=>document.getElementById(id);
+      const roman=['I','II','III'];
+      const asset=path=>(window.BUILDINZ_ASSETS && window.BUILDINZ_ASSETS[path]) || path;
+      function save(){try{localStorage.setItem(key,JSON.stringify({...state,preview:0}));}catch(_e){}}
+      function n(v){return v.toLocaleString('en-US',{maximumFractionDigits:2});}
+      function getSet(){return buildings.every(b=>state.owned.includes(b.id));}
+      function message(msg,error=false){$('message').textContent=msg;$('message').style.color=error?'#ffb8c4':'#8ff5d3';}
+      function render(){
+        const currentStage=active==='neon'?state.stage:active==='pulse'?state.pulseStage:state.holoStage;
+        const stage=stages[currentStage-1],preview=Number(state.preview||currentStage);
+        $('evolution-title').textContent=active==='neon'?'Neon Residences':active==='pulse'?'Pulse Plaza':'HoloTech Tower';
+        $('evolution-role').textContent=(active==='neon'?'Residential':active==='pulse'?'Commercial':'Technology')+' · Neon Heights';
+        document.querySelectorAll('[data-evolution]').forEach(b=>{b.className='btn '+(b.dataset.evolution===active?'btn-primary':'btn-outline');b.setAttribute('aria-pressed',String(b.dataset.evolution===active));});
+        $('hero-art').src=asset(artPath(preview));
+        $('hero-art').alt=stages[preview-1].name+' approved concept art';
+        $('art-stage').textContent=(preview===currentStage?'● CURRENT':'◌ PREVIEW')+' · STAGE '+roman[preview-1];
+        $('art-foot').textContent=preview===currentStage?'Your current permanent building stage.':'Artwork preview only — actual stage unchanged.';
+        $('building-name').textContent=stage.name;
+        $('building-desc').textContent=stage.desc;
+        $('feature-name').textContent=stage.feature;
+        $('feature-desc').textContent=stage.featureDesc;
+        $('balance').textContent=n(state.balance);
+        $('cost').textContent=stage.cost===null?'EVOLUTION COMPLETE':n(stage.cost)+' BRICK';
+        $('evolve').disabled=currentStage===3||!state.owned.includes(active);
+        $('evolve').textContent=!state.owned.includes(active)?'Collect '+(active==='neon'?'Neon Residences':active==='pulse'?'Pulse Plaza':'HoloTech Tower')+' below to evolve':currentStage===3?'✓ Final form achieved':'Evolve to Stage '+roman[currentStage]+' →';
+        $('progress').innerHTML=stages.map((_x,i)=>'<div class="step '+(i<currentStage?'done ':'')+(i===currentStage-1?'current':'')+'"><span>STAGE '+roman[i]+'</span></div>').join('');
+        $('previews').innerHTML=stages.map((s,i)=>'<button type="button" class="preview '+(preview===i+1?'active':'')+'" data-preview="'+(i+1)+'" title="View Stage '+roman[i]+' artwork"><img src="'+asset(artPath(i+1))+'" alt=""><span><small>STAGE '+roman[i]+'</small>'+s.name+'<small class="lock">'+(i+1===currentStage?'● Current':i+1<currentStage?'✓ Unlocked':'◇ Future')+'</small></span></button>').join('');
+        document.querySelectorAll('[data-preview]').forEach(btn=>btn.addEventListener('click',()=>{state.preview=+btn.dataset.preview;render();}));
+        $('buildings').innerHTML=buildings.map(b=>{let owned=state.owned.includes(b.id);return '<div class="building '+(owned?'owned':'')+'"><img src="'+asset(b.id==='pulse'?'assets/pulse-stage-'+state.pulseStage+'.png':b.id==='holo'?'assets/holotech-stage-'+state.holoStage+'.webp':b.art)+'" alt="Concept art for '+b.name+'"><div class="building-content"><strong>'+b.name+'</strong><small>'+b.role+'</small><button type="button" data-building="'+b.id+'" class="toggle" aria-pressed="'+owned+'">'+(owned?'✓ Staked':'＋ Collect')+'</button></div></div>';}).join('');
+        document.querySelectorAll('[data-building]').forEach(btn=>btn.addEventListener('click',()=>{
+          const id=btn.dataset.building;const owned=state.owned.includes(id);
+          if(id==='neon' && owned){message('Neon Residences stays staked in this first prototype to keep evolution available.');return;}
+          state.owned=owned?state.owned.filter(x=>x!==id):[...state.owned,id];save();render();
+        }));
+        const count=state.owned.length,bonus=getSet();
+        $('set-count').textContent=count+' / 5 buildings';$('meter').style.width=(count/5*100)+'%';
+        $('bonus-label').textContent=bonus?'Complete neighborhood unlocked':'Set bonus locked';
+        $('bonus-value').textContent=bonus?'+25%':'+0%';$('bonus-value').style.color=bonus?'#7ce9b2':'#d6c8ff';
+      }
+      document.querySelectorAll('[data-evolution]').forEach(btn=>btn.addEventListener('click',()=>{active=btn.dataset.evolution;stages=active==='neon'?neonStages:active==='pulse'?pulseStages:holoStages;state.preview=0;message('');render();}));
+      $('evolve').addEventListener('click',()=>{
+        const field=active==='neon'?'stage':active==='pulse'?'pulseStage':'holoStage',level=state[field];
+        if(level>=3||!state.owned.includes(active))return;
+        const current=stages[level-1];
+        if(state.balance<current.cost){message('Not enough mock BRICK. Use “Simulate 7 staking days” to test earning more.',true);return;}
+        if(!confirm('Evolve '+current.name+' to '+stages[level].name+' for '+current.cost+' MOCK BRICK?\n\nThis permanently advances your demo NFT until the demo is explicitly reset.'))return;
+        state.balance=Math.round((state.balance-current.cost)*100)/100;state[field]+=1;state.preview=state[field];save();render();message('Evolution successful! Your building is now '+stages[state[field]-1].name+'.');
+      });
+      $('earn').addEventListener('click',()=>{
+        let count=state.owned.length,mult=getSet()?1.25:1,earned=7*10*count*mult;
+        state.balance=Math.round((state.balance+earned)*100)/100;state.days+=7;save();render();message('Simulated 7 staking days: +'+n(earned)+' mock BRICK ('+count+' staked building'+(count===1?'':'s')+(mult>1?', +25% set bonus':'')+').');
+      });
+      $('reset').addEventListener('click',()=>{if(!confirm('Reset all DEMO balances, simulated staked buildings, and evolution progress on this device?'))return;state=defaults();active='neon';stages=neonStages;save();render();message('Demo reset. No real assets were affected.');});
+      state.preview=state.stage;
+      if(window.BUILDINZ_NEON_ART_READY)window.BUILDINZ_NEON_ART_READY.then(()=>render());else render();
+    })();
+  </script>
+</body>
+</html>
