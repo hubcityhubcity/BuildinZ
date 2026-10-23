@@ -14,6 +14,12 @@ Choose Neon Residences or Pulse Plaza and preview their three evolution stages, 
 
 Progress is stored locally in your browser when storage is available; Reset clears the demo progress on that device.
 
+### Integrated HoloTech preview — original artwork
+
+[Open the **integrated Neon Heights preview**](preview-holotech.html) to view Neon Residences, Pulse Plaza, and HoloTech Tower in one shared mock BRICK/evolution interface. HoloTech uses the **approved original NFT concept art**, cropped into three clean image assets, not the temporary schematic illustrations from the older lab. This preview was added on October 23, 2026, without replacing the original homepage.
+
+The [homepage promotion PR #4](https://github.com/hubcityhubcity/BuildinZ/pull/4) remains **draft** until visual, Android and desktop regression testing is complete. Source logic checks passed; live browser testing has not been independently certified.
+
 ### HoloTech Tower — standalone evolution lab
 
 [Open the HoloTech Tower lab](holotech.html) to try a **separate** three-stage prototype: HoloTech Tower → Quantum Spire → Omninet Nexus. It has its own local, mock BRICK balance and progress; collecting or evolving here **does not sync** with Neon Heights' five-building set checker. The visuals are temporary, clearly labeled architectural schematics, not approved production art. This is a no-wallet, no-transaction experiment.
