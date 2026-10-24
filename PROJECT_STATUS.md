@@ -31,6 +31,15 @@
 - **Unresolved deployment dependency:** current connected GitHub file editing does not expose a direct binary upload from this conversation's working-container media. Stage WebP assets have not been committed to the PR branch. Do not mark Midnight as live or claim the live homepage has four independently evolving buildings.
 - **Next:** upload the exact approved `assets/midnight-stage-1.webp`, `-2.webp`, `-3.webp` to PR #7's branch, verify stage images and mobile/browser layout, change the art gate to true, rerun compatibility/BRICK tests, merge PR and update status. Preserve the existing 3/5 playable homepage while pending.
 
+## October 24: Midnight Lounge approved-art integration preview uploaded
+
+- **Actual approved files published:** `assets/midnight-stage-1.webp`, `assets/midnight-stage-2.webp`, `assets/midnight-stage-3.webp` (exact binary WebP art from owner-approved ZIP). All three were validated by source SHA-256 in the conversation, then created as GitHub blobs with correct file sizes and blob hashes. The static files now exist on `main` and the Midnight development branch; **no user-approved art was redrawn/replaced**.
+- **Separate integrated review page:** [preview-midnight.html](preview-midnight.html) committed on `main`, based on the Midnight development branch. It includes the fourth selectable building and shared mock BRICK evolution while leaving the original home page **unchanged** (original `index.html` remains blob `b53fb72aeb68ecf61c318da4b995b05d035546df`, size 27,625 bytes).
+- **Feature candidate:** [draft PR #7](https://github.com/hubcityhubcity/BuildinZ/pull/7) now enables Midnight's approved-art selector on the PR branch only and includes three exact WebP files. QA/merge still pending.
+- **Evidence:** JS parse and source-level simulated progression, existing saved stages, five-of-five identity logic and shared mock BRICK passed on the branch; the user approved the artwork aesthetics. **Do not claim full live mobile/browser or legacy-storage QA passed.** The external web checker could not load the new GitHub Pages preview URL, so published-site HTTP/runtime verification is not independently established.
+- **Crown Spire progress:** proposal [design/05-crown-spire-evolution.md](design/05-crown-spire-evolution.md) committed and [issue #8](https://github.com/hubcityhubcity/BuildinZ/issues/8) opened. Gated state/evolution scaffold for Crown is on separate [draft PR #9](https://github.com/hubcityhubcity/BuildinZ/pull/9), stacked on Midnight PR #7. The three true Crown NFT stage artworks are **not yet approved or published**; exploratory dashboard comps are not stage media.
+- **Release policy:** keep `main/index.html` at 3 of 5 playable buildings until the Midnight preview is confirmed and PR #7 merges. Then finish Crown artwork review and PR #9 in order. No paid services, wallets, actual tokens, staking products, or mainnet actions.
+
 ## Foundation to preserve
 
 - Polygon **planned** Genesis universe: 10 neighborhoods × 5 distinct identities × 20 editions = **1,000 NFTs**.
