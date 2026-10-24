@@ -10,24 +10,22 @@ BuildinZ is a collectible architectural NFT project planned for Polygon, with te
 
 GitHub Pages: https://hubcityhubcity.github.io/BuildinZ/
 
-Choose Neon Residences or Pulse Plaza and preview their three evolution stages, simulate collecting and staking the five-building neighborhood, simulate seven staking days, and spend mock BRICK to evolve. Each building evolves independently using the shared mock BRICK balance. Collect Pulse Plaza in the tracker to enable its evolution. Existing Neon Residences saves remain compatible.
+Choose **Neon Residences, Pulse Plaza or HoloTech Tower** in the main experience, preview three architectural stages for each, simulate collecting/staking a five-building neighborhood, simulate seven staking days, and spend mock BRICK to evolve. The three implemented buildings evolve **independently** with a **shared mock BRICK** balance. The existing local demo save key is preserved. Midnight Lounge and Crown Spire are collectible placeholders but do not yet have independently selectable three-stage evolution flows.
 
 Progress is stored locally in your browser when storage is available; Reset clears the demo progress on that device.
 
-### Integrated HoloTech preview — original artwork
+### HoloTech approved-art homepage integration — merged
 
-[Open the **integrated Neon Heights preview**](preview-holotech.html) to view Neon Residences, Pulse Plaza, and HoloTech Tower in one shared mock BRICK/evolution interface. HoloTech uses the **approved original NFT concept art**, cropped into three clean image assets, not the temporary schematic illustrations from the older lab. This preview was added on October 23, 2026, without replacing the original homepage.
+[PR #4](https://github.com/hubcityhubcity/BuildinZ/pull/4) merged on October 23, 2026 (US Central) following the owner's approval of the HoloTech artwork and hands-on confirmation that buttons worked in the integrated preview. The new `index.html` uses approved HoloTech concept art cropped into three clean images, not temporary schematics. The previous 5.17 MB HTML artwork payload was externalized to reusable images; core architecture, original Neon source image, and mock BRICK state logic were preserved. The owner tested the **preview**, and deeper cross-device/legacy-save tests remain tracked at [QA issue #2](https://github.com/hubcityhubcity/BuildinZ/issues/2).
 
-The [homepage promotion PR #4](https://github.com/hubcityhubcity/BuildinZ/pull/4) remains **draft** until visual, Android and desktop regression testing is complete. Source logic checks passed; live browser testing has not been independently certified.
-
-### HoloTech Tower — standalone evolution lab
-
-[Open the HoloTech Tower lab](holotech.html) to try a **separate** three-stage prototype: HoloTech Tower → Quantum Spire → Omninet Nexus. It has its own local, mock BRICK balance and progress; collecting or evolving here **does not sync** with Neon Heights' five-building set checker. The visuals are temporary, clearly labeled architectural schematics, not approved production art. This is a no-wallet, no-transaction experiment.
+The older [standalone HoloTech lab](holotech.html) remains available **only as an isolated schematic test sandbox**, not an NFT-art showcase. Its local balance and saved state do not sync with the main Neon Heights experience. Prefer the main homepage for HoloTech.
 
 ## Files and development
 
-- `index.html`: self-contained HTML, CSS, JavaScript, and embedded artwork. No dependencies or build process.
-- `assets/pulse-stage-1.png` through `pulse-stage-3.png`: full-resolution Pulse Plaza evolution artwork.
+- `index.html`: self-contained HTML, CSS and JavaScript with externalized artwork. No dependencies or build process.
+- `assets/`: Neon source imagery, Pulse Plaza full-resolution PNGs, cropped approved HoloTech WebP stages, and site imagery.
+- `preview-holotech.html`: retained integrated prototype preview for comparison and QA.
+- `holotech.html`: legacy standalone schematic sandbox; **not** the current art showcase.
 - `README.md`: project documentation.
 
 Open `index.html` in a modern browser, or serve the repository with any static HTTP server. The responsive layout supports desktop and mobile screens.
@@ -40,11 +38,11 @@ GitHub Pages publishes from the `main` branch and `/ (root)` folder. Repository 
 
 Migrated from the BuildinZ prototype previously placed in `hubcityhubcity/buildings`. The original standalone HTML was preserved byte-for-byte on initial upload (blob `b58aa62d037a36ebcaed311177e2f1f48947aa8c`). The unrelated repository's GPL-3.0 LICENSE has not been copied here. No replacement license is selected in this repository.
 
-## Current development priorities (October 21, 2026)
+## Current development priorities (October 23, 2026)
 
 See the [project status and execution roadmap](PROJECT_STATUS.md).
 
-- [Complete the remaining three independent Neon Heights building evolutions](https://github.com/hubcityhubcity/BuildinZ/issues/1)
+- [Complete Midnight Lounge and Crown Spire evolutions](https://github.com/hubcityhubcity/BuildinZ/issues/1)
 - [Verify mobile/desktop quality and demo state compatibility](https://github.com/hubcityhubcity/BuildinZ/issues/2)
 
 The live site is still a **prototype**; these issues describe pending work, not completed features. No paid service or blockchain deployment is part of either task.
