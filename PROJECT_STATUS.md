@@ -22,6 +22,15 @@
 - October 23: The integration preview was owner-approved, PR #4 moved from draft to review and **merged**. The separately tracked clean-full-silhouette-master concern remains in [issue #5](https://github.com/hubcityhubcity/BuildinZ/issues/5), but the owner accepted the visible HoloTech art.
 - Homepage deployment is GitHub Pages from `main`/root; an accepted GitHub merge confirms repository release, not an independently verified browser deployment to every device.
 
+## October 24 milestone: Midnight Lounge art approved, binary upload pending
+
+- Owner explicitly approved the cinematic three-stage Midnight Lounge → Nocturne Palace → Eclipse Citadel artwork. **Preserve the exact three image files, not schematic substitutes**.
+- Approved source package `BuildinZ_Midnight_Lounge_Artwork_APPROVED.zip` exists in the conversation artifacts (three WebP stage images and original master). Verified SHA-256 checksums are in [design/04-midnight-lounge-art-manifest.md](design/04-midnight-lounge-art-manifest.md).
+- Draft [PR #7](https://github.com/hubcityhubcity/BuildinZ/pull/7) has the independent `midnightStage` evolution logic, shared mock BRICK and backward-compatible saved-state handling. Source parsing and test-mode simulated interactions passed. The new selector is deliberately **hidden** until final media are installed and browser-tested.
+- Added a standard-library-only [approved-asset import and verification script](https://github.com/hubcityhubcity/BuildinZ/blob/feature/midnight-evolution-gated-2026-10-23/scripts/import_approved_midnight.py) to the PR branch. It checks exact stage bytes before installing into a local checkout; it does not publish assets or change the site.
+- **Unresolved deployment dependency:** current connected GitHub file editing does not expose a direct binary upload from this conversation's working-container media. Stage WebP assets have not been committed to the PR branch. Do not mark Midnight as live or claim the live homepage has four independently evolving buildings.
+- **Next:** upload the exact approved `assets/midnight-stage-1.webp`, `-2.webp`, `-3.webp` to PR #7's branch, verify stage images and mobile/browser layout, change the art gate to true, rerun compatibility/BRICK tests, merge PR and update status. Preserve the existing 3/5 playable homepage while pending.
+
 ## Foundation to preserve
 
 - Polygon **planned** Genesis universe: 10 neighborhoods × 5 distinct identities × 20 editions = **1,000 NFTs**.
