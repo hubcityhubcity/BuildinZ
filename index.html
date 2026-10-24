@@ -19,6 +19,8 @@
 .preview span{overflow-wrap:anywhere;font-size:12px}
 .building img{object-fit:contain;object-position:center;background:#090915}
 @media(max-width:600px){.imagebox{height:490px;padding:46px 8px 12px}.preview img{width:100%;height:110px}.preview span{font-size:11px}.preview{padding:8px 4px}.image-caption{font-size:10px;left:24px;top:24px}}
+/* Unapproved building evolution controls remain invisible, including in CSS flex layouts. */
+[hidden]{display:none!important}
 </style>
 </head>
 <body>
@@ -28,7 +30,7 @@
     <header class="hero" id="top"><div class="hero-content"><div class="eyebrow">Polygon collection · design prototype</div><h1>A city worth <span>evolving.</span></h1><p>Welcome to Neon Heights. Collect iconic buildings, complete a neighborhood, and watch your architecture permanently transform.</p><div class="hero-actions"><a class="btn btn-primary" href="#evolution">Try the evolution demo →</a><a class="btn btn-outline" href="#neighborhood">Explore the set</a></div></div></header>
     <div class="statbar"><div class="stat"><strong>01 / 10</strong><span>NEIGHBORHOOD</span></div><div class="stat"><strong>05</strong><span>BUILDING IDENTITIES</span></div><div class="stat"><strong>03</strong><span>PERMANENT STAGES</span></div><div class="stat"><strong>$0</strong><span>REAL MONEY USED IN DEMO</span></div></div>
     <div class="heading" id="evolution"><div><div class="eyebrow">Interactive prototype · build 001</div><h2 id="evolution-title">Neon Residences</h2></div><span class="chip" id="evolution-role">Residential · Neon Heights</span></div>
-    <div class="hero-actions" style="margin:0 0 20px" role="group" aria-label="Choose a building"><button class="btn btn-primary" data-evolution="neon" type="button">Neon Residences</button><button class="btn btn-outline" data-evolution="pulse" type="button">Pulse Plaza</button><button class="btn btn-outline" data-evolution="holo" type="button">HoloTech Tower</button></div>
+    <div class="hero-actions" style="margin:0 0 20px" role="group" aria-label="Choose a building"><button class="btn btn-primary" data-evolution="neon" type="button">Neon Residences</button><button class="btn btn-outline" data-evolution="pulse" type="button">Pulse Plaza</button><button class="btn btn-outline" data-evolution="holo" type="button">HoloTech Tower</button><button class="btn btn-outline" data-evolution="midnight" type="button" hidden>Midnight Lounge</button></div>
     <section class="evolution">
       <div class="panel artpanel"><div class="imagebox"><img id="hero-art" src="assets/neon-residences-stage-1.webp" alt="Neon Residences Stage I approved concept artwork" /><div class="image-caption" id="art-stage">● CURRENT · STAGE I</div></div><div class="image-foot" id="art-foot">Built to shine. Designed to evolve.</div><div class="stagepreviews" id="previews"></div></div>
       <div class="panel detailpanel"><div class="eyebrow">NFT #0001 · DEMO EDITION</div><h3 id="building-name">Neon Residences</h3><p id="building-desc">A premium mid-rise with a private rooftop pool retreat.</p><div class="progress" id="progress"></div><div class="feature"><label>Signature architectural feature</label><strong id="feature-name">Private rooftop pool retreat</strong><p id="feature-desc">The starting form: compact luxury, illuminated balconies, rooftop pool, understated planting.</p></div><div class="info"><div><div class="muted" style="font-size:11px;font-weight:800;letter-spacing:.08em">DEMO BALANCE</div><div class="balance mono"><span id="balance">200</span><small>mock BRICK</small></div></div><div style="text-align:right"><div class="muted" style="font-size:11px;font-weight:800;letter-spacing:.08em">NEXT EVOLUTION</div><div class="next-cost mono" id="cost">120 BRICK</div></div></div><div class="detail-actions"><button id="evolve" class="btn btn-primary" type="button">Evolve permanently →</button><button id="earn" class="btn btn-outline" type="button">Simulate 7 staking days</button></div><div class="error" id="message" aria-live="polite"></div><div class="tiny">Progress is saved in this browser if storage is permitted. Evolution is irreversible during the demo, except for an explicit demo reset. No blockchain is involved.</div></div>
@@ -88,13 +90,24 @@
         {name:'Quantum Spire',desc:'A much taller research tower with a glass innovation deck and elevated connected platforms.',feature:'Suspended research deck and data crown',featureDesc:'Stage II exclusive: a hovering glass research deck, expanded core tower and bright information architecture.',cost:280},
         {name:'Omninet Nexus',desc:'Neon Heights monumental technology command center with a skyline-defining orbital nexus ring.',feature:'Orbital network ring and sky hubs',featureDesc:'Stage III exclusive: a colossal luminous network ring, interlinked observation platforms, and commanding pinnacle spire.',cost:null}
       ];
+      // ART RELEASE GATE: change to true only after the three full-quality
+      // midnight-stage-*.webp files have been approved and visually tested.
+      // Keep public/default site at three playable buildings until then.
+      const MIDNIGHT_ART_APPROVED=false;
+      const midnightStages=[
+        {name:'Midnight Lounge',desc:'An intimate elite cyberpunk nightlife destination with a violet gateway and a smoked-glass rooftop cocktail room.',feature:'Illuminated violet gateway and rooftop cocktail room',featureDesc:'Stage I: a low-rise asymmetrical club with double-height entrance and restrained elevated terraces.',cost:120},
+        {name:'Nocturne Palace',desc:'A tall, tiered luxury nightlife palace with multiple venues and a spectacular raised entrance.',feature:'Suspended glass VIP performance deck',featureDesc:'Stage II exclusive: an elevated VIP stage bridging two dramatic club towers with connected viewing terraces.',cost:280},
+        {name:'Eclipse Citadel',desc:'A skyline-defining entertainment citadel whose spectacular integrated eclipse canopy shelters multiple aerial music venues.',feature:'Eclipse-shaped luminous architectural crown',featureDesc:'Stage III exclusive: a vast structurally supported halo-like performance canopy and multi-zone sky-venue terraces, distinct from HoloTech’s orbital technology ring.',cost:null}
+      ];
       let active='neon',stages=neonStages;
-      const artPath=(stage)=>active==='neon'?'assets/neon-residences-stage-'+stage+'.webp':active==='pulse'?'assets/pulse-stage-'+stage+'.png':'assets/holotech-stage-'+stage+'.webp';
-      const defaults=()=>({stage:1,balance:200,owned:['neon'],days:0,preview:0,pulseStage:1,holoStage:1});
+      const artPath=(stage)=>active==='neon'?'assets/neon-residences-stage-'+stage+'.webp':active==='pulse'?'assets/pulse-stage-'+stage+'.png':active==='holo'?'assets/holotech-stage-'+stage+'.webp':'assets/midnight-stage-'+stage+'.webp';
+      const defaults=()=>({stage:1,balance:200,owned:['neon'],days:0,preview:0,pulseStage:1,holoStage:1,midnightStage:1});
       let state=defaults();
       try{const old=JSON.parse(localStorage.getItem(key));if(old && [1,2,3].includes(old.stage) && Number.isFinite(old.balance) && Array.isArray(old.owned)){state={...defaults(),...old};state.owned=old.owned.filter(id=>buildings.some(b=>b.id===id));state.preview=0;}}catch(_e){}
       if(![1,2,3].includes(state.pulseStage))state.pulseStage=1;
       if(![1,2,3].includes(state.holoStage))state.holoStage=1;
+      if(![1,2,3].includes(state.midnightStage))state.midnightStage=1;
+      if(MIDNIGHT_ART_APPROVED)document.querySelector('[data-evolution="midnight"]').hidden=false;
       const $=id=>document.getElementById(id);
       const roman=['I','II','III'];
       const asset=path=>(window.BUILDINZ_ASSETS && window.BUILDINZ_ASSETS[path]) || path;
@@ -103,10 +116,10 @@
       function getSet(){return buildings.every(b=>state.owned.includes(b.id));}
       function message(msg,error=false){$('message').textContent=msg;$('message').style.color=error?'#ffb8c4':'#8ff5d3';}
       function render(){
-        const currentStage=active==='neon'?state.stage:active==='pulse'?state.pulseStage:state.holoStage;
+        const currentStage=active==='neon'?state.stage:active==='pulse'?state.pulseStage:active==='holo'?state.holoStage:state.midnightStage;
         const stage=stages[currentStage-1],preview=Number(state.preview||currentStage);
-        $('evolution-title').textContent=active==='neon'?'Neon Residences':active==='pulse'?'Pulse Plaza':'HoloTech Tower';
-        $('evolution-role').textContent=(active==='neon'?'Residential':active==='pulse'?'Commercial':'Technology')+' · Neon Heights';
+        $('evolution-title').textContent=active==='neon'?'Neon Residences':active==='pulse'?'Pulse Plaza':active==='holo'?'HoloTech Tower':'Midnight Lounge';
+        $('evolution-role').textContent=(active==='neon'?'Residential':active==='pulse'?'Commercial':active==='holo'?'Technology':'Entertainment')+' · Neon Heights';
         document.querySelectorAll('[data-evolution]').forEach(b=>{b.className='btn '+(b.dataset.evolution===active?'btn-primary':'btn-outline');b.setAttribute('aria-pressed',String(b.dataset.evolution===active));});
         $('hero-art').src=asset(artPath(preview));
         $('hero-art').alt=stages[preview-1].name+' approved concept art';
@@ -119,11 +132,11 @@
         $('balance').textContent=n(state.balance);
         $('cost').textContent=stage.cost===null?'EVOLUTION COMPLETE':n(stage.cost)+' BRICK';
         $('evolve').disabled=currentStage===3||!state.owned.includes(active);
-        $('evolve').textContent=!state.owned.includes(active)?'Collect '+(active==='neon'?'Neon Residences':active==='pulse'?'Pulse Plaza':'HoloTech Tower')+' below to evolve':currentStage===3?'✓ Final form achieved':'Evolve to Stage '+roman[currentStage]+' →';
+        $('evolve').textContent=!state.owned.includes(active)?'Collect '+(active==='neon'?'Neon Residences':active==='pulse'?'Pulse Plaza':active==='holo'?'HoloTech Tower':'Midnight Lounge')+' below to evolve':currentStage===3?'✓ Final form achieved':'Evolve to Stage '+roman[currentStage]+' →';
         $('progress').innerHTML=stages.map((_x,i)=>'<div class="step '+(i<currentStage?'done ':'')+(i===currentStage-1?'current':'')+'"><span>STAGE '+roman[i]+'</span></div>').join('');
         $('previews').innerHTML=stages.map((s,i)=>'<button type="button" class="preview '+(preview===i+1?'active':'')+'" data-preview="'+(i+1)+'" title="View Stage '+roman[i]+' artwork"><img src="'+asset(artPath(i+1))+'" alt=""><span><small>STAGE '+roman[i]+'</small>'+s.name+'<small class="lock">'+(i+1===currentStage?'● Current':i+1<currentStage?'✓ Unlocked':'◇ Future')+'</small></span></button>').join('');
         document.querySelectorAll('[data-preview]').forEach(btn=>btn.addEventListener('click',()=>{state.preview=+btn.dataset.preview;render();}));
-        $('buildings').innerHTML=buildings.map(b=>{let owned=state.owned.includes(b.id);return '<div class="building '+(owned?'owned':'')+'"><img src="'+asset(b.id==='pulse'?'assets/pulse-stage-'+state.pulseStage+'.png':b.id==='holo'?'assets/holotech-stage-'+state.holoStage+'.webp':b.art)+'" alt="Concept art for '+b.name+'"><div class="building-content"><strong>'+b.name+'</strong><small>'+b.role+'</small><button type="button" data-building="'+b.id+'" class="toggle" aria-pressed="'+owned+'">'+(owned?'✓ Staked':'＋ Collect')+'</button></div></div>';}).join('');
+        $('buildings').innerHTML=buildings.map(b=>{let owned=state.owned.includes(b.id);return '<div class="building '+(owned?'owned':'')+'"><img src="'+asset(b.id==='pulse'?'assets/pulse-stage-'+state.pulseStage+'.png':b.id==='holo'?'assets/holotech-stage-'+state.holoStage+'.webp':b.id==='midnight' && MIDNIGHT_ART_APPROVED?'assets/midnight-stage-'+state.midnightStage+'.webp':b.art)+'" alt="Concept art for '+b.name+'"><div class="building-content"><strong>'+b.name+'</strong><small>'+b.role+'</small><button type="button" data-building="'+b.id+'" class="toggle" aria-pressed="'+owned+'">'+(owned?'✓ Staked':'＋ Collect')+'</button></div></div>';}).join('');
         document.querySelectorAll('[data-building]').forEach(btn=>btn.addEventListener('click',()=>{
           const id=btn.dataset.building;const owned=state.owned.includes(id);
           if(id==='neon' && owned){message('Neon Residences stays staked in this first prototype to keep evolution available.');return;}
@@ -134,9 +147,9 @@
         $('bonus-label').textContent=bonus?'Complete neighborhood unlocked':'Set bonus locked';
         $('bonus-value').textContent=bonus?'+25%':'+0%';$('bonus-value').style.color=bonus?'#7ce9b2':'#d6c8ff';
       }
-      document.querySelectorAll('[data-evolution]').forEach(btn=>btn.addEventListener('click',()=>{active=btn.dataset.evolution;stages=active==='neon'?neonStages:active==='pulse'?pulseStages:holoStages;state.preview=0;message('');render();}));
+      document.querySelectorAll('[data-evolution]').forEach(btn=>btn.addEventListener('click',()=>{if(btn.dataset.evolution==='midnight' && !MIDNIGHT_ART_APPROVED)return;active=btn.dataset.evolution;stages=active==='neon'?neonStages:active==='pulse'?pulseStages:active==='holo'?holoStages:midnightStages;state.preview=0;message('');render();}));
       $('evolve').addEventListener('click',()=>{
-        const field=active==='neon'?'stage':active==='pulse'?'pulseStage':'holoStage',level=state[field];
+        const field=active==='neon'?'stage':active==='pulse'?'pulseStage':active==='holo'?'holoStage':'midnightStage',level=state[field];
         if(level>=3||!state.owned.includes(active))return;
         const current=stages[level-1];
         if(state.balance<current.cost){message('Not enough mock BRICK. Use “Simulate 7 staking days” to test earning more.',true);return;}
