@@ -1,6 +1,6 @@
 # BuildinZ / Neon Heights / Building 004 — Midnight Lounge
-**Status:** proposed art direction for owner review. Not approved production media, not released as an evolution selector.  
-**Next:** produce and review three clean, independent NFT-quality stage images; then integrate the existing shared mock-BRICK mechanics.  
+**Status:** all three Midnight Lounge architectural evolution concepts **visually approved by owner October 23, 2026 (US Central)**. The 3 corresponding stage WebP image files exist in the conversation artifact package, but have **not yet been uploaded to this GitHub repository**. The new playable building is **not yet released on the live homepage**; draft PR #7 remains artwork-gated.  
+**Next:** upload the three approved stage WebP images without modification, check their SHA-256 values, activate the currently hidden Midnight selector in PR #7, test on Android/desktop and then merge.  
 **Parent tracker:** [#6](https://github.com/hubcityhubcity/BuildinZ/issues/6).
 
 ## Collection-standard constraints
@@ -33,11 +33,11 @@
 **Must-not:** make an isolated floating ring indistinguishable from HoloTech's Omninet Nexus; the eclipse here is a wide dramatic architectural canopy rather than a communications halo.
 
 ## Production checklist
-- [ ] Three separate, full-quality stage assets, one per building form.
-- [ ] Verify I, II, III architecture distinctly recognizable *without* relying on names.
+- [x] Three separate, owner-approved stage image candidates packaged as WebP assets; **not yet uploaded to GitHub**.
+- [x] Three distinct stage architectures visually reviewed and accepted by owner; final device/image-load QA is outstanding.
 - [ ] Compare image dimensions/color/readability against Neon Residences, Pulse Plaza, and HoloTech.
-- [ ] User inspects and approves aesthetics; only then mark art as approved.
-- [ ] Build shared-selector independent `midnightStage` 1→2→3 on a review branch; leave existing `stage`, `pulseStage`, `holoStage`, balance and `owned` intact.
+- [x] Owner explicitly approved the three-stage Midnight Lounge artwork in conversation.
+- [x] Built independently saved `midnightStage` 1→2→3 on draft PR #7, hidden by unapproved-live-art gate; existing fields remain intact.
 - [ ] Use same `buildinz-neon-heights-demo-v01` localStorage key; old saves default to Midnight Stage I and do not lose progress.
 - [ ] Art previews never change saved stage; negative/insufficient balance and ownership guardrails stay intact; Five-of-five means one of *each* identity.
 - [ ] Test code, Android/desktop and old saves, then merge to GitHub Pages.
