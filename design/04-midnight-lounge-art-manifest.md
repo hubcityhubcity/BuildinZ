@@ -2,7 +2,7 @@
 
 **Artwork decision:** owner approved the exact 3-panel Midnight Lounge evolution artwork in the BuildinZ conversation on October 23, 2026 (US Central).
 
-**Do not confuse visual approval with website release.** The three approved clean stage images are bundled in the conversation-generated `BuildinZ_Midnight_Lounge_Stages_Proposal.zip` but are **not present yet in the GitHub repository**. Until imported and checked, the Stage IV/third-building? No: this is **building identity #4** in Neon Heights and the hidden selector must remain disabled.
+**Do not confuse visual approval with website release.** The three approved clean stage images are bundled in the conversation-generated `BuildinZ_Midnight_Lounge_Stages_Proposal.zip` but are **not present yet in the GitHub repository**. Until imported and checked, **Midnight Lounge remains building identity #4 in Neon Heights, with its evolution selector hidden**.
 
 ## Approved artwork mapping
 
