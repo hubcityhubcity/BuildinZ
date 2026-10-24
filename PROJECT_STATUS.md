@@ -1,38 +1,26 @@
 # BuildinZ — Project Status & Execution Roadmap
 
-**Snapshot:** October 23, 2026  
-**Scope:** Existing public GitHub Pages *prototype*, not a live NFT mint.
+**Snapshot:** October 23, 2026 (US Central)  
+**Scope:** Existing GitHub Pages architectural **prototype**, not a deployed Polygon NFT collection.
 
 ## Current verified repository state
 
-- Repo: https://github.com/hubcityhubcity/BuildinZ (public, `main`).
-- Prototype URL documented by repository: https://hubcityhubcity.github.io/BuildinZ/ (GitHub Pages, root).
-- Last Neon Heights **main-interface** feature commit at the original audit: `d9267b15bd0d2f2a968558d3a7b92e84e2d76806` (October 18, 2026), adding independent Pulse Plaza evolution.
-- New October 22 delivery: merged PR [#3](https://github.com/hubcityhubcity/BuildinZ/pull/3), introducing a standalone [HoloTech evolution lab](holotech.html) without modifying the large `index.html` main app.
-- Prototype contains selectable three-stage **Neon Residences** and **Pulse Plaza** demonstrations, with separate per-building evolution and shared *mock* BRICK. Existing local saved Neon Residences progress was addressed in the Oct 18 implementation.
-- Repository holds `index.html`, `holotech.html`, `README.md`, this status tracker, and three `assets/pulse-stage-*.png` files. The main HTML includes embedded artwork. The HoloTech page is a small self-contained standalone file.
-- Earlier commits address cropped/blurry previews, annotation fragments, excessive tree coverage and frame overflow. **This status does not certify device-level browser QA**, which remains outstanding.
-- No documented production Polygon mint, on-chain evolution, wallet integration, deployable NFT contract, or approved live BRICK economy.
+- Repository: https://github.com/hubcityhubcity/BuildinZ — public, default branch `main`.
+- Homepage (published from repository root): https://hubcityhubcity.github.io/BuildinZ/
+- On October 23, **[PR #4](https://github.com/hubcityhubcity/BuildinZ/pull/4) merged successfully**, promoting the original-art integrated HoloTech Tower into the primary `index.html` alongside Neon Residences and Pulse Plaza.
+- The owner inspected the *integrated preview* and confirmed: **“All the art looks great! All the buttons on the site are working as well.”** Record this as owner visual and functional-button acceptance of the preview; do not extrapolate that every desktop, landscape, browser, or legacy-save case was tested.
+- GitHub's `main` now holds the new small external-asset-based `index.html` replacing the earlier ~5.17 MB embedded-art file, with approved Neon, Pulse, and HoloTech artwork assets preserved.
+- The current interactive prototype offers **3 of 5 Neon Heights buildings** with independent three-stage evolution and the **shared demo-only BRICK pool**. Midnight Lounge and Crown Spire are still tracker identities, not finished separate evolution flows.
+- Previously confirmed source-level JavaScript parsing and 11 mock-DOM state tests covered independent evolution, shared mock BRICK, collection/set, save fields and reset; QA [issue #2](https://github.com/hubcityhubcity/BuildinZ/issues/2) remains open for broad cross-device and prior-save regression after the homepage update.
+- The previously produced `holotech.html` schematic sandbox and `preview-holotech.html` integrated preview are retained for reference, but visitors should use the main homepage. No production Polygon mint, contract, actual token, wallet integration or real staking program exists.
 
-## October 22 milestone: standalone HoloTech test lab
+## Historical implementation notes
 
-- **Delivered to main:** the standalone, responsive [HoloTech Tower demo](holotech.html), with three stages: HoloTech Tower → Quantum Spire → Omninet Nexus.
-- Working source implementation: demo collection, seven-day mock BRICK accrual, isolated mock balance, preview without upgrading, forward-only evolution, explicit reset, locally saved state.
-- **Isolation:** uses its own key `buildinz-holotech-sandbox-v01`; it does not edit the main Neon Heights demo state, contribute to its five-of-five checker, or share its mock BRICK balance.
-- **Art status:** three distinct, temporary SVG schematic visuals based on the approved HoloTech evolution concept. The approved triptych is unchanged; final cleaned standalone stage art is still needed.
-- **Testing:** source-level structural checks completed; live GitHub Pages response and Android/desktop browser QA **not independently confirmed**. Do not mark visual QA complete.
-- **Integration blocker:** the main `index.html` is ~5.17 MB because it embeds large artwork. A full-file update through the connected GitHub editor failed. Refactor/externalize the artwork and add the shared third building using a safe, validated approach, without rewriting saves or replacing approved art.
-
-## October 23 milestone: integrated approved-art preview (staged, not homepage release)
-
-- Separate public-path **preview committed on main**: [preview-holotech.html](preview-holotech.html). The existing `index.html` homepage is unchanged.
-- Draft [PR #4](https://github.com/hubcityhubcity/BuildinZ/pull/4) proposes promoting the same integrated experience to `index.html` after device/browser QA.
-- Refactored prototype `index.html` from ~5.17 MB to ~27.6 KB by extracting original embedded images into reusable standalone files. The Neon Residences original source PNG is preserved with its original three crop coordinates and recreated via client-side canvas after same-origin image load.
-- **HoloTech stage art:** all three .webp files are direct clean crops of the previously approved 3-panel artwork, preserving approved architecture and omitting title/info-card regions; no SVG schematic art in the integrated view.
-- HoloTech now has independent `holoStage` progression and uses the existing shared simulated BRICK. The local-save key and other building stage fields are preserved.
-- **Checks passed:** JavaScript parse, 11 state/interaction mock-DOM assertions (selection, stage paths, stage I→III, irreversible final state, shared BRICK, independent progress, five-of-five rule, reset), correct source image sizes and repository file presence.
-- **Still open:** live GitHub Pages HTTP verification through the external checker was inconclusive (the checker also could not open the existing homepage), visual inspection of original Neon source crops, real Android/desktop browser testing and saved-state migration regression checks. Do not claim live visual QA passed.
-- The standalone HoloTech schematic lab now directs visitors to the approved-art integrated preview. No paid services, wallet connection, blockchain operations, or real token transfers occurred.
+- October 18: Neon Residences and Pulse Plaza interactive evolutionary demo on the original homepage; artwork cropping and excessive landscaping corrected.
+- October 22: `holotech.html` standalone mechanism sandbox added with temporary schematics. Its separate `buildinz-holotech-sandbox-v01` storage did not sync to the shared collection.
+- October 23: Original approved HoloTech triptych cropped into three WebP stage assets. New shared HoloTech progression in `index.html` uses the original `buildinz-neon-heights-demo-v01` localStorage key and added `holoStage`, preserving original `stage` and `pulseStage`.
+- October 23: The integration preview was owner-approved, PR #4 moved from draft to review and **merged**. The separately tracked clean-full-silhouette-master concern remains in [issue #5](https://github.com/hubcityhubcity/BuildinZ/issues/5), but the owner accepted the visible HoloTech art.
+- Homepage deployment is GitHub Pages from `main`/root; an accepted GitHub merge confirms repository release, not an independently verified browser deployment to every device.
 
 ## Foundation to preserve
 
@@ -48,7 +36,7 @@
 |---|---|---|---|---|
 | Residential | Neon Residences | Skyline Habitat | Aurora Arcology | In prototype; browser QA pending |
 | Retail | Pulse Plaza | Spectrum Galleria | Infinity Bazaar | In prototype; browser QA pending |
-| Technology | HoloTech Tower | Quantum Spire | Omninet Nexus | Integrated three-stage draft and main-branch preview; homepage merge pending QA |
+| Technology | HoloTech Tower | Quantum Spire | Omninet Nexus | **Integrated in main homepage; owner preview approved; broader QA open** |
 | Entertainment | Midnight Lounge | Nocturne Palace | Eclipse Citadel | Next |
 | Landmark | Crown Spire | Sovereign Apex | Crown of Neon | Next |
 
@@ -57,16 +45,16 @@
 ### P0 — Finish the five-building interactive Neon Heights pilot
 https://github.com/hubcityhubcity/BuildinZ/issues/1
 
-1. Retrieve **previously approved** full-quality artwork for HoloTech Tower, Midnight Lounge and Crown Spire's three stages; do not generate substitutes that overwrite approved art.
-2. Integrate each as a selectable, individually upgradable building while retaining local-save compatibility and the currently working two buildings.
-3. Preserve the shared mock BRICK pool, strictly one-way evolution, stage previews without upgrading, and correct five-unique-building set checker.
+1. **Next artwork milestone:** locate or create and approve three-stage individual full-quality artwork for Midnight Lounge and Crown Spire. Do not silently substitute schematic art for user-approved designs.
+2. Integrate Midnight Lounge then Crown Spire into the now three-building homepage, with new independent evolution state while retaining original Neon, Pulse and Holo save fields.
+3. Preserve the shared mock BRICK pool, strictly one-way evolution, previews without upgrading, and correct five-unique-building set checker.
 4. Make all five flows usable on mobile and desktop, with fully framed images and tap-sized controls.
 5. Update release notes and README after verifying behavior.
 
 ### P0 — Mobile/desktop regression checks
 https://github.com/hubcityhubcity/BuildinZ/issues/2
 
-Test in Android portrait and landscape and a desktop browser. Pay special attention to overflow, loading, image cropping, text boxes, state preservation, changing selected buildings, stage irreversibility, mock BRICK math and reset behavior. Use the issue as the test record, not an unverified claim that all checks pass.
+Owner has approved the integrated preview's visible artwork and reported its buttons function correctly. **Still test** Android portrait/landscape and a desktop browser, including overflow, image framing, old local-save migration to the new `index.html`, selection, stage irreversibility, BRICK math and reset behavior. Keep the issue open until those cases are actually verified.
 
 ### P1 — Improve presentation and collector comprehension
 - A discoverable tour: **choose identity → preview stages → collect five unique identities → simulate staking → simulate upgrade**.
