@@ -10,7 +10,9 @@ BuildinZ is a collectible architectural NFT project planned for Polygon, with te
 
 GitHub Pages: https://hubcityhubcity.github.io/BuildinZ/
 
-Choose **Neon Residences, Pulse Plaza or HoloTech Tower** in the main experience, preview three architectural stages for each, simulate collecting/staking a five-building neighborhood, simulate seven staking days, and spend mock BRICK to evolve. The three implemented buildings evolve **independently** with a **shared mock BRICK** balance. The existing local demo save key is preserved. Midnight Lounge and Crown Spire are collectible placeholders but do not yet have independently selectable three-stage evolution flows.
+The main site visibly lists **all five Neon Heights identities**, with **Neon Residences, Pulse Plaza and HoloTech Tower** currently playable and **Midnight Lounge and Crown Spire** disabled as **Art in review**. In playable evolutions, the heading and image-stage caption change to the current or previewed canonical stage name; the building lineage is shown separately. Preview three architectural stages for each released building, simulate collecting/staking a five-building neighborhood, simulate seven staking days, and spend mock BRICK to evolve. The three implemented buildings evolve **independently** with a **shared mock BRICK** balance. The existing local demo save key is preserved. Midnight Lounge and Crown Spire are collectible placeholders but do not yet have independently selectable three-stage evolution flows.
+
+**Art quality caveat:** Stage-specific headings are now accurate, but some approved image files still have the original building name rendered *inside the art* across later stages (notably HoloTech and Neon Residences). On-building name signs are tracked for correction at [#11](https://github.com/hubcityhubcity/BuildinZ/issues/11); accurate UI labels do not imply these pixels are fixed. Cross-device image QA is still open at [#2](https://github.com/hubcityhubcity/BuildinZ/issues/2).
 
 Progress is stored locally in your browser when storage is available; Reset clears the demo progress on that device.
 
