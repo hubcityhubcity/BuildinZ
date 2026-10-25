@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#08091b">
+<title>BuildinZ | Midnight Signage Review</title>
+<style>
+:root{color-scheme:dark;font-family:Inter,"Segoe UI",system-ui,sans-serif}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(ellipse at 80% -10%,#30134e,transparent 40%),#08091b;color:#f6f3ff}
+header,main,footer{max-width:1100px;margin:auto;padding:24px 18px}
+.logo{font-size:25px;letter-spacing:-.05em;font-weight:1000;color:#d4c6ff}
+.logo span{color:#5ce9fa}
+a{color:#91efff}
+h1{font-size:clamp(26px,6vw,48px);line-height:1.05;margin:15px 0}
+p{color:#beb9d9;line-height:1.55}
+.notice{padding:15px 19px;border:1px solid #6c427e;background:#201932;border-radius:12px;color:#f4d7ff}
+.notice strong{color:#fff}
+.controls{display:flex;gap:13px;align-items:center;flex-wrap:wrap;margin:22px 0}
+.controls label{display:flex;align-items:center;gap:9px;border:1px solid #61487d;background:#19132d;padding:9px 13px;border-radius:12px;cursor:pointer}
+input{accent-color:#c55cff;width:19px;height:19px}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.card{border:1px solid #54436b;border-radius:16px;padding:12px;background:linear-gradient(150deg,#1c1731,#121128);min-width:0}
+.card h2{font-size:18px;margin:8px 0 4px;letter-spacing:-.025em}
+.card small{color:#b8aecd}
+.art{position:relative;width:100%;aspect-ratio:597/809;background:#070712;overflow:hidden;border-radius:10px;margin:13px 0}
+.art img{display:block;width:100%;height:100%;object-fit:contain}
+.stage-2.art{aspect-ratio:629/809}
+.stage-3.art{aspect-ratio:707/809}
+.sign{position:absolute;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;
+ background:linear-gradient(110deg,rgba(4,5,19,.92),rgba(27,10,49,.9));
+ border:1px solid #b96bff;border-radius:2px;
+ box-shadow:0 0 7px #a85cff, inset 0 0 7px #7043c0;
+ color:#f0d6ff;text-shadow:0 0 4px #fc6aff,0 0 8px #9f6cff;
+ font-family:"Arial Narrow","Roboto Condensed",Arial,sans-serif;font-weight:900;font-stretch:condensed;letter-spacing:-.035em;
+ line-height:1.04;pointer-events:none;transition:opacity .15s}
+.sign b{font-size:clamp(8px,1.15vw,15px)}
+.sign.one{left:49%;top:52%;width:32%;height:11%;transform:skewY(-2deg)}
+.sign.two{left:29%;top:60.6%;width:48%;height:8%;transform:skewY(-1.5deg)}
+.sign.three{left:43.5%;top:45.3%;width:21%;height:11%;transform:skewY(-1deg)}
+body.hide-signs .sign{opacity:0}
+.card p{font-size:12px;margin:6px 0 12px}
+.tag{display:inline-block;font-size:10px;letter-spacing:.12em;font-weight:800;color:#94edff;text-transform:uppercase}
+footer{border-top:1px solid #3a3152;font-size:12px;color:#9992ba}
+@media(max-width:760px){.grid{grid-template-columns:1fr;max-width:420px;margin:auto}.sign b{font-size:clamp(11px,3.7vw,18px)}.card h2{font-size:20px}}
+</style>
+</head>
+<body>
+<header><div class="logo">BUILDIN<span>Z</span> / Neon Heights</div><h1>Midnight Lounge<br>architectural sign review</h1>
+<p>Compare the exact owner-approved architecture with proposed mounted signs for the three permanent NFT stages. This page does not replace collectible artwork or alter saved progress.</p>
+<div class="notice"><strong>Visual review only:</strong> the signs below are layered over the original art in the browser to test location, style and readability. They are not yet embedded in the downloadable NFT images, and they are not approved final stage artworks. No wallets or crypto transactions.</div>
+</header>
+<main>
+<div class="controls"><label><input id="toggle" type="checkbox" checked> Show proposed building-mounted names</label><span class="tag" id="status">PROPOSED SIGNS VISIBLE</span></div>
+<section class="grid">
+<article class="card"><span class="tag">Stage I</span><h2>Midnight Lounge</h2><small>Intimate violet-glass nightlife venue</small><div class="art stage-1"><img src="assets/midnight-stage-1.webp" alt="Approved Midnight Lounge architecture without baked-in signage"><div class="sign one" aria-label="Proposed mounted sign: Midnight Lounge"><b>MIDNIGHT</b><b>LOUNGE</b></div></div><p>Proposed signage: street-facing glazed facade over the distinctive entrance portal.</p></article>
+<article class="card"><span class="tag">Stage II</span><h2>Nocturne Palace</h2><small>Suspended VIP sky performance venue</small><div class="art stage-2"><img src="assets/midnight-stage-2.webp" alt="Approved Nocturne Palace architecture without baked-in signage"><div class="sign two" aria-label="Proposed mounted sign: Nocturne Palace"><b>NOCTURNE</b><b>PALACE</b></div></div><p>Proposed signage: the podium's neon fascia immediately below the elevated VIP deck.</p></article>
+<article class="card"><span class="tag">Stage III</span><h2>Eclipse Citadel</h2><small>Monumental multi-level entertainment landmark</small><div class="art stage-3"><img src="assets/midnight-stage-3.webp" alt="Approved Eclipse Citadel architecture without baked-in signage"><div class="sign three" aria-label="Proposed mounted sign: Eclipse Citadel"><b>ECLIPSE</b><b>CITADEL</b></div></div><p>Proposed signage: central tower glass beneath the eclipse crown, without obstructing the halo.</p></article>
+</section>
+<p style="margin-top:24px"><a href="./">Return to the main Neon Heights demo</a> · <a href="https://github.com/hubcityhubcity/BuildinZ/blob/main/design/04-midnight-signage-correction.md">View placement specification</a></p>
+</main>
+<footer>BuildinZ architectural artwork review · static preview only · not minted NFT media · no expenditure.</footer>
+<script>
+const toggle=document.getElementById("toggle"),status=document.getElementById("status");
+toggle.addEventListener("change",()=>{document.body.classList.toggle("hide-signs",!toggle.checked);status.textContent=toggle.checked?"PROPOSED SIGNS VISIBLE":"ORIGINAL ART VISIBLE"});
+</script>
+</body>
+</html>
