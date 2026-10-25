@@ -61,6 +61,20 @@ See the [project status and execution roadmap](PROJECT_STATUS.md).
 
 The live site is still a **prototype**; these issues describe pending work, not completed features. No paid service or blockchain deployment is part of either task.
 
+## October 24 engineering milestone and remaining art gates
+
+The consolidated five-building **gated** state engine was merged through [PR #12](https://github.com/hubcityhubcity/BuildinZ/pull/12). It prepares independent `midnightStage` and `crownStage` progress fields while retaining `stage`, `pulseStage`, `holoStage`, shared mock BRICK, existing browser save key and five-unique-building set logic. Both new selectors remain **hidden in main source** (`MIDNIGHT_ART_APPROVED=false`, `CROWN_ART_APPROVED=false`) pending final branded stage art, signoff and cross-device QA.
+
+**Current public playable buildings: 3 / 5.** Engineering prep for all five is not the same as five finished NFT artwork sets.
+
+- [Midnight mounted-sign visual comparison](review-midnight-signage.html) shows original approved architecture with proposed stage-specific name overlays that can be toggled off. This is only a review visualization; the source WebPs remain unmodified and do not yet have the signs baked into actual stage artwork.
+- The three precise **Midnight candidate image assets** and their originals are packaged as `BuildinZ_Midnight_Brand_Review_v1.zip` in the conversation; not yet accepted or installed in public asset paths.
+- Crown's two historical triptychs were [audited as references](design/05-crown-source-art-audit.md), not declared ready-for-mint.
+- [The current visual identity standard](design/BUILDINZ_BRAND_STANDARD_V1.md) requires all fifteen stage names to be mounted legibly on actual structures and preserves full silhouettes.
+- Open review gates: [all-15-stage signage #11](https://github.com/hubcityhubcity/BuildinZ/issues/11), [Midnight #6](https://github.com/hubcityhubcity/BuildinZ/issues/6), [Crown #8](https://github.com/hubcityhubcity/BuildinZ/issues/8), [mobile/browser #2](https://github.com/hubcityhubcity/BuildinZ/issues/2), [Holo spire #5](https://github.com/hubcityhubcity/BuildinZ/issues/5).
+
+Source-level five-building state checks passed and are recorded in [tests/NEON_HEIGHTS_FIVE_BUILDING_QA.md](tests/NEON_HEIGHTS_FIVE_BUILDING_QA.md). Live mobile/desktop visual verification and blockchain implementation were not completed. No purchased services, live tokens, wallets, or spending.
+
 ## Future work
 
 Production ownership, staking, tokenomics, smart contracts, security review, and blockchain integration are outside this prototype.
