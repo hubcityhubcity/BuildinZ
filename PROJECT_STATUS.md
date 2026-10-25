@@ -40,6 +40,15 @@
 - **Crown Spire progress:** proposal [design/05-crown-spire-evolution.md](design/05-crown-spire-evolution.md) committed and [issue #8](https://github.com/hubcityhubcity/BuildinZ/issues/8) opened. Gated state/evolution scaffold for Crown is on separate [draft PR #9](https://github.com/hubcityhubcity/BuildinZ/pull/9), stacked on Midnight PR #7. The three true Crown NFT stage artworks are **not yet approved or published**; exploratory dashboard comps are not stage media.
 - **Release policy:** keep `main/index.html` at 3 of 5 playable buildings until the Midnight preview is confirmed and PR #7 merges. Then finish Crown artwork review and PR #9 in order. No paid services, wallets, actual tokens, staking products, or mainnet actions.
 
+## October 24 — canonical visual identity quality gate
+
+- **Merged [PR #10](https://github.com/hubcityhubcity/BuildinZ/pull/10):** [BuildinZ Visual Identity & NFT Art Release Standard v1](design/BUILDINZ_BRAND_STANDARD_V1.md), including fifteen official Neon Heights stage names, consistent geometric techno-luxury building-mounted signs, full silhouettes, restricted landscaping, source protection and owner signoff gates.
+- **Corrected the Pulse interface stage names:** **Pulse Plaza → Spectrum Galleria → Infinity Bazaar** in the main homepage and both historical integrated previews. The previously displayed `Pulse Galleria`/`Pulse Nexus` names contradicted the approved visual source. Tested JavaScript parsing, strict metadata-only file differences, restoration of Pulse II and upgrade to III from an old save; mock BRICK/stage IDs/assets unchanged.
+- **Midnight architecture remains approved; its signage does not:** three source WebPs lack actual stage-name signs. Follow [precise Stage I/II/III correction brief](design/04-midnight-signage-correction.md) and [all-15-stage QA issue #11](https://github.com/hubcityhubcity/BuildinZ/issues/11). The public `preview-midnight.html` is now explicitly labeled as a historical architectural preview, not final NFT artwork.
+- Draft [PR #7](https://github.com/hubcityhubcity/BuildinZ/pull/7) for Midnight evolution remains **unmerged**, with `MIDNIGHT_ART_APPROVED=false` reset to prevent the signless images from being promoted accidentally; its Pulse metadata was aligned with canon.
+- **Remaining visuals to review:** Neon Residences full stage names, HoloTech Stage II/III evolved-name signage and Stage III clipped top spire, canonical Pulse building-mounted signs, all three Midnight replacements, and Crown's three full branded stage designs.
+- The live homepage **still has 3 of 5 independently evolving playable buildings**. Only stage-name metadata was promoted; no Midnight/Crown functionality, new branded media, NFT mint, wallet, or real BRICK token launched. Broad cross-device browser QA is still open.
+
 ## Foundation to preserve
 
 - Polygon **planned** Genesis universe: 10 neighborhoods × 5 distinct identities × 20 editions = **1,000 NFTs**.
