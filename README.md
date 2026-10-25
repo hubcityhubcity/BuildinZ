@@ -20,6 +20,20 @@ Progress is stored locally in your browser when storage is available; Reset clea
 
 The older [standalone HoloTech lab](holotech.html) remains available **only as an isolated schematic test sandbox**, not an NFT-art showcase. Its local balance and saved state do not sync with the main Neon Heights experience. Prefer the main homepage for HoloTech.
 
+## Stage names and visual identity
+
+[BuildinZ Visual Identity & NFT Art Release Standard v1.0](design/BUILDINZ_BRAND_STANDARD_V1.md) is the canonical reference for stage names, architectural signage, image framing and visual release quality. Each eventual NFT stage must display its **own complete canonical name on the actual building** in a shared premium futuristic signage family. A large Z emblem or text on an external legend is not a substitute.
+
+| Identity | Stage I | Stage II | Stage III |
+|---|---|---|---|
+| Residential | Neon Residences | Skyline Habitat | Aurora Arcology |
+| Retail | Pulse Plaza | Spectrum Galleria | Infinity Bazaar |
+| Technology | HoloTech Tower | Quantum Spire | Omninet Nexus |
+| Entertainment | Midnight Lounge | Nocturne Palace | Eclipse Citadel |
+| Landmark | Crown Spire | Sovereign Apex | Crown of Neon |
+
+The Pulse Stage II/III interface labels were reconciled to the previously approved **Spectrum Galleria** and **Infinity Bazaar** names. This is a **text-only** correction: all stage images, simulated BRICK economics, local stage progress, and collectable identity IDs are unchanged. Other missing on-building stage signs and HoloTech top-of-spire crop remain tracked visual QA work; earlier approved architecture is not silently overwritten.
+
 ## Files and development
 
 - `index.html`: self-contained HTML, CSS and JavaScript with externalized artwork. No dependencies or build process.
