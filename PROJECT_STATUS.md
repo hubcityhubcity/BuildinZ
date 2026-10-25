@@ -1,5 +1,21 @@
 # BuildinZ — Project Status & Execution Roadmap
 
+
+## Current release snapshot — October 24, 2026 (US Central)
+
+- **Main GitHub repository:** [five-building stage engine merged in PR #12](https://github.com/hubcityhubcity/BuildinZ/pull/12), with all fifteen canonical stage names and shared simulated BRICK/test state; source-level tests passed.
+- **Public playable app:** **3 / 5** — Neon Residences, Pulse Plaza and HoloTech. **Midnight Lounge and Crown Spire remain explicitly gated OFF** (`MIDNIGHT_ART_APPROVED=false`, `CROWN_ART_APPROVED=false`). Engineering readiness is separate from NFT artwork readiness.
+- **Art review:** three before/after Midnight Lounge signage candidates preserved in conversation artifact `BuildinZ_Midnight_Brand_Review_v1.zip`; exact hashes in [Midnight signage candidate manifest](design/04-midnight-branded-review-manifest.md). Review-only [on-site sign placement toggle](review-midnight-signage.html) does not replace NFT image files.
+- **Crown:** two historic source triptychs compared, but not clean standalone NFT art; details in [Crown source audit](design/05-crown-source-art-audit.md). Three Crown final production images remain pending.
+- **Other art quality gates:** Pulse canon display-name mismatch fixed in [PR #10](https://github.com/hubcityhubcity/BuildinZ/pull/10). Holo Stage III tip clipping, evolved name signs, other 15-stage mounted signage remain tracked at [issue #11](https://github.com/hubcityhubcity/BuildinZ/issues/11), with broader device QA at [issue #2](https://github.com/hubcityhubcity/BuildinZ/issues/2).
+- **Repository cleanup:** earlier draft [PR #7](https://github.com/hubcityhubcity/BuildinZ/pull/7) and [PR #9](https://github.com/hubcityhubcity/BuildinZ/pull/9) closed *unmerged* as superseded by unified gated PR #12, preventing obsolete branches from reverting canon or re-enabling unapproved stages.
+- **External live-page verification:** the GitHub source and merge were verified, but automatic external GitHub Pages fetch/browser visual QA could not be independently confirmed. Do not mark Android/desktop visual tests passed.
+- **Spending & chain:** $0 spent. No real NFT mint, token, payout, wallet, security audit or smart contract deployment.
+
+**Next release sequence:** accept polished Midnight building-name signs → publish verified final image assets and pass Android/desktop QA → enable 4th selector; prepare full Crown Stage I/II/III art to same standard → verify & enable 5th selector → conduct full 15-artwork visual audit before any Polygon testnet deployment.
+
+---
+
 **Snapshot:** October 23, 2026 (US Central)  
 **Scope:** Existing GitHub Pages architectural **prototype**, not a deployed Polygon NFT collection.
 
