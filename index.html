@@ -19,7 +19,10 @@
 .preview span{overflow-wrap:anywhere;font-size:12px}
 .building img{object-fit:contain;object-position:center;background:#090915}
 @media(max-width:600px){.imagebox{height:490px;padding:46px 8px 12px}.preview img{width:100%;height:110px}.preview span{font-size:11px}.preview{padding:8px 4px}.image-caption{font-size:10px;left:24px;top:24px}}
-/* Unapproved building evolution controls remain invisible, including in CSS flex layouts. */
+/* Unreleased identities remain visible but non-interactive; never imply approved art. */
+[data-evolution]:disabled{opacity:.64;cursor:not-allowed;filter:saturate(.65);border-style:dashed}
+.art-review-footnote{font-size:11px;line-height:1.5;color:#c3b9df;margin:0 16px 16px;max-width:50ch}
+@media(max-width:600px){.art-review-footnote{margin:0 12px 14px}.image-caption{max-width:calc(100% - 48px);white-space:normal;line-height:1.4}}
 [hidden]{display:none!important}
 </style>
 </head>
@@ -29,10 +32,10 @@
     <nav class="nav"><a class="brand" href="#top"><img src="assets/logo.webp" alt="BuildinZ avatar"><span>BUILDIN<b>Z</b></span></a><div class="navlinks"><a href="#evolution">Evolution</a><a href="#neighborhood">Neighborhood</a><a class="hide-sm" href="https://x.com/buildinzHQ" target="_blank" rel="noopener noreferrer">@buildinzHQ ↗</a></div></nav>
     <header class="hero" id="top"><div class="hero-content"><div class="eyebrow">Polygon collection · design prototype</div><h1>A city worth <span>evolving.</span></h1><p>Welcome to Neon Heights. Collect iconic buildings, complete a neighborhood, and watch your architecture permanently transform.</p><div class="hero-actions"><a class="btn btn-primary" href="#evolution">Try the evolution demo →</a><a class="btn btn-outline" href="#neighborhood">Explore the set</a></div></div></header>
     <div class="statbar"><div class="stat"><strong>01 / 10</strong><span>NEIGHBORHOOD</span></div><div class="stat"><strong>05</strong><span>BUILDING IDENTITIES</span></div><div class="stat"><strong>03</strong><span>PERMANENT STAGES</span></div><div class="stat"><strong>$0</strong><span>REAL MONEY USED IN DEMO</span></div></div>
-    <div class="heading" id="evolution"><div><div class="eyebrow">Interactive prototype · build 001</div><h2 id="evolution-title">Neon Residences</h2></div><span class="chip" id="evolution-role">Residential · Neon Heights</span></div>
-    <div class="hero-actions" style="margin:0 0 20px" role="group" aria-label="Choose a building"><button class="btn btn-primary" data-evolution="neon" type="button">Neon Residences</button><button class="btn btn-outline" data-evolution="pulse" type="button">Pulse Plaza</button><button class="btn btn-outline" data-evolution="holo" type="button">HoloTech Tower</button><button class="btn btn-outline" data-evolution="midnight" type="button" hidden>Midnight Lounge</button><button class="btn btn-outline" data-evolution="crown" type="button" hidden>Crown Spire</button></div>
+    <div class="heading" id="evolution"><div><div class="eyebrow" id="evolution-lineage">Interactive prototype · Neon Residences lineage</div><h2 id="evolution-title" aria-live="polite">Neon Residences</h2></div><span class="chip" id="evolution-role">Residential · Neon Heights</span></div>
+    <div class="hero-actions" style="margin:0 0 20px" role="group" aria-label="Choose a building"><button class="btn btn-primary" data-evolution="neon" type="button">Neon Residences</button><button class="btn btn-outline" data-evolution="pulse" type="button">Pulse Plaza</button><button class="btn btn-outline" data-evolution="holo" type="button">HoloTech Tower</button><button class="btn btn-outline" data-evolution="midnight" type="button" disabled title="Three-stage artwork signage under review">Midnight Lounge · Art in review</button><button class="btn btn-outline" data-evolution="crown" type="button" disabled title="Three-stage artwork not yet approved">Crown Spire · Art in review</button></div>
     <section class="evolution">
-      <div class="panel artpanel"><div class="imagebox"><img id="hero-art" src="assets/neon-residences-stage-1.webp" alt="Neon Residences Stage I approved concept artwork" /><div class="image-caption" id="art-stage">● CURRENT · STAGE I</div></div><div class="image-foot" id="art-foot">Built to shine. Designed to evolve.</div><div class="stagepreviews" id="previews"></div></div>
+      <div class="panel artpanel"><div class="imagebox"><img id="hero-art" src="assets/neon-residences-stage-1.webp" alt="Neon Residences Stage I approved concept artwork" /><div class="image-caption" id="art-stage" aria-live="polite">● CURRENT · STAGE I · NEON RESIDENCES</div></div><div class="image-foot" id="art-foot">Built to shine. Designed to evolve.</div><p class="art-review-footnote" id="art-brand-note">NFT artwork sign audits are in progress; website stage labels reflect the official evolution names.</p><div class="stagepreviews" id="previews"></div></div>
       <div class="panel detailpanel"><div class="eyebrow">NFT #0001 · DEMO EDITION</div><h3 id="building-name">Neon Residences</h3><p id="building-desc">A premium mid-rise with a private rooftop pool retreat.</p><div class="progress" id="progress"></div><div class="feature"><label>Signature architectural feature</label><strong id="feature-name">Private rooftop pool retreat</strong><p id="feature-desc">The starting form: compact luxury, illuminated balconies, rooftop pool, understated planting.</p></div><div class="info"><div><div class="muted" style="font-size:11px;font-weight:800;letter-spacing:.08em">DEMO BALANCE</div><div class="balance mono"><span id="balance">200</span><small>mock BRICK</small></div></div><div style="text-align:right"><div class="muted" style="font-size:11px;font-weight:800;letter-spacing:.08em">NEXT EVOLUTION</div><div class="next-cost mono" id="cost">120 BRICK</div></div></div><div class="detail-actions"><button id="evolve" class="btn btn-primary" type="button">Evolve permanently →</button><button id="earn" class="btn btn-outline" type="button">Simulate 7 staking days</button></div><div class="error" id="message" aria-live="polite"></div><div class="tiny">Progress is saved in this browser if storage is permitted. Evolution is irreversible during the demo, except for an explicit demo reset. No blockchain is involved.</div></div>
     </section>
     <div class="heading" id="neighborhood"><div><div class="eyebrow">Test the five-building set</div><h2>Complete Neon Heights</h2></div><span class="chip">Mock collection tracker</span></div>
@@ -116,8 +119,8 @@
       if(![1,2,3].includes(state.holoStage))state.holoStage=1;
       if(![1,2,3].includes(state.midnightStage))state.midnightStage=1;
       if(![1,2,3].includes(state.crownStage))state.crownStage=1;
-      if(CROWN_ART_APPROVED)document.querySelector('[data-evolution="crown"]').hidden=false;
-      if(MIDNIGHT_ART_APPROVED)document.querySelector('[data-evolution="midnight"]').hidden=false;
+      document.querySelector('[data-evolution="crown"]').disabled=!CROWN_ART_APPROVED;
+      document.querySelector('[data-evolution="midnight"]').disabled=!MIDNIGHT_ART_APPROVED;
       const $=id=>document.getElementById(id);
       const roman=['I','II','III'];
       const asset=path=>(window.BUILDINZ_ASSETS && window.BUILDINZ_ASSETS[path]) || path;
@@ -128,13 +131,15 @@
       function render(){
         const currentStage=active==='neon'?state.stage:active==='pulse'?state.pulseStage:active==='holo'?state.holoStage:active==='midnight'?state.midnightStage:state.crownStage;
         const stage=stages[currentStage-1],preview=Number(state.preview||currentStage);
-        $('evolution-title').textContent=active==='neon'?'Neon Residences':active==='pulse'?'Pulse Plaza':active==='holo'?'HoloTech Tower':active==='midnight'?'Midnight Lounge':'Crown Spire';
+        $('evolution-title').textContent=stages[preview-1].name;
+        $('evolution-lineage').textContent='Interactive prototype · '+buildings.find(b=>b.id===active).name+' lineage';
         $('evolution-role').textContent=(active==='neon'?'Residential':active==='pulse'?'Commercial':active==='holo'?'Technology':active==='midnight'?'Entertainment':'Landmark')+' · Neon Heights';
         document.querySelectorAll('[data-evolution]').forEach(b=>{b.className='btn '+(b.dataset.evolution===active?'btn-primary':'btn-outline');b.setAttribute('aria-pressed',String(b.dataset.evolution===active));});
         $('hero-art').src=asset(artPath(preview));
         $('hero-art').alt=stages[preview-1].name+' approved concept art';
-        $('art-stage').textContent=(preview===currentStage?'● CURRENT':'◌ PREVIEW')+' · STAGE '+roman[preview-1];
-        $('art-foot').textContent=preview===currentStage?'Your current permanent building stage.':'Artwork preview only — actual stage unchanged.';
+        $('art-stage').textContent=(preview===currentStage?'● CURRENT':'◌ PREVIEW')+' · STAGE '+roman[preview-1]+' · '+stages[preview-1].name.toUpperCase();
+        $('art-foot').textContent=preview===currentStage?'Your current simulated evolution stage.':'Stage preview only — your saved evolution has not changed.';
+        $('art-brand-note').textContent=active==='holo'?'Building artwork still shows HOLOTECH on later stages; evolving facade signage is undergoing review. The stage name above is accurate.':active==='neon'?'Original NEON facade signage persists in the art; full stage-name signage is being reviewed. The stage name above is accurate.':active==='pulse'?'Pulse stage names are synchronized with the approved evolution canon.':'Stage-specific building signage is still undergoing review.';
         $('building-name').textContent=stage.name;
         $('building-desc').textContent=stage.desc;
         $('feature-name').textContent=stage.feature;
