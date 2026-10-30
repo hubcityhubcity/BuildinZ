@@ -1,3 +1,11 @@
+# Latest update — Stage III mounting corrected
+
+Stage III v2: assets/candidates/midnight-stage-3-signage-v2.png, 2386886 bytes, verified Git blob 200207f56cbf0beb1d50204512c43b3e26923768. Surgical edit removed the projecting pointed housing, restored tower ribs and retained correctly spelled two-line ECLIPSE CITADEL. Visually inspected returned image: no projecting box, full canopy retained. This supersedes v1 for further review; v1 and approved original remain preserved. Final mobile-size and architecture-drift checks are still pending.
+
+Immediate next action: harmonize Stage II letter weight, then inspect all three together at 300–400px display widths and complete integration regression. Do not repeat the Stage III mounting correction already completed. No routine approval required.
+
+---
+
 # Midnight candidate checkpoint
 
 October 30, 2026. All three signage candidates are now preserved in assets/candidates/:
