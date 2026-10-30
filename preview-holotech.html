@@ -73,7 +73,7 @@
       ];
       const buildings=[
         {id:'neon',name:'Neon Residences',role:'Residential',art:'assets/neon-residences-stage-1.webp'},
-        {id:'pulse',name:'Pulse Plaza',role:'Commercial',art:'assets/pulse.webp'},
+        {id:'pulse',name:'Pulse Plaza',role:'Retail',art:'assets/pulse.webp'},
         {id:'holo',name:'HoloTech Tower',role:'Technology',art:'assets/holo.webp'},
         {id:'midnight',name:'Midnight Lounge',role:'Entertainment',art:'assets/midnight.webp'},
         {id:'crown',name:'Crown Spire',role:'Landmark',art:'assets/crown.webp'}
@@ -106,7 +106,7 @@
         const currentStage=active==='neon'?state.stage:active==='pulse'?state.pulseStage:state.holoStage;
         const stage=stages[currentStage-1],preview=Number(state.preview||currentStage);
         $('evolution-title').textContent=active==='neon'?'Neon Residences':active==='pulse'?'Pulse Plaza':'HoloTech Tower';
-        $('evolution-role').textContent=(active==='neon'?'Residential':active==='pulse'?'Commercial':'Technology')+' · Neon Heights';
+        $('evolution-role').textContent=(active==='neon'?'Residential':active==='pulse'?'Retail':'Technology')+' · Neon Heights';
         document.querySelectorAll('[data-evolution]').forEach(b=>{b.className='btn '+(b.dataset.evolution===active?'btn-primary':'btn-outline');b.setAttribute('aria-pressed',String(b.dataset.evolution===active));});
         $('hero-art').src=asset(artPath(preview));
         $('hero-art').alt=stages[preview-1].name+' approved concept art';
