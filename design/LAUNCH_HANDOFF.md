@@ -34,10 +34,14 @@ Legacy thumbnails holo.webp, midnight.webp and pulse.webp are not proof of finis
 - [ ] Verify permanent asset storage, final contract security review and full release package.
 - [ ] Resolve owner-controlled wallet signatures, funding and mainnet launch actions separately.
 
+## Current production checkpoint — 2026-10-31 UTC
+
+Midnight v2 signage derivatives integrated into the main prototype after browser loading/responsive checks and state regression tests. Originals retained and hash-verified. See MIDNIGHT_CANDIDATE_HANDOFF.md for selection provenance, image blob hashes, test evidence and limitations. Four identities are now selectable; Crown remains gated.
+
 ## Next production batch
 
-Read design/BUILDINZ_BRAND_STANDARD_V1.md, design/04-midnight-signage-correction.md and both Midnight manifests. Materialize the approved ZIP/master and current individual images, compare their bytes with recorded SHA-256 values, then inspect the three Midnight stages. Produce versioned corrected signage derivatives using image editing, verify exact stage lettering and preserved architecture, and checkpoint assets before changing any art gate. If source retrieval fails, advance the collection registry/specification without marking artwork done.
+Read design/05-crown-source-art-audit.md and inspect actual Crown references. Complete its missing three-stage art path. Continue Neon/HoloTech exact-name and framing corrections, then remaining neighborhood design registry, edition/metadata production and contracts in dependency order. Do not regenerate the finished Midnight signage set.
 
-## Evidence limits
+## Remaining evidence limits
 
-Repository tree contains no complete token registry or production contract. Existing status records 3/5 public playable identities and unfinished cross-device checks; those historical checks were not rerun here. No new visual audit, artwork correction, deployment, mint or wallet action occurred in this batch. Search snippets were used only to locate candidate files, not to certify their contents.
+No complete token registry or production contract has been verified. Approved Library ZIP/master still require direct byte inspection; original repository hashes alone do not certify ZIP equivalence. Midnight responsive browser and unit state checks do not certify other identities, physical devices, accessibility, transfer contracts or launch readiness. No wallet, mint or mainnet action occurred.
