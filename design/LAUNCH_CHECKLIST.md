@@ -1,0 +1,64 @@
+# BuildinZ Genesis launch checklist
+
+Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item means the stated evidence exists; it does not imply downstream launch readiness.
+
+## 0. Governance and canon
+
+- [x] Fixed owner scope recorded: 1,000 tokens = 10 neighborhoods × 5 identities × 20 editions.
+- [x] Three permanent stages retained; identity and base rarity persist through evolution and resale.
+- [x] Game excluded from Genesis; points-first utility and BRICK placeholder disclosed without liquidity or income promises.
+- [x] Naming/style rules recorded in `COLLECTION_CONSISTENCY_STANDARD.md`.
+- [x] Decision authority separated in `DECISION_LOG.md`.
+- [x] Current handoff maintained in `LAUNCH_HANDOFF.md`.
+
+## 1. Source and artwork audit
+
+- [x] Designated Midnight ZIP/master byte-audited against repository originals.
+- [x] Existing Neon Heights prototype lineages corrected and integrated with versioned derivatives.
+- [ ] Consolidate one collection-wide asset manifest with every source, derivative, hash, dimensions, approval/provenance state and release state.
+- [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs.
+- [ ] Produce and validate edition-level visual differentiation without counting placeholders.
+
+## 2. Registry, editions and metadata
+
+- [x] Canonical 10-neighborhood/50-identity/150-stage registry committed.
+- [x] Deterministic token IDs 1–1000 committed.
+- [x] Per-identity rarity allocation committed: 8/5/4/2/1 across Common/Uncommon/Rare/Epic/Legendary.
+- [x] Automated arithmetic, uniqueness and mapping validator committed and passing.
+- [ ] Assign verified three-stage image checksums and permanent URIs to every token.
+- [ ] Generate standards-compatible stage metadata for all tokens.
+- [ ] Validate metadata schema, URI resolution, image decoding and stage/name agreement.
+- [ ] Freeze final metadata and retain a reproducible release manifest.
+
+## 3. Collector website
+
+- [x] Neon Heights prototype distinguishes saved stage and building type.
+- [x] Existing prototype regression checks cover stage switching and legacy saves.
+- [ ] Add all neighborhoods, rarity filters and full gallery data from canonical registry.
+- [ ] Finish accessible evolution explanation, roadmap, FAQ and delivered/future disclosures.
+- [ ] Connect production wallet/network handling only after verified contract configuration.
+- [ ] Complete desktop, narrow-mobile, keyboard, contrast, image-failure and navigation QA.
+
+## 4. Polygon contracts and integration
+
+- [ ] Implement capped 1,000-supply mint contract.
+- [ ] Implement owner-authorized permanent Stage I→II→III evolution on the same token.
+- [ ] Verify evolution state persists across transfers.
+- [ ] Test permissions, supply limits, configurable price, withdraw path and failure cases locally.
+- [ ] Test metadata stage switching and mint-to-gallery integration on a public test network.
+- [ ] Obtain independent security review; do not describe local tests as an audit.
+- [ ] Record final source commit, compiler settings, deployment addresses and verification links.
+
+## 5. Release audit and owner-controlled actions
+
+- [ ] Run separate final audit against every committed file and checklist gate.
+- [ ] Assemble reproducible release bundle and launch runbook.
+- [ ] Verify permanent storage availability and final contract/site configuration.
+- [ ] Owner selects mint price, allocation, receiving wallet and launch timing.
+- [ ] Owner funds and signs deployment/mint-opening transactions.
+- [ ] Open public mint and send public announcements only after explicit authorization.
+
+## Current exact next action
+
+Create the collection-wide asset manifest and neighborhood production briefs from `COLLECTION_REGISTRY.json`, then begin Golden Crest artwork in bounded, versioned batches. Do not add placeholder image URIs to the token registry.

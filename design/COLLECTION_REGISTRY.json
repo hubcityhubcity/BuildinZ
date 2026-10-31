@@ -1,0 +1,1241 @@
+{
+  "schema_version": "1.0.0",
+  "status": "canonical-production-plan",
+  "recorded_date": "2026-10-31",
+  "authority": {
+    "fixed_owner_scope": [
+      "1,000 Genesis tokens",
+      "10 neighborhoods",
+      "5 identities per neighborhood",
+      "20 editions per identity",
+      "3 permanent evolution stages",
+      "identity and base rarity persist through evolution and resale"
+    ],
+    "existing_owner_canon": [
+      "Neon Heights neighborhood",
+      "five Neon Heights identity types and stage names",
+      "Neon Heights visual language and Neon Residences feature rules"
+    ],
+    "delegated_decisions": [
+      "nine remaining neighborhood themes adopted from Foundation Blueprint working directions",
+      "all non-Neon stage names",
+      "collection-wide rarity allocation and deterministic token ordering"
+    ],
+    "warning": "Delegated production decisions are canonical for implementation but are not represented as earlier owner approvals."
+  },
+  "collection": {
+    "name": "BuildinZ Genesis",
+    "chain": "Polygon",
+    "supply": 1000,
+    "neighborhood_count": 10,
+    "identities_per_neighborhood": 5,
+    "editions_per_identity": 20,
+    "stages_per_identity": 3,
+    "identity_count": 50,
+    "identity_stage_design_count": 150,
+    "initial_stage": 1,
+    "evolution_state": "stored per token and retained on transfer",
+    "rarity_persistence": "base rarity never changes on evolution or transfer",
+    "utility_disclosure": "Points-first utility; BRICK is a placeholder with no initial liquidity. No game or income guarantee is part of Genesis."
+  },
+  "edition_plan": {
+    "edition_number_range": [
+      1,
+      20
+    ],
+    "assignment": "Edition number deterministically assigns base rarity within every identity.",
+    "tiers": [
+      {
+        "name": "Common",
+        "start": 1,
+        "end": 8,
+        "count": 8
+      },
+      {
+        "name": "Uncommon",
+        "start": 9,
+        "end": 13,
+        "count": 5
+      },
+      {
+        "name": "Rare",
+        "start": 14,
+        "end": 17,
+        "count": 4
+      },
+      {
+        "name": "Epic",
+        "start": 18,
+        "end": 19,
+        "count": 2
+      },
+      {
+        "name": "Legendary",
+        "start": 20,
+        "end": 20,
+        "count": 1
+      }
+    ],
+    "global_totals": {
+      "Common": 400,
+      "Uncommon": 250,
+      "Rare": 200,
+      "Epic": 100,
+      "Legendary": 50
+    },
+    "token_id_formula": "token_id = neighborhood_id * 100 + (identity_ordinal - 1) * 20 + edition",
+    "uniqueness_note": "Token ID and edition number create unique collection records; artwork uniqueness and image integrity remain separate production gates."
+  },
+  "neighborhoods": [
+    {
+      "id": 0,
+      "key": "neon-heights",
+      "name": "Neon Heights",
+      "provenance": "owner-approved-existing-canon",
+      "palette": "purple, electric blue, pink, cyan, chrome, black glass",
+      "style": "Neon techno-luxury; preserve approved architecture and exact mounted names.",
+      "identities": [
+        {
+          "ordinal": 1,
+          "identity_id": "N01-I01",
+          "key": "neon-heights-residential",
+          "type": "Residential",
+          "provenance": "owner-approved-existing-canon",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Neon Residences"
+            },
+            {
+              "stage": 2,
+              "name": "Skyline Habitat"
+            },
+            {
+              "stage": 3,
+              "name": "Aurora Arcology"
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "identity_id": "N01-I02",
+          "key": "neon-heights-retail",
+          "type": "Retail",
+          "provenance": "owner-approved-existing-canon",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Pulse Plaza"
+            },
+            {
+              "stage": 2,
+              "name": "Spectrum Galleria"
+            },
+            {
+              "stage": 3,
+              "name": "Infinity Bazaar"
+            }
+          ]
+        },
+        {
+          "ordinal": 3,
+          "identity_id": "N01-I03",
+          "key": "neon-heights-technology",
+          "type": "Technology",
+          "provenance": "owner-approved-existing-canon",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "HoloTech Tower"
+            },
+            {
+              "stage": 2,
+              "name": "Quantum Spire"
+            },
+            {
+              "stage": 3,
+              "name": "Omninet Nexus"
+            }
+          ]
+        },
+        {
+          "ordinal": 4,
+          "identity_id": "N01-I04",
+          "key": "neon-heights-entertainment",
+          "type": "Entertainment",
+          "provenance": "owner-approved-existing-canon",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Midnight Lounge"
+            },
+            {
+              "stage": 2,
+              "name": "Nocturne Palace"
+            },
+            {
+              "stage": 3,
+              "name": "Eclipse Citadel"
+            }
+          ]
+        },
+        {
+          "ordinal": 5,
+          "identity_id": "N01-I05",
+          "key": "neon-heights-landmark",
+          "type": "Landmark",
+          "provenance": "owner-approved-existing-canon",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Crown Spire"
+            },
+            {
+              "stage": 2,
+              "name": "Sovereign Apex"
+            },
+            {
+              "stage": 3,
+              "name": "Crown of Neon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "key": "golden-crest",
+      "name": "Golden Crest",
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "palette": "champagne gold, ivory, amber glass, royal blue, black marble",
+      "style": "Sunlit ceremonial luxury with stepped crowns and restrained gilding.",
+      "identities": [
+        {
+          "ordinal": 1,
+          "identity_id": "N02-I01",
+          "key": "golden-crest-residential",
+          "type": "Residential",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Aureate Residences"
+            },
+            {
+              "stage": 2,
+              "name": "Gilded Terraces"
+            },
+            {
+              "stage": 3,
+              "name": "Imperial Sunhold"
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "identity_id": "N02-I02",
+          "key": "golden-crest-retail",
+          "type": "Retail",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Meridian Market"
+            },
+            {
+              "stage": 2,
+              "name": "Crown Arcade"
+            },
+            {
+              "stage": 3,
+              "name": "Grand Aureum Exchange"
+            }
+          ]
+        },
+        {
+          "ordinal": 3,
+          "identity_id": "N02-I03",
+          "key": "golden-crest-technology",
+          "type": "Technology",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Solara Labs"
+            },
+            {
+              "stage": 2,
+              "name": "Helios Foundry"
+            },
+            {
+              "stage": 3,
+              "name": "Daystar Citadel"
+            }
+          ]
+        },
+        {
+          "ordinal": 4,
+          "identity_id": "N02-I04",
+          "key": "golden-crest-entertainment",
+          "type": "Entertainment",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Velvet Hall"
+            },
+            {
+              "stage": 2,
+              "name": "Radiant Opera"
+            },
+            {
+              "stage": 3,
+              "name": "Solaris Grand Theatre"
+            }
+          ]
+        },
+        {
+          "ordinal": 5,
+          "identity_id": "N02-I05",
+          "key": "golden-crest-landmark",
+          "type": "Landmark",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Golden Obelisk"
+            },
+            {
+              "stage": 2,
+              "name": "Sunspire Monument"
+            },
+            {
+              "stage": 3,
+              "name": "Crown of Dawn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "key": "shadow-market",
+      "name": "Shadow Market",
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "palette": "obsidian, smoked violet, acid green, copper, black glass",
+      "style": "Noir mercantile district with hidden passages, layered signs and sharp silhouettes.",
+      "identities": [
+        {
+          "ordinal": 1,
+          "identity_id": "N03-I01",
+          "key": "shadow-market-residential",
+          "type": "Residential",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Gloomstep Flats"
+            },
+            {
+              "stage": 2,
+              "name": "Veilside Habitat"
+            },
+            {
+              "stage": 3,
+              "name": "Noctis Enclave"
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "identity_id": "N03-I02",
+          "key": "shadow-market-retail",
+          "type": "Retail",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Lantern Row"
+            },
+            {
+              "stage": 2,
+              "name": "Blackglass Bazaar"
+            },
+            {
+              "stage": 3,
+              "name": "Eclipse Exchange"
+            }
+          ]
+        },
+        {
+          "ordinal": 3,
+          "identity_id": "N03-I03",
+          "key": "shadow-market-technology",
+          "type": "Technology",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Cipher Works"
+            },
+            {
+              "stage": 2,
+              "name": "Umbra Array"
+            },
+            {
+              "stage": 3,
+              "name": "Nightcode Nexus"
+            }
+          ]
+        },
+        {
+          "ordinal": 4,
+          "identity_id": "N03-I04",
+          "key": "shadow-market-entertainment",
+          "type": "Entertainment",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Backroom Stage"
+            },
+            {
+              "stage": 2,
+              "name": "Phantom Pavilion"
+            },
+            {
+              "stage": 3,
+              "name": "Midnight Masquerade"
+            }
+          ]
+        },
+        {
+          "ordinal": 5,
+          "identity_id": "N03-I05",
+          "key": "shadow-market-landmark",
+          "type": "Landmark",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Veil Beacon"
+            },
+            {
+              "stage": 2,
+              "name": "Obsidian Spire"
+            },
+            {
+              "stage": 3,
+              "name": "Shadow Sovereign"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "key": "skygarden-district",
+      "name": "Skygarden District",
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "palette": "emerald, mint, sky blue, pearl, warm wood",
+      "style": "Vertical garden architecture with controlled greenery and airy terraces.",
+      "identities": [
+        {
+          "ordinal": 1,
+          "identity_id": "N04-I01",
+          "key": "skygarden-district-residential",
+          "type": "Residential",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Canopy Residences"
+            },
+            {
+              "stage": 2,
+              "name": "Cloudterrace Habitat"
+            },
+            {
+              "stage": 3,
+              "name": "Eden Skyhold"
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "identity_id": "N04-I02",
+          "key": "skygarden-district-retail",
+          "type": "Retail",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Bloom Market"
+            },
+            {
+              "stage": 2,
+              "name": "Verdant Galleria"
+            },
+            {
+              "stage": 3,
+              "name": "Hanging Garden Exchange"
+            }
+          ]
+        },
+        {
+          "ordinal": 3,
+          "identity_id": "N04-I03",
+          "key": "skygarden-district-technology",
+          "type": "Technology",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Seedlight Labs"
+            },
+            {
+              "stage": 2,
+              "name": "Aeroponic Spire"
+            },
+            {
+              "stage": 3,
+              "name": "Gaia Cloudworks"
+            }
+          ]
+        },
+        {
+          "ordinal": 4,
+          "identity_id": "N04-I04",
+          "key": "skygarden-district-entertainment",
+          "type": "Entertainment",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Terrace Hall"
+            },
+            {
+              "stage": 2,
+              "name": "Petal Pavilion"
+            },
+            {
+              "stage": 3,
+              "name": "Celestial Conservatory"
+            }
+          ]
+        },
+        {
+          "ordinal": 5,
+          "identity_id": "N04-I05",
+          "key": "skygarden-district-landmark",
+          "type": "Landmark",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Garden Beacon"
+            },
+            {
+              "stage": 2,
+              "name": "Worldtree Apex"
+            },
+            {
+              "stage": 3,
+              "name": "Crown of Eden"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "key": "velocity-row",
+      "name": "Velocity Row",
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "palette": "racing red, cobalt, white, gunmetal, amber",
+      "style": "Kinetic aerodynamic forms, track lighting and cantilevered motion lines.",
+      "identities": [
+        {
+          "ordinal": 1,
+          "identity_id": "N05-I01",
+          "key": "velocity-row-residential",
+          "type": "Residential",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Draftline Lofts"
+            },
+            {
+              "stage": 2,
+              "name": "Slipstream Habitat"
+            },
+            {
+              "stage": 3,
+              "name": "Mach Horizon"
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "identity_id": "N05-I02",
+          "key": "velocity-row-retail",
+          "type": "Retail",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Pitlane Plaza"
+            },
+            {
+              "stage": 2,
+              "name": "Turbo Galleria"
+            },
+            {
+              "stage": 3,
+              "name": "Velocity Exchange"
+            }
+          ]
+        },
+        {
+          "ordinal": 3,
+          "identity_id": "N05-I03",
+          "key": "velocity-row-technology",
+          "type": "Technology",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Vector Works"
+            },
+            {
+              "stage": 2,
+              "name": "Quantum Garage"
+            },
+            {
+              "stage": 3,
+              "name": "Hyperdrive Nexus"
+            }
+          ]
+        },
+        {
+          "ordinal": 4,
+          "identity_id": "N05-I04",
+          "key": "velocity-row-entertainment",
+          "type": "Entertainment",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Rush Arena"
+            },
+            {
+              "stage": 2,
+              "name": "Overtake Pavilion"
+            },
+            {
+              "stage": 3,
+              "name": "Redline Coliseum"
+            }
+          ]
+        },
+        {
+          "ordinal": 5,
+          "identity_id": "N05-I05",
+          "key": "velocity-row-landmark",
+          "type": "Landmark",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Pole Beacon"
+            },
+            {
+              "stage": 2,
+              "name": "Apex Tower"
+            },
+            {
+              "stage": 3,
+              "name": "Crown of Speed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "key": "royal-mirage",
+      "name": "Royal Mirage",
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "palette": "sapphire, turquoise, rose gold, sand, mirrored black",
+      "style": "Desert-future luxury with shaded courtyards, reflective towers and jewel accents.",
+      "identities": [
+        {
+          "ordinal": 1,
+          "identity_id": "N06-I01",
+          "key": "royal-mirage-residential",
+          "type": "Residential",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Oasis Residences"
+            },
+            {
+              "stage": 2,
+              "name": "Mirage Habitat"
+            },
+            {
+              "stage": 3,
+              "name": "Sultan's Skyhold"
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "identity_id": "N06-I02",
+          "key": "royal-mirage-retail",
+          "type": "Retail",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Souk Plaza"
+            },
+            {
+              "stage": 2,
+              "name": "Jewel Galleria"
+            },
+            {
+              "stage": 3,
+              "name": "Infinite Caravanserai"
+            }
+          ]
+        },
+        {
+          "ordinal": 3,
+          "identity_id": "N06-I03",
+          "key": "royal-mirage-technology",
+          "type": "Technology",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Prism Works"
+            },
+            {
+              "stage": 2,
+              "name": "Djinn Array"
+            },
+            {
+              "stage": 3,
+              "name": "Oracle Nexus"
+            }
+          ]
+        },
+        {
+          "ordinal": 4,
+          "identity_id": "N06-I04",
+          "key": "royal-mirage-entertainment",
+          "type": "Entertainment",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Mooncourt Lounge"
+            },
+            {
+              "stage": 2,
+              "name": "Mirage Palace"
+            },
+            {
+              "stage": 3,
+              "name": "Celestial Riad"
+            }
+          ]
+        },
+        {
+          "ordinal": 5,
+          "identity_id": "N06-I05",
+          "key": "royal-mirage-landmark",
+          "type": "Landmark",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Royal Minaret"
+            },
+            {
+              "stage": 2,
+              "name": "Sovereign Needle"
+            },
+            {
+              "stage": 3,
+              "name": "Crown of Sand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "key": "old-world-steel",
+      "name": "Old World Steel",
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "palette": "iron, weathered copper, furnace orange, coal, industrial blue",
+      "style": "Retrofuturist heavy industry with rivets, trusses and monumental machinery.",
+      "identities": [
+        {
+          "ordinal": 1,
+          "identity_id": "N07-I01",
+          "key": "old-world-steel-residential",
+          "type": "Residential",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Foundry Flats"
+            },
+            {
+              "stage": 2,
+              "name": "Riveted Habitat"
+            },
+            {
+              "stage": 3,
+              "name": "Ironclad Arcology"
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "identity_id": "N07-I02",
+          "key": "old-world-steel-retail",
+          "type": "Retail",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Forge Market"
+            },
+            {
+              "stage": 2,
+              "name": "Steelworks Arcade"
+            },
+            {
+              "stage": 3,
+              "name": "Grand Industrial Exchange"
+            }
+          ]
+        },
+        {
+          "ordinal": 3,
+          "identity_id": "N07-I03",
+          "key": "old-world-steel-technology",
+          "type": "Technology",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Gearhouse Labs"
+            },
+            {
+              "stage": 2,
+              "name": "Titan Mill"
+            },
+            {
+              "stage": 3,
+              "name": "Machina Nexus"
+            }
+          ]
+        },
+        {
+          "ordinal": 4,
+          "identity_id": "N07-I04",
+          "key": "old-world-steel-entertainment",
+          "type": "Entertainment",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Boiler Hall"
+            },
+            {
+              "stage": 2,
+              "name": "Foundry Palace"
+            },
+            {
+              "stage": 3,
+              "name": "Imperial Engineworks"
+            }
+          ]
+        },
+        {
+          "ordinal": 5,
+          "identity_id": "N07-I05",
+          "key": "old-world-steel-landmark",
+          "type": "Landmark",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Rivet Monument"
+            },
+            {
+              "stage": 2,
+              "name": "Iron Crown Spire"
+            },
+            {
+              "stage": 3,
+              "name": "Colossus of Steel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "key": "moonline-harbor",
+      "name": "Moonline Harbor",
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "palette": "navy, moon silver, aqua, pearl, deep teal",
+      "style": "Luminous waterfront towers, elevated piers and tidal reflections.",
+      "identities": [
+        {
+          "ordinal": 1,
+          "identity_id": "N08-I01",
+          "key": "moonline-harbor-residential",
+          "type": "Residential",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Tidelight Residences"
+            },
+            {
+              "stage": 2,
+              "name": "Moonwake Habitat"
+            },
+            {
+              "stage": 3,
+              "name": "Lunar Marina Arcology"
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "identity_id": "N08-I02",
+          "key": "moonline-harbor-retail",
+          "type": "Retail",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Dockside Market"
+            },
+            {
+              "stage": 2,
+              "name": "Pearl Galleria"
+            },
+            {
+              "stage": 3,
+              "name": "High Tide Exchange"
+            }
+          ]
+        },
+        {
+          "ordinal": 3,
+          "identity_id": "N08-I03",
+          "key": "moonline-harbor-technology",
+          "type": "Technology",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Beacon Labs"
+            },
+            {
+              "stage": 2,
+              "name": "Tidal Array"
+            },
+            {
+              "stage": 3,
+              "name": "Mooncurrent Nexus"
+            }
+          ]
+        },
+        {
+          "ordinal": 4,
+          "identity_id": "N08-I04",
+          "key": "moonline-harbor-entertainment",
+          "type": "Entertainment",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Harbor Lounge"
+            },
+            {
+              "stage": 2,
+              "name": "Moondeck Palace"
+            },
+            {
+              "stage": 3,
+              "name": "Eclipse Marina"
+            }
+          ]
+        },
+        {
+          "ordinal": 5,
+          "identity_id": "N08-I05",
+          "key": "moonline-harbor-landmark",
+          "type": "Landmark",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Tide Beacon"
+            },
+            {
+              "stage": 2,
+              "name": "Lunar Lighthouse"
+            },
+            {
+              "stage": 3,
+              "name": "Crown of Tides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "key": "arcadia-prime",
+      "name": "Arcadia Prime",
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "palette": "white stone, cobalt, laurel green, gold, luminous cyan",
+      "style": "Classical-future civic geometry with colonnades, domes and clean energy light.",
+      "identities": [
+        {
+          "ordinal": 1,
+          "identity_id": "N09-I01",
+          "key": "arcadia-prime-residential",
+          "type": "Residential",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Arcadian Residences"
+            },
+            {
+              "stage": 2,
+              "name": "Harmony Habitat"
+            },
+            {
+              "stage": 3,
+              "name": "Elysium Arcology"
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "identity_id": "N09-I02",
+          "key": "arcadia-prime-retail",
+          "type": "Retail",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Agora Plaza"
+            },
+            {
+              "stage": 2,
+              "name": "Lyceum Galleria"
+            },
+            {
+              "stage": 3,
+              "name": "Infinite Forum"
+            }
+          ]
+        },
+        {
+          "ordinal": 3,
+          "identity_id": "N09-I03",
+          "key": "arcadia-prime-technology",
+          "type": "Technology",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Axiom Labs"
+            },
+            {
+              "stage": 2,
+              "name": "Oracle Spire"
+            },
+            {
+              "stage": 3,
+              "name": "Prime Mind Nexus"
+            }
+          ]
+        },
+        {
+          "ordinal": 4,
+          "identity_id": "N09-I04",
+          "key": "arcadia-prime-entertainment",
+          "type": "Entertainment",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Muse Hall"
+            },
+            {
+              "stage": 2,
+              "name": "Apollo Palace"
+            },
+            {
+              "stage": 3,
+              "name": "Olympian Conservatory"
+            }
+          ]
+        },
+        {
+          "ordinal": 5,
+          "identity_id": "N09-I05",
+          "key": "arcadia-prime-landmark",
+          "type": "Landmark",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Arcadia Beacon"
+            },
+            {
+              "stage": 2,
+              "name": "Parthenon Apex"
+            },
+            {
+              "stage": 3,
+              "name": "Crown of Olympus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "key": "crimson-commons",
+      "name": "Crimson Commons",
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "palette": "crimson, burgundy, charcoal, bone, warm brass",
+      "style": "Bold civic district with communal plazas, vertical banners and ember-lit crowns.",
+      "identities": [
+        {
+          "ordinal": 1,
+          "identity_id": "N10-I01",
+          "key": "crimson-commons-residential",
+          "type": "Residential",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Ember Residences"
+            },
+            {
+              "stage": 2,
+              "name": "Scarlet Habitat"
+            },
+            {
+              "stage": 3,
+              "name": "Crimson Arcology"
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "identity_id": "N10-I02",
+          "key": "crimson-commons-retail",
+          "type": "Retail",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Commons Market"
+            },
+            {
+              "stage": 2,
+              "name": "Ruby Galleria"
+            },
+            {
+              "stage": 3,
+              "name": "Cardinal Exchange"
+            }
+          ]
+        },
+        {
+          "ordinal": 3,
+          "identity_id": "N10-I03",
+          "key": "crimson-commons-technology",
+          "type": "Technology",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Redline Labs"
+            },
+            {
+              "stage": 2,
+              "name": "Vermilion Spire"
+            },
+            {
+              "stage": 3,
+              "name": "Phoenix Nexus"
+            }
+          ]
+        },
+        {
+          "ordinal": 4,
+          "identity_id": "N10-I04",
+          "key": "crimson-commons-entertainment",
+          "type": "Entertainment",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Ember Hall"
+            },
+            {
+              "stage": 2,
+              "name": "Scarlet Palace"
+            },
+            {
+              "stage": 3,
+              "name": "Crimson Coliseum"
+            }
+          ]
+        },
+        {
+          "ordinal": 5,
+          "identity_id": "N10-I05",
+          "key": "crimson-commons-landmark",
+          "type": "Landmark",
+          "provenance": "delegated-production-decision-2026-10-31",
+          "stages": [
+            {
+              "stage": 1,
+              "name": "Bloodmoon Beacon"
+            },
+            {
+              "stage": 2,
+              "name": "Cardinal Apex"
+            },
+            {
+              "stage": 3,
+              "name": "Crown of Flame"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

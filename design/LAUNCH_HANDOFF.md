@@ -27,7 +27,7 @@ Legacy thumbnails holo.webp, midnight.webp and pulse.webp are not proof of finis
 - [ ] Materialize and visually inspect all fifteen Neon Heights stage sources; record hashes, dimensions, exact signs, framing and corrections per stage.
 - [x] Byte-audit the designated Midnight ZIP/master against repository originals and record the embedded approval-status conflict.
 - [ ] Complete versioned signage corrections and Crown artwork without overwriting approved masters.
-- [ ] Finalize remaining neighborhood lineages and edition rarity allocation under delegated authority.
+- [x] Finalize remaining neighborhood lineages and edition rarity allocation under delegated authority.
 - [ ] Produce every required final artwork and edition variant; record image checksums.
 - [ ] Build and validate 1,000-token registry and all stage metadata, preserving identity/base rarity through transfer and evolution.
 - [ ] Verify mobile/desktop gallery and legacy demo-save behavior; distinguish simulated and production state.
@@ -109,3 +109,14 @@ Selected Neon artwork integrated with exact names and two/three rooftop displays
 Materialized the exact Library ZIP and all-stages PNG, rejected no archive members as unsafe, and compared decoded and raw bytes. All three archived WebP files are byte-for-byte identical to `assets/midnight-stage-1.webp`, `assets/midnight-stage-2.webp` and `assets/midnight-stage-3.webp`; the archived triptych is byte-for-byte identical to the separate Library master. Visual inspection confirms the intended low lounge → vertical palace → crowned citadel progression. The embedded README explicitly says “PROPOSED art (not approved),” contradicting the ZIP filename and current owner designation. This is recorded without blocking delegated derivative production or recasting historical approval. Evidence: `design/MIDNIGHT_APPROVED_SOURCE_AUDIT.md`.
 
 Next bounded batch: establish the canonical 50-identity/150-stage registry and edition allocation, explicitly separating owner canon from delegated neighborhood/name decisions. Do not regenerate completed Neon Heights prototype signage. Full metadata, production art, contracts and release gates remain open.
+
+
+## Canonical Genesis registry checkpoint — October 31, 2026
+
+Committed the canonical production registry for all 10 neighborhoods, 50 identities and 150 globally unique stage names. Neon Heights remains existing owner canon; the nine Foundation working themes and all non-Neon names are explicitly labeled delegated production decisions. The edition plan assigns 8 Common, 5 Uncommon, 4 Rare, 2 Epic and 1 Legendary per identity, totaling 400/250/200/100/50 across 1,000 tokens.
+
+A deterministic manifest now reserves contiguous token IDs 1–1000 using neighborhood/identity/edition order. It intentionally contains no image URI and is labeled registry-only, not mint-ready. `scripts/validate_genesis_registry.py` passes supply, uniqueness, stage mapping, transfer-persistence flags and rarity totals.
+
+Canonical files: `design/GENESIS_COLLECTION_REGISTRY.md`, `design/COLLECTION_REGISTRY.json`, `metadata/genesis-token-registry.json`, `design/DECISION_LOG.md` and `design/LAUNCH_CHECKLIST.md`.
+
+Next bounded batch: consolidate the collection-wide asset manifest and generate production briefs from the registry, then begin Golden Crest art in versioned batches. Do not reorder identities after external token use; do not attach placeholder image URIs. Final art, metadata assets, contracts, storage, security review and owner-controlled launch steps remain open.
