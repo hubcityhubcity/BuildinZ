@@ -120,3 +120,14 @@ A deterministic manifest now reserves contiguous token IDs 1–1000 using neighb
 Canonical files: `design/GENESIS_COLLECTION_REGISTRY.md`, `design/COLLECTION_REGISTRY.json`, `metadata/genesis-token-registry.json`, `design/DECISION_LOG.md` and `design/LAUNCH_CHECKLIST.md`.
 
 Next bounded batch: consolidate the collection-wide asset manifest and generate production briefs from the registry, then begin Golden Crest art in versioned batches. Do not reorder identities after external token use; do not attach placeholder image URIs. Final art, metadata assets, contracts, storage, security review and owner-controlled launch steps remain open.
+
+
+## Consolidated asset manifest and Golden Crest brief — October 31, 2026
+
+Inventoried the actual repository tree at commit `55eed0213013f6fa6ef47ff1a9e6448f1b15234c`: 37 files under `assets/`, each with repository byte length, Git blob SHA, classification and release status in `design/ASSET_MANIFEST.json`. Existing handoff evidence supplies SHA-256 for 22 files and dimensions where previously verified; missing values remain null rather than inferred.
+
+Exactly 15 Neon Heights stage files are selected for the current prototype. None are marked final NFT-certified. The other nine neighborhoods have zero selected stage masters and require 135 images. Legacy thumbnails, preserved originals, superseded candidates and the rejected Neon Stage II lower-window screen attempt are explicitly separated.
+
+Added `design/GOLDEN_CREST_PRODUCTION_BRIEF.md` with exact five lineages, palette, continuity anchors, stage escalation requirements, generation sequence, prompt template and acceptance gates. Golden Crest and its non-Neon names remain delegated production decisions, not earlier owner approvals.
+
+Next bounded batch: generate and visually inspect Aureate Residences / Gilded Terraces / Imperial Sunhold as the first controlled non-Neon lineage, save only versioned candidates, then update the manifest with actual hashes and dimensions. Do not begin edition variants before the three base masters pass lineage QA.

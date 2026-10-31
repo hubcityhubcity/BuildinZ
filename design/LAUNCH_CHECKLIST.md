@@ -15,7 +15,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 - [x] Designated Midnight ZIP/master byte-audited against repository originals.
 - [x] Existing Neon Heights prototype lineages corrected and integrated with versioned derivatives.
-- [ ] Consolidate one collection-wide asset manifest with every source, derivative, hash, dimensions, approval/provenance state and release state.
+- [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
 - [ ] Produce and visually inspect all 135 non-Neon stage designs.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
@@ -61,4 +61,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Create the collection-wide asset manifest and neighborhood production briefs from `COLLECTION_REGISTRY.json`, then begin Golden Crest artwork in bounded, versioned batches. Do not add placeholder image URIs to the token registry.
+Produce the Aureate Residences Stage I/II/III lineage from `GOLDEN_CREST_PRODUCTION_BRIEF.md`, inspect the actual outputs together, and record versioned paths, dimensions, SHA-256 and Git blob evidence. Do not add placeholder image URIs or mark prototype art final-certified.
