@@ -45,3 +45,7 @@ Read design/05-crown-source-art-audit.md and inspect actual Crown references. Co
 ## Remaining evidence limits
 
 No complete token registry or production contract has been verified. Approved Library ZIP/master still require direct byte inspection; original repository hashes alone do not certify ZIP equivalence. Midnight responsive browser and unit state checks do not certify other identities, physical devices, accessibility, transfer contracts or launch readiness. No wallet, mint or mainnet action occurred.
+
+## Crown progress — October 30, 2026 (America/Chicago)
+
+Both original Crown posters retrieved and visually inspected. Later infographic family selected under delegated authority. Standalone Stage I candidate with corrected framing and mounted name saved; see CROWN_PRODUCTION_HANDOFF.md for checksum, source IDs, generation history and exact next steps. Stages II/III, cross-stage QA and browser integration remain open. Crown selector stays disabled. Next batch begins with Sovereign Apex, not another Stage I redesign.
