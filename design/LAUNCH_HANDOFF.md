@@ -67,3 +67,7 @@ HoloTech corrected names and complete spire candidates integrated into prototype
 Retrieved and visually inspected all three standalone Neon Library PNGs against repository composite; recorded exact IDs, dimensions and SHA-256 in NEON_SOURCE_MANIFEST.md. Stage III standalone is clipped, but composite preserves full crown: use that source for corrections. Screen-count requirement remains unverified. No new artwork marked complete.
 
 Corrected Neon and Pulse collection cards to show saved-stage name and matching artwork while retaining separate building type. Added passing actual-page-script regressions for all three stages and preview isolation; existing regression groups also pass. No new browser certification. Next: produce versioned Neon exact-name derivatives with full-crown reference, inspect, compare and integrate; then Pulse artwork audit. Other launch gates remain open.
+
+## Neon Stage I / II candidate checkpoint — October 31, 2026
+
+Saved exact-name NEON RESIDENCES and SKYLINE HABITAT derivatives with original architecture retained at visual inspection. Checksums and prompt record are in NEON_SOURCE_MANIFEST.md; candidate-only comparison is review-neon-candidates.html. Main site artwork unchanged pending complete set review. Next: Aurora Arcology using original composite for full crown, then screen-count/framing and browser comparison. Do not regenerate I/II without a specific defect. Full launch gates remain open.

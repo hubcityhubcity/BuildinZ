@@ -37,3 +37,18 @@ Pillow decoded/verified all three PNGs and SHA-256 was computed from actual byte
 3. Compare all three at narrow/wide display sizes, then integrate verified paths and update source-signage disclosure. Re-run state tests and browser image loading/layout checks.
 4. Audit Pulse artwork signs against Pulse Plaza / Spectrum Galleria / Infinity Bazaar. Its card naming fix does not certify artwork.
 5. Continue canonical LAUNCH_HANDOFF.md for remaining neighborhoods, metadata, contracts and release gates. Do not restart completed HoloTech/Midnight/Crown prototype integration.
+
+## Stage I / II signage candidates — October 31, 2026
+
+Agent-produced versioned derivatives, not new owner approvals or final launch certification. Built-in image generation used; originals unchanged. Actual outputs visually inspected. I reads NEON RESIDENCES in two lines above entrance, retaining compact rounded tower, single rooftop pool, loungers and restrained planting. II reads SKYLINE HABITAT in two lines above entrance, retaining taller rounded core, projecting enclosed glass sky lounge, rooftop pool and raised pavilion. Roofs and entrances remain visible. II has tight bottom plaza margin; final common export framing remains open. Fine detail is generatively resampled, not pixel-identical to originals. No ground-level pool introduced. No claim that screen-count standard is verified.
+
+| Stage | Candidate path | Dimensions | Bytes | SHA-256 | Verified Git blob |
+|---|---|---|---|---|---|
+| I | assets/candidates/neon-stage-1-signage-v1.png | 1275 × 1234 | 2122861 | 0865ab5da322a54a578346ef8c2b071e53ece95da82c0587b7131a0ebf663a6b | 2326bab2ad31024b4f5e1e73ca92c30e3a6eb1b3 |
+| II | assets/candidates/neon-stage-2-signage-v1.png | 1087 × 1447 | 2156482 | d8f0c7b750ca1d1dd1ac5399cd8a6d878e5182d576abadf84ebff6abda96aabc | 2c387d6545c8fcb1a56eea439c66fc97ac958c74 |
+
+Prompt record, built-in mode: text-localization edits on the corresponding standalone source; replace only NEON with exact NEON RESIDENCES / SKYLINE HABITAT, readable uppercase geometric techno-luxury mounted lettering, two lines permitted. Preserve architecture, floor count, rounded balconies, chrome strips, black glass, rooftop pool, loungers/raised pavilion and Stage II private lounge, purple/blue/pink/cyan scene and elevated architectural camera. Keep roof/base visible with modest breathing room; no added amenities, ground-level pools, labels, logos, borders or captions. Stage II explicitly prohibited added screens. Outputs show the requested names and recognizable architecture; final set comparison has not run.
+
+PNG decoding/integrity and SHA-256 checked locally; uploaded Git blob SHA-1 matched local bytes for each. review-neon-candidates.html provides a candidate-only comparison, with original composite alongside. No browser verification or production integration this batch; existing production art and source-signage disclosure remain unchanged.
+
+Next superseding earlier queue: create Aurora Arcology signage derivative using standalone III AND original composite's full crown. Inspect complete crown/base and multi-zone resort; verify screen-count interpretation across II/III rather than silently invent compliance. Then review all three for escalating height, typography, narrow/wide readability, framing and architecture; integrate only after checks pass. Do not repeat completed I/II name edits unless comparison finds an actual defect.
