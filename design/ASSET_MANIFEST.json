@@ -1,16 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-10-31",
-  "repository_commit": "55eed0213013f6fa6ef47ff1a9e6448f1b15234c",
+  "repository_commit": "c2634f01363a90d2bcd232bba496dbd0cf0a002a",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 37,
+    "asset_files": 40,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
-    "neighborhoods_with_final_certified_set": 0
+    "neighborhoods_with_final_certified_set": 0,
+    "lineage_selected_candidate_stage_assets": 3
   },
   "production_matrix": [
     {
@@ -21,7 +22,8 @@
       "selected_prototype_stage_assets": 15,
       "final_nft_certified_stage_assets": 0,
       "status": "prototype-selected; final NFT export certification open",
-      "provenance": "owner-approved-existing-canon"
+      "provenance": "owner-approved-existing-canon",
+      "selected_candidate_stage_assets": 0
     },
     {
       "neighborhood_id": 1,
@@ -30,8 +32,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "production not started",
-      "provenance": "foundation-theme-adopted-under-delegated-authority"
+      "status": "Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open",
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "selected_candidate_stage_assets": 3
     },
     {
       "neighborhood_id": 2,
@@ -41,7 +44,8 @@
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
       "status": "production not started",
-      "provenance": "foundation-theme-adopted-under-delegated-authority"
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "selected_candidate_stage_assets": 0
     },
     {
       "neighborhood_id": 3,
@@ -51,7 +55,8 @@
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
       "status": "production not started",
-      "provenance": "foundation-theme-adopted-under-delegated-authority"
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "selected_candidate_stage_assets": 0
     },
     {
       "neighborhood_id": 4,
@@ -61,7 +66,8 @@
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
       "status": "production not started",
-      "provenance": "foundation-theme-adopted-under-delegated-authority"
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "selected_candidate_stage_assets": 0
     },
     {
       "neighborhood_id": 5,
@@ -71,7 +77,8 @@
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
       "status": "production not started",
-      "provenance": "foundation-theme-adopted-under-delegated-authority"
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "selected_candidate_stage_assets": 0
     },
     {
       "neighborhood_id": 6,
@@ -81,7 +88,8 @@
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
       "status": "production not started",
-      "provenance": "foundation-theme-adopted-under-delegated-authority"
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "selected_candidate_stage_assets": 0
     },
     {
       "neighborhood_id": 7,
@@ -91,7 +99,8 @@
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
       "status": "production not started",
-      "provenance": "foundation-theme-adopted-under-delegated-authority"
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "selected_candidate_stage_assets": 0
     },
     {
       "neighborhood_id": 8,
@@ -101,7 +110,8 @@
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
       "status": "production not started",
-      "provenance": "foundation-theme-adopted-under-delegated-authority"
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "selected_candidate_stage_assets": 0
     },
     {
       "neighborhood_id": 9,
@@ -111,7 +121,8 @@
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
       "status": "production not started",
-      "provenance": "foundation-theme-adopted-under-delegated-authority"
+      "provenance": "foundation-theme-adopted-under-delegated-authority",
+      "selected_candidate_stage_assets": 0
     }
   ],
   "assets": [
@@ -726,6 +737,63 @@
       "selected_for_prototype": false,
       "final_nft_certification": false,
       "evidence": "repository Git tree only; byte hash/dimensions not consolidated in prior handoff"
+    },
+    {
+      "path": "assets/candidates/golden-crest-aureate-residences-stage-1-v1.png",
+      "bytes": 3399766,
+      "git_blob_sha": "42d9d7c7ed5bb955d668ca5dcfd68c3fc4e3aae5",
+      "sha256": "916f9d52d26f1e1794d3a88d6d71e633e02c6d6d3dbec8ce6682219a642682fb",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Aureate Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-gilded-terraces-stage-2-v1.png",
+      "bytes": 3325923,
+      "git_blob_sha": "0c82afc8fff3c99391d31254838878b15c8c3cbf",
+      "sha256": "8fa5deb341febda51cb547d9a18544b0b34d7dd6b019efb14d1012cd44da3ce8",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Gilded Terraces",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation using accepted Stage I as lineage reference; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-imperial-sunhold-stage-3-v2.png",
+      "bytes": 3016756,
+      "git_blob_sha": "545e152c1e8e063c3b37a48f9bc9b5e1cb8c01de",
+      "sha256": "a326d66274af91c3a89ac1d0ccffe517fd04bf700394cf6be27413513b1a2ae6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Imperial Sunhold",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation plus targeted framing correction; actual PNG decoded and visually inspected; Git blob verified"
     }
   ]
 }

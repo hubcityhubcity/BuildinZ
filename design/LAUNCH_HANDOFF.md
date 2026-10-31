@@ -131,3 +131,12 @@ Exactly 15 Neon Heights stage files are selected for the current prototype. None
 Added `design/GOLDEN_CREST_PRODUCTION_BRIEF.md` with exact five lineages, palette, continuity anchors, stage escalation requirements, generation sequence, prompt template and acceptance gates. Golden Crest and its non-Neon names remain delegated production decisions, not earlier owner approvals.
 
 Next bounded batch: generate and visually inspect Aureate Residences / Gilded Terraces / Imperial Sunhold as the first controlled non-Neon lineage, save only versioned candidates, then update the manifest with actual hashes and dimensions. Do not begin edition variants before the three base masters pass lineage QA.
+
+
+## Golden Crest Residential lineage checkpoint — October 31, 2026
+
+Generated and visually inspected Aureate Residences, Gilded Terraces and Imperial Sunhold as the first complete non-Neon three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, full bases, coherent ivory/amber/gold/black-marble materials and obvious height/amenity/crown escalation. Stage II used Stage I as a lineage reference; Stage III used both predecessors.
+
+The initial Imperial Sunhold output failed the sky-margin gate and was not committed. A targeted framing correction produced selected Stage III v2 with crown clearance and full base retained. SHA-256, bytes and Git blob evidence are recorded in `design/GOLDEN_CREST_RESIDENTIAL_ART_HANDOFF.md` and the consolidated asset manifest.
+
+These are delegated lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Golden Crest Retail — Meridian Market → Crown Arcade → Grand Aureum Exchange. Do not redo Residential without a specific defect.

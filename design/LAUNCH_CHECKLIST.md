@@ -17,7 +17,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Existing Neon Heights prototype lineages corrected and integrated with versioned derivatives.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest Residential has 3 selected lineage candidates; 132 non-Neon stage masters remain without selected candidates.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -61,4 +61,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce the Aureate Residences Stage I/II/III lineage from `GOLDEN_CREST_PRODUCTION_BRIEF.md`, inspect the actual outputs together, and record versioned paths, dimensions, SHA-256 and Git blob evidence. Do not add placeholder image URIs or mark prototype art final-certified.
+Produce Meridian Market / Crown Arcade / Grand Aureum Exchange from the Retail section of `GOLDEN_CREST_PRODUCTION_BRIEF.md`. Preserve the colonnade rhythm, central meridian line and amber display glazing; inspect the full lineage before any prototype integration.

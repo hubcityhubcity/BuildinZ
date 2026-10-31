@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **37**
+- Repository asset files: **40**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage files not yet produced: **135**
+- Non-Neon required stage masters without a selected lineage candidate: **132**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -17,7 +17,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Neighborhood | Required stage masters | Prototype-selected | Final NFT certified | Status |
 |---|---:|---:|---:|---|
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
-| Golden Crest | 15 | 0 | 0 | production not started |
+| Golden Crest | 15 | 0 | 0 | Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open |
 | Shadow Market | 15 | 0 | 0 | production not started |
 | Skygarden District | 15 | 0 | 0 | production not started |
 | Velocity Row | 15 | 0 | 0 | production not started |
@@ -62,3 +62,14 @@ The machine-readable source of truth is `ASSET_MANIFEST.json`. Every entry recor
 ## Exact next action
 
 Use `GOLDEN_CREST_PRODUCTION_BRIEF.md` to produce the first non-Neon versioned stage set. After every generated output: inspect the actual image, save it under a versioned candidate path, add dimensions/SHA-256/Git blob evidence here, and do not change final certification until collection-wide export checks pass.
+
+
+## Golden Crest Residential selected candidates — October 31, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Aureate Residences | `assets/candidates/golden-crest-aureate-residences-stage-1-v1.png` | 1024 × 1536 | 3,399,766 | `916f9d52d26f1e1794d3a88d6d71e633e02c6d6d3dbec8ce6682219a642682fb` | `42d9d7c7ed5bb955d668ca5dcfd68c3fc4e3aae5` |
+| II | Gilded Terraces | `assets/candidates/golden-crest-gilded-terraces-stage-2-v1.png` | 1024 × 1536 | 3,325,923 | `8fa5deb341febda51cb547d9a18544b0b34d7dd6b019efb14d1012cd44da3ce8` | `0c82afc8fff3c99391d31254838878b15c8c3cbf` |
+| III | Imperial Sunhold | `assets/candidates/golden-crest-imperial-sunhold-stage-3-v2.png` | 1024 × 1536 | 3,016,756 | `a326d66274af91c3a89ac1d0ccffe517fd04bf700394cf6be27413513b1a2ae6` | `545e152c1e8e063c3b37a48f9bc9b5e1cb8c01de` |
+
+These are delegated, visually inspected lineage candidates—not prototype-integrated art and not final NFT certification. The first Stage III generation had insufficient crown clearance and was not committed; v2 is a targeted framing correction with clear sky margin, full base and exact mounted name.
