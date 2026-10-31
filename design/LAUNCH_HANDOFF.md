@@ -61,3 +61,9 @@ Inspected actual Neon composite and HoloTech II/III sources. Saved Quantum Spire
 ## Latest production state — October 31, 2026
 
 HoloTech corrected names and complete spire candidates integrated into prototype after browser loading and narrow-layout checks, with passing state regression tests. See NEON_HOLOTECH_CORRECTION_HANDOFF.md for explicit tight-margin acceptance limited to prototype use. Next: Neon Library source mapping and approved-architecture name derivatives, then Pulse signage audit. Final art/export certification, other neighborhoods, registry, metadata, contracts and launch audit remain open.
+
+## Neon source mapping and card synchronization — October 31, 2026
+
+Retrieved and visually inspected all three standalone Neon Library PNGs against repository composite; recorded exact IDs, dimensions and SHA-256 in NEON_SOURCE_MANIFEST.md. Stage III standalone is clipped, but composite preserves full crown: use that source for corrections. Screen-count requirement remains unverified. No new artwork marked complete.
+
+Corrected Neon and Pulse collection cards to show saved-stage name and matching artwork while retaining separate building type. Added passing actual-page-script regressions for all three stages and preview isolation; existing regression groups also pass. No new browser certification. Next: produce versioned Neon exact-name derivatives with full-crown reference, inspect, compare and integrate; then Pulse artwork audit. Other launch gates remain open.
