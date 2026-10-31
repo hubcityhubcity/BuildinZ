@@ -15,16 +15,17 @@ Agent decision: retain the current canon and artwork gates while auditing; do no
 | Neon | assets/neon-original.png | Resolve individual stage extraction/source mapping; inspect names and rooftop features |
 | Pulse | assets/pulse-stage-1.png, pulse-stage-2.png, pulse-stage-3.png | Inspect mounted signage and full framing |
 | HoloTech | assets/holotech-stage-1.webp, holotech-stage-2.webp, holotech-stage-3.webp | Inspect evolved signs and Stage III spire clipping |
-| Midnight | assets/midnight-stage-1.webp, midnight-stage-2.webp, midnight-stage-3.webp | Compare approved ZIP hashes and inspect signage derivatives |
+| Midnight | assets/midnight-stage-1.webp, midnight-stage-2.webp, midnight-stage-3.webp | Library ZIP/master byte-equivalence verified; embedded approval-status conflict recorded in MIDNIGHT_APPROVED_SOURCE_AUDIT.md |
 | Crown | assets/crown.webp; design/05-crown-source-art-audit.md | Final three standalone stages absent from inspected tree |
 
-Legacy thumbnails holo.webp, midnight.webp and pulse.webp are not proof of finished evolution artwork. Library Neon candidates located: BuildinZ-Stage-I.png (libfile_6ad092de193881918c90290e2748d960), II (libfile_b76d663588848191a172a149c2f5409c), III (libfile_b478779814508191b72efbd9a92de3a3). These candidates have not been visually inspected or certified as canonical. Approved Midnight source ZIP: libfile_1e1670b0969c81918e9ee35e15eacef5; master: libfile_b6fa69b3e2ec8191a4e6fa5aa0afab33. Both still require byte inspection.
+Legacy thumbnails holo.webp, midnight.webp and pulse.webp are not proof of finished evolution artwork. Library Neon candidates located: BuildinZ-Stage-I.png (libfile_6ad092de193881918c90290e2748d960), II (libfile_b76d663588848191a172a149c2f5409c), III (libfile_b478779814508191b72efbd9a92de3a3). These candidates have not been visually inspected or certified as canonical. Designated Midnight source ZIP: libfile_1e1670b0969c81918e9ee35e15eacef5; master: libfile_b6fa69b3e2ec8191a4e6fa5aa0afab33. Direct byte inspection is complete: archive members exactly match the preserved repository originals and master. The ZIP filename/current owner direction call the package approved, while its embedded README says proposed/not approved; preserve this historical status conflict rather than rewriting it. See MIDNIGHT_APPROVED_SOURCE_AUDIT.md.
 
 ## Launch acceptance checklist
 
 - [x] Locate actual repository and read current scope, consistency standard and project history.
 - [x] Verify foundation supply: 10 × 5 × 20 = 1,000; fifty identities, 150 identity-stage designs before edition variants.
 - [ ] Materialize and visually inspect all fifteen Neon Heights stage sources; record hashes, dimensions, exact signs, framing and corrections per stage.
+- [x] Byte-audit the designated Midnight ZIP/master against repository originals and record the embedded approval-status conflict.
 - [ ] Complete versioned signage corrections and Crown artwork without overwriting approved masters.
 - [ ] Finalize remaining neighborhood lineages and edition rarity allocation under delegated authority.
 - [ ] Produce every required final artwork and edition variant; record image checksums.
@@ -44,7 +45,7 @@ Read design/05-crown-source-art-audit.md and inspect actual Crown references. Co
 
 ## Remaining evidence limits
 
-No complete token registry or production contract has been verified. Approved Library ZIP/master still require direct byte inspection; original repository hashes alone do not certify ZIP equivalence. Midnight responsive browser and unit state checks do not certify other identities, physical devices, accessibility, transfer contracts or launch readiness. No wallet, mint or mainnet action occurred.
+No complete token registry or production contract has been verified. Midnight Library ZIP/master byte equivalence is now verified, but the embedded README's proposed/not-approved wording conflicts with the package filename and current owner designation; this audit establishes provenance, not historical approval. Midnight responsive browser and unit state checks do not certify physical devices, full accessibility, transfer contracts or launch readiness. No wallet, mint or mainnet action occurred.
 
 ## Crown progress — October 30, 2026 (America/Chicago)
 
@@ -101,3 +102,10 @@ Saved Stage II screens-v3 and Stage III screens-v1, visually inspected with two 
 ## Neon prototype integration complete — October 31, 2026
 
 Selected Neon artwork integrated with exact names and two/three rooftop displays in Stages II/III. Desktop comparison, narrow iframe image loading/no-overflow/preview isolation and regression tests pass; evidence in NEON_SOURCE_MANIFEST.md. All five Neon Heights prototype lineages now use correctly named artwork. This is not complete Genesis launch readiness. Next bounded batch: approved Midnight ZIP/master byte audit, then canonical remaining identity registry and production planning; do not redo completed signage/integration.
+
+
+## Midnight designated-source byte audit — October 31, 2026
+
+Materialized the exact Library ZIP and all-stages PNG, rejected no archive members as unsafe, and compared decoded and raw bytes. All three archived WebP files are byte-for-byte identical to `assets/midnight-stage-1.webp`, `assets/midnight-stage-2.webp` and `assets/midnight-stage-3.webp`; the archived triptych is byte-for-byte identical to the separate Library master. Visual inspection confirms the intended low lounge → vertical palace → crowned citadel progression. The embedded README explicitly says “PROPOSED art (not approved),” contradicting the ZIP filename and current owner designation. This is recorded without blocking delegated derivative production or recasting historical approval. Evidence: `design/MIDNIGHT_APPROVED_SOURCE_AUDIT.md`.
+
+Next bounded batch: establish the canonical 50-identity/150-stage registry and edition allocation, explicitly separating owner canon from delegated neighborhood/name decisions. Do not regenerate completed Neon Heights prototype signage. Full metadata, production art, contracts and release gates remain open.
