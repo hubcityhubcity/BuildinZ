@@ -49,3 +49,7 @@ No complete token registry or production contract has been verified. Approved Li
 ## Crown progress — October 30, 2026 (America/Chicago)
 
 Both original Crown posters retrieved and visually inspected. Later infographic family selected under delegated authority. Standalone Stage I candidate with corrected framing and mounted name saved; see CROWN_PRODUCTION_HANDOFF.md for checksum, source IDs, generation history and exact next steps. Stages II/III, cross-stage QA and browser integration remain open. Crown selector stays disabled. Next batch begins with Sovereign Apex, not another Stage I redesign.
+
+## Latest checkpoint — October 31, 2026
+
+Crown integrated after browser comparison, narrow-layout checks and state regression tests; all five Neon Heights identities are now selectable in the prototype. See CROWN_PRODUCTION_HANDOFF.md for exact evidence and limitations. Next production batch: audit/correct Neon and HoloTech mounted names and framing, retaining approved architecture. Crown and Midnight integration are complete for the demo; do not restart them. Final NFT artwork certification, all remaining neighborhoods, metadata, contracts and release gates remain open.
