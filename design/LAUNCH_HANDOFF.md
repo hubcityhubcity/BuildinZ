@@ -89,3 +89,7 @@ Saved Infinity Bazaar Stage III signage candidate; all Pulse stages now have cor
 ## Pulse prototype integration complete — October 31, 2026
 
 Pulse Plaza / Spectrum Galleria / Infinity Bazaar now use exact-name selected artwork throughout hero, previews and saved-stage cards. Desktop comparison, narrow iframe image loading/preview isolation/no-overflow checks and state regressions pass. See PULSE_SIGNAGE_HANDOFF.md for evidence and tight-margin acceptance limited to prototype display. Next: Neon media-screen corrections and mobile integration; remaining collection/metadata/contracts/release gates remain open.
+
+## Neon screen-placement QA checkpoint — October 31, 2026
+
+Saved Stage II screens-v2 as a failed-placement review candidate, not selected artwork. Two smaller displays are countable, but lower display appears to overlap glazing. NEON_SOURCE_MANIFEST.md records both attempts and a precise rooftop-fascia-only correction; do not integrate or claim the screen gate complete. Existing preferred signage art and website remain unchanged. Next: one targeted fascia placement correction, then Stage III matching treatment; if unreliable, advance other unblocked launch work rather than repeating generation indefinitely.
