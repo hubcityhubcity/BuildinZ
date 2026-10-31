@@ -51,10 +51,18 @@ for (let stage=1;stage<=3;stage++) {
   const html=h.node('buildings').innerHTML;
   assert.ok(html.includes('assets/neon-residences-stage-'+stage+'.webp" alt="Concept art for '+neon));
   assert.ok(html.includes('<strong>'+neon+'</strong><small>Residential</small>'));
-  assert.ok(html.includes('assets/pulse-stage-'+stage+'.png" alt="Concept art for '+pulse));
+  assert.ok(html.includes((stage===1?'assets/pulse-stage-1.png':'assets/candidates/pulse-stage-'+stage+'-signage-v1.png')+'" alt="Concept art for '+pulse));
   assert.ok(html.includes('<strong>'+pulse+'</strong><small>Retail</small>'));
  }
  cards(); h.node('preview-'+(stage===3?1:3)).click(); cards();
  h.node('choose-pulse').click(); cards();
 }
 console.log('PASS: all Neon/Pulse saved-stage card names, type separation, image paths and preview isolation');
+
+let p=boot({...legacy,pulseStage:1,owned:['neon','pulse'],balance:500});
+p.node('choose-pulse').click();assert.match(p.node('hero-art').src,/pulse-stage-1.png$/);
+p.node('evolve').click();assert.equal(p.read().pulseStage,2);assert.equal(p.read().balance,380);assert.match(p.node('hero-art').src,/pulse-stage-2-signage-v1.png$/);
+p.node('evolve').click();assert.equal(p.read().pulseStage,3);assert.equal(p.read().balance,100);assert.match(p.node('hero-art').src,/pulse-stage-3-signage-v1.png$/);assert.equal(p.read().stage,2);
+p=boot(p.read());p.node('choose-pulse').click();assert.equal(p.node('building-name').textContent,'Infinity Bazaar');p.node('preview-1').click();assert.equal(p.node('evolution-title').textContent,'Pulse Plaza');assert.equal(p.node('building-name').textContent,'Infinity Bazaar');
+p.node('own-pulse').click();p.node('own-pulse').click();assert.equal(p.read().pulseStage,3);
+console.log('PASS: Pulse selected art paths, costs, independent state, reload, preview and recollect persistence');

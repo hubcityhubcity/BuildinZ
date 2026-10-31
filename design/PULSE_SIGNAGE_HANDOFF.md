@@ -35,3 +35,13 @@ Actual output visually inspected: exact INFINITY BAZAAR is readable; rooftop emb
 review-pulse-candidates.html now compares unchanged correctly named Stage I with corrected II and III, and provides original II/III for reference. No production integration or browser acceptance yet. Existing homepage's accurate pending-correction disclosure remains in place.
 
 Next: browser comparison at narrow/wide display sizes; confirm all names and screens, uncropped artwork and rooftop emblem acceptance for contain-fit prototype. Final export framing is a separate gate. Integrate accepted set, update disclosure, test saved-stage paths/card names/previews and image loading. Do not regenerate correct names without an observed defect. Neon media-screen corrections and mobile review remain open.
+
+## Prototype integration — October 31, 2026
+
+Browser reviewed review-pulse-candidates.html: all five images loaded; selected set displayed at 351px image widths with readable correct names, recognizable displays/bridges and full rooftop emblem. Agent decision: accept existing tight Stage III top clearance for uncropped contain-fit prototype use. This does not certify final NFT export framing or represent new owner approval.
+
+Integrated unchanged Stage I and versioned II/III via one pulseArt(stage) mapping for hero, previews and collection cards. Updated facade-name disclosure. Original files retained.
+
+Validation: node tests/midnight-state.test.cjs passes all prior groups plus Pulse selected paths, 120/280 mock costs, independent saved progress, reload, preview isolation and recollect persistence. Tests execute actual inline page script with minimal DOM adapter, not blockchain contracts. Browser local preview in 390px iframe (375px content width): Pulse selection and Infinity Bazaar preview work, corrected Stage III image loads; current saved name stays Pulse Plaza during preview; content width equals scroll width, no horizontal overflow. Desktop comparison and narrow browser integration checked; no physical-device/full accessibility or security certification claimed.
+
+Next: complete Neon II/III media-screen corrections from NEON_SOURCE_MANIFEST.md, then mobile review and integration. Do not redo completed Pulse names or integration. Final collection-wide export framing and source ZIP verification remain open, followed by other neighborhoods, metadata and contracts.

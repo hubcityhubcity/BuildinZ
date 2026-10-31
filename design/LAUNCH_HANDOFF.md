@@ -85,3 +85,7 @@ Audited actual Pulse I/II/III. I already has correct name; II/III wrongly retain
 ## Complete Pulse name-corrected candidate set — October 31, 2026
 
 Saved Infinity Bazaar Stage III signage candidate; all Pulse stages now have correctly named source/candidate artwork available. Stage I original retained, II/III candidates remain separate from production. Actual output checked; checksum and prompt recorded in PULSE_SIGNAGE_HANDOFF.md. review-pulse-candidates.html provides set/original comparison. Rooftop emblem is inside frame with tight margin; browser acceptance and final export framing remain open. Next: browser comparison and integration regression checks, then Neon screen-detail corrections/mobile acceptance. No launch or contract gate marked complete.
+
+## Pulse prototype integration complete — October 31, 2026
+
+Pulse Plaza / Spectrum Galleria / Infinity Bazaar now use exact-name selected artwork throughout hero, previews and saved-stage cards. Desktop comparison, narrow iframe image loading/preview isolation/no-overflow checks and state regressions pass. See PULSE_SIGNAGE_HANDOFF.md for evidence and tight-margin acceptance limited to prototype display. Next: Neon media-screen corrections and mobile integration; remaining collection/metadata/contracts/release gates remain open.
