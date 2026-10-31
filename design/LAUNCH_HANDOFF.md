@@ -93,3 +93,7 @@ Pulse Plaza / Spectrum Galleria / Infinity Bazaar now use exact-name selected ar
 ## Neon screen-placement QA checkpoint — October 31, 2026
 
 Saved Stage II screens-v2 as a failed-placement review candidate, not selected artwork. Two smaller displays are countable, but lower display appears to overlap glazing. NEON_SOURCE_MANIFEST.md records both attempts and a precise rooftop-fascia-only correction; do not integrate or claim the screen gate complete. Existing preferred signage art and website remain unchanged. Next: one targeted fascia placement correction, then Stage III matching treatment; if unreliable, advance other unblocked launch work rather than repeating generation indefinitely.
+
+## Neon rooftop screen correction checkpoint — October 31, 2026
+
+Saved Stage II screens-v3 and Stage III screens-v1, visually inspected with two and three distinct upper-pool displays respectively. Rejected lower-window placement is absent from Stage II. Correct names, pool/lounges and Stage III crown retained. Manifest includes hashes, prompts and delegated-decision provenance; comparison page references new pair. Next: browser/mobile acceptance and integration tests; no final launch claim.

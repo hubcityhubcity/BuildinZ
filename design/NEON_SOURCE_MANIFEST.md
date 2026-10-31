@@ -80,3 +80,18 @@ Second output saved for review only: assets/candidates/neon-stage-2-screens-v2.p
 Observed: two landscape displays clearly countable; name, lounge and rooftop pool retained. Upper display occupies rooftop fascia. Lower display still appears to overlap the upper portion of a glazed bay above the entrance. Therefore this candidate FAILS the no-window-obstruction placement requirement and is NOT selected for integration. Do not claim screen gate complete or use it as Stage III reference. Existing signage-v1 remains the preferred architectural source; original production art unchanged.
 
 Next targeted correction: work from signage-v1, place both small landscape screens on separate opaque sections of rooftop fascia, leaving every lower glazed bay untouched. This supersedes the failed above/below-lounge placement direction. Inspect actual output before selection; then add three similarly restrained rooftop-fascia displays to Stage III. If spatial placement cannot be preserved reliably, stop repeated generation and record the limitation while advancing source ZIP verification/remaining registry work. No new owner approval asserted; these are delegated detail proposals. Mobile review/integration still pending.
+
+## Rooftop-fascia screen pair — October 31, 2026
+
+Two new built-in image edits, both made directly from their name-corrected signage-v1 source (not failed screens-v2). Stage II prompt restricted exactly two tiny horizontal cyan/magenta wave screens to separated opaque sections directly beneath rooftop pool deck, prohibited all lower-facade edits/window overlap, and preserved pool, lounge, name and architecture. Stage III prompt requested three similarly restrained upper-pool fascia displays, one left and two on large front/right terrace, preserving crown, full base, name, pools, lounge and all windows. No text on screens or billboard structures.
+
+Actual outputs inspected: Stage II has two distinct small roof-band displays and no lower-window panel; Stage III has three distinct upper-resort displays. Names remain exact; pool layouts, lounge and complete Stage III crown remain recognizable. This resolves the visibly oversized/lower-window placement problem of the rejected Stage II attempt. Fine detail is generatively resampled; added displays are delegated agent decisions, not previously approved original features. Pair is selected for browser comparison, not final export or production integration. Screen count at inspected full resolution: III 3 >= II 2; name signs are excluded. Browser-scale clarity and precise placement acceptance remain next.
+
+| Candidate | Dimensions | Bytes | SHA-256 | Git blob |
+|---|---|---|---|---|
+| assets/candidates/neon-stage-2-screens-v3.png | 1087 × 1446 | 2133400 | e1db7e61f192a0fc477fb84176aa8e1a7c8732f05847452610e4cd193096ac88 | d77c77c7fa3874f6744b950db4be7d0f7a81c77e |
+| assets/candidates/neon-stage-3-screens-v1.png | 969 × 1624 | 2614369 | 842067c3077c9df1d74ddc369dd9138ec6e5449c6473ac40f2bda4da1802a87b | 296aa4a9f22a06c385a989e8ebdadcdbd43dfeaf |
+
+PNG integrity checked; uploaded blob SHAs matched local bytes. Original images, signage-v1 and rejected screens-v2 preserved. Comparison page now uses Stage I signage-v1, Stage II screens-v3 and Stage III screens-v1. Website production art unchanged.
+
+Next: browser compare selected set, including narrow viewport and exact screen placement; if accepted, integrate paths and accurate disclosure, then saved-stage regression/image loading checks. Do not repeat name edits or rejected lower-window screens. Final export framing, complete source ZIP audit and all remaining launch gates remain open.
