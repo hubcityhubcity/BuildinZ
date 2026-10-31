@@ -53,3 +53,7 @@ Both original Crown posters retrieved and visually inspected. Later infographic 
 ## Latest checkpoint — October 31, 2026
 
 Crown integrated after browser comparison, narrow-layout checks and state regression tests; all five Neon Heights identities are now selectable in the prototype. See CROWN_PRODUCTION_HANDOFF.md for exact evidence and limitations. Next production batch: audit/correct Neon and HoloTech mounted names and framing, retaining approved architecture. Crown and Midnight integration are complete for the demo; do not restart them. Final NFT artwork certification, all remaining neighborhoods, metadata, contracts and release gates remain open.
+
+## Neon / HoloTech audit checkpoint — October 31, 2026
+
+Inspected actual Neon composite and HoloTech II/III sources. Saved Quantum Spire signage candidate with complete antenna; final framing and browser acceptance remain open. See NEON_HOLOTECH_CORRECTION_HANDOFF.md for manifest, observed discrepancies and next actions. Next: HoloTech Stage I full-name check and Omninet Nexus correction; do not duplicate the Quantum Spire name edit.
