@@ -140,3 +140,12 @@ Generated and visually inspected Aureate Residences, Gilded Terraces and Imperia
 The initial Imperial Sunhold output failed the sky-margin gate and was not committed. A targeted framing correction produced selected Stage III v2 with crown clearance and full base retained. SHA-256, bytes and Git blob evidence are recorded in `design/GOLDEN_CREST_RESIDENTIAL_ART_HANDOFF.md` and the consolidated asset manifest.
 
 These are delegated lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Golden Crest Retail — Meridian Market → Crown Arcade → Grand Aureum Exchange. Do not redo Residential without a specific defect.
+
+
+## Golden Crest Retail lineage checkpoint — October 31, 2026
+
+Generated and visually inspected Meridian Market, Crown Arcade and Grand Aureum Exchange as the second complete Golden Crest three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, complete retail bases, coherent ivory/gold/amber/royal-blue/black-marble materials and obvious escalation in levels, galleries, atrium scale and crown importance.
+
+The initial Grand Aureum Exchange output failed the sky-margin gate and was not committed. A framing-only v2 correction preserves the five-level retail system, supported bridges, exact two-line name and full arrival plaza. Integrity evidence is recorded in `design/GOLDEN_CREST_RETAIL_ART_HANDOFF.md` and the consolidated manifest.
+
+These are delegated lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Golden Crest Technology — Solara Labs → Helios Foundry → Daystar Citadel. Do not redo Residential or Retail without a specific defect.

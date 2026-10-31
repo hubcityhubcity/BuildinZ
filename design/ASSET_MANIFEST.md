@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **40**
+- Repository asset files: **43**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **132**
+- Non-Neon required stage masters without a selected lineage candidate: **129**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -17,7 +17,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Neighborhood | Required stage masters | Prototype-selected | Final NFT certified | Status |
 |---|---:|---:|---:|---|
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
-| Golden Crest | 15 | 0 | 0 | Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open |
+| Golden Crest | 15 | 0 | 0 | Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open |
 | Shadow Market | 15 | 0 | 0 | production not started |
 | Skygarden District | 15 | 0 | 0 | production not started |
 | Velocity Row | 15 | 0 | 0 | production not started |
@@ -73,3 +73,14 @@ Use `GOLDEN_CREST_PRODUCTION_BRIEF.md` to produce the first non-Neon versioned s
 | III | Imperial Sunhold | `assets/candidates/golden-crest-imperial-sunhold-stage-3-v2.png` | 1024 × 1536 | 3,016,756 | `a326d66274af91c3a89ac1d0ccffe517fd04bf700394cf6be27413513b1a2ae6` | `545e152c1e8e063c3b37a48f9bc9b5e1cb8c01de` |
 
 These are delegated, visually inspected lineage candidates—not prototype-integrated art and not final NFT certification. The first Stage III generation had insufficient crown clearance and was not committed; v2 is a targeted framing correction with clear sky margin, full base and exact mounted name.
+
+
+## Golden Crest Retail selected candidates — October 31, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Meridian Market | `assets/candidates/golden-crest-meridian-market-stage-1-v1.png` | 1024 × 1536 | 3,023,710 | `19dba4fd0c59f6d9f9276713e31868d9db79b17cc16bc018580d923b8f937328` | `500a4669903afc61556e15d101d34e86567a5969` |
+| II | Crown Arcade | `assets/candidates/golden-crest-crown-arcade-stage-2-v1.png` | 1024 × 1536 | 3,075,937 | `bb5cf9c0d063e849bab3c95fb02a4458690c89470b820040fe8f629735c8be64` | `2eab2be0e655d1479b38ef15bd015cf56ee124aa` |
+| III | Grand Aureum Exchange | `assets/candidates/golden-crest-grand-aureum-exchange-stage-3-v2.png` | 1024 × 1536 | 2,942,203 | `307d82f5ba398a2515ed43b6e1694d59d07a7a03773e6329fa7c37f9ad746a85` | `c4a3c4078412de98bafe6df43fddba87cc077725` |
+
+Delegated lineage candidates only. They are not prototype-integrated and not final NFT-certified. The first Stage III output had insufficient crown clearance and was not committed; v2 corrects framing while retaining the supported gallery system, full plaza and exact two-line name.

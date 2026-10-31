@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-10-31",
-  "repository_commit": "c2634f01363a90d2bcd232bba496dbd0cf0a002a",
+  "repository_commit": "ad8a2a2c239b5c14fd37d2c73e969938b5458c06",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 40,
+    "asset_files": 43,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 3
+    "lineage_selected_candidate_stage_assets": 6
   },
   "production_matrix": [
     {
@@ -32,9 +32,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open",
+      "status": "Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 3
+      "selected_candidate_stage_assets": 6
     },
     {
       "neighborhood_id": 2,
@@ -790,6 +790,63 @@
       "identity_name": "Imperial Sunhold",
       "stage": 3,
       "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation plus targeted framing correction; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-meridian-market-stage-1-v1.png",
+      "bytes": 3023710,
+      "git_blob_sha": "500a4669903afc61556e15d101d34e86567a5969",
+      "sha256": "19dba4fd0c59f6d9f9276713e31868d9db79b17cc16bc018580d923b8f937328",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Meridian Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-crown-arcade-stage-2-v1.png",
+      "bytes": 3075937,
+      "git_blob_sha": "2eab2be0e655d1479b38ef15bd015cf56ee124aa",
+      "sha256": "bb5cf9c0d063e849bab3c95fb02a4458690c89470b820040fe8f629735c8be64",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Crown Arcade",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation using accepted Stage I as lineage reference; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-grand-aureum-exchange-stage-3-v2.png",
+      "bytes": 2942203,
+      "git_blob_sha": "c4a3c4078412de98bafe6df43fddba87cc077725",
+      "sha256": "307d82f5ba398a2515ed43b6e1694d59d07a7a03773e6329fa7c37f9ad746a85",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Grand Aureum Exchange",
+      "stage": 3,
+      "building_type": "Retail",
       "selected_for_prototype": false,
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
