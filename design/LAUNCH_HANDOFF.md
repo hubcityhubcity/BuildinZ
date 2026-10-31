@@ -97,3 +97,7 @@ Saved Stage II screens-v2 as a failed-placement review candidate, not selected a
 ## Neon rooftop screen correction checkpoint — October 31, 2026
 
 Saved Stage II screens-v3 and Stage III screens-v1, visually inspected with two and three distinct upper-pool displays respectively. Rejected lower-window placement is absent from Stage II. Correct names, pool/lounges and Stage III crown retained. Manifest includes hashes, prompts and delegated-decision provenance; comparison page references new pair. Next: browser/mobile acceptance and integration tests; no final launch claim.
+
+## Neon prototype integration complete — October 31, 2026
+
+Selected Neon artwork integrated with exact names and two/three rooftop displays in Stages II/III. Desktop comparison, narrow iframe image loading/no-overflow/preview isolation and regression tests pass; evidence in NEON_SOURCE_MANIFEST.md. All five Neon Heights prototype lineages now use correctly named artwork. This is not complete Genesis launch readiness. Next bounded batch: approved Midnight ZIP/master byte audit, then canonical remaining identity registry and production planning; do not redo completed signage/integration.

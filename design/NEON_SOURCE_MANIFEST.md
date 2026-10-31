@@ -95,3 +95,13 @@ Actual outputs inspected: Stage II has two distinct small roof-band displays and
 PNG integrity checked; uploaded blob SHAs matched local bytes. Original images, signage-v1 and rejected screens-v2 preserved. Comparison page now uses Stage I signage-v1, Stage II screens-v3 and Stage III screens-v1. Website production art unchanged.
 
 Next: browser compare selected set, including narrow viewport and exact screen placement; if accepted, integrate paths and accurate disclosure, then saved-stage regression/image loading checks. Do not repeat name edits or rejected lower-window screens. Final export framing, complete source ZIP audit and all remaining launch gates remain open.
+
+## Prototype integration — October 31, 2026
+
+Browser comparison loaded all three selected candidates and original composite. At 351px candidate width, exact names readable, complete crown visible, rooftop display treatment restrained. Agent accepts signage-v1 Stage I / screens-v3 Stage II / screens-v1 Stage III for uncropped prototype use. Full-resolution screen count remains II 2, III 3; tiny display graphics are not expected to be legible at thumbnail scale. Final NFT export framing and full collection audit remain open.
+
+Added centralized neonArt(stage) mapping to hero, previews and saved-stage collection cards, plus corrected initial hero source and accurate name/screen disclosure. Original composite and prior variants preserved. Legacy canvas crops remain available but are not selected by new paths.
+
+Validation: actual-page-script unit suite passes all existing groups plus Neon selected paths, 120/280 costs, independent state, reload and preview isolation. Browser 390px iframe with 375px content width: Stage II and III previews load the selected images with exact headings; current saved name stays Neon Residences during preview; scroll width equals viewport width (375), no horizontal overflow. These are prototype checks, not transfer-contract, physical-device, full accessibility or security certification.
+
+Next: all five Neon Heights prototype lineages now have corrected stage-specific names. Do not restart completed signage work. Retrieve and byte-verify approved Midnight ZIP/master against preserved originals, then consolidate the 50-identity registry and remaining neighborhood decisions, keeping unproduced art explicitly incomplete. Final framing, collection supply/metadata and contract/release gates remain open.

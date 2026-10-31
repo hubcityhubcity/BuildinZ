@@ -49,7 +49,7 @@ for (let stage=1;stage<=3;stage++) {
  const pulse=['Pulse Plaza','Spectrum Galleria','Infinity Bazaar'][stage-1];
  function cards(){
   const html=h.node('buildings').innerHTML;
-  assert.ok(html.includes('assets/neon-residences-stage-'+stage+'.webp" alt="Concept art for '+neon));
+  assert.ok(html.includes((['assets/candidates/neon-stage-1-signage-v1.png','assets/candidates/neon-stage-2-screens-v3.png','assets/candidates/neon-stage-3-screens-v1.png'][stage-1])+'" alt="Concept art for '+neon));
   assert.ok(html.includes('<strong>'+neon+'</strong><small>Residential</small>'));
   assert.ok(html.includes((stage===1?'assets/pulse-stage-1.png':'assets/candidates/pulse-stage-'+stage+'-signage-v1.png')+'" alt="Concept art for '+pulse));
   assert.ok(html.includes('<strong>'+pulse+'</strong><small>Retail</small>'));
@@ -66,3 +66,10 @@ p.node('evolve').click();assert.equal(p.read().pulseStage,3);assert.equal(p.read
 p=boot(p.read());p.node('choose-pulse').click();assert.equal(p.node('building-name').textContent,'Infinity Bazaar');p.node('preview-1').click();assert.equal(p.node('evolution-title').textContent,'Pulse Plaza');assert.equal(p.node('building-name').textContent,'Infinity Bazaar');
 p.node('own-pulse').click();p.node('own-pulse').click();assert.equal(p.read().pulseStage,3);
 console.log('PASS: Pulse selected art paths, costs, independent state, reload, preview and recollect persistence');
+
+let q=boot({...legacy,stage:1,balance:500});
+assert.match(q.node('hero-art').src,/neon-stage-1-signage-v1.png$/);
+q.node('evolve').click();assert.equal(q.read().stage,2);assert.equal(q.read().balance,380);assert.match(q.node('hero-art').src,/neon-stage-2-screens-v3.png$/);
+q.node('evolve').click();assert.equal(q.read().stage,3);assert.equal(q.read().balance,100);assert.match(q.node('hero-art').src,/neon-stage-3-screens-v1.png$/);assert.equal(q.read().pulseStage,3);
+q=boot(q.read());assert.equal(q.node('building-name').textContent,'Aurora Arcology');q.node('preview-1').click();assert.equal(q.node('building-name').textContent,'Aurora Arcology');assert.equal(q.node('evolution-title').textContent,'Neon Residences');
+console.log('PASS: Neon corrected paths, costs, independent state, reload and preview isolation');
