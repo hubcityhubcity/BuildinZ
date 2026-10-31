@@ -75,3 +75,9 @@ Saved exact-name NEON RESIDENCES and SKYLINE HABITAT derivatives with original a
 ## Complete Neon signage candidate set — October 31, 2026
 
 Aurora Arcology derivative now includes exact mounted name, complete reference crown and visible base. All three versioned candidates are saved; see NEON_SOURCE_MANIFEST.md for source/prompt/checksum evidence and review-neon-candidates.html for comparison. Original art remains in the prototype. Next: browser three-stage comparison, screen-count classification and framing acceptance, then integration/regression checks. No final artwork or launch gate inferred from candidate completion.
+
+## Neon browser review / Pulse audit checkpoint — October 31, 2026
+
+Neon candidate comparison loaded all artwork, with readable names at 351px image widths and full crowns visible. Mobile viewport validation remains pending. Screen classification was inconclusive; NEON_SOURCE_MANIFEST.md now records a concrete delegated two-screen Stage II / three-screen Stage III correction specification, not an approval claim.
+
+Audited actual Pulse I/II/III. I already has correct name; II/III wrongly retain PULSE PLAZA. Saved visually inspected Spectrum Galleria candidate with all three main signs corrected; originals preserved. Corrected false Pulse synchronization disclosure on homepage, regression suite passes. See PULSE_SIGNAGE_HANDOFF.md. Next: Infinity Bazaar signage correction and comparison; Neon media-screen corrections/mobile acceptance remain open. No mint or contract action.
