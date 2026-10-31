@@ -34,3 +34,13 @@ Stage III still has only about 2% antenna clearance rather than requested 10%; I
 Prompt record: I requested replacing both HOLOTECH labels with exact HOLOTECH TOWER below H marks, preserving original architecture/atom display with full silhouette. III requested exact OMNINET NEXUS below H mark, preserving orbital graphic, ring, satellites, decks and massing, reconstructing clipped tips and requesting 10% sky clearance. Built-in image edits; no wallet or paid deployment action.
 
 Next superseding earlier queue: compare I/II/III candidates in browser at narrow/wide sizes; fix insufficient antenna clearance without changing correct names or architecture, then run integration regression checks and update art disclosure. Do not repeat completed name edits. Neon Library source mapping and full-name derivatives remain next identity work.
+
+## Prototype integration decision — October 31, 2026
+
+Browser comparison verified all three v1 candidates load, exact facade names are legible, and complete antenna tips remain inside the images. Agent decision: accept tight source margins for uncropped prototype use, superseding earlier integration hold. The 10% sky margin was an agent prompt target, not an owner-approved requirement; this decision does not falsely mark that target achieved. Existing contain-fit presentation preserves full images. Final NFT export framing and collection-wide perspective audit remain open.
+
+Integrated versioned candidate paths into hero/previews/tracker. HoloTech collection card now shows its actual current stage name, separate from Technology type. Replaced stale HOLOTECH-signage warning with accurate lineage disclosure; originals preserved. Narrow browser iframe: 390px outer width, 375px content/scroll width (no horizontal overflow); Omninet preview loaded with correct name and path. Public comparison loaded all three stages. No physical-device or full accessibility certification claimed.
+
+`node tests/midnight-state.test.cjs` passed existing Midnight/Crown checks plus HoloTech versioned paths, exact current card names, 120/280 costs, independent saved progress, reload and preview isolation. These are actual-page-script unit tests using a minimal DOM adapter, not contract tests. No wallet or mint action.
+
+Next batch: resolve and visually inspect Neon standalone Library sources against neon-original.png before name corrections. Do not redo HoloTech signage or prototype integration. Final collection export framing remains separate from completed prototype acceptance.

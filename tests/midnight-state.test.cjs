@@ -35,3 +35,9 @@ d.node('own-crown').click();d.node('own-crown').click();assert.equal(d.read().cr
 let e=boot({...legacy,owned:['neon','crown'],balance:0});e.node('choose-crown').click();e.node('evolve').click();assert.match(e.node('message').textContent,/Not enough/);
 let f=boot({...legacy,owned:['neon','crown']});f.node('choose-crown').click();f.cancel();f.node('evolve').click();assert.equal(f.read().balance,500);
 console.log('PASS: Crown legacy default, three versioned paths, previews, 120/280 costs, independent five-stage state, card name, cap, reload, recollect, insufficient balance and cancellation');
+// Corrected technology artwork follows existing saved evolution state.
+let g=boot({...legacy,holoStage:1,owned:['neon','holo'],balance:500});g.node('choose-holo').click();assert.equal(g.node('building-name').textContent,'HoloTech Tower');assert.match(g.node('hero-art').src,/holotech-stage-1-signage-v1.png$/);
+g.node('evolve').click();assert.equal(g.read().holoStage,2);assert.equal(g.read().balance,380);assert.match(g.node('hero-art').src,/holotech-stage-2-signage-v1.png$/);assert.match(g.node('buildings').innerHTML,/<strong>Quantum Spire<\/strong>/);
+g.node('evolve').click();assert.equal(g.read().holoStage,3);assert.equal(g.read().balance,100);assert.match(g.node('hero-art').src,/holotech-stage-3-signage-v1.png$/);assert.match(g.node('buildings').innerHTML,/<strong>Omninet Nexus<\/strong>/);assert.equal(g.read().stage,2);assert.equal(g.read().pulseStage,3);
+g=boot(g.read());g.node('choose-holo').click();assert.equal(g.node('building-name').textContent,'Omninet Nexus');g.node('preview-1').click();assert.equal(g.node('building-name').textContent,'Omninet Nexus');assert.equal(g.node('evolution-title').textContent,'HoloTech Tower');
+console.log('PASS: HoloTech versioned paths, exact card names, evolution costs, independent state, reload and preview isolation');
