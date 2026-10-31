@@ -71,3 +71,7 @@ Corrected Neon and Pulse collection cards to show saved-stage name and matching 
 ## Neon Stage I / II candidate checkpoint — October 31, 2026
 
 Saved exact-name NEON RESIDENCES and SKYLINE HABITAT derivatives with original architecture retained at visual inspection. Checksums and prompt record are in NEON_SOURCE_MANIFEST.md; candidate-only comparison is review-neon-candidates.html. Main site artwork unchanged pending complete set review. Next: Aurora Arcology using original composite for full crown, then screen-count/framing and browser comparison. Do not regenerate I/II without a specific defect. Full launch gates remain open.
+
+## Complete Neon signage candidate set — October 31, 2026
+
+Aurora Arcology derivative now includes exact mounted name, complete reference crown and visible base. All three versioned candidates are saved; see NEON_SOURCE_MANIFEST.md for source/prompt/checksum evidence and review-neon-candidates.html for comparison. Original art remains in the prototype. Next: browser three-stage comparison, screen-count classification and framing acceptance, then integration/regression checks. No final artwork or launch gate inferred from candidate completion.
