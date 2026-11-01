@@ -149,3 +149,10 @@ Generated and visually inspected Meridian Market, Crown Arcade and Grand Aureum 
 The initial Grand Aureum Exchange output failed the sky-margin gate and was not committed. A framing-only v2 correction preserves the five-level retail system, supported bridges, exact two-line name and full arrival plaza. Integrity evidence is recorded in `design/GOLDEN_CREST_RETAIL_ART_HANDOFF.md` and the consolidated manifest.
 
 These are delegated lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Golden Crest Technology — Solara Labs → Helios Foundry → Daystar Citadel. Do not redo Residential or Retail without a specific defect.
+
+
+## Metadata pipeline engineering checkpoint — November 1, 2026
+
+Added `scripts/build_genesis_metadata.mjs`, `tests/test_build_genesis_metadata.mjs`, and `design/METADATA_RELEASE_PIPELINE.md`. These implement the fail-closed 3,000 token-stage metadata preparation gate: exact stage names, immutable identity/rarity, per-edition image uniqueness, local SHA-256 validation, IPFS-form URIs, and separately confirmed visual QA flags. Existing canonical 1,000-token registry was independently rechecked for contiguous IDs, 50 identities and exact 400/250/200/100/50 rarity totals. Local equivalent validator tests passed; repository tests were committed but not yet run on a hosted CI service. No image release manifest, production metadata, images, contracts or mint were created in this step. A wrong-style art-generation output was rejected and not committed.
+
+Next production artwork remains Golden Crest Technology: Solara Labs → Helios Foundry → Daystar Citadel. Do not conflate metadata tooling with metadata-complete or mint-ready state; the 3,000 edition-stage assets and final visual/remote URI validations remain outstanding.
