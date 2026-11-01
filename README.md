@@ -1,5 +1,7 @@
 # BuildinZ — Prototype v0.1
 
+> **Current production checkpoint (November 1, 2026):** All five Neon Heights building identities have correctly named three-stage artwork integrated in the **prototype source**; this does not certify mobile devices or minted NFT art. The 1,000-token canonical registry is complete, and Golden Crest Residential/Retail have six selected **candidate** stage images. A fail-closed three-stage metadata preparation tool and tests are in `scripts/build_genesis_metadata.mjs` and `tests/test_build_genesis_metadata.mjs` (see `design/METADATA_RELEASE_PIPELINE.md`). No real NFT mint, permanent metadata release, contract or wallet integration exists. The October 23–24 notes below are preserved as historical development milestones, not the current playable-building count. See `design/LAUNCH_HANDOFF.md` for the latest checkpoint.
+
 BuildinZ is a collectible architectural NFT project planned for Polygon, with ten themed neighborhoods and three permanent evolution stages per building. This repository contains the Neon Heights interactive design prototype.
 
 ## Prototype only
