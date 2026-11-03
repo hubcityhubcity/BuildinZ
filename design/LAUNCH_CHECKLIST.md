@@ -42,6 +42,12 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## 4. Polygon contracts and integration
 
+**November 3 prototype checkpoint:** A limited [ERC-721 Solidity draft](../contracts/BuildinZGenesis.sol) and [Foundry test suite](../test/BuildinZGenesis.t.sol) compile and pass in [CI run 41728482051](https://github.com/hubcityhubcity/BuildinZ/actions/runs/41728482051). This is an engineering milestone only: production contract requirements and security gates remain unchecked. See [handoff](POLYGON_CONTRACT_PROTOTYPE_HANDOFF.md).
+
+- [x] Implement an isolated 1,000-supply, forward-only evolution contract **prototype** with default-closed mint/evolution and ERC-4906 stage events.
+- [x] Compile the prototype and pass initial positive/negative unit tests in CI.
+- [ ] Integrate final approved BRICK/points evolution authorization/settlement (draft upgrade is fee-free for testing).
+
 - [ ] Implement capped 1,000-supply mint contract.
 - [ ] Implement owner-authorized permanent Stage I→II→III evolution on the same token.
 - [ ] Verify evolution state persists across transfers.
