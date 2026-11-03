@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#090915">
+  <title>BuildinZ Genesis | Collection Registry Preview</title>
+  <link rel="icon" href="assets/logo.webp">
+  <style>
+    :root {color-scheme:dark;--bg:#090915;--panel:#17162b;--panel2:#211f3c;--line:#504967;--text:#f7f4ff;--muted:#bdb6d3;--aqua:#6ae8fb;--purple:#ba97ff}
+    *{box-sizing:border-box}
+    body{margin:0;background:radial-gradient(ellipse at 80% -10%,#302057 0,transparent 40%),var(--bg);color:var(--text);font:16px/1.5 system-ui,-apple-system,Segoe UI,sans-serif}
+    a{color:var(--aqua)}a:hover{text-decoration:none}
+    button,select,input{font:inherit}
+    :focus-visible{outline:3px solid var(--aqua);outline-offset:3px}
+    .wrap{max-width:1220px;margin:auto;padding:0 20px}
+    header{border-bottom:1px solid var(--line);background:rgba(12,11,30,.82)}
+    .top{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;padding:16px 0}
+    .brand{display:flex;align-items:center;gap:9px;color:var(--text);font-weight:900;text-decoration:none;letter-spacing:.07em}
+    .brand img{width:40px;height:40px;border-radius:50%}
+    .links{display:flex;gap:20px;flex-wrap:wrap;font-size:14px}
+    main{padding-top:28px;padding-bottom:70px}
+    .eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:.16em;font-weight:800;color:var(--aqua)}
+    h1{font-size:clamp(28px,4.5vw,50px);line-height:1.07;letter-spacing:-.04em;margin:10px 0 14px}
+    h2{font-size:19px;margin:0}
+    .intro{max-width:850px;color:var(--muted)}
+    .notice{border:1px solid #665784;background:#241c37;padding:14px 17px;border-radius:14px;margin:22px 0;font-size:14px}
+    .notice strong{color:#e8ddff}
+    .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:20px 0 24px}
+    .stat{background:var(--panel);border:1px solid var(--line);border-radius:13px;padding:16px}
+    .stat b{display:block;font-size:25px}
+    .stat span{font-size:12px;color:var(--muted)}
+    .filters{display:grid;grid-template-columns:minmax(160px,1.3fr) repeat(3,minmax(135px,1fr)) minmax(115px,.65fr);gap:12px;align-items:end;background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:18px}
+    label{display:block;color:#d8d3eb;font-size:13px;font-weight:700}
+    label span{display:block;margin-bottom:7px}
+    input,select{background:#0d0d20;color:var(--text);border:1px solid #77708e;border-radius:9px;padding:11px 10px;width:100%;min-height:46px}
+    input::placeholder{color:#aaa4c0}
+    .results-head{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin:25px 0 14px}
+    #result-count{font-size:14px;color:var(--muted)}
+    .grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:15px}
+    .card{background:var(--panel);border:1px solid var(--line);border-radius:16px;overflow:hidden;min-width:0}
+    .art{height:255px;background:radial-gradient(ellipse,#262045,#0b0b1c);display:flex;align-items:center;justify-content:center;position:relative}
+    .art img{width:100%;height:100%;object-fit:contain}
+    .missing{padding:28px;text-align:center;font-weight:700;color:#c0b8d1;font-size:14px}
+    .kind{position:absolute;top:9px;left:9px;right:9px;display:flex;justify-content:flex-start}
+    .kind span{background:rgba(9,8,27,.93);border:1px solid #665b87;border-radius:99px;padding:4px 9px;font-size:11px;max-width:100%;color:#e7e0ff}
+    .content{padding:16px}
+    .card h3{font-size:17px;line-height:1.24;margin:8px 0;overflow-wrap:anywhere}
+    .meta{color:var(--muted);font-size:13px}
+    .pills{display:flex;gap:6px;flex-wrap:wrap;margin:11px 0}
+    .pill{border:1px solid #665a80;border-radius:99px;padding:3px 8px;font-size:11px;color:#eee8ff}
+    .caveat{font-size:12px;color:#c9bfdc;border-top:1px solid #453b59;padding-top:10px}
+    .pager{display:flex;gap:12px;justify-content:center;align-items:center;margin:24px 0}
+    .pager button{border:1px solid #6d628d;background:#322956;color:white;border-radius:10px;padding:10px 18px;min-height:44px}
+    .pager button:disabled{opacity:.42;cursor:not-allowed}
+    #message{padding:24px 0;color:#e4d9f4}
+    .footer{border-top:1px solid var(--line);padding:20px 0 35px;color:var(--muted);font-size:13px}
+    [hidden]{display:none!important}
+    @media(max-width:1000px){.filters{grid-template-columns:repeat(3,1fr)}.grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+    @media(max-width:700px){.stats{grid-template-columns:repeat(2,1fr)}.filters{grid-template-columns:repeat(2,minmax(0,1fr))}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.art{height:205px}}
+    @media(max-width:420px){.wrap{padding:0 12px}.filters{grid-template-columns:1fr}.grid{grid-template-columns:1fr}.art{height:275px}.top{align-items:flex-start}}
+  </style>
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <a class="brand" href="index.html"><img src="assets/logo.webp" alt="">BUILDINZ</a>
+    <nav class="links" aria-label="Site navigation">
+      <a href="index.html">Neon Heights demo</a>
+      <a href="https://github.com/hubcityhubcity/BuildinZ/blob/main/design/GENESIS_COLLECTION_REGISTRY.md">Collection plan</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+  <div class="eyebrow">Genesis / production preview</div>
+  <h1>The full city. One thousand planned editions.</h1>
+  <p class="intro">Browse the collection registry across all ten neighborhoods. These are <strong>planned tokens, not minted NFTs</strong>. Stage selection previews a design lineage; it does not evolve, assign ownership, or transact on Polygon.</p>
+  <div class="notice"><strong>Art status matters.</strong> Neon Heights images are prototype-selected concepts; Golden Crest images are candidate art. Neither is certified final NFT/edition artwork. Reused identity previews do not represent unique rarity-specific edition images. Missing artwork is labeled, never fabricated.</div>
+  <section class="stats" aria-label="Collection scope">
+    <div class="stat"><b id="stat-tokens">1,000</b><span>planned token IDs</span></div>
+    <div class="stat"><b id="stat-neighborhoods">10</b><span>neighborhoods</span></div>
+    <div class="stat"><b id="stat-identities">50</b><span>building identities</span></div>
+    <div class="stat"><b>3</b><span>permanent stages planned</span></div>
+  </section>
+  <section class="filters" aria-label="Collection filters">
+    <label><span>Search token, name or ID</span><input id="search" type="search" placeholder="e.g. 42, Aurora, BZ-0042"></label>
+    <label><span>Neighborhood</span><select id="neighborhood"><option value="">All neighborhoods</option></select></label>
+    <label><span>Building type</span><select id="type"><option value="">All types</option></select></label>
+    <label><span>Edition rarity</span><select id="rarity"><option value="">All rarities</option></select></label>
+    <label><span>Stage preview</span><select id="stage"><option value="1">Stage I</option><option value="2">Stage II</option><option value="3">Stage III</option></select></label>
+  </section>
+  <section aria-labelledby="result-heading">
+    <div class="results-head"><h2 id="result-heading">Collection registry</h2><span id="result-count" role="status" aria-live="polite"></span></div>
+    <p id="message" role="alert">Loading the canonical collection registry…</p>
+    <div id="cards" class="grid" aria-label="Planned editions"></div>
+    <div id="pagination" class="pager" hidden>
+      <button id="previous" type="button">Previous</button><span id="page-number" aria-live="polite"></span><button id="next" type="button">Next</button>
+    </div>
+  </section>
+</main>
+<footer class="footer"><div class="wrap">BuildinZ Genesis · Planning preview only · No mint, wallet connection, sale, BRICK token, or financial promises. <a href="index.html">Return to demo</a>.</div></footer>
+<script>
+(() => {
+  "use strict";
+  const PAGE_SIZE = 24;
+  const $ = id => document.getElementById(id);
+  const state = { tokens: [], assets: new Map(), page: 0 };
+  const stageNames = {1: "Stage I", 2: "Stage II", 3: "Stage III"};
+
+  function option(select, value, label) {
+    const el = document.createElement("option");
+    el.value = value;
+    el.textContent = label;
+    select.appendChild(el);
+  }
+  function element(tag, cls, value) {
+    const el = document.createElement(tag);
+    if (cls) el.className = cls;
+    if (value != null) el.textContent = String(value);
+    return el;
+  }
+  function findArt(token, stage) {
+    return state.assets.get(token.stage_names[String(stage)]) || null;
+  }
+  function filtering(tokens, filters) {
+    const needle = filters.search.trim().toLowerCase();
+    return tokens.filter(t =>
+      (!filters.neighborhood || t.neighborhood_key === filters.neighborhood) &&
+      (!filters.type || t.building_type === filters.type) &&
+      (!filters.rarity || t.base_rarity === filters.rarity) &&
+      (!needle || [t.token_id, t.token_key, t.identity_id, t.neighborhood_name,
+                    t.stage_names["1"], t.stage_names["2"], t.stage_names["3"]]
+                    .some(v => String(v).toLowerCase().includes(needle)))
+    );
+  }
+  function readFilters() {
+    return {search:$("search").value,neighborhood:$("neighborhood").value,
+      type:$("type").value,rarity:$("rarity").value,stage:Number($("stage").value)};
+  }
+  function card(token, stage) {
+    const item = element("article", "card");
+    const art = element("div", "art");
+    const image = findArt(token, stage);
+    if (image) {
+      const img = document.createElement("img");
+      img.src = image.path;
+      img.loading = "lazy";
+      img.alt = token.stage_names[String(stage)] + " — " + (image.selected_for_prototype ? "prototype concept" : "unapproved lineage candidate") + ", not final edition artwork";
+      img.onerror = () => {
+        img.remove();
+        art.appendChild(element("span", "missing", "Image failed to load — concept unavailable"));
+      };
+      art.appendChild(img);
+    } else {
+      art.appendChild(element("span", "missing", "Stage artwork in production"));
+    }
+    const kind = element("div", "kind");
+    kind.appendChild(element("span", "", !image ? "Artwork not produced" :
+      image.selected_for_prototype ? "Prototype concept" : "Candidate concept"));
+    art.appendChild(kind);
+    item.appendChild(art);
+
+    const content = element("div", "content");
+    content.appendChild(element("div", "eyebrow", token.token_key + " · Edition " + token.edition + "/20"));
+    content.appendChild(element("h3", "", token.stage_names[String(stage)]));
+    content.appendChild(element("div", "meta", token.neighborhood_name + " · " + token.building_type));
+    const pills = element("div", "pills");
+    pills.appendChild(element("span", "pill", token.base_rarity));
+    pills.appendChild(element("span", "pill", stageNames[stage]));
+    content.appendChild(pills);
+    content.appendChild(element("div", "caveat", "Registry record only. Not minted or offered for sale. " +
+      (image ? "Image depicts the shared identity stage, not this edition's final variant." : "No image URI or final edition art.")));
+    item.appendChild(content);
+    return item;
+  }
+  function render() {
+    const filters = readFilters();
+    const visible = filtering(state.tokens, filters);
+    const pages = Math.ceil(visible.length / PAGE_SIZE);
+    state.page = Math.min(state.page, Math.max(0, pages - 1));
+    const start = state.page * PAGE_SIZE;
+    const slice = visible.slice(start, start + PAGE_SIZE);
+    const fragment = document.createDocumentFragment();
+    for (const t of slice) fragment.appendChild(card(t, filters.stage));
+    $("cards").replaceChildren(fragment);
+    $("result-count").textContent = visible.length.toLocaleString() +
+      " planned editions match · showing " + (slice.length ? start + 1 : 0) +
+      "–" + (start + slice.length);
+    $("message").textContent = visible.length ? "" : "No matching editions. Try different filters.";
+    $("message").hidden = Boolean(visible.length);
+    $("pagination").hidden = pages < 2;
+    $("page-number").textContent = "Page " + (state.page + 1) + " of " + Math.max(1, pages);
+    $("previous").disabled = state.page === 0;
+    $("next").disabled = state.page >= pages - 1;
+  }
+  function validate(registry, manifest, collection) {
+    if (registry.status !== "registry-only-not-mint-ready" || registry.supply !== 1000 ||
+      !Array.isArray(registry.tokens) || registry.tokens.length !== 1000 ||
+      !Array.isArray(collection.neighborhoods) || collection.neighborhoods.length !== 10 ||
+      !Array.isArray(manifest.assets)) throw Error("The expected canonical registry or asset manifest was not found.");
+    const unique = new Set(registry.tokens.map(t => t.token_id));
+    if (unique.size !== 1000 || !registry.tokens.every(t =>
+      t.token_id >= 1 && t.token_id <= 1000 && t.edition >= 1 && t.edition <= 20 &&
+      t.evolution_persists_on_transfer === true && [1,2,3].every(s => Boolean(t.stage_names[String(s)]))))
+      throw Error("Token uniqueness, stage mapping, or transfer-persistence validation failed.");
+  }
+  async function start() {
+    try {
+      const paths = ["metadata/genesis-token-registry.json", "design/ASSET_MANIFEST.json", "design/COLLECTION_REGISTRY.json"];
+      const responses = await Promise.all(paths.map(p => fetch(p)));
+      if (responses.some(r => !r.ok)) throw Error("Could not load collection data from the repository.");
+      const [registry, manifest, collection] = await Promise.all(responses.map(r => r.json()));
+      validate(registry, manifest, collection);
+      state.tokens = registry.tokens;
+      const eligible = manifest.assets.filter(a =>
+        (a.selected_for_prototype || a.classification === "lineage-selected-candidate") &&
+        a.identity_name && Number.isInteger(a.stage) && a.path.startsWith("assets/") &&
+        !a.final_nft_certification);
+      for (const a of eligible) {
+        if (state.assets.has(a.identity_name)) throw Error("Duplicate selected art identity: " + a.identity_name);
+        state.assets.set(a.identity_name, a);
+      }
+      for (const neighborhood of collection.neighborhoods) option($("neighborhood"), neighborhood.key, neighborhood.name);
+      for (const type of ["Residential","Retail","Technology","Entertainment","Landmark"]) option($("type"),type,type);
+      for (const rarity of ["Common","Uncommon","Rare","Epic","Legendary"]) option($("rarity"),rarity,rarity);
+      $("stat-tokens").textContent = registry.tokens.length.toLocaleString();
+      $("stat-neighborhoods").textContent = collection.neighborhoods.length;
+      $("stat-identities").textContent = collection.neighborhoods.reduce((n,x) => n + x.identities.length,0);
+      for (const id of ["search","neighborhood","type","rarity","stage"])
+        $(id).addEventListener(id === "search" ? "input" : "change", () => { state.page = 0; render(); });
+      $("previous").addEventListener("click", () => { state.page--; render(); });
+      $("next").addEventListener("click", () => { state.page++; render(); });
+      render();
+    } catch (err) {
+      $("message").hidden = false;
+      $("message").textContent = "The registry preview could not be loaded. " + err.message +
+        " Use the published GitHub Pages URL rather than opening this HTML directly from your device.";
+      $("result-count").textContent = "Data unavailable";
+    }
+  }
+  start();
+})();
+</script>
+</body>
+</html>
