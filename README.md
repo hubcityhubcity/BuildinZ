@@ -8,6 +8,12 @@ BuildinZ is a collectible architectural NFT project planned for Polygon, with te
 
 **NFT ownership, staking, BRICK balances, bonuses, and building evolutions are simulated. They are not real blockchain transactions.** No wallet is required or connected. This prototype cannot mint NFTs, transfer tokens, or execute smart contracts. Demo reward rates are interface-testing values, not promised returns or finalized tokenomics.
 
+## Polygon contract prototype — Nov. 3, 2026
+
+A separate [draft ERC-721 Genesis contract](contracts/BuildinZGenesis.sol) and [Foundry tests](test/BuildinZGenesis.t.sol) are now committed. The [Solidity CI build and tests passed](https://github.com/hubcityhubcity/BuildinZ/actions/runs/41728482051). It models the 1,000-supply cap, fixed token ID, stage persistence on transfer, and stage-linked URI selection.
+
+**Not a live or deployment-ready contract.** Public mint/evolution start disabled; free test-only evolution must be replaced with finalized BRICK/points policy; no verified IPFS content, wallet, public testnet deployment, independent audit, or owner-signed mainnet launch. Details: [contract handoff](design/POLYGON_CONTRACT_PROTOTYPE_HANDOFF.md).
+
 ## Genesis collection browser (source preview)
 
 The separate [Genesis registry gallery](preview-genesis-gallery.html) browses all 1,000 **planned** edition records across ten neighborhoods, with neighborhood, type and rarity filters plus three-stage lineage previews. It is a **planning preview only**, not a mint or final collection artwork gallery. Selected Neon Heights concept images and Golden Crest lineage candidates are explicitly labeled; missing and edition-specific artworks are **not** simulated as finished.
