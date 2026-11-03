@@ -1,0 +1,33 @@
+name: Verify BuildinZ Genesis source
+on:
+  push:
+    branches: [main]
+    paths:
+      - "preview-genesis-gallery.html"
+      - "tests/test_genesis_gallery.mjs"
+      - "tests/test_build_genesis_metadata.mjs"
+      - "metadata/genesis-token-registry.json"
+      - "design/COLLECTION_REGISTRY.json"
+      - "design/ASSET_MANIFEST.json"
+      - ".github/workflows/verify-genesis-source.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate collection registry
+        run: python3 scripts/validate_genesis_registry.py
+      - name: Test stage metadata guardrails
+        run: node --test tests/test_build_genesis_metadata.mjs
+      - name: Test collector gallery source
+        run: node --test tests/test_genesis_gallery.mjs
