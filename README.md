@@ -8,6 +8,12 @@ BuildinZ is a collectible architectural NFT project planned for Polygon, with te
 
 **NFT ownership, staking, BRICK balances, bonuses, and building evolutions are simulated. They are not real blockchain transactions.** No wallet is required or connected. This prototype cannot mint NFTs, transfer tokens, or execute smart contracts. Demo reward rates are interface-testing values, not promised returns or finalized tokenomics.
 
+## Genesis collection browser (source preview)
+
+The separate [Genesis registry gallery](preview-genesis-gallery.html) browses all 1,000 **planned** edition records across ten neighborhoods, with neighborhood, type and rarity filters plus three-stage lineage previews. It is a **planning preview only**, not a mint or final collection artwork gallery. Selected Neon Heights concept images and Golden Crest lineage candidates are explicitly labeled; missing and edition-specific artworks are **not** simulated as finished.
+
+The [source checks](https://github.com/hubcityhubcity/BuildinZ/actions/runs/41679565662) passed on November 3, 2026. Cross-device browser QA, final images, tokenURI metadata, wallet connectivity and Polygon contracts remain open. See [gallery handoff](design/GENESIS_GALLERY_HANDOFF.md).
+
 ## Try it
 
 GitHub Pages: https://hubcityhubcity.github.io/BuildinZ/
