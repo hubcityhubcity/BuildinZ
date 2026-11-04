@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-10-31",
-  "repository_commit": "ad8a2a2c239b5c14fd37d2c73e969938b5458c06",
+  "repository_commit": "99d1bbf2d99350a749bd714a2b18adc55916e6ec",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 43,
+    "asset_files": 46,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 6
+    "lineage_selected_candidate_stage_assets": 9
   },
   "production_matrix": [
     {
@@ -32,9 +32,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open",
+      "status": "Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 6
+      "selected_candidate_stage_assets": 9
     },
     {
       "neighborhood_id": 2,
@@ -851,6 +851,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "built-in image generation plus targeted framing correction; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-solara-labs-stage-1-v1.png",
+      "bytes": 2976586,
+      "git_blob_sha": "5f9a6c8605df5c6df4f48ac8bb3a89bc13b1415c",
+      "sha256": "f5d4154f6f77fcb299107d0d657f0489fb6281a741842ba4746d17ba5af4d820",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Solara Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; actual output visually inspected for exact mounted name, complete base/crown, technology identity and lineage framing. Integrity recorded in GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-helios-foundry-stage-2-v2.png",
+      "bytes": 2942244,
+      "git_blob_sha": "492f3049873e19924de110cff59dedd20083e6a5",
+      "sha256": "68a2601514ef877332f2f8feff6c7d7eb378a72923275b777cdf2fd5daeb85ad",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Helios Foundry",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; targeted framing correction visually inspected for safe antenna clearance, exact mounted name, full podium and supported fabrication program. Integrity recorded in GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-daystar-citadel-stage-3-v1.png",
+      "bytes": 3071069,
+      "git_blob_sha": "f1024e0bd19ab6568ab2414c096342d9879869cf",
+      "sha256": "ba6e6abcc2dbac9245eee27564e89bfb61bbafccbc3f1f05f842a3df5107044e",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Daystar Citadel",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I and accepted Stage II lineage references; visually inspected for exact mounted name, full podium/crown, supported apex, multi-zone research program and clear stage escalation. Integrity recorded in GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md."
     }
   ]
 }

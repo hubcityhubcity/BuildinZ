@@ -156,3 +156,12 @@ These are delegated lineage candidates only: not prototype-integrated, not editi
 Added `scripts/build_genesis_metadata.mjs`, `tests/test_build_genesis_metadata.mjs`, and `design/METADATA_RELEASE_PIPELINE.md`. These implement the fail-closed 3,000 token-stage metadata preparation gate: exact stage names, immutable identity/rarity, per-edition image uniqueness, local SHA-256 validation, IPFS-form URIs, and separately confirmed visual QA flags. Existing canonical 1,000-token registry was independently rechecked for contiguous IDs, 50 identities and exact 400/250/200/100/50 rarity totals. Local equivalent validator tests passed; repository tests were committed but not yet run on a hosted CI service. No image release manifest, production metadata, images, contracts or mint were created in this step. A wrong-style art-generation output was rejected and not committed.
 
 Next production artwork remains Golden Crest Technology: Solara Labs → Helios Foundry → Daystar Citadel. Do not conflate metadata tooling with metadata-complete or mint-ready state; the 3,000 edition-stage assets and final visual/remote URI validations remain outstanding.
+
+
+## Golden Crest Technology lineage checkpoint — November 4, 2026
+
+Generated and visually inspected Solara Labs, Helios Foundry and Daystar Citadel as the third complete Golden Crest three-stage candidate lineage. All three are 1024 × 1536 RGB PNGs with exact mounted names, complete black-marble podiums, coherent ivory/gold/royal-blue radial collector language and clear escalation in height, collector count, research zones, fabrication capacity and crown complexity.
+
+The initial Helios Foundry render failed the crown-clearance gate and was not committed. A framing-only v2 correction preserves the supported fabrication bridge, collector geometry, full podium and exact name with safe sky margin. Daystar Citadel passed visual QA on its first output. SHA-256, byte length and Git blob evidence are recorded in `design/GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md` and the consolidated asset manifest.
+
+These are delegated lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Golden Crest Entertainment — Velvet Hall → Radiant Opera → Solaris Grand Theatre. Do not redo completed Golden Crest lineages without a specific defect.

@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded October 31, 2026 (America/Chicago) against repository commit `55eed0213013f6fa6ef47ff1a9e6448f1b15234c`.
+Recorded November 4, 2026 (America/Chicago) against repository commit `99d1bbf2d99350a749bd714a2b18adc55916e6ec`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **43**
+- Repository asset files: **46**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **129**
+- Non-Neon required stage masters without a selected lineage candidate: **126**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -17,7 +17,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Neighborhood | Required stage masters | Prototype-selected | Final NFT certified | Status |
 |---|---:|---:|---:|---|
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
-| Golden Crest | 15 | 0 | 0 | Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open |
+| Golden Crest | 15 | 0 | 0 | Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open |
 | Shadow Market | 15 | 0 | 0 | production not started |
 | Skygarden District | 15 | 0 | 0 | production not started |
 | Velocity Row | 15 | 0 | 0 | production not started |
@@ -61,8 +61,7 @@ The machine-readable source of truth is `ASSET_MANIFEST.json`. Every entry recor
 
 ## Exact next action
 
-Use `GOLDEN_CREST_PRODUCTION_BRIEF.md` to produce the first non-Neon versioned stage set. After every generated output: inspect the actual image, save it under a versioned candidate path, add dimensions/SHA-256/Git blob evidence here, and do not change final certification until collection-wide export checks pass.
-
+Produce Golden Crest Entertainment: Velvet Hall → Radiant Opera → Solaris Grand Theatre. Preserve the fan-shaped marquee, warm ivory/gold glow and royal-blue velvet accents across the lineage; maintain exact mounted stage names and visibly escalate from intimate hall to landmark theatre.
 
 ## Golden Crest Residential selected candidates — October 31, 2026
 
@@ -84,3 +83,14 @@ These are delegated, visually inspected lineage candidates—not prototype-integ
 | III | Grand Aureum Exchange | `assets/candidates/golden-crest-grand-aureum-exchange-stage-3-v2.png` | 1024 × 1536 | 2,942,203 | `307d82f5ba398a2515ed43b6e1694d59d07a7a03773e6329fa7c37f9ad746a85` | `c4a3c4078412de98bafe6df43fddba87cc077725` |
 
 Delegated lineage candidates only. They are not prototype-integrated and not final NFT-certified. The first Stage III output had insufficient crown clearance and was not committed; v2 corrects framing while retaining the supported gallery system, full plaza and exact two-line name.
+
+
+## Golden Crest Technology selected candidates — November 4, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Solara Labs | `assets/candidates/golden-crest-solara-labs-stage-1-v1.png` | 1024 × 1536 | 2,976,586 | `f5d4154f6f77fcb299107d0d657f0489fb6281a741842ba4746d17ba5af4d820` | `5f9a6c8605df5c6df4f48ac8bb3a89bc13b1415c` |
+| II | Helios Foundry | `assets/candidates/golden-crest-helios-foundry-stage-2-v2.png` | 1024 × 1536 | 2,942,244 | `68a2601514ef877332f2f8feff6c7d7eb378a72923275b777cdf2fd5daeb85ad` | `492f3049873e19924de110cff59dedd20083e6a5` |
+| III | Daystar Citadel | `assets/candidates/golden-crest-daystar-citadel-stage-3-v1.png` | 1024 × 1536 | 3,071,069 | `ba6e6abcc2dbac9245eee27564e89bfb61bbafccbc3f1f05f842a3df5107044e` | `f1024e0bd19ab6568ab2414c096342d9879869cf` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. The first Helios Foundry render failed the crown-clearance gate and was not committed; v2 is a framing-only correction preserving the accepted architecture and exact name. Daystar Citadel passed on its first inspected output.
