@@ -22,3 +22,13 @@ Canonical decision log recorded October 31, 2026 (America/Chicago). Entries dist
 ## Change rule
 
 A later decision may supersede an entry only by adding a new dated entry that names the superseded ID and explains migration impact on artwork, metadata, token IDs and contracts. Never silently reorder identities after token IDs are used outside the repository.
+
+
+## 2026-11-04 — Golden Crest edition finishes
+
+- **Delegated decision:** Adopt a deterministic 20-finish matrix for Golden Crest, keyed directly to canonical edition numbers 1–20 and rarity ranges 8/5/4/2/1.
+- **Persistence rule:** A token keeps the same edition finish through Stage I, II and III; evolution changes architecture, not edition identity.
+- **Allowed variation:** Controlled material response, glazing tint, lighting and restrained decorative inlays.
+- **Forbidden variation:** Architecture, silhouette, amenities, exact mounted name, building type, framing, logos, captions, watermarks or unsupported geometry.
+- **Status boundary:** The matrix is a validated production plan only. Its 300 Golden Crest edition-stage images are not yet rendered, visually inspected, assigned permanent URIs or final-certified.
+- **Evidence:** `GOLDEN_CREST_EDITION_FINISH_MATRIX.json`, `GOLDEN_CREST_EDITION_FINISH_MATRIX.md`, `GOLDEN_CREST_COLLECTION_QA.md`.

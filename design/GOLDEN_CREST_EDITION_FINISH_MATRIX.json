@@ -1,0 +1,221 @@
+{
+  "schema_version": "1.0.0",
+  "recorded_date": "2026-11-04",
+  "status": "delegated-production-plan-not-generated",
+  "neighborhood": {
+    "id": 1,
+    "key": "golden-crest",
+    "name": "Golden Crest"
+  },
+  "authority": "Finish names and treatments are reversible delegated production decisions. Canonical edition numbers and rarity tiers come from COLLECTION_REGISTRY.json.",
+  "scope": {
+    "identities": 5,
+    "stages_per_identity": 3,
+    "editions_per_identity": 20,
+    "planned_unique_stage_images": 300
+  },
+  "invariants": [
+    "One edition keeps the same finish key across all three evolution stages.",
+    "Finish treatments may change material response, controlled lighting, glazing tint and restrained decorative inlays only.",
+    "Architecture, silhouette, amenities, exact mounted stage name, building type and framing must not change.",
+    "No finish may add people as focal points, logos, watermarks, captions, token text, stage labels or unsupported geometry.",
+    "Every rendered edition-stage image must be visually inspected and have unique bytes, SHA-256, dimensions and permanent URI before metadata release."
+  ],
+  "rarity_counts_per_identity": {
+    "Common": 8,
+    "Uncommon": 5,
+    "Rare": 4,
+    "Epic": 2,
+    "Legendary": 1
+  },
+  "planned_neighborhood_token_totals": {
+    "Common": 40,
+    "Uncommon": 25,
+    "Rare": 20,
+    "Epic": 10,
+    "Legendary": 5,
+    "total": 100
+  },
+  "finishes": [
+    {
+      "edition": 1,
+      "rarity": "Common",
+      "key": "champagne-standard",
+      "name": "Champagne Standard",
+      "treatment": "baseline champagne-gold trim, ivory stone and clear amber glazing",
+      "accent": "standard",
+      "intensity": 0.1
+    },
+    {
+      "edition": 2,
+      "rarity": "Common",
+      "key": "ivory-dawn",
+      "name": "Ivory Dawn",
+      "treatment": "slightly brighter ivory surfaces with pale-gold edge light",
+      "accent": "ivory",
+      "intensity": 0.12
+    },
+    {
+      "edition": 3,
+      "rarity": "Common",
+      "key": "amber-window",
+      "name": "Amber Window",
+      "treatment": "warmer amber glazing and restrained interior luminance",
+      "accent": "amber",
+      "intensity": 0.14
+    },
+    {
+      "edition": 4,
+      "rarity": "Common",
+      "key": "royal-blue-accent",
+      "name": "Royal Blue Accent",
+      "treatment": "slightly stronger royal-blue glass and textile accents",
+      "accent": "royal-blue",
+      "intensity": 0.14
+    },
+    {
+      "edition": 5,
+      "rarity": "Common",
+      "key": "black-marble-polish",
+      "name": "Black Marble Polish",
+      "treatment": "higher-polish black-marble base with subtle gold veining",
+      "accent": "black-marble",
+      "intensity": 0.16
+    },
+    {
+      "edition": 6,
+      "rarity": "Common",
+      "key": "soft-gold-cornice",
+      "name": "Soft Gold Cornice",
+      "treatment": "soft champagne-gold cornice emphasis and muted facade highlights",
+      "accent": "soft-gold",
+      "intensity": 0.16
+    },
+    {
+      "edition": 7,
+      "rarity": "Common",
+      "key": "sunlit-podium",
+      "name": "Sunlit Podium",
+      "treatment": "gentle radial podium lighting and brighter arrival-path accents",
+      "accent": "podium-light",
+      "intensity": 0.18
+    },
+    {
+      "edition": 8,
+      "rarity": "Common",
+      "key": "twilight-reflection",
+      "name": "Twilight Reflection",
+      "treatment": "cooler sky reflections in glass while retaining warm interiors",
+      "accent": "twilight-blue",
+      "intensity": 0.18
+    },
+    {
+      "edition": 9,
+      "rarity": "Uncommon",
+      "key": "azure-veil",
+      "name": "Azure Veil",
+      "treatment": "deeper azure glazing with narrow champagne highlights",
+      "accent": "azure",
+      "intensity": 0.22
+    },
+    {
+      "edition": 10,
+      "rarity": "Uncommon",
+      "key": "rose-champagne-edge",
+      "name": "Rose Champagne Edge",
+      "treatment": "restrained rose-champagne metal edge treatment",
+      "accent": "rose-champagne",
+      "intensity": 0.22
+    },
+    {
+      "edition": 11,
+      "rarity": "Uncommon",
+      "key": "moon-pearl-stone",
+      "name": "Moon Pearl Stone",
+      "treatment": "pearl-toned ivory stone with soft moonlit specular response",
+      "accent": "pearl",
+      "intensity": 0.24
+    },
+    {
+      "edition": 12,
+      "rarity": "Uncommon",
+      "key": "citrine-glass",
+      "name": "Citrine Glass",
+      "treatment": "citrine-amber glazing with controlled internal glow",
+      "accent": "citrine",
+      "intensity": 0.24
+    },
+    {
+      "edition": 13,
+      "rarity": "Uncommon",
+      "key": "sapphire-night",
+      "name": "Sapphire Night",
+      "treatment": "sapphire-blue glass and slightly deeper blue-hour atmosphere",
+      "accent": "sapphire",
+      "intensity": 0.26
+    },
+    {
+      "edition": 14,
+      "rarity": "Rare",
+      "key": "platinum-crest",
+      "name": "Platinum Crest",
+      "treatment": "platinum-gold crown accents with cool specular highlights",
+      "accent": "platinum-gold",
+      "intensity": 0.32
+    },
+    {
+      "edition": 15,
+      "rarity": "Rare",
+      "key": "obsidian-sun",
+      "name": "Obsidian Sun",
+      "treatment": "expanded obsidian surfaces with luminous gold sunburst inlays",
+      "accent": "obsidian-gold",
+      "intensity": 0.34
+    },
+    {
+      "edition": 16,
+      "rarity": "Rare",
+      "key": "aurora-aureum",
+      "name": "Aurora Aureum",
+      "treatment": "subtle gold-blue aurora reflections across upper glazing",
+      "accent": "aurora-gold",
+      "intensity": 0.36
+    },
+    {
+      "edition": 17,
+      "rarity": "Rare",
+      "key": "solar-flare",
+      "name": "Solar Flare",
+      "treatment": "brighter radial crown and facade-edge illumination without bloom clipping",
+      "accent": "solar-gold",
+      "intensity": 0.38
+    },
+    {
+      "edition": 18,
+      "rarity": "Epic",
+      "key": "imperial-eclipse",
+      "name": "Imperial Eclipse",
+      "treatment": "high-contrast black marble, deep royal blue and concentrated gold edge light",
+      "accent": "eclipse",
+      "intensity": 0.48
+    },
+    {
+      "edition": 19,
+      "rarity": "Epic",
+      "key": "celestial-aureum",
+      "name": "Celestial Aureum",
+      "treatment": "layered celestial-blue reflections with elevated champagne-gold radiance",
+      "accent": "celestial-gold",
+      "intensity": 0.52
+    },
+    {
+      "edition": 20,
+      "rarity": "Legendary",
+      "key": "genesis-dawn",
+      "name": "Genesis Dawn",
+      "treatment": "unique dawn-gradient glazing, luminous radial inlays and maximum restrained gold presence",
+      "accent": "genesis-dawn",
+      "intensity": 0.7
+    }
+  ]
+}

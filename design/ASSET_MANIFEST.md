@@ -1,6 +1,6 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 4, 2026 (America/Chicago) against repository commit `2038a8ec2f118bad44ef76ea47f312c11b6ac5e4`.
+Recorded November 4, 2026 (America/Chicago) against repository commit `440fcafdee6c3cad493cfef7f9411bab344f8af1`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
@@ -17,7 +17,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Neighborhood | Required stage masters | Prototype-selected | Final NFT certified | Status |
 |---|---:|---:|---:|---|
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
-| Golden Crest | 15 | 0 | 0 | all 15 lineage stage candidates visually inspected; collection-level equal-width QA, edition finish plan and final certification remain open |
+| Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
 | Shadow Market | 15 | 0 | 0 | production not started |
 | Skygarden District | 15 | 0 | 0 | production not started |
 | Velocity Row | 15 | 0 | 0 | production not started |
@@ -61,7 +61,7 @@ The machine-readable source of truth is `ASSET_MANIFEST.json`. Every entry recor
 
 ## Exact next action
 
-Run collection-level equal-width QA across all 15 Golden Crest lineage candidates and define the versioned edition-finish matrix against the fixed 8/5/4/2/1 rarity schedule. Do not mark final certification until cross-lineage framing, name, function and image-integrity gates pass.
+Prepare `SHADOW_MARKET_PRODUCTION_BRIEF.md` from the canonical registry, then produce Gloomstep Flats → Veilside Habitat → Noctis Enclave as its first controlled lineage. Golden Crest's edition finish matrix is planned and validated, but its 300 edition-stage renders remain unproduced.
 
 ## Golden Crest Residential selected candidates — October 31, 2026
 

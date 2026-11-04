@@ -183,3 +183,12 @@ Generated and visually inspected Golden Obelisk, Sunspire Monument and Crown of 
 All three selected outputs passed the naming and framing gates on their first generated versions. Integrity evidence is recorded in `design/GOLDEN_CREST_LANDMARK_ART_HANDOFF.md` and the consolidated manifest.
 
 Golden Crest now has 15 of 15 required stage candidates across Residential, Retail, Technology, Entertainment and Landmark. This is a lineage-candidate milestone only: no prototype integration, edition variants, collection-level equal-width QA or final NFT export certification is inferred. Next bounded batch: run Golden Crest 15-master equal-width QA and define the edition-finish matrix against the fixed 8/5/4/2/1 rarity schedule, then prepare Shadow Market production.
+
+
+## Golden Crest collection QA and edition-finish plan — November 4, 2026
+
+Created and visually inspected an equal-width five-row × three-stage contact sheet for all 15 selected Golden Crest base masters. All source files load; each lineage has clear Stage I→II→III escalation; Residential, Retail, Technology, Entertainment and Landmark remain functionally distinguishable; and required bases/crowns remain in frame. The first QA-sheet build clipped long evidence labels, so the sheet—not the artwork—was corrected before acceptance. Evidence: `design/GOLDEN_CREST_COLLECTION_QA.md` and `design/qa/golden-crest/golden-crest-15-master-contact-sheet.png`.
+
+Committed a deterministic 20-finish plan mapped to canonical edition numbers and the fixed 8 Common / 5 Uncommon / 4 Rare / 2 Epic / 1 Legendary schedule. One finish key persists across all three stages of a token; finishes may change controlled materials, glazing, lighting and restrained inlays but never architecture, signage, identity or framing. The validator passes 20 unique finish keys, 100 Golden Crest tokens and 300 planned edition-stage images.
+
+This is planning and base-master QA, not edition completion or final certification. No edition images or URIs were invented. Next bounded batch: prepare the Shadow Market production brief, then produce Gloomstep Flats → Veilside Habitat → Noctis Enclave.
