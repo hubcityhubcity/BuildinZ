@@ -79,7 +79,7 @@ contract BuildinZGenesisSecurityTest is Test {
         assertEq(nft.stageOf(1), 1);
     }
 
-    function testFailedWithdrawalRollsBackAndKeepsFunds() public {
+    function testWithdrawalFailureRollsBackAndKeepsFunds() public {
         freeze();
         nft.setMintPriceWei(0.2 ether);
         nft.setPublicMintEnabled(true);
