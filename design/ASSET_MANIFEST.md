@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 4, 2026 (America/Chicago) against repository commit `dee1b39ceb414468a67d95c7ffa2286db6479db5`.
+Recorded November 4, 2026 (America/Chicago) against repository commit `97c7590f85c43789e134c90d1b5f81ec163df318`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **55**
+- Repository asset files: **58**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **117**
+- Non-Neon required stage masters without a selected lineage candidate: **114**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -18,7 +18,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 |---|---:|---:|---:|---|
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
-| Shadow Market | 15 | 0 | 0 | Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open |
+| Shadow Market | 15 | 0 | 0 | Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open |
 | Skygarden District | 15 | 0 | 0 | production not started |
 | Velocity Row | 15 | 0 | 0 | production not started |
 | Royal Mirage | 15 | 0 | 0 | production not started |
@@ -61,7 +61,7 @@ The machine-readable source of truth is `ASSET_MANIFEST.json`. Every entry recor
 
 ## Exact next action
 
-Produce Shadow Market Retail: Lantern Row → Blackglass Bazaar → Eclipse Exchange from `SHADOW_MARKET_PRODUCTION_BRIEF.md`. Preserve copper lantern ribs, black-glass shop bays, narrow acid-green directory lines and one diagonal hidden lane across the lineage.
+Produce Shadow Market Technology: Cipher Works → Umbra Array → Nightcode Nexus from `SHADOW_MARKET_PRODUCTION_BRIEF.md`. Preserve the faceted obsidian data core, copper circuit ribs, restrained acid-green code channel and smoked-violet sensor glass across the lineage.
 
 ## Golden Crest Residential selected candidates — October 31, 2026
 
@@ -127,3 +127,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Noctis Enclave | `assets/candidates/shadow-market-noctis-enclave-stage-3-v1.png` | 1024 × 1536 | 2,548,162 | `d5e1354e0b451b529f9bfd6b9c9d8445d423c207514d3a92a30f9f6643822071` | `e82d705cfb767df7271af1a5e2ab74a8bfa7ee0b` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three selected outputs passed exact-name, residential-function, no-public-pool, supported-passage, framing and stage-escalation review on their first generated versions.
+
+
+## Shadow Market Retail selected candidates — November 4, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Lantern Row | `assets/candidates/shadow-market-lantern-row-stage-1-v1.png` | 1024 × 1536 | 2,778,901 | `0cdedad632c473bf3f6df5c866fcbf5623904aefc8e3a090a89bdb2fcac8f9f7` | `def191c2485babd0fe1db00dc1669e1d587ba47b` |
+| II | Blackglass Bazaar | `assets/candidates/shadow-market-blackglass-bazaar-stage-2-v1.png` | 1024 × 1536 | 3,125,730 | `159db7ce13ac0292c8a52b0affcabaf8869539ccd90a5efb2d00955a42c4cc6c` | `bdd069e406bf19266d825e6bdd10368ca4aac5c3` |
+| III | Eclipse Exchange | `assets/candidates/shadow-market-eclipse-exchange-stage-3-v1.png` | 1024 × 1536 | 3,211,921 | `87a3381945b964f4b750a61917366f6e1fa612a1b627a9f0d2d6684947163e2d` | `0f0b0b0994abb00908a205b4e85a0440600a7646` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, retail-function, supported-structure, framing and stage-escalation review on their first generated versions.

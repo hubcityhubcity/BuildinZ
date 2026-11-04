@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest has 15 selected candidates and Shadow Market Residential has 3; 117 non-Neon stage masters remain without selected candidates. Golden Crest base-master QA passes; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest has 15 selected candidates and Shadow Market Residential/Retail have 6; 114 non-Neon stage masters remain without selected candidates. Golden Crest base-master QA passes; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce and inspect Lantern Row / Blackglass Bazaar / Eclipse Exchange from the Retail section of `SHADOW_MARKET_PRODUCTION_BRIEF.md`. Preserve copper lantern ribs, black-glass shop bays, restrained acid-green directory lines and one diagonal hidden lane; keep all galleries, passages, plaza and crown inside frame.
+Produce and inspect Cipher Works / Umbra Array / Nightcode Nexus from the Technology section of `SHADOW_MARKET_PRODUCTION_BRIEF.md`. Preserve the faceted obsidian data core, copper circuit ribs, restrained acid-green code channel and smoked-violet sensor glass; keep all arrays, bridges, base and crown inside frame.

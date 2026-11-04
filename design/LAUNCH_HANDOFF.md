@@ -201,3 +201,12 @@ Committed `design/SHADOW_MARKET_PRODUCTION_BRIEF.md` from the canonical registry
 Generated and visually inspected Gloomstep Flats, Veilside Habitat and Noctis Enclave as Shadow Market's first complete lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, secure arrival courts, coherent copper entry/violet glazing/green wayfinding/screened-passage language and clear escalation from low flats to stacked habitat to multi-zone crowned enclave. No public or ground-level pool appears. Bridges, lounges and crown elements are visibly supported.
 
 Integrity evidence is recorded in `design/SHADOW_MARKET_RESIDENTIAL_ART_HANDOFF.md` and the consolidated manifest. These are base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Shadow Market Retail — Lantern Row → Blackglass Bazaar → Eclipse Exchange.
+
+
+## Shadow Market Retail lineage checkpoint — November 4, 2026
+
+Generated and visually inspected Lantern Row, Blackglass Bazaar and Eclipse Exchange as Shadow Market's second complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, copper lantern ribs, black-glass shop bays, smoked-violet galleries, restrained acid-green directories and diagonal concealed lanes.
+
+Capacity escalates from a low covered market row to a multi-level bazaar with supported crossings and framed market lantern, then to a vertical exchange with more than ten visible trading levels, grand shadow atrium, layered supported market lanes and an integrated eclipse-ring crown. All selected outputs passed naming and framing gates on their first generated versions.
+
+Integrity evidence is recorded in `design/SHADOW_MARKET_RETAIL_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Shadow Market Technology — Cipher Works → Umbra Array → Nightcode Nexus.
