@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 4, 2026 (America/Chicago) against repository commit `99d1bbf2d99350a749bd714a2b18adc55916e6ec`.
+Recorded November 4, 2026 (America/Chicago) against repository commit `4f36e55986ebb89f585e2accb37ef6e6efc500ae`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **46**
+- Repository asset files: **49**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **126**
+- Non-Neon required stage masters without a selected lineage candidate: **123**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -17,7 +17,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Neighborhood | Required stage masters | Prototype-selected | Final NFT certified | Status |
 |---|---:|---:|---:|---|
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
-| Golden Crest | 15 | 0 | 0 | Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open |
+| Golden Crest | 15 | 0 | 0 | Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open |
 | Shadow Market | 15 | 0 | 0 | production not started |
 | Skygarden District | 15 | 0 | 0 | production not started |
 | Velocity Row | 15 | 0 | 0 | production not started |
@@ -61,7 +61,7 @@ The machine-readable source of truth is `ASSET_MANIFEST.json`. Every entry recor
 
 ## Exact next action
 
-Produce Golden Crest Entertainment: Velvet Hall → Radiant Opera → Solaris Grand Theatre. Preserve the fan-shaped marquee, warm ivory/gold glow and royal-blue velvet accents across the lineage; maintain exact mounted stage names and visibly escalate from intimate hall to landmark theatre.
+Produce the final Golden Crest lineage: Golden Obelisk → Sunspire Monument → Crown of Dawn. Preserve the tapered ivory shaft, black-marble foot, champagne-gold flared supports and radial crown motif; keep every spire and the full ceremonial base inside frame.
 
 ## Golden Crest Residential selected candidates — October 31, 2026
 
@@ -94,3 +94,14 @@ Delegated lineage candidates only. They are not prototype-integrated and not fin
 | III | Daystar Citadel | `assets/candidates/golden-crest-daystar-citadel-stage-3-v1.png` | 1024 × 1536 | 3,071,069 | `ba6e6abcc2dbac9245eee27564e89bfb61bbafccbc3f1f05f842a3df5107044e` | `f1024e0bd19ab6568ab2414c096342d9879869cf` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. The first Helios Foundry render failed the crown-clearance gate and was not committed; v2 is a framing-only correction preserving the accepted architecture and exact name. Daystar Citadel passed on its first inspected output.
+
+
+## Golden Crest Entertainment selected candidates — November 4, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Velvet Hall | `assets/candidates/golden-crest-velvet-hall-stage-1-v1.png` | 1024 × 1536 | 2,540,865 | `367905bfac34cfd8ef8254ec2bba1c500736c3ad737986a72bb68c4f43d627e3` | `258a4f155761e5e5b87f225179056b6d814882ed` |
+| II | Radiant Opera | `assets/candidates/golden-crest-radiant-opera-stage-2-v1.png` | 1024 × 1536 | 2,580,994 | `771ed525d940d9d9fc9329854f72b590a791af6f0d6f0d37b6bd641aa8168387` | `e2ed112d6a765010b8f9d89d4267e49e8b08078c` |
+| III | Solaris Grand Theatre | `assets/candidates/golden-crest-solaris-grand-theatre-stage-3-v1.png` | 1024 × 1536 | 2,854,359 | `b4ab1a62f7852820bcf2170eb8d92e8510e63e036dd82508a7343b679f3538c4` | `5d4170220111cfc26a43a2a69807edcaf9dfacd8` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three selected outputs passed exact-name, framing, architectural-function and stage-escalation review on their first generated versions.

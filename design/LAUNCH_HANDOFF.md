@@ -165,3 +165,12 @@ Generated and visually inspected Solara Labs, Helios Foundry and Daystar Citadel
 The initial Helios Foundry render failed the crown-clearance gate and was not committed. A framing-only v2 correction preserves the supported fabrication bridge, collector geometry, full podium and exact name with safe sky margin. Daystar Citadel passed visual QA on its first output. SHA-256, byte length and Git blob evidence are recorded in `design/GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md` and the consolidated asset manifest.
 
 These are delegated lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Golden Crest Entertainment — Velvet Hall → Radiant Opera → Solaris Grand Theatre. Do not redo completed Golden Crest lineages without a specific defect.
+
+
+## Golden Crest Entertainment lineage checkpoint — November 4, 2026
+
+Generated and visually inspected Velvet Hall, Radiant Opera and Solaris Grand Theatre as the fourth complete Golden Crest three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, full podium/plaza framing, coherent fan-marquee and royal-blue velvet language, and clear escalation from intimate hall to formal opera house to multi-hall landmark theatre.
+
+Stage II adds stacked balcony tiers, expanded performance volume and a supported private sky foyer. Stage III adds two distinct side halls, a broad supported elevated foyer, many more balcony zones, a radiant acoustic crown and a materially expanded ceremonial plaza. All three selected outputs passed the framing and naming gates on their first generated versions.
+
+Integrity evidence is recorded in `design/GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md` and the consolidated manifest. These remain delegated lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Golden Crest Landmark — Golden Obelisk → Sunspire Monument → Crown of Dawn. Do not redo completed Golden Crest lineages without a specific defect.

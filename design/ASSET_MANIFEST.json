@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
-  "recorded_date": "2026-10-31",
-  "repository_commit": "99d1bbf2d99350a749bd714a2b18adc55916e6ec",
+  "recorded_date": "2026-11-04",
+  "repository_commit": "4f36e55986ebb89f585e2accb37ef6e6efc500ae",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 46,
+    "asset_files": 49,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 9
+    "lineage_selected_candidate_stage_assets": 12
   },
   "production_matrix": [
     {
@@ -32,9 +32,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open",
+      "status": "Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 9
+      "selected_candidate_stage_assets": 12
     },
     {
       "neighborhood_id": 2,
@@ -908,6 +908,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I and accepted Stage II lineage references; visually inspected for exact mounted name, full podium/crown, supported apex, multi-zone research program and clear stage escalation. Integrity recorded in GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-velvet-hall-stage-1-v1.png",
+      "bytes": 2540865,
+      "git_blob_sha": "258a4f155761e5e5b87f225179056b6d814882ed",
+      "sha256": "367905bfac34cfd8ef8254ec2bba1c500736c3ad737986a72bb68c4f43d627e3",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Velvet Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; actual output visually inspected for exact mounted name, fan-shaped marquee, intimate auditorium identity, complete podium and evolution headroom. Integrity recorded in GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-radiant-opera-stage-2-v1.png",
+      "bytes": 2580994,
+      "git_blob_sha": "e2ed112d6a765010b8f9d89d4267e49e8b08078c",
+      "sha256": "771ed525d940d9d9fc9329854f72b590a791af6f0d6f0d37b6bd641aa8168387",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Radiant Opera",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I lineage reference; actual output visually inspected for exact mounted name, stacked balcony tiers, supported sky foyer, full base/crown and clear height escalation. Integrity recorded in GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-solaris-grand-theatre-stage-3-v1.png",
+      "bytes": 2854359,
+      "git_blob_sha": "5d4170220111cfc26a43a2a69807edcaf9dfacd8",
+      "sha256": "b4ab1a62f7852820bcf2170eb8d92e8510e63e036dd82508a7343b679f3538c4",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Solaris Grand Theatre",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II lineage references; actual output visually inspected for exact mounted name, multiple halls, supported elevated foyer, expanded plaza, radiant acoustic crown and clear stage escalation. Integrity recorded in GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md."
     }
   ]
 }
