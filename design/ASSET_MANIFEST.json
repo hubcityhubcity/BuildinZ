@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "5d9a4148338e5a5b43869a3d444edb482cbfe8ab",
+  "repository_commit": "c39040e90a070b2d26077a4c2a1a60744580a95d",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 64,
+    "asset_files": 67,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 27
+    "lineage_selected_candidate_stage_assets": 30
   },
   "production_matrix": [
     {
@@ -43,9 +43,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open",
+      "status": "15 base lineage candidates selected across all five identities; collection-level equal-width QA, 300 edition-stage renders, release manifest and final certification remain open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 12
+      "selected_candidate_stage_assets": 15
     },
     {
       "neighborhood_id": 3,
@@ -1250,6 +1250,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central auditorium, two distinct side halls, supported elevated foyer, several balcony zones, layered mask crown, complete shadow plaza and safe crown clearance. Integrity recorded in SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-veil-beacon-stage-1-v1.png",
+      "bytes": 2251797,
+      "git_blob_sha": "68da550c30709ec6c9905a0dc158d5cba85228b2",
+      "sha256": "0df83c4fb39f33faa200095d32c07e507f20cc4bedb34f80afbf8fe11543d313",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Veil Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, slender tapered obsidian beacon, copper flared supports, supported smoked-violet viewing chamber, screened copper light cage, single acid-green beacon line, complete ceremonial base and crown clearance. Integrity recorded in SHADOW_MARKET_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-obsidian-spire-stage-2-v1.png",
+      "bytes": 2308008,
+      "git_blob_sha": "cec4e4036181abc0ca694853743bae12706ae187",
+      "sha256": "6f8b93e2c8059b0c05fdd46a8154d7c06973a9d2323dcf6042db6e3a9dad29de",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Obsidian Spire",
+      "stage": 2,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, much taller shaft, larger fully supported observation ring, multiple shadow fins, stronger multi-tier beacon crown, expanded ceremonial base and complete framing. Integrity recorded in SHADOW_MARKET_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-shadow-sovereign-stage-3-v1.png",
+      "bytes": 2598274,
+      "git_blob_sha": "f9cfe75d7ae90fd9e736d746c8b197f3b479b9a8",
+      "sha256": "067a923c31b07ce2c42c5336a38ccf9c9566f11de3aa905b5611ccea0c9764af",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Shadow Sovereign",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus four subordinate spires, enormous supported observatory, layered veil crown, expanded ceremonial base, complete side-spire framing and safe crown clearance. Integrity recorded in SHADOW_MARKET_LANDMARK_ART_HANDOFF.md."
     }
   ]
 }

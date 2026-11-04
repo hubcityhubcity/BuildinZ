@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **64**
+- Repository asset files: **67**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **108**
+- Non-Neon required stage masters without a selected lineage candidate: **105**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -18,7 +18,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 |---|---:|---:|---:|---|
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
-| Shadow Market | 15 | 0 | 0 | Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open |
+| Shadow Market | 15 | 0 | 0 | 15 base lineage candidates selected across all five identities; collection-level equal-width QA, 300 edition-stage renders, release manifest and final certification remain open |
 | Skygarden District | 15 | 0 | 0 | production not started |
 | Velocity Row | 15 | 0 | 0 | production not started |
 | Royal Mirage | 15 | 0 | 0 | production not started |
@@ -160,3 +160,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Midnight Masquerade | `assets/candidates/shadow-market-midnight-masquerade-stage-3-v1.png` | 1024 × 1536 | 2,603,812 | `312545a085ec986ef02f4950b10060a6715ce53a71483648f6e4d2a8267f58e6` | `18676156efcbd9eb8d2b5ce40f963fce3ede0508` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three selected outputs passed exact-name, entertainment-function, supported-structure, framing and stage-escalation review on their first generated versions.
+
+
+## Shadow Market Landmark selected candidates — November 4, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Veil Beacon | `assets/candidates/shadow-market-veil-beacon-stage-1-v1.png` | 1024 × 1536 | 2,251,797 | `0df83c4fb39f33faa200095d32c07e507f20cc4bedb34f80afbf8fe11543d313` | `68da550c30709ec6c9905a0dc158d5cba85228b2` |
+| II | Obsidian Spire | `assets/candidates/shadow-market-obsidian-spire-stage-2-v1.png` | 1024 × 1536 | 2,308,008 | `6f8b93e2c8059b0c05fdd46a8154d7c06973a9d2323dcf6042db6e3a9dad29de` | `cec4e4036181abc0ca694853743bae12706ae187` |
+| III | Shadow Sovereign | `assets/candidates/shadow-market-shadow-sovereign-stage-3-v1.png` | 1024 × 1536 | 2,598,274 | `067a923c31b07ce2c42c5336a38ccf9c9566f11de3aa905b5611ccea0c9764af` | `f9cfe75d7ae90fd9e736d746c8b197f3b479b9a8` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three selected outputs passed exact-name, landmark-function, physical-support, framing and stage-escalation review on their first generated versions. Shadow Market now has all 15 required base stage candidates; collection-level equal-width QA and edition rendering remain open.

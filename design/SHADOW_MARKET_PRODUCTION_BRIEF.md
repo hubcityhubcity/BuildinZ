@@ -113,4 +113,4 @@ A candidate passes only if the actual output demonstrates:
 
 ## Exact next action
 
-Generate and visually inspect Gloomstep Flats → Veilside Habitat → Noctis Enclave. Save only versioned candidates that pass the gate, then update the consolidated manifest and launch handoff.
+Run equal-width collection QA across all 15 selected Shadow Market base masters. Record actual naming, framing, function separation, lineage continuity and neighborhood-cohesion results. Then define a deterministic 20-finish edition matrix mapped to the canonical 8/5/4/2/1 rarity allocation without altering architecture or exact stage names.

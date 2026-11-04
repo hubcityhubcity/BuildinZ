@@ -228,3 +228,12 @@ Generated and visually inspected Backroom Stage, Phantom Pavilion and Midnight M
 Capacity escalates from an intimate hidden performance room with recessed guarded entry and private upper gallery, to a taller pavilion with multiple balcony tiers, side performance wings and a physically supported sky foyer, then to a monumental multi-hall complex with a very tall central auditorium, two distinct side halls, several balcony zones, broad supported elevated foyer, layered mask crown and complete shadow plaza. All three selected outputs passed naming, entertainment-function, physical-support and framing gates on their first generated versions.
 
 Integrity evidence is recorded in `design/SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Shadow Market Landmark — Veil Beacon → Obsidian Spire → Shadow Sovereign.
+
+
+## Shadow Market Landmark and 15-master candidate checkpoint — November 4, 2026
+
+Generated and visually inspected Veil Beacon, Obsidian Spire and Shadow Sovereign as Shadow Market's fifth and final three-stage base candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, tapered obsidian shafts, copper flared supports, smoked-violet viewing glass, restrained vertical acid-green beacon lines, complete ceremonial bases and physically supported observation structures.
+
+The lineage escalates from one slender civic beacon with compact viewing chamber, to a much taller spire with larger observation ring, multiple shadow fins and stronger beacon crown, then to a skyline-defining monument with one dominant central spire, four subordinate spires, enormous supported observatory, layered veil crown and expanded ceremonial plaza. All three selected outputs passed naming, landmark-function, support and framing gates on their first generated versions.
+
+Integrity evidence is recorded in `design/SHADOW_MARKET_LANDMARK_ART_HANDOFF.md` and the consolidated manifest. Shadow Market now has 15 of 15 required base stage candidates. This is not final certification: collection-level equal-width QA, edition variants, permanent URIs and release validation remain open. Next bounded batch: Shadow Market 15-master equal-width QA and deterministic edition-finish matrix.
