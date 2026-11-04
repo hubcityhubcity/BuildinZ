@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "97c7590f85c43789e134c90d1b5f81ec163df318",
+  "repository_commit": "2a2c2afe47d55930873f5d5c1b08325cc669019c",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 58,
+    "asset_files": 61,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 21
+    "lineage_selected_candidate_stage_assets": 24
   },
   "production_matrix": [
     {
@@ -43,9 +43,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open",
+      "status": "Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 6
+      "selected_candidate_stage_assets": 9
     },
     {
       "neighborhood_id": 3,
@@ -1136,6 +1136,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, vertical trading halls, supported elevated lanes, grand shadow atrium, integrated eclipse crown and complete framing. Integrity recorded in SHADOW_MARKET_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-cipher-works-stage-1-v1.png",
+      "bytes": 2452865,
+      "git_blob_sha": "07d58f74fe2f0f8edc0dee19f89c5949bd9c8668",
+      "sha256": "1251e59aef57574cbb5643b6218e2e03ed1b8a85647e38bcc0579f009974f3ef",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Cipher Works",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, faceted data core, secure vault, copper circuit ribs, controlled code channel, angular sensors and complete framing. Integrity recorded in SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-umbra-array-stage-2-v1.png",
+      "bytes": 2644340,
+      "git_blob_sha": "4b08f48743d1a887fe8e791599789d15f55d0d44",
+      "sha256": "9294236e93e4cd5eb33952cc5d6a97028b4b04a1453deb641090266c59c47a14",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Umbra Array",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact name, increased research height, supported sensor array, truss bridge, analysis wing, three code channels and complete framing. Integrity recorded in SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-nightcode-nexus-stage-3-v2.png",
+      "bytes": 2657864,
+      "git_blob_sha": "80f322907ad392a589f2f1fb73fba3aca2249d41",
+      "sha256": "dbdd931ca404a42001368c424bae986fb831ea6623563f2aa4c4dc1ca00ecbce",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Nightcode Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references plus framing-only correction; visually inspected for exact name, multi-zone citadel, supported bridges, layered sensor crown, dominant antenna, full base and safe crown clearance. Integrity recorded in SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md."
     }
   ]
 }

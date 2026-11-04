@@ -210,3 +210,12 @@ Generated and visually inspected Lantern Row, Blackglass Bazaar and Eclipse Exch
 Capacity escalates from a low covered market row to a multi-level bazaar with supported crossings and framed market lantern, then to a vertical exchange with more than ten visible trading levels, grand shadow atrium, layered supported market lanes and an integrated eclipse-ring crown. All selected outputs passed naming and framing gates on their first generated versions.
 
 Integrity evidence is recorded in `design/SHADOW_MARKET_RETAIL_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Shadow Market Technology — Cipher Works → Umbra Array → Nightcode Nexus.
+
+
+## Shadow Market Technology lineage checkpoint — November 4, 2026
+
+Generated and visually inspected Cipher Works, Umbra Array and Nightcode Nexus as Shadow Market's third complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, faceted obsidian data cores, copper circuit ribs, smoked-violet sensor glass and restrained acid-green code channels.
+
+Capability escalates from compact secure workshop to taller research tower with supported sensor array and bridge-connected analysis wing, then to a multi-zone computation citadel with two side research towers, three supported data bridges, layered sensor crown and dominant night-code antenna. The first Stage III generation failed the crown-clearance gate and was not committed; a framing-only v2 correction preserves the architecture and exact name with safe sky margin and full base.
+
+Integrity evidence is recorded in `design/SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Shadow Market Entertainment — Backroom Stage → Phantom Pavilion → Midnight Masquerade.

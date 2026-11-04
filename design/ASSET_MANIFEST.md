@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 4, 2026 (America/Chicago) against repository commit `97c7590f85c43789e134c90d1b5f81ec163df318`.
+Recorded November 4, 2026 (America/Chicago) against repository commit `2a2c2afe47d55930873f5d5c1b08325cc669019c`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **58**
+- Repository asset files: **61**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **114**
+- Non-Neon required stage masters without a selected lineage candidate: **111**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -18,7 +18,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 |---|---:|---:|---:|---|
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
-| Shadow Market | 15 | 0 | 0 | Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open |
+| Shadow Market | 15 | 0 | 0 | Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open |
 | Skygarden District | 15 | 0 | 0 | production not started |
 | Velocity Row | 15 | 0 | 0 | production not started |
 | Royal Mirage | 15 | 0 | 0 | production not started |
@@ -61,7 +61,7 @@ The machine-readable source of truth is `ASSET_MANIFEST.json`. Every entry recor
 
 ## Exact next action
 
-Produce Shadow Market Technology: Cipher Works → Umbra Array → Nightcode Nexus from `SHADOW_MARKET_PRODUCTION_BRIEF.md`. Preserve the faceted obsidian data core, copper circuit ribs, restrained acid-green code channel and smoked-violet sensor glass across the lineage.
+Produce Shadow Market Entertainment: Backroom Stage → Phantom Pavilion → Midnight Masquerade from `SHADOW_MARKET_PRODUCTION_BRIEF.md`. Preserve the narrow copper marquee, mask-like facade split, smoked-violet drapery/glass and restrained acid-green edge guide.
 
 ## Golden Crest Residential selected candidates — October 31, 2026
 
@@ -138,3 +138,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Eclipse Exchange | `assets/candidates/shadow-market-eclipse-exchange-stage-3-v1.png` | 1024 × 1536 | 3,211,921 | `87a3381945b964f4b750a61917366f6e1fa612a1b627a9f0d2d6684947163e2d` | `0f0b0b0994abb00908a205b4e85a0440600a7646` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, retail-function, supported-structure, framing and stage-escalation review on their first generated versions.
+
+
+## Shadow Market Technology selected candidates — November 4, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Cipher Works | `assets/candidates/shadow-market-cipher-works-stage-1-v1.png` | 1024 × 1536 | 2,452,865 | `1251e59aef57574cbb5643b6218e2e03ed1b8a85647e38bcc0579f009974f3ef` | `07d58f74fe2f0f8edc0dee19f89c5949bd9c8668` |
+| II | Umbra Array | `assets/candidates/shadow-market-umbra-array-stage-2-v1.png` | 1024 × 1536 | 2,644,340 | `9294236e93e4cd5eb33952cc5d6a97028b4b04a1453deb641090266c59c47a14` | `4b08f48743d1a887fe8e791599789d15f55d0d44` |
+| III | Nightcode Nexus | `assets/candidates/shadow-market-nightcode-nexus-stage-3-v2.png` | 1024 × 1536 | 2,657,864 | `dbdd931ca404a42001368c424bae986fb831ea6623563f2aa4c4dc1ca00ecbce` | `80f322907ad392a589f2f1fb73fba3aca2249d41` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. The first Stage III output failed the antenna-clearance gate and was not committed; v2 is a framing-only correction retaining the architecture, exact name and complete base.
