@@ -55,6 +55,17 @@ async function run() {
     assert.equal(await desktop.locator('#cards article.card').first().locator('img').count(), 1);
     note('Desktop: 1000 registry records, 24 rendered cards, prototype artwork and pagination');
 
+    const homepage = await browser.newPage({ viewport: { width: 1280, height: 800 } });
+    homepage.on('pageerror', e => browserErrors.push(e.message));
+    await homepage.goto(url.replace('preview-genesis-gallery.html', 'index.html'), { waitUntil: 'networkidle' });
+    const galleryLink = homepage.locator('.hero-actions a[href="preview-genesis-gallery.html"]');
+    assert.equal(await galleryLink.count(), 1);
+    assert.match(await galleryLink.innerText(), /Genesis registry preview/);
+    await galleryLink.click();
+    await homepage.locator('#result-count').getByText(/1,000 planned editions match/).waitFor();
+    note('Homepage safely links to 1000-edition preview without mint functionality');
+
+
     await desktop.locator('#next').click();
     assert.match(await desktop.locator('#page-number').innerText(), /Page 2 of 42/);
     assert.match(await desktop.locator('#cards article.card').first().locator('.eyebrow').innerText(), /BZ-0025/);
