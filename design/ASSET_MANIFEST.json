@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "2a2c2afe47d55930873f5d5c1b08325cc669019c",
+  "repository_commit": "5d9a4148338e5a5b43869a3d444edb482cbfe8ab",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 61,
+    "asset_files": 64,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 24
+    "lineage_selected_candidate_stage_assets": 27
   },
   "production_matrix": [
     {
@@ -43,9 +43,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open",
+      "status": "Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 9
+      "selected_candidate_stage_assets": 12
     },
     {
       "neighborhood_id": 3,
@@ -1193,6 +1193,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references plus framing-only correction; visually inspected for exact name, multi-zone citadel, supported bridges, layered sensor crown, dominant antenna, full base and safe crown clearance. Integrity recorded in SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-backroom-stage-1-v1.png",
+      "bytes": 2402148,
+      "git_blob_sha": "2582677529780db30dd81f99ced0b3b243316715",
+      "sha256": "604ceb5b2e393771cd636f421e01eaa9ad547eb239ac729173e531c37768a8fd",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Backroom Stage",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact hidden auditorium, recessed guarded entry, narrow copper marquee, mask-like facade split, smoked-violet drapery, private upper gallery, performer passage and complete framing. Integrity recorded in SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-phantom-pavilion-stage-2-v1.png",
+      "bytes": 2523362,
+      "git_blob_sha": "51aa43b3afd09c81a666be8fff34c74b2dc9a361",
+      "sha256": "51c539241fcc56c42e2f26d1e016126c1f9313c9c6371757c73385594a1b981d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Phantom Pavilion",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller performance volume, multiple balcony tiers, side performance wings, physically supported sky foyer, veiled acoustic fins and complete framing. Integrity recorded in SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-midnight-masquerade-stage-3-v1.png",
+      "bytes": 2603812,
+      "git_blob_sha": "18676156efcbd9eb8d2b5ce40f963fce3ede0508",
+      "sha256": "312545a085ec986ef02f4950b10060a6715ce53a71483648f6e4d2a8267f58e6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Midnight Masquerade",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central auditorium, two distinct side halls, supported elevated foyer, several balcony zones, layered mask crown, complete shadow plaza and safe crown clearance. Integrity recorded in SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md."
     }
   ]
 }

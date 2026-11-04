@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **61**
+- Repository asset files: **64**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **111**
+- Non-Neon required stage masters without a selected lineage candidate: **108**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -18,7 +18,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 |---|---:|---:|---:|---|
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
-| Shadow Market | 15 | 0 | 0 | Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open |
+| Shadow Market | 15 | 0 | 0 | Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open |
 | Skygarden District | 15 | 0 | 0 | production not started |
 | Velocity Row | 15 | 0 | 0 | production not started |
 | Royal Mirage | 15 | 0 | 0 | production not started |
@@ -149,3 +149,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Nightcode Nexus | `assets/candidates/shadow-market-nightcode-nexus-stage-3-v2.png` | 1024 × 1536 | 2,657,864 | `dbdd931ca404a42001368c424bae986fb831ea6623563f2aa4c4dc1ca00ecbce` | `80f322907ad392a589f2f1fb73fba3aca2249d41` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. The first Stage III output failed the antenna-clearance gate and was not committed; v2 is a framing-only correction retaining the architecture, exact name and complete base.
+
+
+## Shadow Market Entertainment selected candidates — November 4, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Backroom Stage | `assets/candidates/shadow-market-backroom-stage-1-v1.png` | 1024 × 1536 | 2,402,148 | `604ceb5b2e393771cd636f421e01eaa9ad547eb239ac729173e531c37768a8fd` | `2582677529780db30dd81f99ced0b3b243316715` |
+| II | Phantom Pavilion | `assets/candidates/shadow-market-phantom-pavilion-stage-2-v1.png` | 1024 × 1536 | 2,523,362 | `51c539241fcc56c42e2f26d1e016126c1f9313c9c6371757c73385594a1b981d` | `51aa43b3afd09c81a666be8fff34c74b2dc9a361` |
+| III | Midnight Masquerade | `assets/candidates/shadow-market-midnight-masquerade-stage-3-v1.png` | 1024 × 1536 | 2,603,812 | `312545a085ec986ef02f4950b10060a6715ce53a71483648f6e4d2a8267f58e6` | `18676156efcbd9eb8d2b5ce40f963fce3ede0508` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three selected outputs passed exact-name, entertainment-function, supported-structure, framing and stage-escalation review on their first generated versions.

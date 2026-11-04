@@ -219,3 +219,12 @@ Generated and visually inspected Cipher Works, Umbra Array and Nightcode Nexus a
 Capability escalates from compact secure workshop to taller research tower with supported sensor array and bridge-connected analysis wing, then to a multi-zone computation citadel with two side research towers, three supported data bridges, layered sensor crown and dominant night-code antenna. The first Stage III generation failed the crown-clearance gate and was not committed; a framing-only v2 correction preserves the architecture and exact name with safe sky margin and full base.
 
 Integrity evidence is recorded in `design/SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Shadow Market Entertainment — Backroom Stage → Phantom Pavilion → Midnight Masquerade.
+
+
+## Shadow Market Entertainment lineage checkpoint — November 4, 2026
+
+Generated and visually inspected Backroom Stage, Phantom Pavilion and Midnight Masquerade as Shadow Market's fourth complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, narrow copper marquees, mask-like facade splits, smoked-violet drapery/glass and restrained acid-green edge guidance.
+
+Capacity escalates from an intimate hidden performance room with recessed guarded entry and private upper gallery, to a taller pavilion with multiple balcony tiers, side performance wings and a physically supported sky foyer, then to a monumental multi-hall complex with a very tall central auditorium, two distinct side halls, several balcony zones, broad supported elevated foyer, layered mask crown and complete shadow plaza. All three selected outputs passed naming, entertainment-function, physical-support and framing gates on their first generated versions.
+
+Integrity evidence is recorded in `design/SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Shadow Market Landmark — Veil Beacon → Obsidian Spire → Shadow Sovereign.

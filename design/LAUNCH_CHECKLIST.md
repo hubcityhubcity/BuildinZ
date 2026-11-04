@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest has 15 selected candidates and Shadow Market Residential/Retail/Technology have 9; 111 non-Neon stage masters remain without selected candidates. Golden Crest base-master QA passes; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest has 15 selected candidates and Shadow Market Residential/Retail/Technology/Entertainment have 12; 108 non-Neon stage masters remain without selected candidates. Golden Crest base-master QA passes; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce and inspect Backroom Stage / Phantom Pavilion / Midnight Masquerade from the Entertainment section of `SHADOW_MARKET_PRODUCTION_BRIEF.md`. Preserve the narrow copper marquee, mask-like facade split, smoked-violet drapery/glass and restrained acid-green edge guide; keep all halls, foyers, base and crown inside frame.
+Produce and inspect Veil Beacon / Obsidian Spire / Shadow Sovereign from the Landmark section of `SHADOW_MARKET_PRODUCTION_BRIEF.md`. Preserve the tapered obsidian shaft, copper flared supports, smoked-violet viewing glass and vertical acid-green beacon line; keep every ceremonial base, supported observation structure and crown inside frame.
