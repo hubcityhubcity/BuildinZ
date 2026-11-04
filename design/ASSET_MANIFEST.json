@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "4f36e55986ebb89f585e2accb37ef6e6efc500ae",
+  "repository_commit": "2038a8ec2f118bad44ef76ea47f312c11b6ac5e4",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 49,
+    "asset_files": 52,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 12
+    "lineage_selected_candidate_stage_assets": 15
   },
   "production_matrix": [
     {
@@ -32,9 +32,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open",
+      "status": "all 15 lineage stage candidates visually inspected; collection-level equal-width QA, edition finish plan and final certification remain open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 12
+      "selected_candidate_stage_assets": 15
     },
     {
       "neighborhood_id": 2,
@@ -965,6 +965,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II lineage references; actual output visually inspected for exact mounted name, multiple halls, supported elevated foyer, expanded plaza, radiant acoustic crown and clear stage escalation. Integrity recorded in GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-golden-obelisk-stage-1-v1.png",
+      "bytes": 2232033,
+      "git_blob_sha": "cbe3b5157425f2bf3cd90855899eeda88aefb3d2",
+      "sha256": "e3ead4c33fa469023e63d8ee669b81da58549f6c791347bd2bd74d9de5fad4a8",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Golden Obelisk",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; actual output visually inspected for exact plinth name, slender monument silhouette, supported observation chamber, full square/base and evolution headroom. Integrity recorded in GOLDEN_CREST_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-sunspire-monument-stage-2-v1.png",
+      "bytes": 2263635,
+      "git_blob_sha": "109dbe45cf2fca22d1946d631ccbe07f7b48a01f",
+      "sha256": "7c349722ab0c1cbf0efc247670151a80068581a292aff579e2a39b972545c07d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Sunspire Monument",
+      "stage": 2,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I lineage reference; actual output visually inspected for exact plinth name, increased height, two supported viewing levels, expanded buttresses, complete base/crown and multi-fin crest. Integrity recorded in GOLDEN_CREST_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-crown-of-dawn-stage-3-v1.png",
+      "bytes": 2576603,
+      "git_blob_sha": "8a8fbfb7e406bf2379004a3e1603ba609bd3a2e7",
+      "sha256": "50e4d004effabec568a78353d14963be7a7febdcb612f1cc5b1afd0683f2323c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Crown of Dawn",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II lineage references; actual output visually inspected for exact plinth name, five-spire composition, supported observatory/rings, expanded ceremonial square and clear stage escalation. Integrity recorded in GOLDEN_CREST_LANDMARK_ART_HANDOFF.md."
     }
   ]
 }

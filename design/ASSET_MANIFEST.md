@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 4, 2026 (America/Chicago) against repository commit `4f36e55986ebb89f585e2accb37ef6e6efc500ae`.
+Recorded November 4, 2026 (America/Chicago) against repository commit `2038a8ec2f118bad44ef76ea47f312c11b6ac5e4`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **49**
+- Repository asset files: **52**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **123**
+- Non-Neon required stage masters without a selected lineage candidate: **120**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -17,7 +17,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Neighborhood | Required stage masters | Prototype-selected | Final NFT certified | Status |
 |---|---:|---:|---:|---|
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
-| Golden Crest | 15 | 0 | 0 | Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open |
+| Golden Crest | 15 | 0 | 0 | all 15 lineage stage candidates visually inspected; collection-level equal-width QA, edition finish plan and final certification remain open |
 | Shadow Market | 15 | 0 | 0 | production not started |
 | Skygarden District | 15 | 0 | 0 | production not started |
 | Velocity Row | 15 | 0 | 0 | production not started |
@@ -61,7 +61,7 @@ The machine-readable source of truth is `ASSET_MANIFEST.json`. Every entry recor
 
 ## Exact next action
 
-Produce the final Golden Crest lineage: Golden Obelisk → Sunspire Monument → Crown of Dawn. Preserve the tapered ivory shaft, black-marble foot, champagne-gold flared supports and radial crown motif; keep every spire and the full ceremonial base inside frame.
+Run collection-level equal-width QA across all 15 Golden Crest lineage candidates and define the versioned edition-finish matrix against the fixed 8/5/4/2/1 rarity schedule. Do not mark final certification until cross-lineage framing, name, function and image-integrity gates pass.
 
 ## Golden Crest Residential selected candidates — October 31, 2026
 
@@ -105,3 +105,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Solaris Grand Theatre | `assets/candidates/golden-crest-solaris-grand-theatre-stage-3-v1.png` | 1024 × 1536 | 2,854,359 | `b4ab1a62f7852820bcf2170eb8d92e8510e63e036dd82508a7343b679f3538c4` | `5d4170220111cfc26a43a2a69807edcaf9dfacd8` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three selected outputs passed exact-name, framing, architectural-function and stage-escalation review on their first generated versions.
+
+
+## Golden Crest Landmark selected candidates — November 4, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Golden Obelisk | `assets/candidates/golden-crest-golden-obelisk-stage-1-v1.png` | 1024 × 1536 | 2,232,033 | `e3ead4c33fa469023e63d8ee669b81da58549f6c791347bd2bd74d9de5fad4a8` | `cbe3b5157425f2bf3cd90855899eeda88aefb3d2` |
+| II | Sunspire Monument | `assets/candidates/golden-crest-sunspire-monument-stage-2-v1.png` | 1024 × 1536 | 2,263,635 | `7c349722ab0c1cbf0efc247670151a80068581a292aff579e2a39b972545c07d` | `109dbe45cf2fca22d1946d631ccbe07f7b48a01f` |
+| III | Crown of Dawn | `assets/candidates/golden-crest-crown-of-dawn-stage-3-v1.png` | 1024 × 1536 | 2,576,603 | `50e4d004effabec568a78353d14963be7a7febdcb612f1cc5b1afd0683f2323c` | `8a8fbfb7e406bf2379004a3e1603ba609bd3a2e7` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three selected outputs passed exact-name, framing, landmark-function and stage-escalation review on their first generated versions. Golden Crest now has 15 of 15 required stage candidates, but collection-level equal-width QA and final export certification remain open.

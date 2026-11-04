@@ -17,7 +17,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Existing Neon Heights prototype lineages corrected and integrated with versioned derivatives.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest Residential, Retail, Technology and Entertainment have 12 selected lineage candidates; 123 non-Neon stage masters remain without selected candidates.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest has all 15 lineage candidates selected; 120 non-Neon stage masters remain without selected candidates. Golden Crest collection-level QA and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -72,4 +72,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce Golden Obelisk / Sunspire Monument / Crown of Dawn from the Landmark section of `GOLDEN_CREST_PRODUCTION_BRIEF.md`. Preserve the tapered ivory shaft, black-marble foot, champagne-gold flared supports and radial crown motif; keep all spires and the full ceremonial base inside frame.
+Run equal-width collection QA across all 15 Golden Crest candidates and commit a versioned edition-finish matrix mapped to the canonical 8 Common / 5 Uncommon / 4 Rare / 2 Epic / 1 Legendary editions per identity. Then prepare the Shadow Market production brief; do not mark Golden Crest final-certified until cross-lineage and export gates pass.

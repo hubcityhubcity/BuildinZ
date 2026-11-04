@@ -174,3 +174,12 @@ Generated and visually inspected Velvet Hall, Radiant Opera and Solaris Grand Th
 Stage II adds stacked balcony tiers, expanded performance volume and a supported private sky foyer. Stage III adds two distinct side halls, a broad supported elevated foyer, many more balcony zones, a radiant acoustic crown and a materially expanded ceremonial plaza. All three selected outputs passed the framing and naming gates on their first generated versions.
 
 Integrity evidence is recorded in `design/GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md` and the consolidated manifest. These remain delegated lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Golden Crest Landmark — Golden Obelisk → Sunspire Monument → Crown of Dawn. Do not redo completed Golden Crest lineages without a specific defect.
+
+
+## Golden Crest Landmark and 15-master candidate checkpoint — November 4, 2026
+
+Generated and visually inspected Golden Obelisk, Sunspire Monument and Crown of Dawn as the fifth and final Golden Crest three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact plinth names, complete ceremonial bases, supported observation structures, coherent tapered ivory/champagne-gold/black-marble/radial-crown language and clear escalation from single obelisk to taller sunspire to five-spire skyline landmark.
+
+All three selected outputs passed the naming and framing gates on their first generated versions. Integrity evidence is recorded in `design/GOLDEN_CREST_LANDMARK_ART_HANDOFF.md` and the consolidated manifest.
+
+Golden Crest now has 15 of 15 required stage candidates across Residential, Retail, Technology, Entertainment and Landmark. This is a lineage-candidate milestone only: no prototype integration, edition variants, collection-level equal-width QA or final NFT export certification is inferred. Next bounded batch: run Golden Crest 15-master equal-width QA and define the edition-finish matrix against the fixed 8/5/4/2/1 rarity schedule, then prepare Shadow Market production.
