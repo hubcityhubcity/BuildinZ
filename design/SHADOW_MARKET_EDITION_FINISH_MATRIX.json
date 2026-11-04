@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0.0",
+  "recorded_date": "2026-11-04",
+  "status": "delegated-production-plan-not-generated",
+  "neighborhood": {
+    "id": 2,
+    "key": "shadow-market",
+    "name": "Shadow Market"
+  },
+  "authority": "Finish names and treatments are reversible delegated production decisions. Canonical edition numbers and rarity tiers come from COLLECTION_REGISTRY.json.",
+  "scope": {
+    "identities": 5,
+    "stages_per_identity": 3,
+    "editions_per_identity": 20,
+    "planned_unique_stage_images": 300
+  },
+  "invariants": [
+    "One edition keeps the same finish key across all three evolution stages.",
+    "Finish treatments may change material response, controlled lighting, glazing tint and restrained decorative inlays only.",
+    "Architecture, silhouette, amenities, exact mounted stage name, building type and framing must not change.",
+    "No finish may add people as focal points, logos, watermarks, captions, token text, stage labels or unsupported geometry.",
+    "Every rendered edition-stage image must be visually inspected and have unique bytes, SHA-256, dimensions and permanent URI before metadata release."
+  ],
+  "rarity_counts_per_identity": {
+    "Common": 8,
+    "Uncommon": 5,
+    "Rare": 4,
+    "Epic": 2,
+    "Legendary": 1
+  },
+  "planned_neighborhood_token_totals": {
+    "Common": 40,
+    "Uncommon": 25,
+    "Rare": 20,
+    "Epic": 10,
+    "Legendary": 5,
+    "total": 100
+  },
+  "finishes": [
+    {
+      "edition": 1,
+      "rarity": "Common",
+      "key": "obsidian-standard",
+      "name": "Obsidian Standard",
+      "treatment": "baseline polished obsidian, aged-copper trim, smoked-violet glass and restrained acid-green guide",
+      "accent": "obsidian",
+      "intensity": 0.1
+    },
+    {
+      "edition": 2,
+      "rarity": "Common",
+      "key": "smoked-violet-glass",
+      "name": "Smoked Violet Glass",
+      "treatment": "slightly deeper smoked-violet glazing with unchanged interior visibility",
+      "accent": "smoked-violet",
+      "intensity": 0.12
+    },
+    {
+      "edition": 3,
+      "rarity": "Common",
+      "key": "aged-copper-edge",
+      "name": "Aged Copper Edge",
+      "treatment": "warmer aged-copper ribs and restrained edge highlights",
+      "accent": "aged-copper",
+      "intensity": 0.14
+    },
+    {
+      "edition": 4,
+      "rarity": "Common",
+      "key": "blackstone-polish",
+      "name": "Blackstone Polish",
+      "treatment": "higher-polish black-stone base with subtle wet reflections",
+      "accent": "black-stone",
+      "intensity": 0.14
+    },
+    {
+      "edition": 5,
+      "rarity": "Common",
+      "key": "acid-guide",
+      "name": "Acid Guide",
+      "treatment": "slightly brighter but still narrow acid-green wayfinding lines",
+      "accent": "acid-green",
+      "intensity": 0.16
+    },
+    {
+      "edition": 6,
+      "rarity": "Common",
+      "key": "rain-mirror",
+      "name": "Rain Mirror",
+      "treatment": "stronger rain-slick plaza reflections without changing atmosphere or geometry",
+      "accent": "rain-reflection",
+      "intensity": 0.16
+    },
+    {
+      "edition": 7,
+      "rarity": "Common",
+      "key": "veil-glow",
+      "name": "Veil Glow",
+      "treatment": "soft violet interior veil light with muted copper exterior response",
+      "accent": "violet-veil",
+      "intensity": 0.18
+    },
+    {
+      "edition": 8,
+      "rarity": "Common",
+      "key": "midnight-matte",
+      "name": "Midnight Matte",
+      "treatment": "lower-gloss obsidian upper surfaces with controlled black-glass contrast",
+      "accent": "midnight-matte",
+      "intensity": 0.18
+    },
+    {
+      "edition": 9,
+      "rarity": "Uncommon",
+      "key": "amethyst-smoke",
+      "name": "Amethyst Smoke",
+      "treatment": "amethyst-shifted smoked glass with narrow copper highlights",
+      "accent": "amethyst",
+      "intensity": 0.22
+    },
+    {
+      "edition": 10,
+      "rarity": "Uncommon",
+      "key": "verdigris-copper",
+      "name": "Verdigris Copper",
+      "treatment": "restrained verdigris patina on selected aged-copper structural edges",
+      "accent": "verdigris",
+      "intensity": 0.22
+    },
+    {
+      "edition": 11,
+      "rarity": "Uncommon",
+      "key": "moonlit-graphite",
+      "name": "Moonlit Graphite",
+      "treatment": "cool graphite specular response on obsidian planes under moonlight",
+      "accent": "graphite",
+      "intensity": 0.24
+    },
+    {
+      "edition": 12,
+      "rarity": "Uncommon",
+      "key": "ultraviolet-glass",
+      "name": "Ultraviolet Glass",
+      "treatment": "deeper ultraviolet glazing with controlled internal luminance",
+      "accent": "ultraviolet",
+      "intensity": 0.24
+    },
+    {
+      "edition": 13,
+      "rarity": "Uncommon",
+      "key": "phantom-brass",
+      "name": "Phantom Brass",
+      "treatment": "dark brass-copper trim with pale violet edge reflections",
+      "accent": "phantom-brass",
+      "intensity": 0.26
+    },
+    {
+      "edition": 14,
+      "rarity": "Rare",
+      "key": "eclipse-inlay",
+      "name": "Eclipse Inlay",
+      "treatment": "restrained eclipse-ring inlays across existing black-stone surfaces",
+      "accent": "eclipse",
+      "intensity": 0.32
+    },
+    {
+      "edition": 15,
+      "rarity": "Rare",
+      "key": "nightwire-circuit",
+      "name": "Nightwire Circuit",
+      "treatment": "fine copper and acid-green circuit-like inlays limited to existing ribs and paths",
+      "accent": "nightwire",
+      "intensity": 0.34
+    },
+    {
+      "edition": 16,
+      "rarity": "Rare",
+      "key": "void-pearl",
+      "name": "Void Pearl",
+      "treatment": "pearl-black obsidian response with subtle violet iridescence",
+      "accent": "void-pearl",
+      "intensity": 0.36
+    },
+    {
+      "edition": 17,
+      "rarity": "Rare",
+      "key": "veiled-aurora",
+      "name": "Veiled Aurora",
+      "treatment": "controlled violet-green aurora reflections across upper glass only",
+      "accent": "veiled-aurora",
+      "intensity": 0.38
+    },
+    {
+      "edition": 18,
+      "rarity": "Epic",
+      "key": "sovereign-nocturne",
+      "name": "Sovereign Nocturne",
+      "treatment": "high-contrast obsidian, concentrated copper crowns and deep violet glass",
+      "accent": "sovereign-nocturne",
+      "intensity": 0.48
+    },
+    {
+      "edition": 19,
+      "rarity": "Epic",
+      "key": "spectral-masquerade",
+      "name": "Spectral Masquerade",
+      "treatment": "layered spectral-violet reflections with elevated copper and green edge light",
+      "accent": "spectral",
+      "intensity": 0.52
+    },
+    {
+      "edition": 20,
+      "rarity": "Legendary",
+      "key": "genesis-umbra",
+      "name": "Genesis Umbra",
+      "treatment": "unique black-violet gradient glazing, luminous veil inlays and maximum restrained copper presence",
+      "accent": "genesis-umbra",
+      "intensity": 0.7
+    }
+  ]
+}
+

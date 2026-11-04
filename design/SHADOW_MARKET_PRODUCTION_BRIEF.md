@@ -113,4 +113,4 @@ A candidate passes only if the actual output demonstrates:
 
 ## Exact next action
 
-Run equal-width collection QA across all 15 selected Shadow Market base masters. Record actual naming, framing, function separation, lineage continuity and neighborhood-cohesion results. Then define a deterministic 20-finish edition matrix mapped to the canonical 8/5/4/2/1 rarity allocation without altering architecture or exact stage names.
+Shadow Market base-master collection QA and the deterministic edition-finish plan are complete. Next: develop the non-destructive edition-render pipeline without altering architecture or exact stage names; do not mark any edition rendered or certified until actual outputs exist and pass visual/integrity review.

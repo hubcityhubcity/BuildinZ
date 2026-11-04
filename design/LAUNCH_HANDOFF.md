@@ -237,3 +237,12 @@ Generated and visually inspected Veil Beacon, Obsidian Spire and Shadow Sovereig
 The lineage escalates from one slender civic beacon with compact viewing chamber, to a much taller spire with larger observation ring, multiple shadow fins and stronger beacon crown, then to a skyline-defining monument with one dominant central spire, four subordinate spires, enormous supported observatory, layered veil crown and expanded ceremonial plaza. All three selected outputs passed naming, landmark-function, support and framing gates on their first generated versions.
 
 Integrity evidence is recorded in `design/SHADOW_MARKET_LANDMARK_ART_HANDOFF.md` and the consolidated manifest. Shadow Market now has 15 of 15 required base stage candidates. This is not final certification: collection-level equal-width QA, edition variants, permanent URIs and release validation remain open. Next bounded batch: Shadow Market 15-master equal-width QA and deterministic edition-finish matrix.
+
+
+## Shadow Market collection QA and edition-finish checkpoint — November 4, 2026
+
+Built and visually inspected a five-row × three-stage equal-width contact sheet covering all 15 selected Shadow Market base masters. The first review artifact clipped the Technology and Entertainment row labels; the sheet typography was corrected and regenerated before acceptance. No collection art changed. The accepted 1240 × 2860 RGB PNG loads all 15 masters and verifies clear stage escalation, five-way function separation, exact stage naming, complete bases/crowns and coherent obsidian/smoked-violet/aged-copper/black-glass/acid-green neighborhood language.
+
+Committed a deterministic 20-finish plan mapped to canonical editions 1–20 and the fixed 8 Common / 5 Uncommon / 4 Rare / 2 Epic / 1 Legendary schedule. One finish key persists across all three stages of a token. Controlled materials, glazing, light and restrained inlays may vary; architecture, amenities, exact names, building type and framing may not. The validator passes 20 unique finishes, 100 Shadow Market tokens and 300 planned stage images.
+
+This is planning and base-master QA, not edition completion or final certification. No edition images or permanent URIs were invented. Evidence: `design/SHADOW_MARKET_COLLECTION_QA.md`, `design/SHADOW_MARKET_EDITION_FINISH_MATRIX.json`, the contact sheet and validator. Next bounded batch: prepare Skygarden District production language and produce Canopy Residences → Cloudterrace Habitat → Eden Skyhold.

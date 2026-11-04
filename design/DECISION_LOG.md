@@ -41,3 +41,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Residential rule:** Private resident amenities only; no public ground-level pool or retail frontage.
 - **Authority boundary:** Neighborhood theme derives from the Foundation working set; all exact non-Neon stage names and continuity details remain delegated production decisions.
 - **Evidence:** `SHADOW_MARKET_PRODUCTION_BRIEF.md`.
+
+
+## 2026-11-04 — Shadow Market edition finishes
+
+- **Delegated decision:** Adopt a deterministic 20-finish matrix for Shadow Market, keyed directly to canonical edition numbers 1–20 and rarity ranges 8/5/4/2/1.
+- **Persistence rule:** A token keeps the same edition finish through Stage I, II and III; evolution changes architecture, not edition identity.
+- **Allowed variation:** Controlled obsidian/copper material response, smoked-violet glazing tint, restrained acid-green guidance, lighting and decorative inlays.
+- **Forbidden variation:** Architecture, silhouette, amenities, exact mounted name, building type, framing, logos, captions, watermarks or unsupported geometry.
+- **Status boundary:** The matrix is a validated production plan only. Its 300 Shadow Market edition-stage images are not yet rendered, visually inspected, assigned permanent URIs or final-certified.
+- **Evidence:** `SHADOW_MARKET_EDITION_FINISH_MATRIX.json`, `SHADOW_MARKET_EDITION_FINISH_MATRIX.md`, `SHADOW_MARKET_COLLECTION_QA.md`.

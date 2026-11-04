@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates; 105 non-Neon stage masters remain without selected candidates. Golden Crest base-master QA passes; Shadow Market collection-level QA remains open; edition rendering and final certification remain open for both.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; 105 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for both neighborhoods; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Run equal-width collection QA across all 15 selected Shadow Market base masters, record actual naming/framing/function/lineage failures, and define a deterministic 20-finish edition matrix mapped to the canonical 8 Common / 5 Uncommon / 4 Rare / 2 Epic / 1 Legendary allocation without changing architecture or exact stage names.
+Prepare the Skygarden District production brief from the canonical registry, then produce and inspect Canopy Residences / Cloudterrace Habitat / Eden Skyhold as its Residential lineage. Establish a distinct emerald, mint, sky-blue, pearl and warm-wood language with controlled greenery and airy terraces; preserve exact stage names, full bases and crowns, and supported sky structures.

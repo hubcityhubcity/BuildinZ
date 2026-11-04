@@ -18,7 +18,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 |---|---:|---:|---:|---|
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
-| Shadow Market | 15 | 0 | 0 | 15 base lineage candidates selected across all five identities; collection-level equal-width QA, 300 edition-stage renders, release manifest and final certification remain open |
+| Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
 | Skygarden District | 15 | 0 | 0 | production not started |
 | Velocity Row | 15 | 0 | 0 | production not started |
 | Royal Mirage | 15 | 0 | 0 | production not started |
@@ -171,3 +171,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Shadow Sovereign | `assets/candidates/shadow-market-shadow-sovereign-stage-3-v1.png` | 1024 × 1536 | 2,598,274 | `067a923c31b07ce2c42c5336a38ccf9c9566f11de3aa905b5611ccea0c9764af` | `f9cfe75d7ae90fd9e736d746c8b197f3b479b9a8` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three selected outputs passed exact-name, landmark-function, physical-support, framing and stage-escalation review on their first generated versions. Shadow Market now has all 15 required base stage candidates; collection-level equal-width QA and edition rendering remain open.
+
+
+## Shadow Market collection QA and edition plan — November 4, 2026
+
+- Equal-width five-row × three-stage review surface: `design/qa/shadow-market/shadow-market-15-master-contact-sheet.png`
+- QA evidence: `design/SHADOW_MARKET_COLLECTION_QA.md`
+- Deterministic edition matrix: `design/SHADOW_MARKET_EDITION_FINISH_MATRIX.json` and `.md`
+- Validator: `scripts/validate_shadow_market_edition_finishes.mjs`
+- Result: all 15 base candidates pass collection-level lineage, function, naming and framing review; the matrix validates 20 unique finishes, 100 tokens and 300 planned stage images.
+
+Status boundary: the 300 edition-stage images are planned but not rendered, inspected, assigned permanent URIs or final-certified.
