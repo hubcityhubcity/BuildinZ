@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - "preview-genesis-gallery.html"
+      - "index.html"
       - "tests/browser_genesis_gallery.mjs"
       - "metadata/genesis-token-registry.json"
       - "design/COLLECTION_REGISTRY.json"
