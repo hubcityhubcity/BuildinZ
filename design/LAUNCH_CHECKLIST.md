@@ -33,6 +33,9 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## 3. Collector website
 
+- [x] Add separate full 1,000-token registry/gallery **preview** with rarity, stage, type, neighborhood and search filters; preserve simulation-only disclosures.
+- [x] Run automated Chromium desktop and 360px mobile-emulation gallery QA, including missing-art fail-closed behavior and homepage link (9/9 checks, [November 4 CI](https://github.com/hubcityhubcity/BuildinZ/actions/runs/41796630697)). **This does not replace physical-device and accessibility QA.**
+
 - [x] Neon Heights prototype distinguishes saved stage and building type.
 - [x] Existing prototype regression checks cover stage switching and legacy saves.
 - [ ] Add all neighborhoods, rarity filters and full gallery data from canonical registry.
@@ -41,6 +44,8 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [ ] Complete desktop, narrow-mobile, keyboard, contrast, image-failure and navigation QA.
 
 ## 4. Polygon contracts and integration
+
+- [x] Extend contract-prototype regression coverage with ten adversarial/fuzz tests. [November 4 Foundry CI](https://github.com/hubcityhubcity/BuildinZ/actions/runs/41796504950): **21/21 tests passed**. This is **not** an independent audit.
 
 **November 3 prototype checkpoint:** A limited [ERC-721 Solidity draft](../contracts/BuildinZGenesis.sol) and [Foundry test suite](../test/BuildinZGenesis.t.sol) compile and pass in [CI run 41728482051](https://github.com/hubcityhubcity/BuildinZ/actions/runs/41728482051). This is an engineering milestone only: production contract requirements and security gates remain unchecked. See [handoff](POLYGON_CONTRACT_PROTOTYPE_HANDOFF.md).
 
