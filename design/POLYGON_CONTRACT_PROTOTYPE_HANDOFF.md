@@ -41,3 +41,10 @@
 ## Progress accounting
 
 This work establishes a real compiled/tested **contract prototype**, but production contract, wallet integration, external review, testnet verification and mainnet authorization remain unchecked on the canonical launch checklist.
+
+## November 4 additional security/robustness test checkpoint
+
+- Added `test/BuildinZSecurity.t.sol` with 10 additional adversarial and property/fuzz test functions: rejecting ERC-721 receiver rollback, receiver reentrant mint blocking, failed ETH withdrawal rollback, Ownable2Step handoff, per-token isolation, operator-not-holder evolution refusal, nonexistent tokenURI rejection, fuzzed quantity/price checks, fuzzed stage persistence across transfers, and invalid-owner-mint quantities.
+- [GitHub Actions run 41796504950](https://github.com/hubcityhubcity/BuildinZ/actions/runs/41796504950): Foundry **21 of 21 tests passed** (11 original + 10 new). Three fuzz cases each ran 256 executions. The initial job failure caused by Foundry reserving `testFail*` names was corrected and retested successfully.
+- These checks significantly expand unit/fuzz coverage, but **are not an independent security audit**, do not finalize BRICK/points evolution economics, and do not verify public testnet deployments or real IPFS metadata.
+- Next: model finalized token-upgrade settlement once cross-workstream economics are locked, then external testnet integration and separate security review.
