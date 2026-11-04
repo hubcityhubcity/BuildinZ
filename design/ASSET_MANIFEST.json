@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "440fcafdee6c3cad493cfef7f9411bab344f8af1",
+  "repository_commit": "dee1b39ceb414468a67d95c7ffa2286db6479db5",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 52,
+    "asset_files": 55,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 15
+    "lineage_selected_candidate_stage_assets": 18
   },
   "production_matrix": [
     {
@@ -43,9 +43,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "production not started",
+      "status": "Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 0
+      "selected_candidate_stage_assets": 3
     },
     {
       "neighborhood_id": 3,
@@ -1022,6 +1022,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II lineage references; actual output visually inspected for exact plinth name, five-spire composition, supported observatory/rings, expanded ceremonial square and clear stage escalation. Integrity recorded in GOLDEN_CREST_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-gloomstep-flats-stage-1-v1.png",
+      "bytes": 2389959,
+      "git_blob_sha": "dcfa4a2d63cb4f226ee3cd841c67e579db6715dc",
+      "sha256": "d1763e40abfdab9d8df5f269bcfb7f54e48db9b8d5395708b60cab809ebad10a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Gloomstep Flats",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; actual output visually inspected for exact mounted name, guarded residential court, screened passage, private terrace, no pool and complete framing. Integrity recorded in SHADOW_MARKET_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-veilside-habitat-stage-2-v1.png",
+      "bytes": 2499816,
+      "git_blob_sha": "1778d5dd7187dbdd56e925958535cd7ea6ea8e65",
+      "sha256": "5c7aa790e9bfac6d2a9fbb74aa22d587a7dc20ef9dd73d98f4c7437de875f3e0",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Veilside Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; actual output visually inspected for exact mounted name, increased height, supported screened bridges, enclosed private sky lounge, no pool and complete framing. Integrity recorded in SHADOW_MARKET_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-noctis-enclave-stage-3-v1.png",
+      "bytes": 2548162,
+      "git_blob_sha": "e82d705cfb767df7271af1a5e2ab74a8bfa7ee0b",
+      "sha256": "d5e1354e0b451b529f9bfd6b9c9d8445d423c207514d3a92a30f9f6643822071",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Noctis Enclave",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; actual output visually inspected for exact mounted name, multi-zone residential program, three supported passages, two private sky lounges, veiled crown, no pool and complete framing. Integrity recorded in SHADOW_MARKET_RESIDENTIAL_ART_HANDOFF.md."
     }
   ]
 }

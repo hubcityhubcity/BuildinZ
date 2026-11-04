@@ -17,9 +17,10 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Existing Neon Heights prototype lineages corrected and integrated with versioned derivatives.
 - [x] Golden Crest 15-master equal-width review passes asset loading, name/framing continuity, function separation and stage progression; evidence in `GOLDEN_CREST_COLLECTION_QA.md`.
 - [x] Golden Crest 20-finish edition matrix maps deterministically to the canonical 8/5/4/2/1 rarity schedule and passes its validator; the 300 actual edition-stage renders remain unproduced.
+- [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest has all 15 lineage candidates selected; 120 non-Neon stage masters remain without selected candidates. Golden Crest equal-width base-master QA passes; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest has 15 selected candidates and Shadow Market Residential has 3; 117 non-Neon stage masters remain without selected candidates. Golden Crest base-master QA passes; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -74,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Prepare `SHADOW_MARKET_PRODUCTION_BRIEF.md` from the canonical registry and consistency standard, then produce and inspect Gloomstep Flats / Veilside Habitat / Noctis Enclave as the first controlled Shadow Market lineage. Keep Golden Crest edition rendering as a separate versioned pipeline; do not attach image URIs until actual outputs exist.
+Produce and inspect Lantern Row / Blackglass Bazaar / Eclipse Exchange from the Retail section of `SHADOW_MARKET_PRODUCTION_BRIEF.md`. Preserve copper lantern ribs, black-glass shop bays, restrained acid-green directory lines and one diagonal hidden lane; keep all galleries, passages, plaza and crown inside frame.

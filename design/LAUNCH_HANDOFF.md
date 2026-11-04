@@ -192,3 +192,12 @@ Created and visually inspected an equal-width five-row × three-stage contact sh
 Committed a deterministic 20-finish plan mapped to canonical edition numbers and the fixed 8 Common / 5 Uncommon / 4 Rare / 2 Epic / 1 Legendary schedule. One finish key persists across all three stages of a token; finishes may change controlled materials, glazing, lighting and restrained inlays but never architecture, signage, identity or framing. The validator passes 20 unique finish keys, 100 Golden Crest tokens and 300 planned edition-stage images.
 
 This is planning and base-master QA, not edition completion or final certification. No edition images or URIs were invented. Next bounded batch: prepare the Shadow Market production brief, then produce Gloomstep Flats → Veilside Habitat → Noctis Enclave.
+
+
+## Shadow Market brief and Residential lineage checkpoint — November 4, 2026
+
+Committed `design/SHADOW_MARKET_PRODUCTION_BRIEF.md` from the canonical registry and consistency standard. It locks all five exact three-stage paths, obsidian/smoked-violet/aged-copper/black-glass palette, restrained acid-green guidance, function separation, continuity anchors and actual-output acceptance gates. These are delegated production decisions, not prior owner approvals.
+
+Generated and visually inspected Gloomstep Flats, Veilside Habitat and Noctis Enclave as Shadow Market's first complete lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, secure arrival courts, coherent copper entry/violet glazing/green wayfinding/screened-passage language and clear escalation from low flats to stacked habitat to multi-zone crowned enclave. No public or ground-level pool appears. Bridges, lounges and crown elements are visibly supported.
+
+Integrity evidence is recorded in `design/SHADOW_MARKET_RESIDENTIAL_ART_HANDOFF.md` and the consolidated manifest. These are base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Shadow Market Retail — Lantern Row → Blackglass Bazaar → Eclipse Exchange.

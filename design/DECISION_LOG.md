@@ -32,3 +32,12 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Forbidden variation:** Architecture, silhouette, amenities, exact mounted name, building type, framing, logos, captions, watermarks or unsupported geometry.
 - **Status boundary:** The matrix is a validated production plan only. Its 300 Golden Crest edition-stage images are not yet rendered, visually inspected, assigned permanent URIs or final-certified.
 - **Evidence:** `GOLDEN_CREST_EDITION_FINISH_MATRIX.json`, `GOLDEN_CREST_EDITION_FINISH_MATRIX.md`, `GOLDEN_CREST_COLLECTION_QA.md`.
+
+
+## 2026-11-04 — Shadow Market production language
+
+- **Delegated decision:** Adopt obsidian, smoked violet, aged copper, black glass and restrained acid-green guidance as Shadow Market's production palette.
+- **Style separation:** Noir mercantile silhouettes, deep overhangs, screened passages and physically supported bridges distinguish Shadow Market from Neon Heights cyberpunk saturation and Golden Crest ceremonial ivory/gold.
+- **Residential rule:** Private resident amenities only; no public ground-level pool or retail frontage.
+- **Authority boundary:** Neighborhood theme derives from the Foundation working set; all exact non-Neon stage names and continuity details remain delegated production decisions.
+- **Evidence:** `SHADOW_MARKET_PRODUCTION_BRIEF.md`.
