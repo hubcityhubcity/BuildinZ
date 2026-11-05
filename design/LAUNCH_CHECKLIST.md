@@ -75,5 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Use the committed `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` to produce and inspect Foundry Flats / Riveted Habitat / Ironclad Arcology as the Residential lineage. Preserve Old World Steel identity separation, exact mounted names, complete framing, physical support and clear Stage I→II→III escalation.
-
+Create and inspect an equal-width Old World Steel Residential comparison (Foundry Flats / Riveted Habitat / Ironclad Arcology), then begin Forge Market / Steelworks Arcade / Grand Industrial Exchange. Latest asset counts and individual-stage evidence are in ASSET_MANIFEST.json and LAUNCH_HANDOFF.md; final certification remains open.

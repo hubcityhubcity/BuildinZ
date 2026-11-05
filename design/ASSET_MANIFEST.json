@@ -5,13 +5,13 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 117,
+    "asset_files": 118,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 77
+    "lineage_selected_candidate_stage_assets": 78
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential Stages I and II selected; 13 stage candidates and final certification remain open",
+      "status": "Residential three-stage candidates individually inspected; equal-width lineage review and 12 remaining stage designs open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 2
+      "selected_candidate_stage_assets": 3
     },
     {
       "neighborhood_id": 7,
@@ -2253,6 +2253,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Generated using Foundry Flats reference; actual output inspected for exact signage, twin tall apartment towers, truss-supported private sky lounge and elevated pool, full roof/base and material continuity."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-ironclad-arcology-stage-3-v1.png",
+      "bytes": 3478587,
+      "git_blob_sha": "ed6ed2149c4f954c682647bf07e48c26c1b3fcfb",
+      "sha256": "b89095d584f1ef2894e1edd4c7caf701a002f110bf93494c9b1c99197be4997c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Ironclad Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Generated using Stages I/II references; individually inspected actual output: three apartment towers, complete iron/copper crown, supported enclosed lounge and two elevated pools/resort terraces, exact sign and full base."
     }
   ]
 }
