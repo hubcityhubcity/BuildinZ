@@ -75,5 +75,5 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Prepare `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` from the canonical registry and collection standards, then produce and inspect Foundry Flats / Riveted Habitat / Ironclad Arcology as the Residential lineage. Preserve Old World Steel identity separation, exact mounted names, complete framing, physical support and clear Stage I→II→III escalation.
+Use the committed `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` to produce and inspect Foundry Flats / Riveted Habitat / Ironclad Arcology as the Residential lineage. Preserve Old World Steel identity separation, exact mounted names, complete framing, physical support and clear Stage I→II→III escalation.
 
