@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
-  "recorded_date": "2026-11-04",
-  "repository_commit": "515967d8cf04d8629b3cf76448049a1d0c83f5ac",
+  "recorded_date": "2026-11-05",
+  "repository_commit": "1bd981e265871214922fdcca8bd3a5a5c4e9fcef",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 92,
+    "asset_files": 95,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 54
+    "lineage_selected_candidate_stage_assets": 57
   },
   "production_matrix": [
     {
@@ -65,9 +65,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open",
+      "status": "Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 9
+      "selected_candidate_stage_assets": 12
     },
     {
       "neighborhood_id": 5,
@@ -1782,6 +1782,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant research tower plus two side labs, luminous central test spine, supported research bridges and test-ring decks, robotics bays, kinetic turbine crown and complete secure base. Integrity recorded in VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-rush-arena-stage-1-v1.png",
+      "bytes": 3066253,
+      "git_blob_sha": "52387b33b0781affc2a8af374f3f33a649b5f76e",
+      "sha256": "da85f3103dd40ebf0cce923dc1581054b0c83b308d084efc690c59120a064e46",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Rush Arena",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact enclosed arena, visible red seating bowl and event floor, banked white shell, cobalt concourse glass, gunmetal trusses, supported spectator terrace, amber event lights and complete ceremonial base/roof. Integrity recorded in VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-overtake-pavilion-stage-2-v1.png",
+      "bytes": 3115327,
+      "git_blob_sha": "ea53bdfce139c147bb3c7736e3a74ff6dbc251d8",
+      "sha256": "177ba80a3b4dc0a2bc5c05820ef8e4e498310932aad7b7f79a09df37ca9aeef3",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Overtake Pavilion",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using the Stage I reference; visually inspected for exact mounted name, larger two-tier event venue, layered red grandstands, visible event floor, supported spectator decks, cobalt concourse bridges, expanded aero canopy and complete base/roof. Integrity recorded in VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-redline-coliseum-stage-3-v1.png",
+      "bytes": 3378866,
+      "git_blob_sha": "d6afde9747b1dd3f728fc206a76c75c1ee93abdf",
+      "sha256": "cdbd3547c9ef4ef039211ae58509612f053df93adaf890938cc160c1a9e10eb7",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Redline Coliseum",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central arena plus two integrated side bowls, multi-tier red seating, supported cobalt concourses and short bridges, gunmetal trusses, luminous attached turbine crown and complete ceremonial base. Integrity recorded in VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md."
     }
   ]
 }

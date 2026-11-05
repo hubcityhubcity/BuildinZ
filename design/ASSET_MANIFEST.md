@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 4, 2026 (America/Chicago) against repository commit `dc0a849fc38e30119a09ed48276761fd9adc14b1`.
+Recorded November 5, 2026 (America/Chicago) against repository commit `1bd981e265871214922fdcca8bd3a5a5c4e9fcef`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **92**
+- Repository asset files: **95**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **81**
+- Non-Neon required stage masters without a selected lineage candidate: **78**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -20,7 +20,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Velocity Row | 15 | 0 | 0 | Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open |
+| Velocity Row | 15 | 0 | 0 | Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open |
 | Royal Mirage | 15 | 0 | 0 | production not started |
 | Old World Steel | 15 | 0 | 0 | production not started |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
@@ -278,3 +278,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Hyperdrive Nexus | `assets/candidates/velocity-row-hyperdrive-nexus-stage-3-v1.png` | 1024 × 1536 | 3,154,841 | `b030b309df7b04df0762b9e7ed25763bf1d7c67f9fc659f48852c40f72e96edb` | `64839c1230748139593648c5f4eecf3e1b75c9b5` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, engineering-research function, palette, support, framing and stage-escalation review on their first generated versions.
+
+
+## Velocity Row Entertainment selected candidates — November 5, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Rush Arena | `assets/candidates/velocity-row-rush-arena-stage-1-v1.png` | 1024 × 1536 | 3,066,253 | `da85f3103dd40ebf0cce923dc1581054b0c83b308d084efc690c59120a064e46` | `52387b33b0781affc2a8af374f3f33a649b5f76e` |
+| II | Overtake Pavilion | `assets/candidates/velocity-row-overtake-pavilion-stage-2-v1.png` | 1024 × 1536 | 3,115,327 | `177ba80a3b4dc0a2bc5c05820ef8e4e498310932aad7b7f79a09df37ca9aeef3` | `ea53bdfce139c147bb3c7736e3a74ff6dbc251d8` |
+| III | Redline Coliseum | `assets/candidates/velocity-row-redline-coliseum-stage-3-v1.png` | 1024 × 1536 | 3,378,866 | `cdbd3547c9ef4ef039211ae58509612f053df93adaf890938cc160c1a9e10eb7` | `d6afde9747b1dd3f728fc206a76c75c1ee93abdf` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, live-event function, palette, physical-support, framing and stage-escalation review on their first generated versions.

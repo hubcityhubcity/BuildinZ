@@ -310,3 +310,10 @@ Integrity evidence is recorded in `design/VELOCITY_ROW_RETAIL_ART_HANDOFF.md` an
 Generated and visually inspected Vector Works, Quantum Garage and Hyperdrive Nexus as Velocity Row's third complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, gunmetal frames, white shells, cobalt sealed test glass, racing-red service loops, amber diagnostics, robotics/wind-tunnel programs, complete secure bases/crowns and clear escalation from compact works to tall prototype tower to a bridged multi-zone engineering citadel.
 
 Integrity evidence is recorded in `design/VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Velocity Row Entertainment — Rush Arena → Overtake Pavilion → Redline Coliseum.
+
+
+## Velocity Row Entertainment lineage checkpoint — November 5, 2026
+
+Generated and visually inspected Rush Arena, Overtake Pavilion and Redline Coliseum as Velocity Row's fourth complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, banked white shells, red seating/ribbons, cobalt concourse glass, gunmetal supports, amber event lights, complete bases/crowns and clear escalation from compact arena to two-tier pavilion to a monumental three-bowl coliseum with a turbine crown.
+
+Integrity evidence is recorded in `design/VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Velocity Row Landmark — Pole Beacon → Apex Tower → Crown of Speed.

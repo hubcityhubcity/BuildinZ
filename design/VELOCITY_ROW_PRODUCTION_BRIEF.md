@@ -76,4 +76,4 @@ Continuity anchors: white/gunmetal mast, racing-red velocity spine, cobalt canop
 
 ## Exact next action
 
-Produce and inspect Rush Arena / Overtake Pavilion / Redline Coliseum from the Entertainment section of `VELOCITY_ROW_PRODUCTION_BRIEF.md`. Preserve banked white shells, red seating/ribbons, cobalt concourse glass, gunmetal trusses and amber event lights; keep ceremonial entries, supported spectator decks/bridges, complete bases and crowns in frame.
+Produce and inspect Pole Beacon / Apex Tower / Crown of Speed from the Landmark section of `VELOCITY_ROW_PRODUCTION_BRIEF.md`. Preserve white/gunmetal mast, racing-red velocity spine, cobalt canopy glass, amber beacon rings and tied-back aero fins; keep observation rings/bridges, complete bases and crowns physically supported and in frame.

@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row Residential/Retail/Technology have 9 selected candidates; 81 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row Residential/Retail/Technology/Entertainment have 12 selected candidates; 78 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce and inspect Rush Arena / Overtake Pavilion / Redline Coliseum from the Entertainment section of `VELOCITY_ROW_PRODUCTION_BRIEF.md`. Preserve banked white shells, red seating/ribbons, cobalt concourse glass, gunmetal trusses and amber event lights; keep ceremonial entries, supported spectator decks/bridges, complete bases and crowns in frame.
+Produce and inspect Pole Beacon / Apex Tower / Crown of Speed from the Landmark section of `VELOCITY_ROW_PRODUCTION_BRIEF.md`. Preserve white/gunmetal mast, racing-red velocity spine, cobalt canopy glass, amber beacon rings and tied-back aero fins; keep observation rings/bridges, complete bases and crowns physically supported and in frame.
