@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "3087b2ad9b54d581540fe05c4be6a6b557d64e6c",
+  "repository_commit": "8a9157b59f447c3cdf71bb48b380b6cd095414e9",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 67,
+    "asset_files": 70,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 30
+    "lineage_selected_candidate_stage_assets": 33
   },
   "production_matrix": [
     {
@@ -54,9 +54,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "production not started",
+      "status": "Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 0
+      "selected_candidate_stage_assets": 3
     },
     {
       "neighborhood_id": 4,
@@ -1307,6 +1307,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus four subordinate spires, enormous supported observatory, layered veil crown, expanded ceremonial base, complete side-spire framing and safe crown clearance. Integrity recorded in SHADOW_MARKET_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-canopy-residences-stage-1-v1.png",
+      "bytes": 2759462,
+      "git_blob_sha": "1fe427ba9c1b3d21f4b28f0de906c47fdfd241b1",
+      "sha256": "b1d0c034474ff5045ac851d4ad46ab7393125e3bdf357c463e89d065aaf94df5",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Canopy Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, low residential wings, pearl branching frame, warm-wood balcony bands, emerald glazing, restrained planted ribbons, architectural roof canopy, complete arrival court and no public pool. Integrity recorded in SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-cloudterrace-habitat-stage-2-v1.png",
+      "bytes": 3054851,
+      "git_blob_sha": "f535b3e486c216ef67f7b24195526de6f63945dd",
+      "sha256": "8f94b942f82e112d3e08b38449a5b6fbd324968a0eaa3564028bf6d823a5296d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Cloudterrace Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller twin residential towers, supported enclosed private sky lounge, stepped garden terraces, upper private water features, complete podium and roof canopies. Integrity recorded in SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-eden-skyhold-stage-3-v1.png",
+      "bytes": 3136806,
+      "git_blob_sha": "1cbb43f5171236362a248894d1eccb12e6309c2b",
+      "sha256": "0aeb348cff627be100053d58d707965791907c0f3d9b697d3257c6a8feefb502",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Eden Skyhold",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus two side residential towers, multiple supported sky lounges and bridges, private upper water features, complete living crown, full podium and restrained greenery. Integrity recorded in SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md."
     }
   ]
 }

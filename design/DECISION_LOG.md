@@ -51,3 +51,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Forbidden variation:** Architecture, silhouette, amenities, exact mounted name, building type, framing, logos, captions, watermarks or unsupported geometry.
 - **Status boundary:** The matrix is a validated production plan only. Its 300 Shadow Market edition-stage images are not yet rendered, visually inspected, assigned permanent URIs or final-certified.
 - **Evidence:** `SHADOW_MARKET_EDITION_FINISH_MATRIX.json`, `SHADOW_MARKET_EDITION_FINISH_MATRIX.md`, `SHADOW_MARKET_COLLECTION_QA.md`.
+
+
+## 2026-11-04 — Skygarden District production language
+
+- **Delegated decision:** Adopt emerald, mint, sky blue, pearl structural frames and warm wood as Skygarden District's production palette, rendered in a bright airy post-rain dawn atmosphere.
+- **Style separation:** Branching pearl frames, broad trellis canopies, planted ribbons and light sky structures distinguish Skygarden from Neon Heights cyberpunk saturation, Golden Crest ceremonial palaces and Shadow Market noir massing.
+- **Greenery rule:** Planting is controlled architectural infrastructure; it must not swallow facades, hide exact names or substitute foliage for stage escalation.
+- **Residential rule:** Private elevated amenities only; no public or ground-level pool, retail frontage or hotel program.
+- **Authority boundary:** Neighborhood theme derives from the Foundation working set; exact stage names come from the canonical registry, while continuity anchors and acceptance decisions remain delegated production decisions.
+- **Evidence:** `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`, `SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md`.

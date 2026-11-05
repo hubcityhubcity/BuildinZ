@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; 105 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for both neighborhoods; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District Residential adds 3 selected candidates; 102 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Prepare the Skygarden District production brief from the canonical registry, then produce and inspect Canopy Residences / Cloudterrace Habitat / Eden Skyhold as its Residential lineage. Establish a distinct emerald, mint, sky-blue, pearl and warm-wood language with controlled greenery and airy terraces; preserve exact stage names, full bases and crowns, and supported sky structures.
+Produce and inspect Bloom Market / Verdant Galleria / Hanging Garden Exchange from the Retail section of `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`. Preserve pearl canopy arches, warm-wood market bands, sky-blue gallery glass, controlled vine trellises and modular hanging planter grids; keep retail entries, supported galleries, complete bases and crowns in frame.

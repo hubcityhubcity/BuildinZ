@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 4, 2026 (America/Chicago) against repository commit `2a2c2afe47d55930873f5d5c1b08325cc669019c`.
+Recorded November 4, 2026 (America/Chicago) against repository commit `8a9157b59f447c3cdf71bb48b380b6cd095414e9`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **67**
+- Repository asset files: **70**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **105**
+- Non-Neon required stage masters without a selected lineage candidate: **102**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -19,7 +19,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
-| Skygarden District | 15 | 0 | 0 | production not started |
+| Skygarden District | 15 | 0 | 0 | Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open |
 | Velocity Row | 15 | 0 | 0 | production not started |
 | Royal Mirage | 15 | 0 | 0 | production not started |
 | Old World Steel | 15 | 0 | 0 | production not started |
@@ -182,3 +182,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 - Result: all 15 base candidates pass collection-level lineage, function, naming and framing review; the matrix validates 20 unique finishes, 100 tokens and 300 planned stage images.
 
 Status boundary: the 300 edition-stage images are planned but not rendered, inspected, assigned permanent URIs or final-certified.
+
+
+## Skygarden District Residential selected candidates — November 4, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Canopy Residences | `assets/candidates/skygarden-district-canopy-residences-stage-1-v1.png` | 1024 × 1536 | 2,759,462 | `b1d0c034474ff5045ac851d4ad46ab7393125e3bdf357c463e89d065aaf94df5` | `1fe427ba9c1b3d21f4b28f0de906c47fdfd241b1` |
+| II | Cloudterrace Habitat | `assets/candidates/skygarden-district-cloudterrace-habitat-stage-2-v1.png` | 1024 × 1536 | 3,054,851 | `8f94b942f82e112d3e08b38449a5b6fbd324968a0eaa3564028bf6d823a5296d` | `f535b3e486c216ef67f7b24195526de6f63945dd` |
+| III | Eden Skyhold | `assets/candidates/skygarden-district-eden-skyhold-stage-3-v1.png` | 1024 × 1536 | 3,136,806 | `0aeb348cff627be100053d58d707965791907c0f3d9b697d3257c6a8feefb502` | `1cbb43f5171236362a248894d1eccb12e6309c2b` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, residential-function, controlled-greenery, supported-structure, no-public-pool, framing and stage-escalation review on their first generated versions.

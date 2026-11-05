@@ -246,3 +246,12 @@ Built and visually inspected a five-row × three-stage equal-width contact sheet
 Committed a deterministic 20-finish plan mapped to canonical editions 1–20 and the fixed 8 Common / 5 Uncommon / 4 Rare / 2 Epic / 1 Legendary schedule. One finish key persists across all three stages of a token. Controlled materials, glazing, light and restrained inlays may vary; architecture, amenities, exact names, building type and framing may not. The validator passes 20 unique finishes, 100 Shadow Market tokens and 300 planned stage images.
 
 This is planning and base-master QA, not edition completion or final certification. No edition images or permanent URIs were invented. Evidence: `design/SHADOW_MARKET_COLLECTION_QA.md`, `design/SHADOW_MARKET_EDITION_FINISH_MATRIX.json`, the contact sheet and validator. Next bounded batch: prepare Skygarden District production language and produce Canopy Residences → Cloudterrace Habitat → Eden Skyhold.
+
+
+## Skygarden District brief and Residential lineage checkpoint — November 4, 2026
+
+Committed `design/SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md` from the canonical registry. It locks all five exact three-stage paths, emerald/mint/sky-blue/pearl/warm-wood palette, bright airy dawn atmosphere, controlled greenery, function separation, continuity anchors and actual-output acceptance gates. These are delegated production decisions, not prior owner approvals.
+
+Generated and visually inspected Canopy Residences, Cloudterrace Habitat and Eden Skyhold as Skygarden District's first complete lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, pearl branching frames, emerald residential glazing, warm-wood balcony bands, mint edge light, restrained planted ribbons and clear escalation from low canopy residence to twin-tower habitat to three-tower crowned skyhold. Stage II adds a supported private sky lounge; Stage III adds several supported resident zones, private upper water features and a complete living crown. No public or ground-level pool appears.
+
+Integrity evidence is recorded in `design/SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Skygarden District Retail — Bloom Market → Verdant Galleria → Hanging Garden Exchange.
