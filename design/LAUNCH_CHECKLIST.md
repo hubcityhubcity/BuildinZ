@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row has 15 base lineage candidates passing equal-width collection QA; 75 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row has 15 base lineage candidates passing equal-width collection QA; Royal Mirage Residential has 3 selected candidates; 72 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Prepare `ROYAL_MIRAGE_PRODUCTION_BRIEF.md` from the canonical registry and collection standards, then produce and inspect Oasis Residences / Mirage Habitat / Sultan's Skyhold as the Residential lineage. Preserve Royal Mirage identity separation, exact mounted names, complete framing, physical support and clear Stage I→II→III escalation.
+Produce and inspect Souk Plaza / Jewel Galleria / Infinite Caravanserai from the Retail section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve shaded sand-stone arcades, sapphire/turquoise storefront glass, rose-gold screens, mirrored-black structure and clear public retail circulation; keep complete approaches/canopies and all elevated galleries physically supported.

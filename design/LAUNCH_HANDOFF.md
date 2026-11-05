@@ -326,3 +326,10 @@ Generated and visually inspected Pole Beacon, Apex Tower and Crown of Speed as V
 An equal-width 3×5 contact sheet was generated and separately inspected across all 15 Velocity Row candidates. All eight gates pass: asset loading, exact names, stage progression, function separation, district continuity, physical support, framing and failure exclusions. Evidence is recorded in `design/VELOCITY_ROW_COLLECTION_QA.md`, `design/VELOCITY_ROW_LANDMARK_ART_HANDOFF.md` and the consolidated manifest. These remain base candidates only; final NFT certification remains open.
 
 Next bounded batch: prepare Royal Mirage's production brief, then Oasis Residences → Mirage Habitat → Sultan's Skyhold.
+
+
+## Royal Mirage production and Residential checkpoint — November 5, 2026
+
+Created the canonical Royal Mirage production brief from the registry palette, style and five exact evolution lineages. Generated and visually inspected Oasis Residences, Mirage Habitat and Sultan's Skyhold as the first Royal Mirage lineage. All are 1024 × 1536 RGB PNGs with exact/correct mounted names, sand stone, mirrored-black glazing, sapphire/turquoise balcony bands, rose-gold screens, arched shade canopies, visible residential programs, complete bases/crowns and clear scale escalation. Stage II includes a structurally supported private sky lounge; Stage III includes multiple supported resident sky-resort zones, three elevated pools and a display crown. No ground-level public pool appears.
+
+Integrity evidence is recorded in `design/ROYAL_MIRAGE_RESIDENTIAL_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only; final NFT certification is open. Next bounded batch: Souk Plaza → Jewel Galleria → Infinite Caravanserai.

@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-05",
-  "repository_commit": "01dbb97f5144778344abc1d27c603101f7eb9b7a",
+  "repository_commit": "e11a77f5f2de6c8f671c137fc3c7ffffa749f390",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 99,
+    "asset_files": 102,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 60
+    "lineage_selected_candidate_stage_assets": 63
   },
   "production_matrix": [
     {
@@ -76,9 +76,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "production not started",
+      "status": "Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 0
+      "selected_candidate_stage_assets": 3
     },
     {
       "neighborhood_id": 6,
@@ -1915,6 +1915,63 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Equal-width 3×5 contact sheet of all 15 Velocity Row base candidates. Visually inspected for asset loading, exact mounted names, stage progression, function separation, district continuity, physical support, framing and failure exclusions. Gate record in VELOCITY_ROW_COLLECTION_QA.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-oasis-residences-stage-1-v1.png",
+      "bytes": 3391195,
+      "git_blob_sha": "d687e472a6640f650904792d4d08850388af398b",
+      "sha256": "e15bcb54679dd093db0d66f2e7f93b1fa26d43ac439d3efe895e8cac689ac052",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Oasis Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, clearly inhabited terraced residence, shaded dry courtyard, jewel-glass balconies, one private rooftop plunge pool, restrained greenery, complete base and roofline, and no ground-level public pool. Integrity recorded in ROYAL_MIRAGE_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-mirage-habitat-stage-2-v1.png",
+      "bytes": 3491621,
+      "git_blob_sha": "40e98853c541542d940ac98404bb3cef62a2146b",
+      "sha256": "fd95d867f3299ad2356898cae4bdc0477fcaa61b040179ba19a8d6398345fc5b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Mirage Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller twin residential towers, visible apartments, truss-supported private sky lounge, larger elevated rooftop pools, complete base/crowns, and no ground-level public pool. Integrity recorded in ROYAL_MIRAGE_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-sultans-skyhold-stage-3-v1.png",
+      "bytes": 3544692,
+      "git_blob_sha": "59f4f2b70e50aa9d8ed19e2dbc7a4c4f18db6c48",
+      "sha256": "8064790f314398e67c90b7adff527d44150323bb682d3eb97de3d806506c0101",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Sultan's Skyhold",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for correct mounted name, three twenty-plus-level residential towers, multiple supported private sky-resort zones, three elevated pools, restrained greenery, rose-gold/sapphire display crown, complete base/crown, and no ground-level public pool. Integrity recorded in ROYAL_MIRAGE_RESIDENTIAL_ART_HANDOFF.md."
     }
   ]
 }

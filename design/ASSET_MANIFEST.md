@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 5, 2026 (America/Chicago) against repository commit `01dbb97f5144778344abc1d27c603101f7eb9b7a`.
+Recorded November 5, 2026 (America/Chicago) against repository commit `e11a77f5f2de6c8f671c137fc3c7ffffa749f390`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **99**
+- Repository asset files: **102**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **75**
+- Non-Neon required stage masters without a selected lineage candidate: **72**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -21,7 +21,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Royal Mirage | 15 | 0 | 0 | production not started |
+| Royal Mirage | 15 | 0 | 0 | Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open |
 | Old World Steel | 15 | 0 | 0 | production not started |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
@@ -301,3 +301,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | QA | 15-candidate contact sheet | `assets/qa/velocity-row-collection-contact-sheet-v1.png` | 1008 × 2480 | 4,760,410 | `bd3d24016354069a61071fba79cb9d344e7712af8204bac6413430fe24612ffe` | `398a38bb5939387230c8213b084ee5f9f5545fae` |
 
 The Landmark files are delegated lineage candidates only. The equal-width contact sheet passes the eight collection-level gates recorded in `VELOCITY_ROW_COLLECTION_QA.md`. None of these files is prototype-integrated, an edition variant, or final NFT-certified.
+
+
+## Royal Mirage Residential selected candidates — November 5, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Oasis Residences | `assets/candidates/royal-mirage-oasis-residences-stage-1-v1.png` | 1024 × 1536 | 3,391,195 | `e15bcb54679dd093db0d66f2e7f93b1fa26d43ac439d3efe895e8cac689ac052` | `d687e472a6640f650904792d4d08850388af398b` |
+| II | Mirage Habitat | `assets/candidates/royal-mirage-mirage-habitat-stage-2-v1.png` | 1024 × 1536 | 3,491,621 | `fd95d867f3299ad2356898cae4bdc0477fcaa61b040179ba19a8d6398345fc5b` | `40e98853c541542d940ac98404bb3cef62a2146b` |
+| III | Sultan's Skyhold | `assets/candidates/royal-mirage-sultans-skyhold-stage-3-v1.png` | 1024 × 1536 | 3,544,692 | `8064790f314398e67c90b7adff527d44150323bb682d3eb97de3d806506c0101` | `59f4f2b70e50aa9d8ed19e2dbc7a4c4f18db6c48` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three passed exact-name, residential-function, palette, support, framing, pool-placement and stage-escalation review.
