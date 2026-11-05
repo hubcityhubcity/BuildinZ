@@ -354,3 +354,12 @@ Integrity evidence is recorded in `design/ROYAL_MIRAGE_TECHNOLOGY_ART_HANDOFF.md
 Generated and visually inspected Mooncourt Lounge, Mirage Palace and Celestial Riad as Royal Mirage's fourth complete lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, moonlit dry courtyards, sapphire performance glass, turquoise lighting, rose-gold screens, mirrored-black trusses, visible stages/seating, complete approaches/crowns and clear escalation from intimate lounge to multi-hall palace to a monumental three-court performance riad. Balconies, galleries and bridges are supported; no residential, hotel or pool ambiguity appears.
 
 Integrity evidence is recorded in `design/ROYAL_MIRAGE_ENTERTAINMENT_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only; final NFT certification is open. Next bounded batch: Royal Minaret → Sovereign Needle → Crown of Sand.
+
+## Royal Mirage collection completion checkpoint — November 5, 2026
+
+Royal Minaret, Sovereign Needle and Crown of Sand were generated as separate 1024 × 1536 sources, visually inspected, hash-recorded and preserved without overwriting earlier art. The complete 5 × 3 Royal Mirage contact sheet passes exact-name, function-separation, palette-continuity, physical-support, full-framing and Stage I→II→III escalation gates. Evidence: `ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md`, `ROYAL_MIRAGE_COLLECTION_QA.md` and `assets/qa/royal-mirage-collection-contact-sheet-v1.png`.
+
+Royal Mirage now has 15 of 15 selected base lineage candidates. These remain non-final: 300 edition-stage renders, permanent URIs, release manifest and final NFT certification are open. Collection totals after this checkpoint are 115 repository asset files, 75 non-Neon selected lineage candidates, 60 non-Neon stage masters without a selected candidate, and zero final-certified stage assets.
+
+Next bounded batch: Prepare `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` from the canonical registry and collection standards, then produce and inspect Foundry Flats / Riveted Habitat / Ironclad Arcology as the Residential lineage. Preserve Old World Steel identity separation, exact mounted names, complete framing, physical support and clear Stage I→II→III escalation.
+

@@ -82,4 +82,5 @@ Continuity anchors: sand/rose-gold mast, mirrored-black needle, sapphire/turquoi
 
 ## Exact next action
 
-Produce and inspect Royal Minaret / Sovereign Needle / Crown of Sand from the Landmark section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve sand/rose-gold masts, mirrored-black needles, sapphire/turquoise observation glass and attached wind-swept fins; keep observation rings/bridges, complete ceremonial bases and highest crowns physically supported and in frame.
+Prepare `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` from the canonical registry and collection standards, then produce and inspect Foundry Flats / Riveted Habitat / Ironclad Arcology as the Residential lineage. Preserve Old World Steel identity separation, exact mounted names, complete framing, physical support and clear Stage I→II→III escalation.
+

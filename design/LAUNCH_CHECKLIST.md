@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row has 15 base lineage candidates passing equal-width collection QA; Royal Mirage Residential/Retail/Technology/Entertainment have 12 selected candidates; 63 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row and Royal Mirage each have 15 base lineage candidates passing equal-width collection QA; 60 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,5 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce and inspect Royal Minaret / Sovereign Needle / Crown of Sand from the Landmark section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve sand/rose-gold masts, mirrored-black needles, sapphire/turquoise observation glass and attached wind-swept fins; keep observation rings/bridges, complete ceremonial bases and highest crowns physically supported and in frame.
+Prepare `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` from the canonical registry and collection standards, then produce and inspect Foundry Flats / Riveted Habitat / Ironclad Arcology as the Residential lineage. Preserve Old World Steel identity separation, exact mounted names, complete framing, physical support and clear Stage I→II→III escalation.
+

@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 5, 2026 (America/Chicago) against repository commit `92303b738678247bd0fc108d8d3202a549fb6f42`.
+Recorded November 5, 2026 (America/Chicago) against repository parent commit `a30271cb0a490915fb9c51b2d0ca7c8e240d162c`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **111**
+- Repository asset files: **115**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **63**
+- Non-Neon required stage masters without a selected lineage candidate: **60**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -21,7 +21,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Royal Mirage | 15 | 0 | 0 | Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open |
+| Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | production not started |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
@@ -345,3 +345,15 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Celestial Riad | `assets/candidates/royal-mirage-celestial-riad-stage-3-v1.png` | 1024 × 1536 | 3,731,081 | `14a0441f60d05decd66c7f1734312fec53b7600c1090cb56a2be2691fbee6ad6` | `0f45c763bc1b30cab2c9b227618e20780297eb05` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three passed exact-name, visible-performance-function, palette, physical-support, framing, no-residential-ambiguity and stage-escalation review.
+
+## Royal Mirage Landmark selected candidates and collection QA — November 5, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob SHA |
+|---:|---|---|---:|---:|---|---|
+| I | Royal Minaret | `assets/candidates/royal-mirage-royal-minaret-stage-1-v1.png` | 1024 × 1536 | 2,427,266 | `8effe2ec865fab9801e142e6d832bac1aecded9526c0ab7d1a1133609d3128ec` | `c55accc87e6591191a0f19c125cde5a79a0b08a5` |
+| II | Sovereign Needle | `assets/candidates/royal-mirage-sovereign-needle-stage-2-v1.png` | 1024 × 1536 | 2,711,617 | `ce584915c312d58af67ddac6f604dbfced094e88194a579cbc8da120fb2aac54` | `c30e04bc29d2b5b743306f2e49f5ca40bc8f2bbf` |
+| III | Crown of Sand | `assets/candidates/royal-mirage-crown-of-sand-stage-3-v1.png` | 1024 × 1536 | 3,040,528 | `301b4c97e9d2a2dcd25dd770ac7eb67c30d1071cbf4320d0057c57112a88d7dd` | `df41e1ce0ad460bbe3c380df7404b6bee786c90c` |
+| QA | Royal Mirage 5 × 3 contact sheet | `assets/qa/royal-mirage-collection-contact-sheet-v1.png` | 1008 × 2480 | 5,005,307 | `873051ea06c2b60cc1ba6d3b2e9cb4db5e039042378cd642c05dbd4ecec98430` | `a66365bd3fdcafe200c9044a0f0bbe7f5abbaf52` |
+
+All fifteen Royal Mirage base lineage candidates pass equal-width collection QA. These are delegated lineage candidates only—not edition variants, prototype-integrated art, permanent-URI assets, or final NFT-certified exports.
+

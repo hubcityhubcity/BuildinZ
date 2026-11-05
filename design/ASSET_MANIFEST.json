@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-05",
-  "repository_commit": "92303b738678247bd0fc108d8d3202a549fb6f42",
+  "repository_commit": "a30271cb0a490915fb9c51b2d0ca7c8e240d162c",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 111,
+    "asset_files": 115,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 72
+    "lineage_selected_candidate_stage_assets": 75
   },
   "production_matrix": [
     {
@@ -76,9 +76,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open",
+      "status": "15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 12
+      "selected_candidate_stage_assets": 15
     },
     {
       "neighborhood_id": 6,
@@ -230,6 +230,291 @@
       "selected_for_prototype": true,
       "final_nft_certification": false,
       "evidence": "recorded in identity handoff/source audit"
+    },
+    {
+      "path": "assets/candidates/golden-crest-aureate-residences-stage-1-v1.png",
+      "bytes": 3399766,
+      "git_blob_sha": "42d9d7c7ed5bb955d668ca5dcfd68c3fc4e3aae5",
+      "sha256": "916f9d52d26f1e1794d3a88d6d71e633e02c6d6d3dbec8ce6682219a642682fb",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Aureate Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-crown-arcade-stage-2-v1.png",
+      "bytes": 3075937,
+      "git_blob_sha": "2eab2be0e655d1479b38ef15bd015cf56ee124aa",
+      "sha256": "bb5cf9c0d063e849bab3c95fb02a4458690c89470b820040fe8f629735c8be64",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Crown Arcade",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation using accepted Stage I as lineage reference; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-crown-of-dawn-stage-3-v1.png",
+      "bytes": 2576603,
+      "git_blob_sha": "8a8fbfb7e406bf2379004a3e1603ba609bd3a2e7",
+      "sha256": "50e4d004effabec568a78353d14963be7a7febdcb612f1cc5b1afd0683f2323c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Crown of Dawn",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II lineage references; actual output visually inspected for exact plinth name, five-spire composition, supported observatory/rings, expanded ceremonial square and clear stage escalation. Integrity recorded in GOLDEN_CREST_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-daystar-citadel-stage-3-v1.png",
+      "bytes": 3071069,
+      "git_blob_sha": "f1024e0bd19ab6568ab2414c096342d9879869cf",
+      "sha256": "ba6e6abcc2dbac9245eee27564e89bfb61bbafccbc3f1f05f842a3df5107044e",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Daystar Citadel",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I and accepted Stage II lineage references; visually inspected for exact mounted name, full podium/crown, supported apex, multi-zone research program and clear stage escalation. Integrity recorded in GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-gilded-terraces-stage-2-v1.png",
+      "bytes": 3325923,
+      "git_blob_sha": "0c82afc8fff3c99391d31254838878b15c8c3cbf",
+      "sha256": "8fa5deb341febda51cb547d9a18544b0b34d7dd6b019efb14d1012cd44da3ce8",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Gilded Terraces",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation using accepted Stage I as lineage reference; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-golden-obelisk-stage-1-v1.png",
+      "bytes": 2232033,
+      "git_blob_sha": "cbe3b5157425f2bf3cd90855899eeda88aefb3d2",
+      "sha256": "e3ead4c33fa469023e63d8ee669b81da58549f6c791347bd2bd74d9de5fad4a8",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Golden Obelisk",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; actual output visually inspected for exact plinth name, slender monument silhouette, supported observation chamber, full square/base and evolution headroom. Integrity recorded in GOLDEN_CREST_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-grand-aureum-exchange-stage-3-v2.png",
+      "bytes": 2942203,
+      "git_blob_sha": "c4a3c4078412de98bafe6df43fddba87cc077725",
+      "sha256": "307d82f5ba398a2515ed43b6e1694d59d07a7a03773e6329fa7c37f9ad746a85",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Grand Aureum Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation plus targeted framing correction; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-helios-foundry-stage-2-v2.png",
+      "bytes": 2942244,
+      "git_blob_sha": "492f3049873e19924de110cff59dedd20083e6a5",
+      "sha256": "68a2601514ef877332f2f8feff6c7d7eb378a72923275b777cdf2fd5daeb85ad",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Helios Foundry",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; targeted framing correction visually inspected for safe antenna clearance, exact mounted name, full podium and supported fabrication program. Integrity recorded in GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-imperial-sunhold-stage-3-v2.png",
+      "bytes": 3016756,
+      "git_blob_sha": "545e152c1e8e063c3b37a48f9bc9b5e1cb8c01de",
+      "sha256": "a326d66274af91c3a89ac1d0ccffe517fd04bf700394cf6be27413513b1a2ae6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Imperial Sunhold",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation plus targeted framing correction; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-meridian-market-stage-1-v1.png",
+      "bytes": 3023710,
+      "git_blob_sha": "500a4669903afc61556e15d101d34e86567a5969",
+      "sha256": "19dba4fd0c59f6d9f9276713e31868d9db79b17cc16bc018580d923b8f937328",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Meridian Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "built-in image generation; actual PNG decoded and visually inspected; Git blob verified"
+    },
+    {
+      "path": "assets/candidates/golden-crest-radiant-opera-stage-2-v1.png",
+      "bytes": 2580994,
+      "git_blob_sha": "e2ed112d6a765010b8f9d89d4267e49e8b08078c",
+      "sha256": "771ed525d940d9d9fc9329854f72b590a791af6f0d6f0d37b6bd641aa8168387",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Radiant Opera",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I lineage reference; actual output visually inspected for exact mounted name, stacked balcony tiers, supported sky foyer, full base/crown and clear height escalation. Integrity recorded in GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-solara-labs-stage-1-v1.png",
+      "bytes": 2976586,
+      "git_blob_sha": "5f9a6c8605df5c6df4f48ac8bb3a89bc13b1415c",
+      "sha256": "f5d4154f6f77fcb299107d0d657f0489fb6281a741842ba4746d17ba5af4d820",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Solara Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; actual output visually inspected for exact mounted name, complete base/crown, technology identity and lineage framing. Integrity recorded in GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-solaris-grand-theatre-stage-3-v1.png",
+      "bytes": 2854359,
+      "git_blob_sha": "5d4170220111cfc26a43a2a69807edcaf9dfacd8",
+      "sha256": "b4ab1a62f7852820bcf2170eb8d92e8510e63e036dd82508a7343b679f3538c4",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Solaris Grand Theatre",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II lineage references; actual output visually inspected for exact mounted name, multiple halls, supported elevated foyer, expanded plaza, radiant acoustic crown and clear stage escalation. Integrity recorded in GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-sunspire-monument-stage-2-v1.png",
+      "bytes": 2263635,
+      "git_blob_sha": "109dbe45cf2fca22d1946d631ccbe07f7b48a01f",
+      "sha256": "7c349722ab0c1cbf0efc247670151a80068581a292aff579e2a39b972545c07d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Sunspire Monument",
+      "stage": 2,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I lineage reference; actual output visually inspected for exact plinth name, increased height, two supported viewing levels, expanded buttresses, complete base/crown and multi-fin crest. Integrity recorded in GOLDEN_CREST_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/golden-crest-velvet-hall-stage-1-v1.png",
+      "bytes": 2540865,
+      "git_blob_sha": "258a4f155761e5e5b87f225179056b6d814882ed",
+      "sha256": "367905bfac34cfd8ef8254ec2bba1c500736c3ad737986a72bb68c4f43d627e3",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Golden Crest",
+      "identity_name": "Velvet Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; actual output visually inspected for exact mounted name, fan-shaped marquee, intimate auditorium identity, complete podium and evolution headroom. Integrity recorded in GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md."
     },
     {
       "path": "assets/candidates/holotech-stage-1-signage-v1.png",
@@ -505,6 +790,1143 @@
       "evidence": "recorded in identity handoff/source audit"
     },
     {
+      "path": "assets/candidates/royal-mirage-celestial-riad-stage-3-v1.png",
+      "bytes": 3731081,
+      "git_blob_sha": "0f45c763bc1b30cab2c9b227618e20780297eb05",
+      "sha256": "14a0441f60d05decd66c7f1734312fec53b7600c1090cb56a2be2691fbee6ad6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Celestial Riad",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, grand central performance court plus two visible side courts, stages/seating, supported multi-tier galleries and attached audience bridges, complete approach and full star-lit crown. Integrity recorded in ROYAL_MIRAGE_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-crown-of-sand-stage-3-v1.png",
+      "bytes": 3040528,
+      "git_blob_sha": "df41e1ce0ad460bbe3c380df7404b6bee786c90c",
+      "sha256": "301b4c97e9d2a2dcd25dd770ac7eb67c30d1071cbf4320d0057c57112a88d7dd",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Crown of Sand",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "final_nft_certification": false,
+      "evidence": "visually inspected generated output; exact-name, framing, physical-support and lineage checks recorded in ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md"
+    },
+    {
+      "path": "assets/candidates/royal-mirage-djinn-array-stage-2-v1.png",
+      "bytes": 3198607,
+      "git_blob_sha": "b196553b7979e91a8bb49aa791ba2e1f390d2b00",
+      "sha256": "7fc343f17bed4022b5ed75917ad1620ef4d58e5282e36fcc3e05ff8c78e7e45c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Djinn Array",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller research tower, multiple sealed prism chambers, supported sensor terraces, enclosed attached service bridge, visible research rigs, complete secure base/crown and no mystical imagery. Integrity recorded in ROYAL_MIRAGE_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-infinite-caravanserai-stage-3-v1.png",
+      "bytes": 3730554,
+      "git_blob_sha": "c42d0d5910d9e18e8b34e4a5862bf8d97161f4a7",
+      "sha256": "5fc001208399e9411d8d52d638664724a47ecf6d3afa9342f67287efa5fb6aaa",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Infinite Caravanserai",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, eight-plus retail levels, dense visible storefronts, stacked atria, broad escalator circulation, supported merchant bridges, complete bazaar crown/base and no pool. Integrity recorded in ROYAL_MIRAGE_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-jewel-galleria-stage-2-v1.png",
+      "bytes": 3448826,
+      "git_blob_sha": "936f94552270db89559349fd86a24dea967d4b11",
+      "sha256": "9f2800d22a9dd44d0851a782c0c9a00564770ffd2c2356f3241aceb2f5bc9a4e",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Jewel Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, four-plus retail levels, stacked jewel-glass storefronts, public escalators, supported shopping galleries, complete canopy/base and no pool. Integrity recorded in ROYAL_MIRAGE_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-mirage-habitat-stage-2-v1.png",
+      "bytes": 3491621,
+      "git_blob_sha": "40e98853c541542d940ac98404bb3cef62a2146b",
+      "sha256": "fd95d867f3299ad2356898cae4bdc0477fcaa61b040179ba19a8d6398345fc5b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Mirage Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller twin residential towers, visible apartments, truss-supported private sky lounge, larger elevated rooftop pools, complete base/crowns, and no ground-level public pool. Integrity recorded in ROYAL_MIRAGE_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-mirage-palace-stage-2-v1.png",
+      "bytes": 3644604,
+      "git_blob_sha": "b1f251cfb2f935c92dd0869d8bbe28b44f2ea6e7",
+      "sha256": "b3ccae1c7ca6e69e14ea3162f1b5a5db1458a3b2a96e7e3990e4338756764176",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Mirage Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, central theatre plus two side performance halls, visible stages/seating, supported audience balconies, complete dry courtyard/base and jewel crown. Integrity recorded in ROYAL_MIRAGE_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-mooncourt-lounge-stage-1-v1.png",
+      "bytes": 3365715,
+      "git_blob_sha": "3cf8f7a41850dfa8a419c1fd1ad060509a90a769",
+      "sha256": "df3b1952f8e70e2b4b3559c3d6cb6150baafcbfb1a887f53c3e71adaa167361f",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Mooncourt Lounge",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, visible stage/instruments, audience seating, public foyer, dry moonlit courtyard, complete approach/canopy and no residential or pool ambiguity. Integrity recorded in ROYAL_MIRAGE_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-oasis-residences-stage-1-v1.png",
+      "bytes": 3391195,
+      "git_blob_sha": "d687e472a6640f650904792d4d08850388af398b",
+      "sha256": "e15bcb54679dd093db0d66f2e7f93b1fa26d43ac439d3efe895e8cac689ac052",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Oasis Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, clearly inhabited terraced residence, shaded dry courtyard, jewel-glass balconies, one private rooftop plunge pool, restrained greenery, complete base and roofline, and no ground-level public pool. Integrity recorded in ROYAL_MIRAGE_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-oracle-nexus-stage-3-v1.png",
+      "bytes": 3428795,
+      "git_blob_sha": "5d8821e34ace0a513a39efa44b14bfeb44b86d15",
+      "sha256": "5f6cb1517be2c25273d9d8d75e73ece8744d2cbd7b6f29a3ec24ae07e5a33b49",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Oracle Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central tower plus two distinct side labs, central data-light core, supported research bridges/terraces, visible robotics, complete secure base and full array crown. Integrity recorded in ROYAL_MIRAGE_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-prism-works-stage-1-v1.png",
+      "bytes": 3187613,
+      "git_blob_sha": "c011e406cc578640dbb675c2941fe30f202739e2",
+      "sha256": "a42368032c892b0ed3d7527895b875aafef30cbd910bcdc9c8da6f021eae464b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Prism Works",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact secured optics lab, faceted sapphire sealed chamber, visible robotic/optical rigs, mirrored-black frame, rose-gold conduits, complete base/roof and no retail or mystical ambiguity. Integrity recorded in ROYAL_MIRAGE_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-royal-minaret-stage-1-v1.png",
+      "bytes": 2427266,
+      "git_blob_sha": "c55accc87e6591191a0f19c125cde5a79a0b08a5",
+      "sha256": "8effe2ec865fab9801e142e6d832bac1aecded9526c0ab7d1a1133609d3128ec",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Royal Minaret",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "final_nft_certification": false,
+      "evidence": "visually inspected generated output; exact-name, framing, physical-support and lineage checks recorded in ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md"
+    },
+    {
+      "path": "assets/candidates/royal-mirage-souk-plaza-stage-1-v1.png",
+      "bytes": 3176637,
+      "git_blob_sha": "dc2b95fcbf2a9211aa9721ce71f9908dfa3373f3",
+      "sha256": "234fa5998e625a7c4d5a1688015e13b60733613dd45149dc0894aeeb0e84088b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Souk Plaza",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, low public market form, many visible storefronts, dry central arcade, complete approach/canopy, jewel palette and no pool or residential ambiguity. Integrity recorded in ROYAL_MIRAGE_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-sovereign-needle-stage-2-v1.png",
+      "bytes": 2711617,
+      "git_blob_sha": "c30e04bc29d2b5b743306f2e49f5ca40bc8f2bbf",
+      "sha256": "ce584915c312d58af67ddac6f604dbfced094e88194a579cbc8da120fb2aac54",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Sovereign Needle",
+      "stage": 2,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "final_nft_certification": false,
+      "evidence": "visually inspected generated output; exact-name, framing, physical-support and lineage checks recorded in ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md"
+    },
+    {
+      "path": "assets/candidates/royal-mirage-sultans-skyhold-stage-3-v1.png",
+      "bytes": 3544692,
+      "git_blob_sha": "59f4f2b70e50aa9d8ed19e2dbc7a4c4f18db6c48",
+      "sha256": "8064790f314398e67c90b7adff527d44150323bb682d3eb97de3d806506c0101",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Sultan's Skyhold",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for correct mounted name, three twenty-plus-level residential towers, multiple supported private sky-resort zones, three elevated pools, restrained greenery, rose-gold/sapphire display crown, complete base/crown, and no ground-level public pool. Integrity recorded in ROYAL_MIRAGE_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-backroom-stage-1-v1.png",
+      "bytes": 2402148,
+      "git_blob_sha": "2582677529780db30dd81f99ced0b3b243316715",
+      "sha256": "604ceb5b2e393771cd636f421e01eaa9ad547eb239ac729173e531c37768a8fd",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Backroom Stage",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact hidden auditorium, recessed guarded entry, narrow copper marquee, mask-like facade split, smoked-violet drapery, private upper gallery, performer passage and complete framing. Integrity recorded in SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-blackglass-bazaar-stage-2-v1.png",
+      "bytes": 3125730,
+      "git_blob_sha": "bdd069e406bf19266d825e6bdd10368ca4aac5c3",
+      "sha256": "159db7ce13ac0292c8a52b0affcabaf8869539ccd90a5efb2d00955a42c4cc6c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Blackglass Bazaar",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, stacked retail galleries, supported crossings, concealed lanes, framed market lantern and complete base/roof. Integrity recorded in SHADOW_MARKET_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-cipher-works-stage-1-v1.png",
+      "bytes": 2452865,
+      "git_blob_sha": "07d58f74fe2f0f8edc0dee19f89c5949bd9c8668",
+      "sha256": "1251e59aef57574cbb5643b6218e2e03ed1b8a85647e38bcc0579f009974f3ef",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Cipher Works",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, faceted data core, secure vault, copper circuit ribs, controlled code channel, angular sensors and complete framing. Integrity recorded in SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-eclipse-exchange-stage-3-v1.png",
+      "bytes": 3211921,
+      "git_blob_sha": "0f0b0b0994abb00908a205b4e85a0440600a7646",
+      "sha256": "87a3381945b964f4b750a61917366f6e1fa612a1b627a9f0d2d6684947163e2d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Eclipse Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, vertical trading halls, supported elevated lanes, grand shadow atrium, integrated eclipse crown and complete framing. Integrity recorded in SHADOW_MARKET_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-gloomstep-flats-stage-1-v1.png",
+      "bytes": 2389959,
+      "git_blob_sha": "dcfa4a2d63cb4f226ee3cd841c67e579db6715dc",
+      "sha256": "d1763e40abfdab9d8df5f269bcfb7f54e48db9b8d5395708b60cab809ebad10a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Gloomstep Flats",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; actual output visually inspected for exact mounted name, guarded residential court, screened passage, private terrace, no pool and complete framing. Integrity recorded in SHADOW_MARKET_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-lantern-row-stage-1-v1.png",
+      "bytes": 2778901,
+      "git_blob_sha": "def191c2485babd0fe1db00dc1669e1d587ba47b",
+      "sha256": "0cdedad632c473bf3f6df5c866fcbf5623904aefc8e3a090a89bdb2fcac8f9f7",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Lantern Row",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, covered market lane, copper lantern ribs, black-glass shops, diagonal hidden passage and complete framing. Integrity recorded in SHADOW_MARKET_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-midnight-masquerade-stage-3-v1.png",
+      "bytes": 2603812,
+      "git_blob_sha": "18676156efcbd9eb8d2b5ce40f963fce3ede0508",
+      "sha256": "312545a085ec986ef02f4950b10060a6715ce53a71483648f6e4d2a8267f58e6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Midnight Masquerade",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central auditorium, two distinct side halls, supported elevated foyer, several balcony zones, layered mask crown, complete shadow plaza and safe crown clearance. Integrity recorded in SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-nightcode-nexus-stage-3-v2.png",
+      "bytes": 2657864,
+      "git_blob_sha": "80f322907ad392a589f2f1fb73fba3aca2249d41",
+      "sha256": "dbdd931ca404a42001368c424bae986fb831ea6623563f2aa4c4dc1ca00ecbce",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Nightcode Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references plus framing-only correction; visually inspected for exact name, multi-zone citadel, supported bridges, layered sensor crown, dominant antenna, full base and safe crown clearance. Integrity recorded in SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-noctis-enclave-stage-3-v1.png",
+      "bytes": 2548162,
+      "git_blob_sha": "e82d705cfb767df7271af1a5e2ab74a8bfa7ee0b",
+      "sha256": "d5e1354e0b451b529f9bfd6b9c9d8445d423c207514d3a92a30f9f6643822071",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Noctis Enclave",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; actual output visually inspected for exact mounted name, multi-zone residential program, three supported passages, two private sky lounges, veiled crown, no pool and complete framing. Integrity recorded in SHADOW_MARKET_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-obsidian-spire-stage-2-v1.png",
+      "bytes": 2308008,
+      "git_blob_sha": "cec4e4036181abc0ca694853743bae12706ae187",
+      "sha256": "6f8b93e2c8059b0c05fdd46a8154d7c06973a9d2323dcf6042db6e3a9dad29de",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Obsidian Spire",
+      "stage": 2,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, much taller shaft, larger fully supported observation ring, multiple shadow fins, stronger multi-tier beacon crown, expanded ceremonial base and complete framing. Integrity recorded in SHADOW_MARKET_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-phantom-pavilion-stage-2-v1.png",
+      "bytes": 2523362,
+      "git_blob_sha": "51aa43b3afd09c81a666be8fff34c74b2dc9a361",
+      "sha256": "51c539241fcc56c42e2f26d1e016126c1f9313c9c6371757c73385594a1b981d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Phantom Pavilion",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller performance volume, multiple balcony tiers, side performance wings, physically supported sky foyer, veiled acoustic fins and complete framing. Integrity recorded in SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-shadow-sovereign-stage-3-v1.png",
+      "bytes": 2598274,
+      "git_blob_sha": "f9cfe75d7ae90fd9e736d746c8b197f3b479b9a8",
+      "sha256": "067a923c31b07ce2c42c5336a38ccf9c9566f11de3aa905b5611ccea0c9764af",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Shadow Sovereign",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus four subordinate spires, enormous supported observatory, layered veil crown, expanded ceremonial base, complete side-spire framing and safe crown clearance. Integrity recorded in SHADOW_MARKET_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-umbra-array-stage-2-v1.png",
+      "bytes": 2644340,
+      "git_blob_sha": "4b08f48743d1a887fe8e791599789d15f55d0d44",
+      "sha256": "9294236e93e4cd5eb33952cc5d6a97028b4b04a1453deb641090266c59c47a14",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Umbra Array",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact name, increased research height, supported sensor array, truss bridge, analysis wing, three code channels and complete framing. Integrity recorded in SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-veil-beacon-stage-1-v1.png",
+      "bytes": 2251797,
+      "git_blob_sha": "68da550c30709ec6c9905a0dc158d5cba85228b2",
+      "sha256": "0df83c4fb39f33faa200095d32c07e507f20cc4bedb34f80afbf8fe11543d313",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Veil Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, slender tapered obsidian beacon, copper flared supports, supported smoked-violet viewing chamber, screened copper light cage, single acid-green beacon line, complete ceremonial base and crown clearance. Integrity recorded in SHADOW_MARKET_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/shadow-market-veilside-habitat-stage-2-v1.png",
+      "bytes": 2499816,
+      "git_blob_sha": "1778d5dd7187dbdd56e925958535cd7ea6ea8e65",
+      "sha256": "5c7aa790e9bfac6d2a9fbb74aa22d587a7dc20ef9dd73d98f4c7437de875f3e0",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Shadow Market",
+      "identity_name": "Veilside Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; actual output visually inspected for exact mounted name, increased height, supported screened bridges, enclosed private sky lounge, no pool and complete framing. Integrity recorded in SHADOW_MARKET_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-aeroponic-spire-stage-2-v1.png",
+      "bytes": 2962113,
+      "git_blob_sha": "42e88086d2ea77d6ddb200c25dabdcbc1d139e43",
+      "sha256": "cc5a2719ceb7c24cd97c6348124acaf0e7d50646bf060a7704897c501ce0bedc",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Aeroponic Spire",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, clear 10-plus-level escalation, stacked sealed aeroponic chambers, expanded mint service tubes, supported collector decks and sails, supported analysis bridge, technical entry and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-bloom-market-stage-1-v1.png",
+      "bytes": 2816713,
+      "git_blob_sha": "1908d4ba47ebae5da1b8973ad1c478cb58025ec4",
+      "sha256": "24831823656f2806383b86e4a427eb2e2c09bab0c4bc6afa3478be4a20b7f370",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Bloom Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, low open-air retail program, three pearl canopy arches, warm-wood shops and stalls, broad public aisle, modular planters and complete plaza/canopy framing. Integrity recorded in SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-canopy-residences-stage-1-v1.png",
+      "bytes": 2759462,
+      "git_blob_sha": "1fe427ba9c1b3d21f4b28f0de906c47fdfd241b1",
+      "sha256": "b1d0c034474ff5045ac851d4ad46ab7393125e3bdf357c463e89d065aaf94df5",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Canopy Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, low residential wings, pearl branching frame, warm-wood balcony bands, emerald glazing, restrained planted ribbons, architectural roof canopy, complete arrival court and no public pool. Integrity recorded in SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-celestial-conservatory-stage-3-v1.png",
+      "bytes": 3405182,
+      "git_blob_sha": "d5e52c499829ba6a79cfafcdb0fc3f5c9404fe9d",
+      "sha256": "8178245c39c1c68891d16dd7f8f64e167bc2f2214855382a8a0f5874a317aad6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Celestial Conservatory",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central auditorium plus two side halls, many supported audience balconies, elevated garden foyers, short supported glazed bridges, luminous flower crown and complete ceremonial base. Integrity recorded in SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-cloudterrace-habitat-stage-2-v1.png",
+      "bytes": 3054851,
+      "git_blob_sha": "f535b3e486c216ef67f7b24195526de6f63945dd",
+      "sha256": "8f94b942f82e112d3e08b38449a5b6fbd324968a0eaa3564028bf6d823a5296d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Cloudterrace Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller twin residential towers, supported enclosed private sky lounge, stepped garden terraces, upper private water features, complete podium and roof canopies. Integrity recorded in SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-crown-of-eden-stage-3-v1.png",
+      "bytes": 3103424,
+      "git_blob_sha": "b8d2d2b71409a86bda4db128b46fdc5db476df29",
+      "sha256": "91932735688409eb30438e1ec87c5cec1c6b31c302c825474cdcf7ab53e707f4",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Crown of Eden",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, multi-trunk civic monument, enormous supported multilevel sky garden, layered blue canopy crown, multiple supported viewing rings and bridges, powerful beacon and expanded ceremonial base. Integrity recorded in SKYGARDEN_DISTRICT_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-eden-skyhold-stage-3-v1.png",
+      "bytes": 3136806,
+      "git_blob_sha": "1cbb43f5171236362a248894d1eccb12e6309c2b",
+      "sha256": "0aeb348cff627be100053d58d707965791907c0f3d9b697d3257c6a8feefb502",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Eden Skyhold",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus two side residential towers, multiple supported sky lounges and bridges, private upper water features, complete living crown, full podium and restrained greenery. Integrity recorded in SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-gaia-cloudworks-stage-3-v1.png",
+      "bytes": 3139587,
+      "git_blob_sha": "e495880ae437eab2dcfe9afa0cd15fbc0890d4e1",
+      "sha256": "f8923857f9001f5a46dc82ede181f2caae5fc24500457326557cdf6a88692fe5",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Gaia Cloudworks",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central tower plus two side research towers, multiple supported research bridges, cloud-collector decks and sails, integrated seed-light crown, explicit laboratory infrastructure and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-garden-beacon-stage-1-v1.png",
+      "bytes": 2484229,
+      "git_blob_sha": "9c1ac273179d44d8ec7fef5fe32243689adedd45",
+      "sha256": "9dfd2ff920f7df4a374600f486b7cc8d048cef5948da42a7630aaa1b36d73268",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Garden Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, slender freestanding monument, branching pearl trunks, warm-wood core, emerald seed lantern, supported viewing ring and canopy, mint beacon line and complete pedestal/crown. Integrity recorded in SKYGARDEN_DISTRICT_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-hanging-garden-exchange-stage-3-v1.png",
+      "bytes": 3548169,
+      "git_blob_sha": "bb47dfd4f6a6df71a39f59f1035c074d587e79d5",
+      "sha256": "0024864a7565681beb378aa8c121af8b523f6b30343adb3a3e222361411d4cd1",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Hanging Garden Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, vertical exchange with eight-plus retail levels, stacked atria, supported hanging-market terraces and bridges, visible escalators, complete plaza and planter-grid crown. Integrity recorded in SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-petal-pavilion-stage-2-v1.png",
+      "bytes": 3323922,
+      "git_blob_sha": "203d1cc7fea932f70ddd18e4eef7e3657a99c6f5",
+      "sha256": "2ae93cd1b5406b12d2458d604c8ddf038317dcc4059a11649143393e1483eced",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Petal Pavilion",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, larger auditorium, layered petal canopy, several supported balcony terraces, elevated supported sky foyer, visible performance interior and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-seedlight-labs-stage-1-v1.png",
+      "bytes": 2943375,
+      "git_blob_sha": "7651df13193bed6e40cbfb0891d903fb17a85f2c",
+      "sha256": "7c48b73a174853f93937f7008030df4051fa1386e76f9e51d87e9aa6a11faee0",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Seedlight Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact laboratory program, central emerald seed-light core, pearl bioframes, sealed modular plant trays, mint service tubes, two supported sky-blue collector sails, secure entry and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-terrace-hall-stage-1-v1.png",
+      "bytes": 2960272,
+      "git_blob_sha": "07c21692a79718b3a1e8244ebba0e053a7d47c46",
+      "sha256": "0181703b0b23e696441776968506c83c8d372eafb87992d69b0faa3ca90ba732",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Terrace Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, intimate performance-hall program, single-layer petal roof, warm-wood acoustic fins, visible stage and seating, one supported garden foyer and complete arrival/crown framing. Integrity recorded in SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-verdant-galleria-stage-2-v1.png",
+      "bytes": 3198948,
+      "git_blob_sha": "eeed2397e21f50d8e303ab1b6086d019b4c90b83",
+      "sha256": "ff07fa6bf740f49d4eb265634d102535ac100f694e1431071f46c7edb0776820",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Verdant Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, multi-level retail atrium, visible shopfronts and escalators, several supported gallery crossings, layered canopy and controlled trellises. Integrity recorded in SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-worldtree-apex-stage-2-v1.png",
+      "bytes": 2696229,
+      "git_blob_sha": "0b999def2a8808077a021343ee4f72ed980686ca",
+      "sha256": "c849cae1a1421d8b81873ce71093716ec45a89fbf05a6fb2f469f97b7a3230d7",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Worldtree Apex",
+      "stage": 2,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller freestanding tree monument, two supported viewing rings, broad supported blue canopy, branch fins, visible observation circulation, stronger beacon and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-apex-tower-stage-2-v1.png",
+      "bytes": 2556412,
+      "git_blob_sha": "abf98c05cff7a72b725a267d7e1926d255557762",
+      "sha256": "f17b0431c7096740e4fcbe9e6e8c1ce7ddf80d87558ee4a788de0e4feb195157",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Apex Tower",
+      "stage": 2,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller leaning monument, two supported cobalt observation rings, broader canopy, attached fins, larger amber beacon and complete base/crown. Integrity recorded in VELOCITY_ROW_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-crown-of-speed-stage-3-v1.png",
+      "bytes": 2911595,
+      "git_blob_sha": "c5a08f46c28389f040de9fc31e15a619a94142e8",
+      "sha256": "c46b571c05029d99583d384ceb5f3c202e29fa8aab2b359ffb3e588f27969535",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Crown of Speed",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, multi-fin civic mast, connected kinetic rings, enormous supported cobalt observation crown, supported observation bridges, luminous turbine beacon and complete expanded plaza base. Integrity recorded in VELOCITY_ROW_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-draftline-lofts-stage-1-v1.png",
+      "bytes": 2566542,
+      "git_blob_sha": "6c4ffa4262e113b68dc84695d951e2d394453cb7",
+      "sha256": "eaa9a2fff2ac9fe54aeb84526d34afb427a7916990e21a97b9b7010b6b4b1504",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Draftline Lofts",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact two-wing loft program, white aero shells, racing-red motion band, cobalt residential glass, gunmetal balconies, amber track lights, supported fins, complete lobby/base and roof. Integrity recorded in VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-hyperdrive-nexus-stage-3-v1.png",
+      "bytes": 3154841,
+      "git_blob_sha": "64839c1230748139593648c5f4eecf3e1b75c9b5",
+      "sha256": "b030b309df7b04df0762b9e7ed25763bf1d7c67f9fc659f48852c40f72e96edb",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Hyperdrive Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant research tower plus two side labs, luminous central test spine, supported research bridges and test-ring decks, robotics bays, kinetic turbine crown and complete secure base. Integrity recorded in VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-mach-horizon-stage-3-v1.png",
+      "bytes": 2850197,
+      "git_blob_sha": "f28d8a2f69adf109da15d06f0a09ef2b863865f6",
+      "sha256": "a32d3117bbf8400572209ddfb82a763c8a53062b73196a16ff2acf5b77af6681",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Mach Horizon",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus two side residential towers, multiple short supported resident bridges, upper private zones, turbine crown, tied-back fins and complete base/crown. Integrity recorded in VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-overtake-pavilion-stage-2-v1.png",
+      "bytes": 3115327,
+      "git_blob_sha": "4cb7c0188265bfb827cd3b8d1f2f42d03deb352b",
+      "sha256": "177ba80a3b4dc0a2bc5c05820ef8e4e498310932aad7b7f79a09df37ca9aeef3",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Overtake Pavilion",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using the Stage I reference; visually inspected for exact mounted name, larger two-tier event venue, layered red grandstands, visible event floor, supported spectator decks, cobalt concourse bridges, expanded aero canopy and complete base/roof. Integrity recorded in VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-pitlane-plaza-stage-1-v1.png",
+      "bytes": 3088067,
+      "git_blob_sha": "e95f00041f2d2e94cfea12f6d0eb4a9a6b2b2c2d",
+      "sha256": "1db019fa8ef0df571970bd13829ce0ac11feec5ca7eda068e1a98a66061e6824",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Pitlane Plaza",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, low open-air retail concourse, visible storefronts and food counters, wide pedestrian pitlane, supported banked canopy, red circulation ribbons and complete approach/roof framing. Integrity recorded in VELOCITY_ROW_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-pole-beacon-stage-1-v1.png",
+      "bytes": 2441786,
+      "git_blob_sha": "a0accf7d3239ae16f4a1036ea0449de894fd54f3",
+      "sha256": "3608433eebe352062788a8f01127045d59d5865fed6248cedc8c2304c063a2d6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Pole Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, slender civic mast, red velocity spine, supported cobalt viewing ring, attached aero fins, amber crown and complete ceremonial base. Integrity recorded in VELOCITY_ROW_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-quantum-garage-stage-2-v1.png",
+      "bytes": 3041249,
+      "git_blob_sha": "58a8b1f29d970a84b196d6cace1568a4e21106ab",
+      "sha256": "70019e8edb7de78dc2a76f0177495a4af8c9a192a8d4c80faf766e1ece7dab4e",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Quantum Garage",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, tall secured research tower, stacked sealed prototype bays, robotics and wind-tunnel equipment, supported test decks, supported analysis bridge, red service loops and complete base/crown. Integrity recorded in VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-redline-coliseum-stage-3-v1.png",
+      "bytes": 3378866,
+      "git_blob_sha": "9f512ab9bf087f71ffb3ef053ab0e5e93b31e2d9",
+      "sha256": "cdbd3547c9ef4ef039211ae58509612f053df93adaf890938cc160c1a9e10eb7",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Redline Coliseum",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central arena plus two integrated side bowls, multi-tier red seating, supported cobalt concourses and short bridges, gunmetal trusses, luminous attached turbine crown and complete ceremonial base. Integrity recorded in VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-rush-arena-stage-1-v1.png",
+      "bytes": 3066253,
+      "git_blob_sha": "8ea313520565fefe33e2d97c89a3673194c81d71",
+      "sha256": "da85f3103dd40ebf0cce923dc1581054b0c83b308d084efc690c59120a064e46",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Rush Arena",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact enclosed arena, visible red seating bowl and event floor, banked white shell, cobalt concourse glass, gunmetal trusses, supported spectator terrace, amber event lights and complete ceremonial base/roof. Integrity recorded in VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-slipstream-habitat-stage-2-v1.png",
+      "bytes": 2767763,
+      "git_blob_sha": "d6b9d0bd4decaad8c95ec7c1d7d2e30ed35f7446",
+      "sha256": "8d8b1f1fc1712345ef6000a8a42e2f7df18d104752bb884fdc77a071fa7a9532",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Slipstream Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, clear twin-tower height escalation, private balconies, fully enclosed supported resident sky lounge, stepped aero terraces, tied-back motion fins, complete base/crowns. Integrity recorded in VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-turbo-galleria-stage-2-v1.png",
+      "bytes": 3083202,
+      "git_blob_sha": "b12c7b9e737e33a3b37932d35c8e88c0cc58d3b4",
+      "sha256": "c46f9504b1474bbbbf67bece0133d536bb47f0c06dddeb01b86517afeca3f309",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Turbo Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, multi-level retail atrium, many visible shops, escalators, several supported gallery crossings, layered aero roof and complete approach/crown. Integrity recorded in VELOCITY_ROW_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-vector-works-stage-1-v1.png",
+      "bytes": 2939535,
+      "git_blob_sha": "f5703d32484879d040a17b59069c89e8aec01bbe",
+      "sha256": "d524affcd30a9a32028bb1efdeed81aefc39ebb180ad4d2f670a12bbf30fad82",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Vector Works",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact secured mobility-research works, sealed cobalt prototype bay, robotics/wind-tunnel rig, gunmetal frame, white shell, red service loops, tied fins, amber diagnostics and complete base/crown. Integrity recorded in VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-velocity-exchange-stage-3-v1.png",
+      "bytes": 3282142,
+      "git_blob_sha": "7975f78a6eb1fd1bd3196a318f9e0c05905b7473",
+      "sha256": "cb421789f2f27692dd84fe3c54de81e3832b1c5176bf62a7abb6eb66a4f46867",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Velocity Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, nine-plus visible retail levels, stacked atria, supported market bridges, express glass lifts, escalators, storefronts, turbine-ring crown and complete public base. Integrity recorded in VELOCITY_ROW_RETAIL_ART_HANDOFF.md."
+    },
+    {
       "path": "assets/crown.webp",
       "bytes": 55926,
       "git_blob_sha": "6d18ebef548391ab307bf45e839740f010c2c7f0",
@@ -739,1163 +2161,22 @@
       "evidence": "repository Git tree only; byte hash/dimensions not consolidated in prior handoff"
     },
     {
-      "path": "assets/candidates/golden-crest-aureate-residences-stage-1-v1.png",
-      "bytes": 3399766,
-      "git_blob_sha": "42d9d7c7ed5bb955d668ca5dcfd68c3fc4e3aae5",
-      "sha256": "916f9d52d26f1e1794d3a88d6d71e633e02c6d6d3dbec8ce6682219a642682fb",
+      "path": "assets/qa/royal-mirage-collection-contact-sheet-v1.png",
+      "bytes": 5005307,
+      "git_blob_sha": "a66365bd3fdcafe200c9044a0f0bbe7f5abbaf52",
+      "sha256": "873051ea06c2b60cc1ba6d3b2e9cb4db5e039042378cd642c05dbd4ecec98430",
       "dimensions": {
-        "width": 1024,
-        "height": 1536
+        "width": 1008,
+        "height": 2480
       },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Aureate Residences",
-      "stage": 1,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "built-in image generation; actual PNG decoded and visually inspected; Git blob verified"
-    },
-    {
-      "path": "assets/candidates/golden-crest-gilded-terraces-stage-2-v1.png",
-      "bytes": 3325923,
-      "git_blob_sha": "0c82afc8fff3c99391d31254838878b15c8c3cbf",
-      "sha256": "8fa5deb341febda51cb547d9a18544b0b34d7dd6b019efb14d1012cd44da3ce8",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Gilded Terraces",
-      "stage": 2,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "built-in image generation using accepted Stage I as lineage reference; actual PNG decoded and visually inspected; Git blob verified"
-    },
-    {
-      "path": "assets/candidates/golden-crest-imperial-sunhold-stage-3-v2.png",
-      "bytes": 3016756,
-      "git_blob_sha": "545e152c1e8e063c3b37a48f9bc9b5e1cb8c01de",
-      "sha256": "a326d66274af91c3a89ac1d0ccffe517fd04bf700394cf6be27413513b1a2ae6",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Imperial Sunhold",
-      "stage": 3,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "built-in image generation plus targeted framing correction; actual PNG decoded and visually inspected; Git blob verified"
-    },
-    {
-      "path": "assets/candidates/golden-crest-meridian-market-stage-1-v1.png",
-      "bytes": 3023710,
-      "git_blob_sha": "500a4669903afc61556e15d101d34e86567a5969",
-      "sha256": "19dba4fd0c59f6d9f9276713e31868d9db79b17cc16bc018580d923b8f937328",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Meridian Market",
-      "stage": 1,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "built-in image generation; actual PNG decoded and visually inspected; Git blob verified"
-    },
-    {
-      "path": "assets/candidates/golden-crest-crown-arcade-stage-2-v1.png",
-      "bytes": 3075937,
-      "git_blob_sha": "2eab2be0e655d1479b38ef15bd015cf56ee124aa",
-      "sha256": "bb5cf9c0d063e849bab3c95fb02a4458690c89470b820040fe8f629735c8be64",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Crown Arcade",
-      "stage": 2,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "built-in image generation using accepted Stage I as lineage reference; actual PNG decoded and visually inspected; Git blob verified"
-    },
-    {
-      "path": "assets/candidates/golden-crest-grand-aureum-exchange-stage-3-v2.png",
-      "bytes": 2942203,
-      "git_blob_sha": "c4a3c4078412de98bafe6df43fddba87cc077725",
-      "sha256": "307d82f5ba398a2515ed43b6e1694d59d07a7a03773e6329fa7c37f9ad746a85",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Grand Aureum Exchange",
-      "stage": 3,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "built-in image generation plus targeted framing correction; actual PNG decoded and visually inspected; Git blob verified"
-    },
-    {
-      "path": "assets/candidates/golden-crest-solara-labs-stage-1-v1.png",
-      "bytes": 2976586,
-      "git_blob_sha": "5f9a6c8605df5c6df4f48ac8bb3a89bc13b1415c",
-      "sha256": "f5d4154f6f77fcb299107d0d657f0489fb6281a741842ba4746d17ba5af4d820",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Solara Labs",
-      "stage": 1,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; actual output visually inspected for exact mounted name, complete base/crown, technology identity and lineage framing. Integrity recorded in GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/golden-crest-helios-foundry-stage-2-v2.png",
-      "bytes": 2942244,
-      "git_blob_sha": "492f3049873e19924de110cff59dedd20083e6a5",
-      "sha256": "68a2601514ef877332f2f8feff6c7d7eb378a72923275b777cdf2fd5daeb85ad",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Helios Foundry",
-      "stage": 2,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; targeted framing correction visually inspected for safe antenna clearance, exact mounted name, full podium and supported fabrication program. Integrity recorded in GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/golden-crest-daystar-citadel-stage-3-v1.png",
-      "bytes": 3071069,
-      "git_blob_sha": "f1024e0bd19ab6568ab2414c096342d9879869cf",
-      "sha256": "ba6e6abcc2dbac9245eee27564e89bfb61bbafccbc3f1f05f842a3df5107044e",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Daystar Citadel",
-      "stage": 3,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I and accepted Stage II lineage references; visually inspected for exact mounted name, full podium/crown, supported apex, multi-zone research program and clear stage escalation. Integrity recorded in GOLDEN_CREST_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/golden-crest-velvet-hall-stage-1-v1.png",
-      "bytes": 2540865,
-      "git_blob_sha": "258a4f155761e5e5b87f225179056b6d814882ed",
-      "sha256": "367905bfac34cfd8ef8254ec2bba1c500736c3ad737986a72bb68c4f43d627e3",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Velvet Hall",
-      "stage": 1,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; actual output visually inspected for exact mounted name, fan-shaped marquee, intimate auditorium identity, complete podium and evolution headroom. Integrity recorded in GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/golden-crest-radiant-opera-stage-2-v1.png",
-      "bytes": 2580994,
-      "git_blob_sha": "e2ed112d6a765010b8f9d89d4267e49e8b08078c",
-      "sha256": "771ed525d940d9d9fc9329854f72b590a791af6f0d6f0d37b6bd641aa8168387",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Radiant Opera",
-      "stage": 2,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I lineage reference; actual output visually inspected for exact mounted name, stacked balcony tiers, supported sky foyer, full base/crown and clear height escalation. Integrity recorded in GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/golden-crest-solaris-grand-theatre-stage-3-v1.png",
-      "bytes": 2854359,
-      "git_blob_sha": "5d4170220111cfc26a43a2a69807edcaf9dfacd8",
-      "sha256": "b4ab1a62f7852820bcf2170eb8d92e8510e63e036dd82508a7343b679f3538c4",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Solaris Grand Theatre",
-      "stage": 3,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II lineage references; actual output visually inspected for exact mounted name, multiple halls, supported elevated foyer, expanded plaza, radiant acoustic crown and clear stage escalation. Integrity recorded in GOLDEN_CREST_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/golden-crest-golden-obelisk-stage-1-v1.png",
-      "bytes": 2232033,
-      "git_blob_sha": "cbe3b5157425f2bf3cd90855899eeda88aefb3d2",
-      "sha256": "e3ead4c33fa469023e63d8ee669b81da58549f6c791347bd2bd74d9de5fad4a8",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Golden Obelisk",
-      "stage": 1,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; actual output visually inspected for exact plinth name, slender monument silhouette, supported observation chamber, full square/base and evolution headroom. Integrity recorded in GOLDEN_CREST_LANDMARK_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/golden-crest-sunspire-monument-stage-2-v1.png",
-      "bytes": 2263635,
-      "git_blob_sha": "109dbe45cf2fca22d1946d631ccbe07f7b48a01f",
-      "sha256": "7c349722ab0c1cbf0efc247670151a80068581a292aff579e2a39b972545c07d",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Sunspire Monument",
-      "stage": 2,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I lineage reference; actual output visually inspected for exact plinth name, increased height, two supported viewing levels, expanded buttresses, complete base/crown and multi-fin crest. Integrity recorded in GOLDEN_CREST_LANDMARK_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/golden-crest-crown-of-dawn-stage-3-v1.png",
-      "bytes": 2576603,
-      "git_blob_sha": "8a8fbfb7e406bf2379004a3e1603ba609bd3a2e7",
-      "sha256": "50e4d004effabec568a78353d14963be7a7febdcb612f1cc5b1afd0683f2323c",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Golden Crest",
-      "identity_name": "Crown of Dawn",
-      "stage": 3,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II lineage references; actual output visually inspected for exact plinth name, five-spire composition, supported observatory/rings, expanded ceremonial square and clear stage escalation. Integrity recorded in GOLDEN_CREST_LANDMARK_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-gloomstep-flats-stage-1-v1.png",
-      "bytes": 2389959,
-      "git_blob_sha": "dcfa4a2d63cb4f226ee3cd841c67e579db6715dc",
-      "sha256": "d1763e40abfdab9d8df5f269bcfb7f54e48db9b8d5395708b60cab809ebad10a",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Gloomstep Flats",
-      "stage": 1,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; actual output visually inspected for exact mounted name, guarded residential court, screened passage, private terrace, no pool and complete framing. Integrity recorded in SHADOW_MARKET_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-veilside-habitat-stage-2-v1.png",
-      "bytes": 2499816,
-      "git_blob_sha": "1778d5dd7187dbdd56e925958535cd7ea6ea8e65",
-      "sha256": "5c7aa790e9bfac6d2a9fbb74aa22d587a7dc20ef9dd73d98f4c7437de875f3e0",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Veilside Habitat",
-      "stage": 2,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; actual output visually inspected for exact mounted name, increased height, supported screened bridges, enclosed private sky lounge, no pool and complete framing. Integrity recorded in SHADOW_MARKET_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-noctis-enclave-stage-3-v1.png",
-      "bytes": 2548162,
-      "git_blob_sha": "e82d705cfb767df7271af1a5e2ab74a8bfa7ee0b",
-      "sha256": "d5e1354e0b451b529f9bfd6b9c9d8445d423c207514d3a92a30f9f6643822071",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Noctis Enclave",
-      "stage": 3,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; actual output visually inspected for exact mounted name, multi-zone residential program, three supported passages, two private sky lounges, veiled crown, no pool and complete framing. Integrity recorded in SHADOW_MARKET_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-lantern-row-stage-1-v1.png",
-      "bytes": 2778901,
-      "git_blob_sha": "def191c2485babd0fe1db00dc1669e1d587ba47b",
-      "sha256": "0cdedad632c473bf3f6df5c866fcbf5623904aefc8e3a090a89bdb2fcac8f9f7",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Lantern Row",
-      "stage": 1,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, covered market lane, copper lantern ribs, black-glass shops, diagonal hidden passage and complete framing. Integrity recorded in SHADOW_MARKET_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-blackglass-bazaar-stage-2-v1.png",
-      "bytes": 3125730,
-      "git_blob_sha": "bdd069e406bf19266d825e6bdd10368ca4aac5c3",
-      "sha256": "159db7ce13ac0292c8a52b0affcabaf8869539ccd90a5efb2d00955a42c4cc6c",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Blackglass Bazaar",
-      "stage": 2,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, stacked retail galleries, supported crossings, concealed lanes, framed market lantern and complete base/roof. Integrity recorded in SHADOW_MARKET_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-eclipse-exchange-stage-3-v1.png",
-      "bytes": 3211921,
-      "git_blob_sha": "0f0b0b0994abb00908a205b4e85a0440600a7646",
-      "sha256": "87a3381945b964f4b750a61917366f6e1fa612a1b627a9f0d2d6684947163e2d",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Eclipse Exchange",
-      "stage": 3,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, vertical trading halls, supported elevated lanes, grand shadow atrium, integrated eclipse crown and complete framing. Integrity recorded in SHADOW_MARKET_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-cipher-works-stage-1-v1.png",
-      "bytes": 2452865,
-      "git_blob_sha": "07d58f74fe2f0f8edc0dee19f89c5949bd9c8668",
-      "sha256": "1251e59aef57574cbb5643b6218e2e03ed1b8a85647e38bcc0579f009974f3ef",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Cipher Works",
-      "stage": 1,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, faceted data core, secure vault, copper circuit ribs, controlled code channel, angular sensors and complete framing. Integrity recorded in SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-umbra-array-stage-2-v1.png",
-      "bytes": 2644340,
-      "git_blob_sha": "4b08f48743d1a887fe8e791599789d15f55d0d44",
-      "sha256": "9294236e93e4cd5eb33952cc5d6a97028b4b04a1453deb641090266c59c47a14",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Umbra Array",
-      "stage": 2,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact name, increased research height, supported sensor array, truss bridge, analysis wing, three code channels and complete framing. Integrity recorded in SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-nightcode-nexus-stage-3-v2.png",
-      "bytes": 2657864,
-      "git_blob_sha": "80f322907ad392a589f2f1fb73fba3aca2249d41",
-      "sha256": "dbdd931ca404a42001368c424bae986fb831ea6623563f2aa4c4dc1ca00ecbce",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Nightcode Nexus",
-      "stage": 3,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references plus framing-only correction; visually inspected for exact name, multi-zone citadel, supported bridges, layered sensor crown, dominant antenna, full base and safe crown clearance. Integrity recorded in SHADOW_MARKET_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-backroom-stage-1-v1.png",
-      "bytes": 2402148,
-      "git_blob_sha": "2582677529780db30dd81f99ced0b3b243316715",
-      "sha256": "604ceb5b2e393771cd636f421e01eaa9ad547eb239ac729173e531c37768a8fd",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Backroom Stage",
-      "stage": 1,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact hidden auditorium, recessed guarded entry, narrow copper marquee, mask-like facade split, smoked-violet drapery, private upper gallery, performer passage and complete framing. Integrity recorded in SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-phantom-pavilion-stage-2-v1.png",
-      "bytes": 2523362,
-      "git_blob_sha": "51aa43b3afd09c81a666be8fff34c74b2dc9a361",
-      "sha256": "51c539241fcc56c42e2f26d1e016126c1f9313c9c6371757c73385594a1b981d",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Phantom Pavilion",
-      "stage": 2,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller performance volume, multiple balcony tiers, side performance wings, physically supported sky foyer, veiled acoustic fins and complete framing. Integrity recorded in SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-midnight-masquerade-stage-3-v1.png",
-      "bytes": 2603812,
-      "git_blob_sha": "18676156efcbd9eb8d2b5ce40f963fce3ede0508",
-      "sha256": "312545a085ec986ef02f4950b10060a6715ce53a71483648f6e4d2a8267f58e6",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Midnight Masquerade",
-      "stage": 3,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central auditorium, two distinct side halls, supported elevated foyer, several balcony zones, layered mask crown, complete shadow plaza and safe crown clearance. Integrity recorded in SHADOW_MARKET_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-veil-beacon-stage-1-v1.png",
-      "bytes": 2251797,
-      "git_blob_sha": "68da550c30709ec6c9905a0dc158d5cba85228b2",
-      "sha256": "0df83c4fb39f33faa200095d32c07e507f20cc4bedb34f80afbf8fe11543d313",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Veil Beacon",
-      "stage": 1,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, slender tapered obsidian beacon, copper flared supports, supported smoked-violet viewing chamber, screened copper light cage, single acid-green beacon line, complete ceremonial base and crown clearance. Integrity recorded in SHADOW_MARKET_LANDMARK_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-obsidian-spire-stage-2-v1.png",
-      "bytes": 2308008,
-      "git_blob_sha": "cec4e4036181abc0ca694853743bae12706ae187",
-      "sha256": "6f8b93e2c8059b0c05fdd46a8154d7c06973a9d2323dcf6042db6e3a9dad29de",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Obsidian Spire",
-      "stage": 2,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, much taller shaft, larger fully supported observation ring, multiple shadow fins, stronger multi-tier beacon crown, expanded ceremonial base and complete framing. Integrity recorded in SHADOW_MARKET_LANDMARK_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/shadow-market-shadow-sovereign-stage-3-v1.png",
-      "bytes": 2598274,
-      "git_blob_sha": "f9cfe75d7ae90fd9e736d746c8b197f3b479b9a8",
-      "sha256": "067a923c31b07ce2c42c5336a38ccf9c9566f11de3aa905b5611ccea0c9764af",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Shadow Market",
-      "identity_name": "Shadow Sovereign",
-      "stage": 3,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus four subordinate spires, enormous supported observatory, layered veil crown, expanded ceremonial base, complete side-spire framing and safe crown clearance. Integrity recorded in SHADOW_MARKET_LANDMARK_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-canopy-residences-stage-1-v1.png",
-      "bytes": 2759462,
-      "git_blob_sha": "1fe427ba9c1b3d21f4b28f0de906c47fdfd241b1",
-      "sha256": "b1d0c034474ff5045ac851d4ad46ab7393125e3bdf357c463e89d065aaf94df5",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Canopy Residences",
-      "stage": 1,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, low residential wings, pearl branching frame, warm-wood balcony bands, emerald glazing, restrained planted ribbons, architectural roof canopy, complete arrival court and no public pool. Integrity recorded in SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-cloudterrace-habitat-stage-2-v1.png",
-      "bytes": 3054851,
-      "git_blob_sha": "f535b3e486c216ef67f7b24195526de6f63945dd",
-      "sha256": "8f94b942f82e112d3e08b38449a5b6fbd324968a0eaa3564028bf6d823a5296d",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Cloudterrace Habitat",
-      "stage": 2,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller twin residential towers, supported enclosed private sky lounge, stepped garden terraces, upper private water features, complete podium and roof canopies. Integrity recorded in SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-eden-skyhold-stage-3-v1.png",
-      "bytes": 3136806,
-      "git_blob_sha": "1cbb43f5171236362a248894d1eccb12e6309c2b",
-      "sha256": "0aeb348cff627be100053d58d707965791907c0f3d9b697d3257c6a8feefb502",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Eden Skyhold",
-      "stage": 3,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus two side residential towers, multiple supported sky lounges and bridges, private upper water features, complete living crown, full podium and restrained greenery. Integrity recorded in SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-bloom-market-stage-1-v1.png",
-      "bytes": 2816713,
-      "git_blob_sha": "1908d4ba47ebae5da1b8973ad1c478cb58025ec4",
-      "sha256": "24831823656f2806383b86e4a427eb2e2c09bab0c4bc6afa3478be4a20b7f370",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Bloom Market",
-      "stage": 1,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, low open-air retail program, three pearl canopy arches, warm-wood shops and stalls, broad public aisle, modular planters and complete plaza/canopy framing. Integrity recorded in SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-verdant-galleria-stage-2-v1.png",
-      "bytes": 3198948,
-      "git_blob_sha": "eeed2397e21f50d8e303ab1b6086d019b4c90b83",
-      "sha256": "ff07fa6bf740f49d4eb265634d102535ac100f694e1431071f46c7edb0776820",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Verdant Galleria",
-      "stage": 2,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, multi-level retail atrium, visible shopfronts and escalators, several supported gallery crossings, layered canopy and controlled trellises. Integrity recorded in SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-hanging-garden-exchange-stage-3-v1.png",
-      "bytes": 3548169,
-      "git_blob_sha": "bb47dfd4f6a6df71a39f59f1035c074d587e79d5",
-      "sha256": "0024864a7565681beb378aa8c121af8b523f6b30343adb3a3e222361411d4cd1",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Hanging Garden Exchange",
-      "stage": 3,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, vertical exchange with eight-plus retail levels, stacked atria, supported hanging-market terraces and bridges, visible escalators, complete plaza and planter-grid crown. Integrity recorded in SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-seedlight-labs-stage-1-v1.png",
-      "bytes": 2943375,
-      "git_blob_sha": "7651df13193bed6e40cbfb0891d903fb17a85f2c",
-      "sha256": "7c48b73a174853f93937f7008030df4051fa1386e76f9e51d87e9aa6a11faee0",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Seedlight Labs",
-      "stage": 1,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact laboratory program, central emerald seed-light core, pearl bioframes, sealed modular plant trays, mint service tubes, two supported sky-blue collector sails, secure entry and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-aeroponic-spire-stage-2-v1.png",
-      "bytes": 2962113,
-      "git_blob_sha": "42e88086d2ea77d6ddb200c25dabdcbc1d139e43",
-      "sha256": "cc5a2719ceb7c24cd97c6348124acaf0e7d50646bf060a7704897c501ce0bedc",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Aeroponic Spire",
-      "stage": 2,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, clear 10-plus-level escalation, stacked sealed aeroponic chambers, expanded mint service tubes, supported collector decks and sails, supported analysis bridge, technical entry and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-gaia-cloudworks-stage-3-v1.png",
-      "bytes": 3139587,
-      "git_blob_sha": "e495880ae437eab2dcfe9afa0cd15fbc0890d4e1",
-      "sha256": "f8923857f9001f5a46dc82ede181f2caae5fc24500457326557cdf6a88692fe5",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Gaia Cloudworks",
-      "stage": 3,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central tower plus two side research towers, multiple supported research bridges, cloud-collector decks and sails, integrated seed-light crown, explicit laboratory infrastructure and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-terrace-hall-stage-1-v1.png",
-      "bytes": 2960272,
-      "git_blob_sha": "07c21692a79718b3a1e8244ebba0e053a7d47c46",
-      "sha256": "0181703b0b23e696441776968506c83c8d372eafb87992d69b0faa3ca90ba732",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Terrace Hall",
-      "stage": 1,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, intimate performance-hall program, single-layer petal roof, warm-wood acoustic fins, visible stage and seating, one supported garden foyer and complete arrival/crown framing. Integrity recorded in SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-petal-pavilion-stage-2-v1.png",
-      "bytes": 3323922,
-      "git_blob_sha": "203d1cc7fea932f70ddd18e4eef7e3657a99c6f5",
-      "sha256": "2ae93cd1b5406b12d2458d604c8ddf038317dcc4059a11649143393e1483eced",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Petal Pavilion",
-      "stage": 2,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, larger auditorium, layered petal canopy, several supported balcony terraces, elevated supported sky foyer, visible performance interior and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-celestial-conservatory-stage-3-v1.png",
-      "bytes": 3405182,
-      "git_blob_sha": "d5e52c499829ba6a79cfafcdb0fc3f5c9404fe9d",
-      "sha256": "8178245c39c1c68891d16dd7f8f64e167bc2f2214855382a8a0f5874a317aad6",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Celestial Conservatory",
-      "stage": 3,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central auditorium plus two side halls, many supported audience balconies, elevated garden foyers, short supported glazed bridges, luminous flower crown and complete ceremonial base. Integrity recorded in SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-garden-beacon-stage-1-v1.png",
-      "bytes": 2484229,
-      "git_blob_sha": "9c1ac273179d44d8ec7fef5fe32243689adedd45",
-      "sha256": "9dfd2ff920f7df4a374600f486b7cc8d048cef5948da42a7630aaa1b36d73268",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Garden Beacon",
-      "stage": 1,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, slender freestanding monument, branching pearl trunks, warm-wood core, emerald seed lantern, supported viewing ring and canopy, mint beacon line and complete pedestal/crown. Integrity recorded in SKYGARDEN_DISTRICT_LANDMARK_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-worldtree-apex-stage-2-v1.png",
-      "bytes": 2696229,
-      "git_blob_sha": "0b999def2a8808077a021343ee4f72ed980686ca",
-      "sha256": "c849cae1a1421d8b81873ce71093716ec45a89fbf05a6fb2f469f97b7a3230d7",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Worldtree Apex",
-      "stage": 2,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller freestanding tree monument, two supported viewing rings, broad supported blue canopy, branch fins, visible observation circulation, stronger beacon and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_LANDMARK_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/skygarden-district-crown-of-eden-stage-3-v1.png",
-      "bytes": 3103424,
-      "git_blob_sha": "b8d2d2b71409a86bda4db128b46fdc5db476df29",
-      "sha256": "91932735688409eb30438e1ec87c5cec1c6b31c302c825474cdcf7ab53e707f4",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Skygarden District",
-      "identity_name": "Crown of Eden",
-      "stage": 3,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, multi-trunk civic monument, enormous supported multilevel sky garden, layered blue canopy crown, multiple supported viewing rings and bridges, powerful beacon and expanded ceremonial base. Integrity recorded in SKYGARDEN_DISTRICT_LANDMARK_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/review/skygarden-district-collection-qa-v1.png",
-      "bytes": 988370,
-      "git_blob_sha": "9b05fbef0f0c4cfdd14e244cab9154cd13ab479b",
-      "sha256": "fa4b095d19837d78626774239616a47afb5c4ffd57f5b60f575f04a2738290b3",
-      "dimensions": {
-        "width": 852,
-        "height": 2630
-      },
-      "classification": "review-evidence",
-      "neighborhood": "Skygarden District",
+      "classification": "collection-qa-evidence",
+      "neighborhood": "Royal Mirage",
       "identity_name": null,
       "stage": null,
       "building_type": null,
       "selected_for_prototype": false,
-      "selected_for_lineage_review": false,
       "final_nft_certification": false,
-      "evidence": "Deterministic equal-width 3-column by 5-row contact sheet for all 15 Skygarden lineage candidates. Visually inspected for exact names, function separation, palette continuity, framing and stage escalation; conclusions recorded in SKYGARDEN_DISTRICT_COLLECTION_QA.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-draftline-lofts-stage-1-v1.png",
-      "bytes": 2566542,
-      "git_blob_sha": "6c4ffa4262e113b68dc84695d951e2d394453cb7",
-      "sha256": "eaa9a2fff2ac9fe54aeb84526d34afb427a7916990e21a97b9b7010b6b4b1504",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Draftline Lofts",
-      "stage": 1,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact two-wing loft program, white aero shells, racing-red motion band, cobalt residential glass, gunmetal balconies, amber track lights, supported fins, complete lobby/base and roof. Integrity recorded in VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-slipstream-habitat-stage-2-v1.png",
-      "bytes": 2767763,
-      "git_blob_sha": "d6b9d0bd4decaad8c95ec7c1d7d2e30ed35f7446",
-      "sha256": "8d8b1f1fc1712345ef6000a8a42e2f7df18d104752bb884fdc77a071fa7a9532",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Slipstream Habitat",
-      "stage": 2,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, clear twin-tower height escalation, private balconies, fully enclosed supported resident sky lounge, stepped aero terraces, tied-back motion fins, complete base/crowns. Integrity recorded in VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-mach-horizon-stage-3-v1.png",
-      "bytes": 2850197,
-      "git_blob_sha": "f28d8a2f69adf109da15d06f0a09ef2b863865f6",
-      "sha256": "a32d3117bbf8400572209ddfb82a763c8a53062b73196a16ff2acf5b77af6681",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Mach Horizon",
-      "stage": 3,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus two side residential towers, multiple short supported resident bridges, upper private zones, turbine crown, tied-back fins and complete base/crown. Integrity recorded in VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-pitlane-plaza-stage-1-v1.png",
-      "bytes": 3088067,
-      "git_blob_sha": "e95f00041f2d2e94cfea12f6d0eb4a9a6b2b2c2d",
-      "sha256": "1db019fa8ef0df571970bd13829ce0ac11feec5ca7eda068e1a98a66061e6824",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Pitlane Plaza",
-      "stage": 1,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, low open-air retail concourse, visible storefronts and food counters, wide pedestrian pitlane, supported banked canopy, red circulation ribbons and complete approach/roof framing. Integrity recorded in VELOCITY_ROW_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-turbo-galleria-stage-2-v1.png",
-      "bytes": 3083202,
-      "git_blob_sha": "b12c7b9e737e33a3b37932d35c8e88c0cc58d3b4",
-      "sha256": "c46f9504b1474bbbbf67bece0133d536bb47f0c06dddeb01b86517afeca3f309",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Turbo Galleria",
-      "stage": 2,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, multi-level retail atrium, many visible shops, escalators, several supported gallery crossings, layered aero roof and complete approach/crown. Integrity recorded in VELOCITY_ROW_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-velocity-exchange-stage-3-v1.png",
-      "bytes": 3282142,
-      "git_blob_sha": "7975f78a6eb1fd1bd3196a318f9e0c05905b7473",
-      "sha256": "cb421789f2f27692dd84fe3c54de81e3832b1c5176bf62a7abb6eb66a4f46867",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Velocity Exchange",
-      "stage": 3,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, nine-plus visible retail levels, stacked atria, supported market bridges, express glass lifts, escalators, storefronts, turbine-ring crown and complete public base. Integrity recorded in VELOCITY_ROW_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-vector-works-stage-1-v1.png",
-      "bytes": 2939535,
-      "git_blob_sha": "f5703d32484879d040a17b59069c89e8aec01bbe",
-      "sha256": "d524affcd30a9a32028bb1efdeed81aefc39ebb180ad4d2f670a12bbf30fad82",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Vector Works",
-      "stage": 1,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact secured mobility-research works, sealed cobalt prototype bay, robotics/wind-tunnel rig, gunmetal frame, white shell, red service loops, tied fins, amber diagnostics and complete base/crown. Integrity recorded in VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-quantum-garage-stage-2-v1.png",
-      "bytes": 3041249,
-      "git_blob_sha": "58a8b1f29d970a84b196d6cace1568a4e21106ab",
-      "sha256": "70019e8edb7de78dc2a76f0177495a4af8c9a192a8d4c80faf766e1ece7dab4e",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Quantum Garage",
-      "stage": 2,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, tall secured research tower, stacked sealed prototype bays, robotics and wind-tunnel equipment, supported test decks, supported analysis bridge, red service loops and complete base/crown. Integrity recorded in VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-hyperdrive-nexus-stage-3-v1.png",
-      "bytes": 3154841,
-      "git_blob_sha": "64839c1230748139593648c5f4eecf3e1b75c9b5",
-      "sha256": "b030b309df7b04df0762b9e7ed25763bf1d7c67f9fc659f48852c40f72e96edb",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Hyperdrive Nexus",
-      "stage": 3,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant research tower plus two side labs, luminous central test spine, supported research bridges and test-ring decks, robotics bays, kinetic turbine crown and complete secure base. Integrity recorded in VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-rush-arena-stage-1-v1.png",
-      "bytes": 3066253,
-      "git_blob_sha": "8ea313520565fefe33e2d97c89a3673194c81d71",
-      "sha256": "da85f3103dd40ebf0cce923dc1581054b0c83b308d084efc690c59120a064e46",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Rush Arena",
-      "stage": 1,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact enclosed arena, visible red seating bowl and event floor, banked white shell, cobalt concourse glass, gunmetal trusses, supported spectator terrace, amber event lights and complete ceremonial base/roof. Integrity recorded in VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-overtake-pavilion-stage-2-v1.png",
-      "bytes": 3115327,
-      "git_blob_sha": "4cb7c0188265bfb827cd3b8d1f2f42d03deb352b",
-      "sha256": "177ba80a3b4dc0a2bc5c05820ef8e4e498310932aad7b7f79a09df37ca9aeef3",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Overtake Pavilion",
-      "stage": 2,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using the Stage I reference; visually inspected for exact mounted name, larger two-tier event venue, layered red grandstands, visible event floor, supported spectator decks, cobalt concourse bridges, expanded aero canopy and complete base/roof. Integrity recorded in VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-redline-coliseum-stage-3-v1.png",
-      "bytes": 3378866,
-      "git_blob_sha": "9f512ab9bf087f71ffb3ef053ab0e5e93b31e2d9",
-      "sha256": "cdbd3547c9ef4ef039211ae58509612f053df93adaf890938cc160c1a9e10eb7",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Redline Coliseum",
-      "stage": 3,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central arena plus two integrated side bowls, multi-tier red seating, supported cobalt concourses and short bridges, gunmetal trusses, luminous attached turbine crown and complete ceremonial base. Integrity recorded in VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-pole-beacon-stage-1-v1.png",
-      "bytes": 2441786,
-      "git_blob_sha": "a0accf7d3239ae16f4a1036ea0449de894fd54f3",
-      "sha256": "3608433eebe352062788a8f01127045d59d5865fed6248cedc8c2304c063a2d6",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Pole Beacon",
-      "stage": 1,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, slender civic mast, red velocity spine, supported cobalt viewing ring, attached aero fins, amber crown and complete ceremonial base. Integrity recorded in VELOCITY_ROW_LANDMARK_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-apex-tower-stage-2-v1.png",
-      "bytes": 2556412,
-      "git_blob_sha": "abf98c05cff7a72b725a267d7e1926d255557762",
-      "sha256": "f17b0431c7096740e4fcbe9e6e8c1ce7ddf80d87558ee4a788de0e4feb195157",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Apex Tower",
-      "stage": 2,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller leaning monument, two supported cobalt observation rings, broader canopy, attached fins, larger amber beacon and complete base/crown. Integrity recorded in VELOCITY_ROW_LANDMARK_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/velocity-row-crown-of-speed-stage-3-v1.png",
-      "bytes": 2911595,
-      "git_blob_sha": "c5a08f46c28389f040de9fc31e15a619a94142e8",
-      "sha256": "c46b571c05029d99583d384ceb5f3c202e29fa8aab2b359ffb3e588f27969535",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Velocity Row",
-      "identity_name": "Crown of Speed",
-      "stage": 3,
-      "building_type": "Landmark",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, multi-fin civic mast, connected kinetic rings, enormous supported cobalt observation crown, supported observation bridges, luminous turbine beacon and complete expanded plaza base. Integrity recorded in VELOCITY_ROW_LANDMARK_ART_HANDOFF.md."
+      "evidence": "equal-width 5×3 collection review recorded in ROYAL_MIRAGE_COLLECTION_QA.md"
     },
     {
       "path": "assets/qa/velocity-row-collection-contact-sheet-v1.png",
@@ -1917,232 +2198,24 @@
       "evidence": "Equal-width 3×5 contact sheet of all 15 Velocity Row base candidates. Visually inspected for asset loading, exact mounted names, stage progression, function separation, district continuity, physical support, framing and failure exclusions. Gate record in VELOCITY_ROW_COLLECTION_QA.md."
     },
     {
-      "path": "assets/candidates/royal-mirage-oasis-residences-stage-1-v1.png",
-      "bytes": 3391195,
-      "git_blob_sha": "d687e472a6640f650904792d4d08850388af398b",
-      "sha256": "e15bcb54679dd093db0d66f2e7f93b1fa26d43ac439d3efe895e8cac689ac052",
+      "path": "assets/review/skygarden-district-collection-qa-v1.png",
+      "bytes": 988370,
+      "git_blob_sha": "9b05fbef0f0c4cfdd14e244cab9154cd13ab479b",
+      "sha256": "fa4b095d19837d78626774239616a47afb5c4ffd57f5b60f575f04a2738290b3",
       "dimensions": {
-        "width": 1024,
-        "height": 1536
+        "width": 852,
+        "height": 2630
       },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Oasis Residences",
-      "stage": 1,
-      "building_type": "Residential",
+      "classification": "review-evidence",
+      "neighborhood": "Skygarden District",
+      "identity_name": null,
+      "stage": null,
+      "building_type": null,
       "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
+      "selected_for_lineage_review": false,
       "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, clearly inhabited terraced residence, shaded dry courtyard, jewel-glass balconies, one private rooftop plunge pool, restrained greenery, complete base and roofline, and no ground-level public pool. Integrity recorded in ROYAL_MIRAGE_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/royal-mirage-mirage-habitat-stage-2-v1.png",
-      "bytes": 3491621,
-      "git_blob_sha": "40e98853c541542d940ac98404bb3cef62a2146b",
-      "sha256": "fd95d867f3299ad2356898cae4bdc0477fcaa61b040179ba19a8d6398345fc5b",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Mirage Habitat",
-      "stage": 2,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller twin residential towers, visible apartments, truss-supported private sky lounge, larger elevated rooftop pools, complete base/crowns, and no ground-level public pool. Integrity recorded in ROYAL_MIRAGE_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/royal-mirage-sultans-skyhold-stage-3-v1.png",
-      "bytes": 3544692,
-      "git_blob_sha": "59f4f2b70e50aa9d8ed19e2dbc7a4c4f18db6c48",
-      "sha256": "8064790f314398e67c90b7adff527d44150323bb682d3eb97de3d806506c0101",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Sultan's Skyhold",
-      "stage": 3,
-      "building_type": "Residential",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for correct mounted name, three twenty-plus-level residential towers, multiple supported private sky-resort zones, three elevated pools, restrained greenery, rose-gold/sapphire display crown, complete base/crown, and no ground-level public pool. Integrity recorded in ROYAL_MIRAGE_RESIDENTIAL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/royal-mirage-souk-plaza-stage-1-v1.png",
-      "bytes": 3176637,
-      "git_blob_sha": "dc2b95fcbf2a9211aa9721ce71f9908dfa3373f3",
-      "sha256": "234fa5998e625a7c4d5a1688015e13b60733613dd45149dc0894aeeb0e84088b",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Souk Plaza",
-      "stage": 1,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, low public market form, many visible storefronts, dry central arcade, complete approach/canopy, jewel palette and no pool or residential ambiguity. Integrity recorded in ROYAL_MIRAGE_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/royal-mirage-jewel-galleria-stage-2-v1.png",
-      "bytes": 3448826,
-      "git_blob_sha": "936f94552270db89559349fd86a24dea967d4b11",
-      "sha256": "9f2800d22a9dd44d0851a782c0c9a00564770ffd2c2356f3241aceb2f5bc9a4e",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Jewel Galleria",
-      "stage": 2,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, four-plus retail levels, stacked jewel-glass storefronts, public escalators, supported shopping galleries, complete canopy/base and no pool. Integrity recorded in ROYAL_MIRAGE_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/royal-mirage-infinite-caravanserai-stage-3-v1.png",
-      "bytes": 3730554,
-      "git_blob_sha": "c42d0d5910d9e18e8b34e4a5862bf8d97161f4a7",
-      "sha256": "5fc001208399e9411d8d52d638664724a47ecf6d3afa9342f67287efa5fb6aaa",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Infinite Caravanserai",
-      "stage": 3,
-      "building_type": "Retail",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, eight-plus retail levels, dense visible storefronts, stacked atria, broad escalator circulation, supported merchant bridges, complete bazaar crown/base and no pool. Integrity recorded in ROYAL_MIRAGE_RETAIL_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/royal-mirage-prism-works-stage-1-v1.png",
-      "bytes": 3187613,
-      "git_blob_sha": "c011e406cc578640dbb675c2941fe30f202739e2",
-      "sha256": "a42368032c892b0ed3d7527895b875aafef30cbd910bcdc9c8da6f021eae464b",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Prism Works",
-      "stage": 1,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact secured optics lab, faceted sapphire sealed chamber, visible robotic/optical rigs, mirrored-black frame, rose-gold conduits, complete base/roof and no retail or mystical ambiguity. Integrity recorded in ROYAL_MIRAGE_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/royal-mirage-djinn-array-stage-2-v1.png",
-      "bytes": 3198607,
-      "git_blob_sha": "b196553b7979e91a8bb49aa791ba2e1f390d2b00",
-      "sha256": "7fc343f17bed4022b5ed75917ad1620ef4d58e5282e36fcc3e05ff8c78e7e45c",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Djinn Array",
-      "stage": 2,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller research tower, multiple sealed prism chambers, supported sensor terraces, enclosed attached service bridge, visible research rigs, complete secure base/crown and no mystical imagery. Integrity recorded in ROYAL_MIRAGE_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/royal-mirage-oracle-nexus-stage-3-v1.png",
-      "bytes": 3428795,
-      "git_blob_sha": "5d8821e34ace0a513a39efa44b14bfeb44b86d15",
-      "sha256": "5f6cb1517be2c25273d9d8d75e73ece8744d2cbd7b6f29a3ec24ae07e5a33b49",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Oracle Nexus",
-      "stage": 3,
-      "building_type": "Technology",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central tower plus two distinct side labs, central data-light core, supported research bridges/terraces, visible robotics, complete secure base and full array crown. Integrity recorded in ROYAL_MIRAGE_TECHNOLOGY_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/royal-mirage-mooncourt-lounge-stage-1-v1.png",
-      "bytes": 3365715,
-      "git_blob_sha": "3cf8f7a41850dfa8a419c1fd1ad060509a90a769",
-      "sha256": "df3b1952f8e70e2b4b3559c3d6cb6150baafcbfb1a887f53c3e71adaa167361f",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Mooncourt Lounge",
-      "stage": 1,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation; visually inspected for exact mounted name, visible stage/instruments, audience seating, public foyer, dry moonlit courtyard, complete approach/canopy and no residential or pool ambiguity. Integrity recorded in ROYAL_MIRAGE_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/royal-mirage-mirage-palace-stage-2-v1.png",
-      "bytes": 3644604,
-      "git_blob_sha": "b1f251cfb2f935c92dd0869d8bbe28b44f2ea6e7",
-      "sha256": "b3ccae1c7ca6e69e14ea3162f1b5a5db1458a3b2a96e7e3990e4338756764176",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Mirage Palace",
-      "stage": 2,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, central theatre plus two side performance halls, visible stages/seating, supported audience balconies, complete dry courtyard/base and jewel crown. Integrity recorded in ROYAL_MIRAGE_ENTERTAINMENT_ART_HANDOFF.md."
-    },
-    {
-      "path": "assets/candidates/royal-mirage-celestial-riad-stage-3-v1.png",
-      "bytes": 3731081,
-      "git_blob_sha": "0f45c763bc1b30cab2c9b227618e20780297eb05",
-      "sha256": "14a0441f60d05decd66c7f1734312fec53b7600c1090cb56a2be2691fbee6ad6",
-      "dimensions": {
-        "width": 1024,
-        "height": 1536
-      },
-      "classification": "lineage-selected-candidate",
-      "neighborhood": "Royal Mirage",
-      "identity_name": "Celestial Riad",
-      "stage": 3,
-      "building_type": "Entertainment",
-      "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
-      "final_nft_certification": false,
-      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, grand central performance court plus two visible side courts, stages/seating, supported multi-tier galleries and attached audience bridges, complete approach and full star-lit crown. Integrity recorded in ROYAL_MIRAGE_ENTERTAINMENT_ART_HANDOFF.md."
+      "evidence": "Deterministic equal-width 3-column by 5-row contact sheet for all 15 Skygarden lineage candidates. Visually inspected for exact names, function separation, palette continuity, framing and stage escalation; conclusions recorded in SKYGARDEN_DISTRICT_COLLECTION_QA.md."
     }
   ]
 }
+
