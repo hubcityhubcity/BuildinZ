@@ -75,4 +75,4 @@ Continuity anchors: branching pearl trunks, warm-wood core, emerald seed glass, 
 
 ## Exact next action
 
-Produce and inspect Terrace Hall / Petal Pavilion / Celestial Conservatory from the Entertainment section of `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`. Preserve petal roof geometry, warm-wood acoustic fins, emerald/sky-blue glass, garden foyers and controlled flowering accents; keep performance entries, supported foyer/balcony structures, complete bases and crowns in frame.
+Produce and inspect Garden Beacon / Worldtree Apex / Crown of Eden from the Landmark section of `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`. Preserve branching pearl trunks, warm-wood core, emerald seed glass, mint beacon line and sky-blue observation canopy; keep viewing rings, observation structures, complete bases and crowns physically supported and in frame.

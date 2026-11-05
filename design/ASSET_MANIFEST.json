@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "cdb5279e3c6a0a72aafb6deaf4f3f82456761f30",
+  "repository_commit": "a0319ab8496e7662935e255a5184e2caee9e0d7f",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 76,
+    "asset_files": 79,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 39
+    "lineage_selected_candidate_stage_assets": 42
   },
   "production_matrix": [
     {
@@ -54,9 +54,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open",
+      "status": "Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 9
+      "selected_candidate_stage_assets": 12
     },
     {
       "neighborhood_id": 4,
@@ -1478,6 +1478,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central tower plus two side research towers, multiple supported research bridges, cloud-collector decks and sails, integrated seed-light crown, explicit laboratory infrastructure and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-terrace-hall-stage-1-v1.png",
+      "bytes": 2960272,
+      "git_blob_sha": "07c21692a79718b3a1e8244ebba0e053a7d47c46",
+      "sha256": "0181703b0b23e696441776968506c83c8d372eafb87992d69b0faa3ca90ba732",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Terrace Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, intimate performance-hall program, single-layer petal roof, warm-wood acoustic fins, visible stage and seating, one supported garden foyer and complete arrival/crown framing. Integrity recorded in SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-petal-pavilion-stage-2-v1.png",
+      "bytes": 3323922,
+      "git_blob_sha": "203d1cc7fea932f70ddd18e4eef7e3657a99c6f5",
+      "sha256": "2ae93cd1b5406b12d2458d604c8ddf038317dcc4059a11649143393e1483eced",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Petal Pavilion",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, larger auditorium, layered petal canopy, several supported balcony terraces, elevated supported sky foyer, visible performance interior and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-celestial-conservatory-stage-3-v1.png",
+      "bytes": 3405182,
+      "git_blob_sha": "d5e52c499829ba6a79cfafcdb0fc3f5c9404fe9d",
+      "sha256": "8178245c39c1c68891d16dd7f8f64e167bc2f2214855382a8a0f5874a317aad6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Celestial Conservatory",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central auditorium plus two side halls, many supported audience balconies, elevated garden foyers, short supported glazed bridges, luminous flower crown and complete ceremonial base. Integrity recorded in SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md."
     }
   ]
 }

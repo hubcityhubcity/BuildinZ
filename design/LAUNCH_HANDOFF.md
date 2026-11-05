@@ -271,3 +271,10 @@ Integrity evidence is recorded in `design/SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.
 Generated and visually inspected Seedlight Labs, Aeroponic Spire and Gaia Cloudworks as Skygarden District's third complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, pearl bioframes, emerald research glass, mint aeroponic tubes, sky-blue collector sails, precise sealed plant-tray modules, complete bases/crowns and clear escalation from compact lab to tall research spire to a bridged three-tower bioengineering citadel.
 
 Integrity evidence is recorded in `design/SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Skygarden District Entertainment — Terrace Hall → Petal Pavilion → Celestial Conservatory.
+
+
+## Skygarden District Entertainment lineage checkpoint — November 4, 2026
+
+Generated and visually inspected Terrace Hall, Petal Pavilion and Celestial Conservatory as Skygarden District's fourth complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, petal roofs, warm-wood acoustic fins, pearl supports, emerald/sky-blue glass, controlled garden foyers, complete bases/crowns and clear escalation from intimate hall to layered pavilion to a monumental multi-hall conservatory.
+
+Integrity evidence is recorded in `design/SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Skygarden District Landmark — Garden Beacon → Worldtree Apex → Crown of Eden.
