@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-05",
-  "repository_commit": "e11a77f5f2de6c8f671c137fc3c7ffffa749f390",
+  "repository_commit": "748b65df19f4c90463bc669fb184ad1ec8bcc1eb",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 102,
+    "asset_files": 105,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 63
+    "lineage_selected_candidate_stage_assets": 66
   },
   "production_matrix": [
     {
@@ -76,9 +76,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open",
+      "status": "Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 3
+      "selected_candidate_stage_assets": 6
     },
     {
       "neighborhood_id": 6,
@@ -1972,6 +1972,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for correct mounted name, three twenty-plus-level residential towers, multiple supported private sky-resort zones, three elevated pools, restrained greenery, rose-gold/sapphire display crown, complete base/crown, and no ground-level public pool. Integrity recorded in ROYAL_MIRAGE_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-souk-plaza-stage-1-v1.png",
+      "bytes": 3176637,
+      "git_blob_sha": "dc2b95fcbf2a9211aa9721ce71f9908dfa3373f3",
+      "sha256": "234fa5998e625a7c4d5a1688015e13b60733613dd45149dc0894aeeb0e84088b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Souk Plaza",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, low public market form, many visible storefronts, dry central arcade, complete approach/canopy, jewel palette and no pool or residential ambiguity. Integrity recorded in ROYAL_MIRAGE_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-jewel-galleria-stage-2-v1.png",
+      "bytes": 3448826,
+      "git_blob_sha": "936f94552270db89559349fd86a24dea967d4b11",
+      "sha256": "9f2800d22a9dd44d0851a782c0c9a00564770ffd2c2356f3241aceb2f5bc9a4e",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Jewel Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, four-plus retail levels, stacked jewel-glass storefronts, public escalators, supported shopping galleries, complete canopy/base and no pool. Integrity recorded in ROYAL_MIRAGE_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-infinite-caravanserai-stage-3-v1.png",
+      "bytes": 3730554,
+      "git_blob_sha": "c42d0d5910d9e18e8b34e4a5862bf8d97161f4a7",
+      "sha256": "5fc001208399e9411d8d52d638664724a47ecf6d3afa9342f67287efa5fb6aaa",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Infinite Caravanserai",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, eight-plus retail levels, dense visible storefronts, stacked atria, broad escalator circulation, supported merchant bridges, complete bazaar crown/base and no pool. Integrity recorded in ROYAL_MIRAGE_RETAIL_ART_HANDOFF.md."
     }
   ]
 }

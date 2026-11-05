@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 5, 2026 (America/Chicago) against repository commit `e11a77f5f2de6c8f671c137fc3c7ffffa749f390`.
+Recorded November 5, 2026 (America/Chicago) against repository commit `748b65df19f4c90463bc669fb184ad1ec8bcc1eb`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **102**
+- Repository asset files: **105**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **72**
+- Non-Neon required stage masters without a selected lineage candidate: **69**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -21,7 +21,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Royal Mirage | 15 | 0 | 0 | Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open |
+| Royal Mirage | 15 | 0 | 0 | Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open |
 | Old World Steel | 15 | 0 | 0 | production not started |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
@@ -312,3 +312,14 @@ The Landmark files are delegated lineage candidates only. The equal-width contac
 | III | Sultan's Skyhold | `assets/candidates/royal-mirage-sultans-skyhold-stage-3-v1.png` | 1024 × 1536 | 3,544,692 | `8064790f314398e67c90b7adff527d44150323bb682d3eb97de3d806506c0101` | `59f4f2b70e50aa9d8ed19e2dbc7a4c4f18db6c48` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three passed exact-name, residential-function, palette, support, framing, pool-placement and stage-escalation review.
+
+
+## Royal Mirage Retail selected candidates — November 5, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Souk Plaza | `assets/candidates/royal-mirage-souk-plaza-stage-1-v1.png` | 1024 × 1536 | 3,176,637 | `234fa5998e625a7c4d5a1688015e13b60733613dd45149dc0894aeeb0e84088b` | `dc2b95fcbf2a9211aa9721ce71f9908dfa3373f3` |
+| II | Jewel Galleria | `assets/candidates/royal-mirage-jewel-galleria-stage-2-v1.png` | 1024 × 1536 | 3,448,826 | `9f2800d22a9dd44d0851a782c0c9a00564770ffd2c2356f3241aceb2f5bc9a4e` | `936f94552270db89559349fd86a24dea967d4b11` |
+| III | Infinite Caravanserai | `assets/candidates/royal-mirage-infinite-caravanserai-stage-3-v1.png` | 1024 × 1536 | 3,730,554 | `5fc001208399e9411d8d52d638664724a47ecf6d3afa9342f67287efa5fb6aaa` | `c42d0d5910d9e18e8b34e4a5862bf8d97161f4a7` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three passed exact-name, public-retail-function, palette, circulation, support, framing and stage-escalation review.
