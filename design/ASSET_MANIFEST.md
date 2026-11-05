@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **115**
+- Repository asset files: **118**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **60**
+- Non-Neon required stage masters without a selected lineage candidate: **57**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -22,7 +22,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Old World Steel | 15 | 0 | 0 | production not started |
+| Old World Steel | 15 | 0 | 0 | 3 Residential base candidates pass lineage review; 12 stage designs and final certification remain open |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
@@ -357,3 +357,7 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 
 All fifteen Royal Mirage base lineage candidates pass equal-width collection QA. These are delegated lineage candidates only—not edition variants, prototype-integrated art, permanent-URI assets, or final NFT-certified exports.
 
+
+## Old World Steel Residential checkpoint — November 5, 2026
+
+Three selected candidates are recorded with bytes, dimensions, SHA-256 and Git blob evidence in ASSET_MANIFEST.json and LAUNCH_HANDOFF.md. Equal-width comparison acceptance is recorded in OLD_WORLD_STEEL_RESIDENTIAL_QA.md. Repository totals: 118 asset files; 78 non-Neon selected candidates; 57 non-Neon stage designs without candidates. No final-certified assets.
