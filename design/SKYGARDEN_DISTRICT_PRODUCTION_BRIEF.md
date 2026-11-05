@@ -75,4 +75,4 @@ Continuity anchors: branching pearl trunks, warm-wood core, emerald seed glass, 
 
 ## Exact next action
 
-Produce and inspect Seedlight Labs / Aeroponic Spire / Gaia Cloudworks from the Technology section of `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`. Preserve pearl bioframes, emerald research glass, mint aeroponic tubes, sky-blue collector sails and precise modular plant trays; keep labs, collector decks, supported research bridges, complete bases and crowns in frame.
+Produce and inspect Terrace Hall / Petal Pavilion / Celestial Conservatory from the Entertainment section of `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`. Preserve petal roof geometry, warm-wood acoustic fins, emerald/sky-blue glass, garden foyers and controlled flowering accents; keep performance entries, supported foyer/balcony structures, complete bases and crowns in frame.

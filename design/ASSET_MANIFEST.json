@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "dc0a849fc38e30119a09ed48276761fd9adc14b1",
+  "repository_commit": "cdb5279e3c6a0a72aafb6deaf4f3f82456761f30",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 73,
+    "asset_files": 76,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 36
+    "lineage_selected_candidate_stage_assets": 39
   },
   "production_matrix": [
     {
@@ -54,9 +54,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open",
+      "status": "Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 6
+      "selected_candidate_stage_assets": 9
     },
     {
       "neighborhood_id": 4,
@@ -1421,6 +1421,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, vertical exchange with eight-plus retail levels, stacked atria, supported hanging-market terraces and bridges, visible escalators, complete plaza and planter-grid crown. Integrity recorded in SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-seedlight-labs-stage-1-v1.png",
+      "bytes": 2943375,
+      "git_blob_sha": "7651df13193bed6e40cbfb0891d903fb17a85f2c",
+      "sha256": "7c48b73a174853f93937f7008030df4051fa1386e76f9e51d87e9aa6a11faee0",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Seedlight Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact laboratory program, central emerald seed-light core, pearl bioframes, sealed modular plant trays, mint service tubes, two supported sky-blue collector sails, secure entry and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-aeroponic-spire-stage-2-v1.png",
+      "bytes": 2962113,
+      "git_blob_sha": "42e88086d2ea77d6ddb200c25dabdcbc1d139e43",
+      "sha256": "cc5a2719ceb7c24cd97c6348124acaf0e7d50646bf060a7704897c501ce0bedc",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Aeroponic Spire",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, clear 10-plus-level escalation, stacked sealed aeroponic chambers, expanded mint service tubes, supported collector decks and sails, supported analysis bridge, technical entry and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-gaia-cloudworks-stage-3-v1.png",
+      "bytes": 3139587,
+      "git_blob_sha": "e495880ae437eab2dcfe9afa0cd15fbc0890d4e1",
+      "sha256": "f8923857f9001f5a46dc82ede181f2caae5fc24500457326557cdf6a88692fe5",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Gaia Cloudworks",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central tower plus two side research towers, multiple supported research bridges, cloud-collector decks and sails, integrated seed-light crown, explicit laboratory infrastructure and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HANDOFF.md."
     }
   ]
 }

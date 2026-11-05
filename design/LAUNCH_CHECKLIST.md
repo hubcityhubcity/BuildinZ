@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District Residential/Retail have 6 selected candidates; 99 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District Residential/Retail/Technology have 9 selected candidates; 96 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce and inspect Seedlight Labs / Aeroponic Spire / Gaia Cloudworks from the Technology section of `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`. Preserve pearl bioframes, emerald research glass, mint aeroponic tubes, sky-blue collector sails and precise modular plant trays; keep labs, collector decks, supported research bridges, complete bases and crowns in frame.
+Produce and inspect Terrace Hall / Petal Pavilion / Celestial Conservatory from the Entertainment section of `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`. Preserve petal roof geometry, warm-wood acoustic fins, emerald/sky-blue glass, garden foyers and controlled flowering accents; keep performance entries, supported foyer/balcony structures, complete bases and crowns in frame.
