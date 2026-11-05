@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **83**
+- Repository asset files: **86**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **90**
+- Non-Neon required stage masters without a selected lineage candidate: **87**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -20,7 +20,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Velocity Row | 15 | 0 | 0 | production not started |
+| Velocity Row | 15 | 0 | 0 | Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open |
 | Royal Mirage | 15 | 0 | 0 | production not started |
 | Old World Steel | 15 | 0 | 0 | production not started |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
@@ -245,3 +245,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | `assets/review/skygarden-district-collection-qa-v1.png` | 852 × 2630 | 988,370 | `fa4b095d19837d78626774239616a47afb5c4ffd57f5b60f575f04a2738290b3` | `9b05fbef0f0c4cfdd14e244cab9154cd13ab479b` |
 
 The equal-width 3×5 contact sheet covers all 15 base candidates. Collection-level results are recorded in `design/SKYGARDEN_DISTRICT_COLLECTION_QA.md`. Passing base-master QA does not mean editions, permanent URIs, metadata, prototype integration or final NFT certification are complete.
+
+
+## Velocity Row Residential selected candidates — November 4, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Draftline Lofts | `assets/candidates/velocity-row-draftline-lofts-stage-1-v1.png` | 1024 × 1536 | 2,566,542 | `eaa9a2fff2ac9fe54aeb84526d34afb427a7916990e21a97b9b7010b6b4b1504` | `6c4ffa4262e113b68dc84695d951e2d394453cb7` |
+| II | Slipstream Habitat | `assets/candidates/velocity-row-slipstream-habitat-stage-2-v1.png` | 1024 × 1536 | 2,767,763 | `8d8b1f1fc1712345ef6000a8a42e2f7df18d104752bb884fdc77a071fa7a9532` | `d6b9d0bd4decaad8c95ec7c1d7d2e30ed35f7446` |
+| III | Mach Horizon | `assets/candidates/velocity-row-mach-horizon-stage-3-v1.png` | 1024 × 1536 | 2,850,197 | `a32d3117bbf8400572209ddfb82a763c8a53062b73196a16ff2acf5b77af6681` | `f28d8a2f69adf109da15d06f0a09ef2b863865f6` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, residential-function, palette, support, framing and stage-escalation review on their first generated versions.

@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "46023759930c7ea9448c693387f4eb1fb6aa3215",
+  "repository_commit": "1f5de23696f2891bb5ebd0e78d3a1325e55f0e8e",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 83,
+    "asset_files": 86,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 45
+    "lineage_selected_candidate_stage_assets": 48
   },
   "production_matrix": [
     {
@@ -65,9 +65,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "production not started",
+      "status": "Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 0
+      "selected_candidate_stage_assets": 3
     },
     {
       "neighborhood_id": 5,
@@ -1611,6 +1611,63 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Deterministic equal-width 3-column by 5-row contact sheet for all 15 Skygarden lineage candidates. Visually inspected for exact names, function separation, palette continuity, framing and stage escalation; conclusions recorded in SKYGARDEN_DISTRICT_COLLECTION_QA.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-draftline-lofts-stage-1-v1.png",
+      "bytes": 2566542,
+      "git_blob_sha": "6c4ffa4262e113b68dc84695d951e2d394453cb7",
+      "sha256": "eaa9a2fff2ac9fe54aeb84526d34afb427a7916990e21a97b9b7010b6b4b1504",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Draftline Lofts",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact two-wing loft program, white aero shells, racing-red motion band, cobalt residential glass, gunmetal balconies, amber track lights, supported fins, complete lobby/base and roof. Integrity recorded in VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-slipstream-habitat-stage-2-v1.png",
+      "bytes": 2767763,
+      "git_blob_sha": "d6b9d0bd4decaad8c95ec7c1d7d2e30ed35f7446",
+      "sha256": "8d8b1f1fc1712345ef6000a8a42e2f7df18d104752bb884fdc77a071fa7a9532",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Slipstream Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, clear twin-tower height escalation, private balconies, fully enclosed supported resident sky lounge, stepped aero terraces, tied-back motion fins, complete base/crowns. Integrity recorded in VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-mach-horizon-stage-3-v1.png",
+      "bytes": 2850197,
+      "git_blob_sha": "f28d8a2f69adf109da15d06f0a09ef2b863865f6",
+      "sha256": "a32d3117bbf8400572209ddfb82a763c8a53062b73196a16ff2acf5b77af6681",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Mach Horizon",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus two side residential towers, multiple short supported resident bridges, upper private zones, turbine crown, tied-back fins and complete base/crown. Integrity recorded in VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md."
     }
   ]
 }

@@ -287,3 +287,12 @@ Generated and visually inspected Garden Beacon, Worldtree Apex and Crown of Eden
 A deterministic equal-width 3×5 contact sheet was generated and visually inspected across all 15 Skygarden candidates. Exact names, five-function separation, district continuity, support logic, full framing and stage escalation pass. Evidence is in `design/SKYGARDEN_DISTRICT_LANDMARK_ART_HANDOFF.md`, `design/SKYGARDEN_DISTRICT_COLLECTION_QA.md` and the consolidated manifest.
 
 These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: prepare Velocity Row's production brief and produce Draftline Lofts → Slipstream Habitat → Mach Horizon.
+
+
+## Velocity Row brief and Residential lineage checkpoint — November 4, 2026
+
+Committed `design/VELOCITY_ROW_PRODUCTION_BRIEF.md` from the canonical registry. It locks all five exact three-stage paths, the racing-red/cobalt/white/gunmetal/amber palette, crisp blue-hour atmosphere, aerodynamic motion language, function separation, continuity anchors and actual-output acceptance gates. These are delegated production decisions, not prior owner approvals.
+
+Generated and visually inspected Draftline Lofts, Slipstream Habitat and Mach Horizon as Velocity Row's first complete lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, white aero exoshells, racing-red motion bands, cobalt residential glass, gunmetal rails, amber track lights, supported motion fins and clear escalation from compact two-wing lofts to twin towers with a private sky lounge to a three-tower habitat with multiple supported resident connections and a turbine crown.
+
+Integrity evidence is recorded in `design/VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Velocity Row Retail — Pitlane Plaza → Turbo Galleria → Velocity Exchange.
