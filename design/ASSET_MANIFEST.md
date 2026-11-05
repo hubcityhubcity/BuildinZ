@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **118**
+- Repository asset files: **120**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **57**
+- Non-Neon required stage masters without a selected lineage candidate: **56**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -361,3 +361,7 @@ All fifteen Royal Mirage base lineage candidates pass equal-width collection QA.
 ## Old World Steel Residential checkpoint — November 5, 2026
 
 Three selected candidates are recorded with bytes, dimensions, SHA-256 and Git blob evidence in ASSET_MANIFEST.json and LAUNCH_HANDOFF.md. Equal-width comparison acceptance is recorded in OLD_WORLD_STEEL_RESIDENTIAL_QA.md. Repository totals: 118 asset files; 78 non-Neon selected candidates; 57 non-Neon stage designs without candidates. No final-certified assets.
+
+## Forge Market correction checkpoint
+
+Selected Stage I v2 passes full-building framing; v1 retained as failed review history. Integrity evidence is in ASSET_MANIFEST.json and LAUNCH_HANDOFF.md. Current totals: 120 assets, 79 non-Neon selected candidates, 56 designs without selected art, zero final-certified.

@@ -5,13 +5,13 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 119,
+    "asset_files": 120,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 78
+    "lineage_selected_candidate_stage_assets": 79
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential three-stage candidates individually inspected; equal-width lineage review and 12 remaining stage designs open",
+      "status": "Residential lineage and corrected Forge Market selected; 11 stage designs and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 3
+      "selected_candidate_stage_assets": 4
     },
     {
       "neighborhood_id": 7,
@@ -2291,6 +2291,25 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact signage and retail program pass, but left market wing meets/crosses image edge; full-silhouette framing gate fails. Preserve candidate; widen framing before selecting."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-forge-market-stage-1-v2.png",
+      "bytes": 3106359,
+      "git_blob_sha": "f81487340b4b9ddc6566aee0c411604c05600b31",
+      "sha256": "5827337ad1e09ed497f8bc87603db2fecdc5a8517c0ecf7ebced73f39cb674c6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Forge Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Targeted wider-framing edit of v1; actual output inspected: both full side extents, complete roof/chimney and approach, exact sign, preserved retail merchandise and supported iron canopies."
     }
   ]
 }

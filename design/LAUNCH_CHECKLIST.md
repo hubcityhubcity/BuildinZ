@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce Forge Market / Steelworks Arcade / Grand Industrial Exchange using OLD_WORLD_STEEL_PRODUCTION_BRIEF.md. Old World Steel Residential passed the equal-width review recorded in OLD_WORLD_STEEL_RESIDENTIAL_QA.md. Edition rendering and final certification remain open.
+Produce Steelworks Arcade using selected Forge Market v2 as reference, then Grand Industrial Exchange. Forge Market v1 is retained as failed framing history; v2 passes individual visual review. Final certification remains open.
