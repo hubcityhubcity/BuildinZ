@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 118,
+    "asset_files": 119,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -2272,6 +2272,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Generated using Stages I/II references; individually inspected actual output: three apartment towers, complete iron/copper crown, supported enclosed lounge and two elevated pools/resort terraces, exact sign and full base."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-forge-market-stage-1-v1.png",
+      "bytes": 3439566,
+      "git_blob_sha": "3c6a6efd2427b5f9003de380081132342be6b2df",
+      "sha256": "b83d547c2335e807285409b809dc838b6a89f7a4dc72770de7e269e1601070d6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "review-candidate-framing-correction-required",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Forge Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact signage and retail program pass, but left market wing meets/crosses image edge; full-silhouette framing gate fails. Preserve candidate; widen framing before selecting."
     }
   ]
 }
