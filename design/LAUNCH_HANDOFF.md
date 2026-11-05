@@ -255,3 +255,12 @@ Committed `design/SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md` from the canonical reg
 Generated and visually inspected Canopy Residences, Cloudterrace Habitat and Eden Skyhold as Skygarden District's first complete lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, pearl branching frames, emerald residential glazing, warm-wood balcony bands, mint edge light, restrained planted ribbons and clear escalation from low canopy residence to twin-tower habitat to three-tower crowned skyhold. Stage II adds a supported private sky lounge; Stage III adds several supported resident zones, private upper water features and a complete living crown. No public or ground-level pool appears.
 
 Integrity evidence is recorded in `design/SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Skygarden District Retail — Bloom Market → Verdant Galleria → Hanging Garden Exchange.
+
+
+## Skygarden District Retail lineage checkpoint — November 4, 2026
+
+Generated and visually inspected Bloom Market, Verdant Galleria and Hanging Garden Exchange as Skygarden District's second complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, pearl canopy arches, warm-wood market bands, sky-blue gallery glass, emerald awnings, mint edge light, controlled trellises and modular planter grids.
+
+Retail capacity escalates from a low two-level open-air market with vendor stalls and broad public aisle, to a multi-level galleria with grand atrium, escalators and supported crossings, then to an eight-plus-level vertical exchange with stacked retail atria, supported hanging-market terraces, multiple bridges and layered planter-grid crown. All selected outputs passed naming, retail-function, physical-support, controlled-greenery and framing gates on their first generated versions.
+
+Integrity evidence is recorded in `design/SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Skygarden District Technology — Seedlight Labs → Aeroponic Spire → Gaia Cloudworks.

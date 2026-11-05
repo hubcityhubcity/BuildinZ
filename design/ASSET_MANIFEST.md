@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 4, 2026 (America/Chicago) against repository commit `8a9157b59f447c3cdf71bb48b380b6cd095414e9`.
+Recorded November 4, 2026 (America/Chicago) against repository commit `dc0a849fc38e30119a09ed48276761fd9adc14b1`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **70**
+- Repository asset files: **73**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **102**
+- Non-Neon required stage masters without a selected lineage candidate: **99**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -19,7 +19,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
-| Skygarden District | 15 | 0 | 0 | Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open |
+| Skygarden District | 15 | 0 | 0 | Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open |
 | Velocity Row | 15 | 0 | 0 | production not started |
 | Royal Mirage | 15 | 0 | 0 | production not started |
 | Old World Steel | 15 | 0 | 0 | production not started |
@@ -193,3 +193,14 @@ Status boundary: the 300 edition-stage images are planned but not rendered, insp
 | III | Eden Skyhold | `assets/candidates/skygarden-district-eden-skyhold-stage-3-v1.png` | 1024 × 1536 | 3,136,806 | `0aeb348cff627be100053d58d707965791907c0f3d9b697d3257c6a8feefb502` | `1cbb43f5171236362a248894d1eccb12e6309c2b` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, residential-function, controlled-greenery, supported-structure, no-public-pool, framing and stage-escalation review on their first generated versions.
+
+
+## Skygarden District Retail selected candidates — November 4, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Bloom Market | `assets/candidates/skygarden-district-bloom-market-stage-1-v1.png` | 1024 × 1536 | 2,816,713 | `24831823656f2806383b86e4a427eb2e2c09bab0c4bc6afa3478be4a20b7f370` | `1908d4ba47ebae5da1b8973ad1c478cb58025ec4` |
+| II | Verdant Galleria | `assets/candidates/skygarden-district-verdant-galleria-stage-2-v1.png` | 1024 × 1536 | 3,198,948 | `ff07fa6bf740f49d4eb265634d102535ac100f694e1431071f46c7edb0776820` | `eeed2397e21f50d8e303ab1b6086d019b4c90b83` |
+| III | Hanging Garden Exchange | `assets/candidates/skygarden-district-hanging-garden-exchange-stage-3-v1.png` | 1024 × 1536 | 3,548,169 | `0024864a7565681beb378aa8c121af8b523f6b30343adb3a3e222361411d4cd1` | `bb47dfd4f6a6df71a39f59f1035c074d587e79d5` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, retail-function, controlled-greenery, supported-gallery, framing and stage-escalation review on their first generated versions.

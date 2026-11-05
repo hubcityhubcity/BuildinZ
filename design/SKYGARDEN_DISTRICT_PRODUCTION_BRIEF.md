@@ -75,4 +75,4 @@ Continuity anchors: branching pearl trunks, warm-wood core, emerald seed glass, 
 
 ## Exact next action
 
-Produce and inspect Bloom Market / Verdant Galleria / Hanging Garden Exchange from the Retail section of `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`. Preserve pearl canopy arches, warm-wood market bands, sky-blue gallery glass, controlled vine trellises and modular hanging planter grids; keep retail entries, supported galleries, complete bases and crowns in frame.
+Produce and inspect Seedlight Labs / Aeroponic Spire / Gaia Cloudworks from the Technology section of `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`. Preserve pearl bioframes, emerald research glass, mint aeroponic tubes, sky-blue collector sails and precise modular plant trays; keep labs, collector decks, supported research bridges, complete bases and crowns in frame.

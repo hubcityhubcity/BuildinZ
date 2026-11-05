@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "8a9157b59f447c3cdf71bb48b380b6cd095414e9",
+  "repository_commit": "dc0a849fc38e30119a09ed48276761fd9adc14b1",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 70,
+    "asset_files": 73,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 33
+    "lineage_selected_candidate_stage_assets": 36
   },
   "production_matrix": [
     {
@@ -54,9 +54,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open",
+      "status": "Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 3
+      "selected_candidate_stage_assets": 6
     },
     {
       "neighborhood_id": 4,
@@ -1364,6 +1364,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus two side residential towers, multiple supported sky lounges and bridges, private upper water features, complete living crown, full podium and restrained greenery. Integrity recorded in SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-bloom-market-stage-1-v1.png",
+      "bytes": 2816713,
+      "git_blob_sha": "1908d4ba47ebae5da1b8973ad1c478cb58025ec4",
+      "sha256": "24831823656f2806383b86e4a427eb2e2c09bab0c4bc6afa3478be4a20b7f370",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Bloom Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, low open-air retail program, three pearl canopy arches, warm-wood shops and stalls, broad public aisle, modular planters and complete plaza/canopy framing. Integrity recorded in SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-verdant-galleria-stage-2-v1.png",
+      "bytes": 3198948,
+      "git_blob_sha": "eeed2397e21f50d8e303ab1b6086d019b4c90b83",
+      "sha256": "ff07fa6bf740f49d4eb265634d102535ac100f694e1431071f46c7edb0776820",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Verdant Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, multi-level retail atrium, visible shopfronts and escalators, several supported gallery crossings, layered canopy and controlled trellises. Integrity recorded in SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-hanging-garden-exchange-stage-3-v1.png",
+      "bytes": 3548169,
+      "git_blob_sha": "bb47dfd4f6a6df71a39f59f1035c074d587e79d5",
+      "sha256": "0024864a7565681beb378aa8c121af8b523f6b30343adb3a3e222361411d4cd1",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Hanging Garden Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, vertical exchange with eight-plus retail levels, stacked atria, supported hanging-market terraces and bridges, visible escalators, complete plaza and planter-grid crown. Integrity recorded in SKYGARDEN_DISTRICT_RETAIL_ART_HANDOFF.md."
     }
   ]
 }
