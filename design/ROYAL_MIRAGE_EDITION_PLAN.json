@@ -1,0 +1,3216 @@
+{
+  "schema_version": "1.0.0",
+  "status": "delegated-production-plan",
+  "neighborhood": "Royal Mirage",
+  "rules": [
+    "Finish is a cosmetic material treatment, preserved across stages and resale.",
+    "Retain exact architecture, names, framing, structural support and functional features.",
+    "Keep sapphire/turquoise, sand, rose gold and mirrored-black palette recognizable.",
+    "No placeholders or planned renders count as completed artwork.",
+    "No metadata release until actual output hashes, permanent URIs and final validation exist."
+  ],
+  "edition_finishes": [
+    {
+      "edition": 1,
+      "rarity": "Common",
+      "finish": "Sandstone"
+    },
+    {
+      "edition": 2,
+      "rarity": "Common",
+      "finish": "Sapphire"
+    },
+    {
+      "edition": 3,
+      "rarity": "Common",
+      "finish": "Turquoise"
+    },
+    {
+      "edition": 4,
+      "rarity": "Common",
+      "finish": "Rose Copper"
+    },
+    {
+      "edition": 5,
+      "rarity": "Common",
+      "finish": "Black Mirror"
+    },
+    {
+      "edition": 6,
+      "rarity": "Common",
+      "finish": "Desert Pearl"
+    },
+    {
+      "edition": 7,
+      "rarity": "Common",
+      "finish": "Dusk Glass"
+    },
+    {
+      "edition": 8,
+      "rarity": "Common",
+      "finish": "Oasis Slate"
+    },
+    {
+      "edition": 9,
+      "rarity": "Uncommon",
+      "finish": "Cobalt Satin"
+    },
+    {
+      "edition": 10,
+      "rarity": "Uncommon",
+      "finish": "Patina Rose"
+    },
+    {
+      "edition": 11,
+      "rarity": "Uncommon",
+      "finish": "Azure Ceramic"
+    },
+    {
+      "edition": 12,
+      "rarity": "Uncommon",
+      "finish": "Smoked Jewel"
+    },
+    {
+      "edition": 13,
+      "rarity": "Uncommon",
+      "finish": "Warm Quartz"
+    },
+    {
+      "edition": 14,
+      "rarity": "Rare",
+      "finish": "Prism Sapphire"
+    },
+    {
+      "edition": 15,
+      "rarity": "Rare",
+      "finish": "Turquoise Alloy"
+    },
+    {
+      "edition": 16,
+      "rarity": "Rare",
+      "finish": "Moonstone Copper"
+    },
+    {
+      "edition": 17,
+      "rarity": "Rare",
+      "finish": "Obsidian Jewel"
+    },
+    {
+      "edition": 18,
+      "rarity": "Epic",
+      "finish": "Royal Opal"
+    },
+    {
+      "edition": 19,
+      "rarity": "Epic",
+      "finish": "Celestial Prism"
+    },
+    {
+      "edition": 20,
+      "rarity": "Legendary",
+      "finish": "Sovereign Spectrum"
+    }
+  ],
+  "tokens": [
+    {
+      "token_id": 501,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 1,
+      "rarity": "Common",
+      "finish": "Sandstone",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 502,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 2,
+      "rarity": "Common",
+      "finish": "Sapphire",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 503,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 3,
+      "rarity": "Common",
+      "finish": "Turquoise",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 504,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 4,
+      "rarity": "Common",
+      "finish": "Rose Copper",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 505,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 5,
+      "rarity": "Common",
+      "finish": "Black Mirror",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 506,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 6,
+      "rarity": "Common",
+      "finish": "Desert Pearl",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 507,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 7,
+      "rarity": "Common",
+      "finish": "Dusk Glass",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 508,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 8,
+      "rarity": "Common",
+      "finish": "Oasis Slate",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 509,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 9,
+      "rarity": "Uncommon",
+      "finish": "Cobalt Satin",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 510,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 10,
+      "rarity": "Uncommon",
+      "finish": "Patina Rose",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 511,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 11,
+      "rarity": "Uncommon",
+      "finish": "Azure Ceramic",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 512,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 12,
+      "rarity": "Uncommon",
+      "finish": "Smoked Jewel",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 513,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 13,
+      "rarity": "Uncommon",
+      "finish": "Warm Quartz",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 514,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 14,
+      "rarity": "Rare",
+      "finish": "Prism Sapphire",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 515,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 15,
+      "rarity": "Rare",
+      "finish": "Turquoise Alloy",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 516,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 16,
+      "rarity": "Rare",
+      "finish": "Moonstone Copper",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 517,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 17,
+      "rarity": "Rare",
+      "finish": "Obsidian Jewel",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 518,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 18,
+      "rarity": "Epic",
+      "finish": "Royal Opal",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 519,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 19,
+      "rarity": "Epic",
+      "finish": "Celestial Prism",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 520,
+      "identity_id": "N06-I01",
+      "building_type": "Residential",
+      "edition": 20,
+      "rarity": "Legendary",
+      "finish": "Sovereign Spectrum",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Oasis Residences",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Habitat",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Sultan's Skyhold",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 521,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 1,
+      "rarity": "Common",
+      "finish": "Sandstone",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 522,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 2,
+      "rarity": "Common",
+      "finish": "Sapphire",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 523,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 3,
+      "rarity": "Common",
+      "finish": "Turquoise",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 524,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 4,
+      "rarity": "Common",
+      "finish": "Rose Copper",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 525,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 5,
+      "rarity": "Common",
+      "finish": "Black Mirror",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 526,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 6,
+      "rarity": "Common",
+      "finish": "Desert Pearl",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 527,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 7,
+      "rarity": "Common",
+      "finish": "Dusk Glass",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 528,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 8,
+      "rarity": "Common",
+      "finish": "Oasis Slate",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 529,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 9,
+      "rarity": "Uncommon",
+      "finish": "Cobalt Satin",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 530,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 10,
+      "rarity": "Uncommon",
+      "finish": "Patina Rose",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 531,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 11,
+      "rarity": "Uncommon",
+      "finish": "Azure Ceramic",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 532,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 12,
+      "rarity": "Uncommon",
+      "finish": "Smoked Jewel",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 533,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 13,
+      "rarity": "Uncommon",
+      "finish": "Warm Quartz",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 534,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 14,
+      "rarity": "Rare",
+      "finish": "Prism Sapphire",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 535,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 15,
+      "rarity": "Rare",
+      "finish": "Turquoise Alloy",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 536,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 16,
+      "rarity": "Rare",
+      "finish": "Moonstone Copper",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 537,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 17,
+      "rarity": "Rare",
+      "finish": "Obsidian Jewel",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 538,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 18,
+      "rarity": "Epic",
+      "finish": "Royal Opal",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 539,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 19,
+      "rarity": "Epic",
+      "finish": "Celestial Prism",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 540,
+      "identity_id": "N06-I02",
+      "building_type": "Retail",
+      "edition": 20,
+      "rarity": "Legendary",
+      "finish": "Sovereign Spectrum",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Souk Plaza",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Jewel Galleria",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Infinite Caravanserai",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 541,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 1,
+      "rarity": "Common",
+      "finish": "Sandstone",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 542,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 2,
+      "rarity": "Common",
+      "finish": "Sapphire",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 543,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 3,
+      "rarity": "Common",
+      "finish": "Turquoise",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 544,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 4,
+      "rarity": "Common",
+      "finish": "Rose Copper",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 545,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 5,
+      "rarity": "Common",
+      "finish": "Black Mirror",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 546,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 6,
+      "rarity": "Common",
+      "finish": "Desert Pearl",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 547,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 7,
+      "rarity": "Common",
+      "finish": "Dusk Glass",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 548,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 8,
+      "rarity": "Common",
+      "finish": "Oasis Slate",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 549,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 9,
+      "rarity": "Uncommon",
+      "finish": "Cobalt Satin",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 550,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 10,
+      "rarity": "Uncommon",
+      "finish": "Patina Rose",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 551,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 11,
+      "rarity": "Uncommon",
+      "finish": "Azure Ceramic",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 552,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 12,
+      "rarity": "Uncommon",
+      "finish": "Smoked Jewel",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 553,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 13,
+      "rarity": "Uncommon",
+      "finish": "Warm Quartz",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 554,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 14,
+      "rarity": "Rare",
+      "finish": "Prism Sapphire",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 555,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 15,
+      "rarity": "Rare",
+      "finish": "Turquoise Alloy",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 556,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 16,
+      "rarity": "Rare",
+      "finish": "Moonstone Copper",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 557,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 17,
+      "rarity": "Rare",
+      "finish": "Obsidian Jewel",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 558,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 18,
+      "rarity": "Epic",
+      "finish": "Royal Opal",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 559,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 19,
+      "rarity": "Epic",
+      "finish": "Celestial Prism",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 560,
+      "identity_id": "N06-I03",
+      "building_type": "Technology",
+      "edition": 20,
+      "rarity": "Legendary",
+      "finish": "Sovereign Spectrum",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Prism Works",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Djinn Array",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Oracle Nexus",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 561,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 1,
+      "rarity": "Common",
+      "finish": "Sandstone",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 562,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 2,
+      "rarity": "Common",
+      "finish": "Sapphire",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 563,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 3,
+      "rarity": "Common",
+      "finish": "Turquoise",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 564,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 4,
+      "rarity": "Common",
+      "finish": "Rose Copper",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 565,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 5,
+      "rarity": "Common",
+      "finish": "Black Mirror",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 566,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 6,
+      "rarity": "Common",
+      "finish": "Desert Pearl",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 567,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 7,
+      "rarity": "Common",
+      "finish": "Dusk Glass",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 568,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 8,
+      "rarity": "Common",
+      "finish": "Oasis Slate",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 569,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 9,
+      "rarity": "Uncommon",
+      "finish": "Cobalt Satin",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 570,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 10,
+      "rarity": "Uncommon",
+      "finish": "Patina Rose",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 571,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 11,
+      "rarity": "Uncommon",
+      "finish": "Azure Ceramic",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 572,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 12,
+      "rarity": "Uncommon",
+      "finish": "Smoked Jewel",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 573,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 13,
+      "rarity": "Uncommon",
+      "finish": "Warm Quartz",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 574,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 14,
+      "rarity": "Rare",
+      "finish": "Prism Sapphire",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 575,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 15,
+      "rarity": "Rare",
+      "finish": "Turquoise Alloy",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 576,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 16,
+      "rarity": "Rare",
+      "finish": "Moonstone Copper",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 577,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 17,
+      "rarity": "Rare",
+      "finish": "Obsidian Jewel",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 578,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 18,
+      "rarity": "Epic",
+      "finish": "Royal Opal",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 579,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 19,
+      "rarity": "Epic",
+      "finish": "Celestial Prism",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 580,
+      "identity_id": "N06-I04",
+      "building_type": "Entertainment",
+      "edition": 20,
+      "rarity": "Legendary",
+      "finish": "Sovereign Spectrum",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Mooncourt Lounge",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Mirage Palace",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Celestial Riad",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 581,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 1,
+      "rarity": "Common",
+      "finish": "Sandstone",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 582,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 2,
+      "rarity": "Common",
+      "finish": "Sapphire",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 583,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 3,
+      "rarity": "Common",
+      "finish": "Turquoise",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 584,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 4,
+      "rarity": "Common",
+      "finish": "Rose Copper",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 585,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 5,
+      "rarity": "Common",
+      "finish": "Black Mirror",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 586,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 6,
+      "rarity": "Common",
+      "finish": "Desert Pearl",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 587,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 7,
+      "rarity": "Common",
+      "finish": "Dusk Glass",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 588,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 8,
+      "rarity": "Common",
+      "finish": "Oasis Slate",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 589,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 9,
+      "rarity": "Uncommon",
+      "finish": "Cobalt Satin",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 590,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 10,
+      "rarity": "Uncommon",
+      "finish": "Patina Rose",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 591,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 11,
+      "rarity": "Uncommon",
+      "finish": "Azure Ceramic",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 592,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 12,
+      "rarity": "Uncommon",
+      "finish": "Smoked Jewel",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 593,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 13,
+      "rarity": "Uncommon",
+      "finish": "Warm Quartz",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 594,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 14,
+      "rarity": "Rare",
+      "finish": "Prism Sapphire",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 595,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 15,
+      "rarity": "Rare",
+      "finish": "Turquoise Alloy",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 596,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 16,
+      "rarity": "Rare",
+      "finish": "Moonstone Copper",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 597,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 17,
+      "rarity": "Rare",
+      "finish": "Obsidian Jewel",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 598,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 18,
+      "rarity": "Epic",
+      "finish": "Royal Opal",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 599,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 19,
+      "rarity": "Epic",
+      "finish": "Celestial Prism",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "token_id": 600,
+      "identity_id": "N06-I05",
+      "building_type": "Landmark",
+      "edition": 20,
+      "rarity": "Legendary",
+      "finish": "Sovereign Spectrum",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Royal Minaret",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 2,
+          "name": "Sovereign Needle",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        },
+        {
+          "stage": 3,
+          "name": "Crown of Sand",
+          "render_status": "unproduced",
+          "image_uri": null,
+          "sha256": null
+        }
+      ]
+    }
+  ]
+}

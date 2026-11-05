@@ -363,3 +363,9 @@ Royal Mirage now has 15 of 15 selected base lineage candidates. These remain non
 
 Next bounded batch: Prepare `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` from the canonical registry and collection standards, then produce and inspect Foundry Flats / Riveted Habitat / Ironclad Arcology as the Residential lineage. Preserve Old World Steel identity separation, exact mounted names, complete framing, physical support and clear Stage I→II→III escalation.
 
+
+## Royal Mirage edition planning checkpoint — November 5, 2026
+
+Committed ROYAL_MIRAGE_EDITION_PLAN.json with 100 stable token records (501–600), 20 cosmetic finishes per identity and 300 explicitly unproduced stage-render slots. In-memory arithmetic checks verified unique token IDs, registry stage names, per-identity 8/5/4/2/1 rarity allocation and null release URIs/checksums. Finish choices are delegated production decisions. No artwork count or certification changed.
+
+Old World Steel production brief is already committed; do not recreate it. Exact next art action: Foundry Flats → Riveted Habitat → Ironclad Arcology. Local execution remains unavailable, preventing source-byte handling and image inspection in this run. When restored, produce that lineage; Royal Mirage edition renders can then use the committed finish plan after architectural masters are available. No deployment or wallet action occurred.
