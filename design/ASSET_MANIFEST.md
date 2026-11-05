@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **79**
+- Repository asset files: **83**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **93**
+- Non-Neon required stage masters without a selected lineage candidate: **90**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -19,7 +19,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Neon Heights | 15 | 15 | 0 | prototype-selected; final NFT export certification open |
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
-| Skygarden District | 15 | 0 | 0 | Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open |
+| Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | production not started |
 | Royal Mirage | 15 | 0 | 0 | production not started |
 | Old World Steel | 15 | 0 | 0 | production not started |
@@ -226,3 +226,22 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Celestial Conservatory | `assets/candidates/skygarden-district-celestial-conservatory-stage-3-v1.png` | 1024 × 1536 | 3,405,182 | `8178245c39c1c68891d16dd7f8f64e167bc2f2214855382a8a0f5874a317aad6` | `d5e52c499829ba6a79cfafcdb0fc3f5c9404fe9d` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, entertainment-function, support, controlled-garden, framing and stage-escalation review on their first generated versions.
+
+
+## Skygarden District Landmark selected candidates — November 4, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Garden Beacon | `assets/candidates/skygarden-district-garden-beacon-stage-1-v1.png` | 1024 × 1536 | 2,484,229 | `9dfd2ff920f7df4a374600f486b7cc8d048cef5948da42a7630aaa1b36d73268` | `9c1ac273179d44d8ec7fef5fe32243689adedd45` |
+| II | Worldtree Apex | `assets/candidates/skygarden-district-worldtree-apex-stage-2-v1.png` | 1024 × 1536 | 2,696,229 | `c849cae1a1421d8b81873ce71093716ec45a89fbf05a6fb2f469f97b7a3230d7` | `0b999def2a8808077a021343ee4f72ed980686ca` |
+| III | Crown of Eden | `assets/candidates/skygarden-district-crown-of-eden-stage-3-v1.png` | 1024 × 1536 | 3,103,424 | `91932735688409eb30438e1ec87c5cec1c6b31c302c825474cdcf7ab53e707f4` | `b8d2d2b71409a86bda4db128b46fdc5db476df29` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, civic-landmark function, support, framing and stage-escalation review on their first generated versions.
+
+## Skygarden District collection review evidence
+
+| Artifact | Dimensions | Bytes | SHA-256 | Git blob |
+|---|---|---:|---|---|
+| `assets/review/skygarden-district-collection-qa-v1.png` | 852 × 2630 | 988,370 | `fa4b095d19837d78626774239616a47afb5c4ffd57f5b60f575f04a2738290b3` | `9b05fbef0f0c4cfdd14e244cab9154cd13ab479b` |
+
+The equal-width 3×5 contact sheet covers all 15 base candidates. Collection-level results are recorded in `design/SKYGARDEN_DISTRICT_COLLECTION_QA.md`. Passing base-master QA does not mean editions, permanent URIs, metadata, prototype integration or final NFT certification are complete.

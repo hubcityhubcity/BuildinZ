@@ -75,4 +75,4 @@ Continuity anchors: branching pearl trunks, warm-wood core, emerald seed glass, 
 
 ## Exact next action
 
-Produce and inspect Garden Beacon / Worldtree Apex / Crown of Eden from the Landmark section of `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`. Preserve branching pearl trunks, warm-wood core, emerald seed glass, mint beacon line and sky-blue observation canopy; keep viewing rings, observation structures, complete bases and crowns physically supported and in frame.
+All 15 Skygarden District base lineage candidates now pass equal-width collection QA. Do not regenerate them unless a documented downstream integration or final-export gate fails. Prepare a canonical Velocity Row production brief from `COLLECTION_REGISTRY.json`, then produce and inspect Draftline Lofts / Slipstream Habitat / Mach Horizon as its first Residential lineage. Preserve racing-red, cobalt, white, gunmetal and amber separation with aerodynamic forms, track lighting, cantilevered motion lines, complete bases/crowns and supported sky structures.

@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District Residential/Retail/Technology/Entertainment have 12 selected candidates; 93 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; 90 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce and inspect Garden Beacon / Worldtree Apex / Crown of Eden from the Landmark section of `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`. Preserve branching pearl trunks, warm-wood core, emerald seed glass, mint beacon line and sky-blue observation canopy; keep viewing rings, observation structures, complete bases and crowns physically supported and in frame.
+Prepare a canonical Velocity Row production brief from `COLLECTION_REGISTRY.json`, then produce and inspect Draftline Lofts / Slipstream Habitat / Mach Horizon as its first Residential lineage. Preserve racing-red, cobalt, white, gunmetal and amber separation with aerodynamic forms, track lighting, cantilevered motion lines, complete bases/crowns and supported sky structures.

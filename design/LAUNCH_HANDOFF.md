@@ -278,3 +278,12 @@ Integrity evidence is recorded in `design/SKYGARDEN_DISTRICT_TECHNOLOGY_ART_HAND
 Generated and visually inspected Terrace Hall, Petal Pavilion and Celestial Conservatory as Skygarden District's fourth complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, petal roofs, warm-wood acoustic fins, pearl supports, emerald/sky-blue glass, controlled garden foyers, complete bases/crowns and clear escalation from intimate hall to layered pavilion to a monumental multi-hall conservatory.
 
 Integrity evidence is recorded in `design/SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Skygarden District Landmark — Garden Beacon → Worldtree Apex → Crown of Eden.
+
+
+## Skygarden District Landmark and collection-QA checkpoint — November 4, 2026
+
+Generated and visually inspected Garden Beacon, Worldtree Apex and Crown of Eden as Skygarden District's fifth complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, branching pearl trunks, warm-wood cores, emerald seed glass, supported sky-blue observation structures, complete ceremonial bases/crowns and clear escalation from slender beacon to skyline-defining multilevel sky garden.
+
+A deterministic equal-width 3×5 contact sheet was generated and visually inspected across all 15 Skygarden candidates. Exact names, five-function separation, district continuity, support logic, full framing and stage escalation pass. Evidence is in `design/SKYGARDEN_DISTRICT_LANDMARK_ART_HANDOFF.md`, `design/SKYGARDEN_DISTRICT_COLLECTION_QA.md` and the consolidated manifest.
+
+These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: prepare Velocity Row's production brief and produce Draftline Lofts → Slipstream Habitat → Mach Horizon.

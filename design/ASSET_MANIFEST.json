@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "a0319ab8496e7662935e255a5184e2caee9e0d7f",
+  "repository_commit": "46023759930c7ea9448c693387f4eb1fb6aa3215",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 79,
+    "asset_files": 83,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 42
+    "lineage_selected_candidate_stage_assets": 45
   },
   "production_matrix": [
     {
@@ -54,9 +54,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open",
+      "status": "15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 12
+      "selected_candidate_stage_assets": 15
     },
     {
       "neighborhood_id": 4,
@@ -1535,6 +1535,82 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central auditorium plus two side halls, many supported audience balconies, elevated garden foyers, short supported glazed bridges, luminous flower crown and complete ceremonial base. Integrity recorded in SKYGARDEN_DISTRICT_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-garden-beacon-stage-1-v1.png",
+      "bytes": 2484229,
+      "git_blob_sha": "9c1ac273179d44d8ec7fef5fe32243689adedd45",
+      "sha256": "9dfd2ff920f7df4a374600f486b7cc8d048cef5948da42a7630aaa1b36d73268",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Garden Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, slender freestanding monument, branching pearl trunks, warm-wood core, emerald seed lantern, supported viewing ring and canopy, mint beacon line and complete pedestal/crown. Integrity recorded in SKYGARDEN_DISTRICT_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-worldtree-apex-stage-2-v1.png",
+      "bytes": 2696229,
+      "git_blob_sha": "0b999def2a8808077a021343ee4f72ed980686ca",
+      "sha256": "c849cae1a1421d8b81873ce71093716ec45a89fbf05a6fb2f469f97b7a3230d7",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Worldtree Apex",
+      "stage": 2,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller freestanding tree monument, two supported viewing rings, broad supported blue canopy, branch fins, visible observation circulation, stronger beacon and complete base/crown. Integrity recorded in SKYGARDEN_DISTRICT_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/skygarden-district-crown-of-eden-stage-3-v1.png",
+      "bytes": 3103424,
+      "git_blob_sha": "b8d2d2b71409a86bda4db128b46fdc5db476df29",
+      "sha256": "91932735688409eb30438e1ec87c5cec1c6b31c302c825474cdcf7ab53e707f4",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Skygarden District",
+      "identity_name": "Crown of Eden",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, multi-trunk civic monument, enormous supported multilevel sky garden, layered blue canopy crown, multiple supported viewing rings and bridges, powerful beacon and expanded ceremonial base. Integrity recorded in SKYGARDEN_DISTRICT_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/review/skygarden-district-collection-qa-v1.png",
+      "bytes": 988370,
+      "git_blob_sha": "9b05fbef0f0c4cfdd14e244cab9154cd13ab479b",
+      "sha256": "fa4b095d19837d78626774239616a47afb5c4ffd57f5b60f575f04a2738290b3",
+      "dimensions": {
+        "width": 852,
+        "height": 2630
+      },
+      "classification": "review-evidence",
+      "neighborhood": "Skygarden District",
+      "identity_name": null,
+      "stage": null,
+      "building_type": null,
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Deterministic equal-width 3-column by 5-row contact sheet for all 15 Skygarden lineage candidates. Visually inspected for exact names, function separation, palette continuity, framing and stage escalation; conclusions recorded in SKYGARDEN_DISTRICT_COLLECTION_QA.md."
     }
   ]
 }
