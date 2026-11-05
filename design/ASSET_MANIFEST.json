@@ -5,13 +5,13 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 115,
+    "asset_files": 116,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 75
+    "lineage_selected_candidate_stage_assets": 76
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "production not started",
+      "status": "Foundry Flats Stage I selected after visual inspection; remaining 14 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 0
+      "selected_candidate_stage_assets": 1
     },
     {
       "neighborhood_id": 7,
@@ -2215,7 +2215,25 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Deterministic equal-width 3-column by 5-row contact sheet for all 15 Skygarden lineage candidates. Visually inspected for exact names, function separation, palette continuity, framing and stage escalation; conclusions recorded in SKYGARDEN_DISTRICT_COLLECTION_QA.md."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-foundry-flats-stage-1-v1.png",
+      "bytes": 3375086,
+      "git_blob_sha": "bf64968b01e3d930a4e070a574e40b2bb487eb39",
+      "sha256": "9fb407d28c07bb7f2cea9c7fdb0fe17743e2ff1164aefdd0fc50e156e519d991",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Foundry Flats",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual generated output visually inspected: exact mounted name; six-level brick apartments, riveted iron trusses, copper sawtooth roof, private rooftop plunge pool, complete base/roof; handoff records provenance."
     }
   ]
 }
-
