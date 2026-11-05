@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **89**
+- Repository asset files: **92**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **84**
+- Non-Neon required stage masters without a selected lineage candidate: **81**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -20,7 +20,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Velocity Row | 15 | 0 | 0 | Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open |
+| Velocity Row | 15 | 0 | 0 | Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open |
 | Royal Mirage | 15 | 0 | 0 | production not started |
 | Old World Steel | 15 | 0 | 0 | production not started |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
@@ -267,3 +267,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Velocity Exchange | `assets/candidates/velocity-row-velocity-exchange-stage-3-v1.png` | 1024 × 1536 | 3,282,142 | `cb421789f2f27692dd84fe3c54de81e3832b1c5176bf62a7abb6eb66a4f46867` | `7975f78a6eb1fd1bd3196a318f9e0c05905b7473` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, retail-function, palette, support, framing and stage-escalation review on their first generated versions.
+
+
+## Velocity Row Technology selected candidates — November 5, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Vector Works | `assets/candidates/velocity-row-vector-works-stage-1-v1.png` | 1024 × 1536 | 2,939,535 | `d524affcd30a9a32028bb1efdeed81aefc39ebb180ad4d2f670a12bbf30fad82` | `f5703d32484879d040a17b59069c89e8aec01bbe` |
+| II | Quantum Garage | `assets/candidates/velocity-row-quantum-garage-stage-2-v1.png` | 1024 × 1536 | 3,041,249 | `70019e8edb7de78dc2a76f0177495a4af8c9a192a8d4c80faf766e1ece7dab4e` | `58a8b1f29d970a84b196d6cace1568a4e21106ab` |
+| III | Hyperdrive Nexus | `assets/candidates/velocity-row-hyperdrive-nexus-stage-3-v1.png` | 1024 × 1536 | 3,154,841 | `b030b309df7b04df0762b9e7ed25763bf1d7c67f9fc659f48852c40f72e96edb` | `64839c1230748139593648c5f4eecf3e1b75c9b5` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, engineering-research function, palette, support, framing and stage-escalation review on their first generated versions.

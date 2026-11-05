@@ -76,4 +76,4 @@ Continuity anchors: white/gunmetal mast, racing-red velocity spine, cobalt canop
 
 ## Exact next action
 
-Produce and inspect Vector Works / Quantum Garage / Hyperdrive Nexus from the Technology section of `VELOCITY_ROW_PRODUCTION_BRIEF.md`. Preserve gunmetal engineering frames, white shells, cobalt test glass, racing-red service loops and amber diagnostics; keep prototype bays, supported test decks/bridges, complete bases and crowns in frame.
+Produce and inspect Rush Arena / Overtake Pavilion / Redline Coliseum from the Entertainment section of `VELOCITY_ROW_PRODUCTION_BRIEF.md`. Preserve banked white shells, red seating/ribbons, cobalt concourse glass, gunmetal trusses and amber event lights; keep ceremonial entries, supported spectator decks/bridges, complete bases and crowns in frame.

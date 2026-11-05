@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "20f5ec7faca42cbf24cc63b47523a291e25609ca",
+  "repository_commit": "515967d8cf04d8629b3cf76448049a1d0c83f5ac",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 89,
+    "asset_files": 92,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 51
+    "lineage_selected_candidate_stage_assets": 54
   },
   "production_matrix": [
     {
@@ -65,9 +65,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open",
+      "status": "Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 6
+      "selected_candidate_stage_assets": 9
     },
     {
       "neighborhood_id": 5,
@@ -1725,6 +1725,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, nine-plus visible retail levels, stacked atria, supported market bridges, express glass lifts, escalators, storefronts, turbine-ring crown and complete public base. Integrity recorded in VELOCITY_ROW_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-vector-works-stage-1-v1.png",
+      "bytes": 2939535,
+      "git_blob_sha": "f5703d32484879d040a17b59069c89e8aec01bbe",
+      "sha256": "d524affcd30a9a32028bb1efdeed81aefc39ebb180ad4d2f670a12bbf30fad82",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Vector Works",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, compact secured mobility-research works, sealed cobalt prototype bay, robotics/wind-tunnel rig, gunmetal frame, white shell, red service loops, tied fins, amber diagnostics and complete base/crown. Integrity recorded in VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-quantum-garage-stage-2-v1.png",
+      "bytes": 3041249,
+      "git_blob_sha": "58a8b1f29d970a84b196d6cace1568a4e21106ab",
+      "sha256": "70019e8edb7de78dc2a76f0177495a4af8c9a192a8d4c80faf766e1ece7dab4e",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Quantum Garage",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, tall secured research tower, stacked sealed prototype bays, robotics and wind-tunnel equipment, supported test decks, supported analysis bridge, red service loops and complete base/crown. Integrity recorded in VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-hyperdrive-nexus-stage-3-v1.png",
+      "bytes": 3154841,
+      "git_blob_sha": "64839c1230748139593648c5f4eecf3e1b75c9b5",
+      "sha256": "b030b309df7b04df0762b9e7ed25763bf1d7c67f9fc659f48852c40f72e96edb",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Hyperdrive Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant research tower plus two side labs, luminous central test spine, supported research bridges and test-ring decks, robotics bays, kinetic turbine crown and complete secure base. Integrity recorded in VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md."
     }
   ]
 }
