@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-05",
-  "repository_commit": "062577d6762293d92f3ac283a3372d175d823c79",
+  "repository_commit": "92303b738678247bd0fc108d8d3202a549fb6f42",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 108,
+    "asset_files": 111,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 69
+    "lineage_selected_candidate_stage_assets": 72
   },
   "production_matrix": [
     {
@@ -76,9 +76,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open",
+      "status": "Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 9
+      "selected_candidate_stage_assets": 12
     },
     {
       "neighborhood_id": 6,
@@ -2086,6 +2086,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central tower plus two distinct side labs, central data-light core, supported research bridges/terraces, visible robotics, complete secure base and full array crown. Integrity recorded in ROYAL_MIRAGE_TECHNOLOGY_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-mooncourt-lounge-stage-1-v1.png",
+      "bytes": 3365715,
+      "git_blob_sha": "3cf8f7a41850dfa8a419c1fd1ad060509a90a769",
+      "sha256": "df3b1952f8e70e2b4b3559c3d6cb6150baafcbfb1a887f53c3e71adaa167361f",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Mooncourt Lounge",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, visible stage/instruments, audience seating, public foyer, dry moonlit courtyard, complete approach/canopy and no residential or pool ambiguity. Integrity recorded in ROYAL_MIRAGE_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-mirage-palace-stage-2-v1.png",
+      "bytes": 3644604,
+      "git_blob_sha": "b1f251cfb2f935c92dd0869d8bbe28b44f2ea6e7",
+      "sha256": "b3ccae1c7ca6e69e14ea3162f1b5a5db1458a3b2a96e7e3990e4338756764176",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Mirage Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, central theatre plus two side performance halls, visible stages/seating, supported audience balconies, complete dry courtyard/base and jewel crown. Integrity recorded in ROYAL_MIRAGE_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/royal-mirage-celestial-riad-stage-3-v1.png",
+      "bytes": 3731081,
+      "git_blob_sha": "0f45c763bc1b30cab2c9b227618e20780297eb05",
+      "sha256": "14a0441f60d05decd66c7f1734312fec53b7600c1090cb56a2be2691fbee6ad6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Royal Mirage",
+      "identity_name": "Celestial Riad",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, grand central performance court plus two visible side courts, stages/seating, supported multi-tier galleries and attached audience bridges, complete approach and full star-lit crown. Integrity recorded in ROYAL_MIRAGE_ENTERTAINMENT_ART_HANDOFF.md."
     }
   ]
 }

@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 5, 2026 (America/Chicago) against repository commit `062577d6762293d92f3ac283a3372d175d823c79`.
+Recorded November 5, 2026 (America/Chicago) against repository commit `92303b738678247bd0fc108d8d3202a549fb6f42`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **108**
+- Repository asset files: **111**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **66**
+- Non-Neon required stage masters without a selected lineage candidate: **63**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -21,7 +21,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Royal Mirage | 15 | 0 | 0 | Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open |
+| Royal Mirage | 15 | 0 | 0 | Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open |
 | Old World Steel | 15 | 0 | 0 | production not started |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
@@ -334,3 +334,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Oracle Nexus | `assets/candidates/royal-mirage-oracle-nexus-stage-3-v1.png` | 1024 × 1536 | 3,428,795 | `5f6cb1517be2c25273d9d8d75e73ece8744d2cbd7b6f29a3ec24ae07e5a33b49` | `5d8821e34ace0a513a39efa44b14bfeb44b86d15` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three passed exact-name, research-function, palette, physical-support, framing, no-mystical-imagery and stage-escalation review.
+
+
+## Royal Mirage Entertainment selected candidates — November 5, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Mooncourt Lounge | `assets/candidates/royal-mirage-mooncourt-lounge-stage-1-v1.png` | 1024 × 1536 | 3,365,715 | `df3b1952f8e70e2b4b3559c3d6cb6150baafcbfb1a887f53c3e71adaa167361f` | `3cf8f7a41850dfa8a419c1fd1ad060509a90a769` |
+| II | Mirage Palace | `assets/candidates/royal-mirage-mirage-palace-stage-2-v1.png` | 1024 × 1536 | 3,644,604 | `b3ccae1c7ca6e69e14ea3162f1b5a5db1458a3b2a96e7e3990e4338756764176` | `b1f251cfb2f935c92dd0869d8bbe28b44f2ea6e7` |
+| III | Celestial Riad | `assets/candidates/royal-mirage-celestial-riad-stage-3-v1.png` | 1024 × 1536 | 3,731,081 | `14a0441f60d05decd66c7f1734312fec53b7600c1090cb56a2be2691fbee6ad6` | `0f45c763bc1b30cab2c9b227618e20780297eb05` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three passed exact-name, visible-performance-function, palette, physical-support, framing, no-residential-ambiguity and stage-escalation review.

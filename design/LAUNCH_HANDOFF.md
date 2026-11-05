@@ -347,3 +347,10 @@ Integrity evidence is recorded in `design/ROYAL_MIRAGE_RETAIL_ART_HANDOFF.md` an
 Generated and visually inspected Prism Works, Djinn Array and Oracle Nexus as Royal Mirage's third complete lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, mirrored-black research frames, sand faceted shells, sapphire test chambers, turquoise diagnostics, rose-gold conduits, visible robotics/optics programs, complete secure bases/crowns and clear progression from compact works to sensor-array tower to a multi-laboratory predictive-computing citadel. Elevated terraces and bridges are supported; no retail or mystical-character ambiguity appears.
 
 Integrity evidence is recorded in `design/ROYAL_MIRAGE_TECHNOLOGY_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only; final NFT certification is open. Next bounded batch: Mooncourt Lounge → Mirage Palace → Celestial Riad.
+
+
+## Royal Mirage Entertainment checkpoint — November 5, 2026
+
+Generated and visually inspected Mooncourt Lounge, Mirage Palace and Celestial Riad as Royal Mirage's fourth complete lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, moonlit dry courtyards, sapphire performance glass, turquoise lighting, rose-gold screens, mirrored-black trusses, visible stages/seating, complete approaches/crowns and clear escalation from intimate lounge to multi-hall palace to a monumental three-court performance riad. Balconies, galleries and bridges are supported; no residential, hotel or pool ambiguity appears.
+
+Integrity evidence is recorded in `design/ROYAL_MIRAGE_ENTERTAINMENT_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only; final NFT certification is open. Next bounded batch: Royal Minaret → Sovereign Needle → Crown of Sand.

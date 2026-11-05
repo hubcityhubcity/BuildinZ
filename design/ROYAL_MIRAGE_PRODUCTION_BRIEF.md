@@ -82,4 +82,4 @@ Continuity anchors: sand/rose-gold mast, mirrored-black needle, sapphire/turquoi
 
 ## Exact next action
 
-Produce and inspect Mooncourt Lounge / Mirage Palace / Celestial Riad from the Entertainment section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve moonlit dry courtyards, sapphire performance glass, turquoise light, rose-gold screens, mirrored-black trusses and visible public performance functions; keep stages/seating, complete approaches/crowns and every balcony, gallery or bridge physically supported.
+Produce and inspect Royal Minaret / Sovereign Needle / Crown of Sand from the Landmark section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve sand/rose-gold masts, mirrored-black needles, sapphire/turquoise observation glass and attached wind-swept fins; keep observation rings/bridges, complete ceremonial bases and highest crowns physically supported and in frame.
