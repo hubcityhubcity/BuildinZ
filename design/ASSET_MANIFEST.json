@@ -5,13 +5,13 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 116,
+    "asset_files": 117,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 76
+    "lineage_selected_candidate_stage_assets": 77
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Foundry Flats Stage I selected after visual inspection; remaining 14 stage candidates and final certification open",
+      "status": "Residential Stages I and II selected; 13 stage candidates and final certification remain open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 1
+      "selected_candidate_stage_assets": 2
     },
     {
       "neighborhood_id": 7,
@@ -2234,6 +2234,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual generated output visually inspected: exact mounted name; six-level brick apartments, riveted iron trusses, copper sawtooth roof, private rooftop plunge pool, complete base/roof; handoff records provenance."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-riveted-habitat-stage-2-v1.png",
+      "bytes": 3367477,
+      "git_blob_sha": "d3cfc9a8193c2c9c311687c0d8ead8658d9822f0",
+      "sha256": "8c572efb0d564b93317d96b005efa11ed0c17fef35c490fde3d6c4a9656727fb",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Riveted Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Generated using Foundry Flats reference; actual output inspected for exact signage, twin tall apartment towers, truss-supported private sky lounge and elevated pool, full roof/base and material continuity."
     }
   ]
 }
