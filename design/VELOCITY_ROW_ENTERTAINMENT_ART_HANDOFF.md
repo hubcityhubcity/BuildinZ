@@ -16,9 +16,9 @@ Building type remains **Entertainment** across all stages.
 
 | Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
 |---:|---|---|---|---:|---|---|
-| I | Rush Arena | `assets/candidates/velocity-row-rush-arena-stage-1-v1.png` | 1024 × 1536 RGB PNG | 3,066,253 | `da85f3103dd40ebf0cce923dc1581054b0c83b308d084efc690c59120a064e46` | `52387b33b0781affc2a8af374f3f33a649b5f76e` |
-| II | Overtake Pavilion | `assets/candidates/velocity-row-overtake-pavilion-stage-2-v1.png` | 1024 × 1536 RGB PNG | 3,115,327 | `177ba80a3b4dc0a2bc5c05820ef8e4e498310932aad7b7f79a09df37ca9aeef3` | `ea53bdfce139c147bb3c7736e3a74ff6dbc251d8` |
-| III | Redline Coliseum | `assets/candidates/velocity-row-redline-coliseum-stage-3-v1.png` | 1024 × 1536 RGB PNG | 3,378,866 | `cdbd3547c9ef4ef039211ae58509612f053df93adaf890938cc160c1a9e10eb7` | `d6afde9747b1dd3f728fc206a76c75c1ee93abdf` |
+| I | Rush Arena | `assets/candidates/velocity-row-rush-arena-stage-1-v1.png` | 1024 × 1536 RGB PNG | 3,066,253 | `da85f3103dd40ebf0cce923dc1581054b0c83b308d084efc690c59120a064e46` | `8ea313520565fefe33e2d97c89a3673194c81d71` |
+| II | Overtake Pavilion | `assets/candidates/velocity-row-overtake-pavilion-stage-2-v1.png` | 1024 × 1536 RGB PNG | 3,115,327 | `177ba80a3b4dc0a2bc5c05820ef8e4e498310932aad7b7f79a09df37ca9aeef3` | `4cb7c0188265bfb827cd3b8d1f2f42d03deb352b` |
+| III | Redline Coliseum | `assets/candidates/velocity-row-redline-coliseum-stage-3-v1.png` | 1024 × 1536 RGB PNG | 3,378,866 | `cdbd3547c9ef4ef039211ae58509612f053df93adaf890938cc160c1a9e10eb7` | `9f512ab9bf087f71ffb3ef053ab0e5e93b31e2d9` |
 
 ## Visual inspection evidence
 
