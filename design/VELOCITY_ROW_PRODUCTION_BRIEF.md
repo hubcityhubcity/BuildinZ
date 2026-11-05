@@ -76,4 +76,4 @@ Continuity anchors: white/gunmetal mast, racing-red velocity spine, cobalt canop
 
 ## Exact next action
 
-Produce and inspect Pitlane Plaza / Turbo Galleria / Velocity Exchange from the Retail section of `VELOCITY_ROW_PRODUCTION_BRIEF.md`. Preserve white aero shells, racing-red circulation ribbons, cobalt storefront glass, gunmetal service structure and amber track lights; keep retail entries, supported gallery crossings, complete bases and crowns in frame.
+Produce and inspect Vector Works / Quantum Garage / Hyperdrive Nexus from the Technology section of `VELOCITY_ROW_PRODUCTION_BRIEF.md`. Preserve gunmetal engineering frames, white shells, cobalt test glass, racing-red service loops and amber diagnostics; keep prototype bays, supported test decks/bridges, complete bases and crowns in frame.

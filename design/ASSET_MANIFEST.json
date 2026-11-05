@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-04",
-  "repository_commit": "1f5de23696f2891bb5ebd0e78d3a1325e55f0e8e",
+  "repository_commit": "20f5ec7faca42cbf24cc63b47523a291e25609ca",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 86,
+    "asset_files": 89,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 48
+    "lineage_selected_candidate_stage_assets": 51
   },
   "production_matrix": [
     {
@@ -65,9 +65,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential lineage has 3 visually inspected selected candidates; remaining 12 stage masters and final certification open",
+      "status": "Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 3
+      "selected_candidate_stage_assets": 6
     },
     {
       "neighborhood_id": 5,
@@ -1668,6 +1668,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, dominant central plus two side residential towers, multiple short supported resident bridges, upper private zones, turbine crown, tied-back fins and complete base/crown. Integrity recorded in VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-pitlane-plaza-stage-1-v1.png",
+      "bytes": 3088067,
+      "git_blob_sha": "e95f00041f2d2e94cfea12f6d0eb4a9a6b2b2c2d",
+      "sha256": "1db019fa8ef0df571970bd13829ce0ac11feec5ca7eda068e1a98a66061e6824",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Pitlane Plaza",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, low open-air retail concourse, visible storefronts and food counters, wide pedestrian pitlane, supported banked canopy, red circulation ribbons and complete approach/roof framing. Integrity recorded in VELOCITY_ROW_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-turbo-galleria-stage-2-v1.png",
+      "bytes": 3083202,
+      "git_blob_sha": "b12c7b9e737e33a3b37932d35c8e88c0cc58d3b4",
+      "sha256": "c46f9504b1474bbbbf67bece0133d536bb47f0c06dddeb01b86517afeca3f309",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Turbo Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, multi-level retail atrium, many visible shops, escalators, several supported gallery crossings, layered aero roof and complete approach/crown. Integrity recorded in VELOCITY_ROW_RETAIL_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-velocity-exchange-stage-3-v1.png",
+      "bytes": 3282142,
+      "git_blob_sha": "7975f78a6eb1fd1bd3196a318f9e0c05905b7473",
+      "sha256": "cb421789f2f27692dd84fe3c54de81e3832b1c5176bf62a7abb6eb66a4f46867",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Velocity Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, nine-plus visible retail levels, stacked atria, supported market bridges, express glass lifts, escalators, storefronts, turbine-ring crown and complete public base. Integrity recorded in VELOCITY_ROW_RETAIL_ART_HANDOFF.md."
     }
   ]
 }

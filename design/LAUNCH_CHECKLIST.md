@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row Residential has 3 selected candidates; 87 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row Residential/Retail have 6 selected candidates; 84 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce and inspect Pitlane Plaza / Turbo Galleria / Velocity Exchange from the Retail section of `VELOCITY_ROW_PRODUCTION_BRIEF.md`. Preserve white aero shells, racing-red circulation ribbons, cobalt storefront glass, gunmetal service structure and amber track lights; keep retail entries, supported gallery crossings, complete bases and crowns in frame.
+Produce and inspect Vector Works / Quantum Garage / Hyperdrive Nexus from the Technology section of `VELOCITY_ROW_PRODUCTION_BRIEF.md`. Preserve gunmetal engineering frames, white shells, cobalt test glass, racing-red service loops and amber diagnostics; keep prototype bays, supported test decks/bridges, complete bases and crowns in frame.

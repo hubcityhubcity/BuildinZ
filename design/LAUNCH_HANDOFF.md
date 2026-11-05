@@ -296,3 +296,10 @@ Committed `design/VELOCITY_ROW_PRODUCTION_BRIEF.md` from the canonical registry.
 Generated and visually inspected Draftline Lofts, Slipstream Habitat and Mach Horizon as Velocity Row's first complete lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, white aero exoshells, racing-red motion bands, cobalt residential glass, gunmetal rails, amber track lights, supported motion fins and clear escalation from compact two-wing lofts to twin towers with a private sky lounge to a three-tower habitat with multiple supported resident connections and a turbine crown.
 
 Integrity evidence is recorded in `design/VELOCITY_ROW_RESIDENTIAL_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Velocity Row Retail — Pitlane Plaza → Turbo Galleria → Velocity Exchange.
+
+
+## Velocity Row Retail lineage checkpoint — November 5, 2026
+
+Generated and visually inspected Pitlane Plaza, Turbo Galleria and Velocity Exchange as Velocity Row's second complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, white aero shells, racing-red circulation ribbons, cobalt storefront glass, gunmetal supports, amber lane lights, complete approaches/crowns and clear escalation from open-air shopping concourse to multi-level galleria to a nine-plus-level vertical exchange.
+
+Integrity evidence is recorded in `design/VELOCITY_ROW_RETAIL_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Velocity Row Technology — Vector Works → Quantum Garage → Hyperdrive Nexus.
