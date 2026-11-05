@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 5, 2026 (America/Chicago) against repository commit `748b65df19f4c90463bc669fb184ad1ec8bcc1eb`.
+Recorded November 5, 2026 (America/Chicago) against repository commit `062577d6762293d92f3ac283a3372d175d823c79`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **105**
+- Repository asset files: **108**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **69**
+- Non-Neon required stage masters without a selected lineage candidate: **66**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -21,7 +21,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Royal Mirage | 15 | 0 | 0 | Residential and Retail lineages have 6 visually inspected selected candidates; remaining 9 stage masters and final certification open |
+| Royal Mirage | 15 | 0 | 0 | Residential, Retail and Technology lineages have 9 visually inspected selected candidates; remaining 6 stage masters and final certification open |
 | Old World Steel | 15 | 0 | 0 | production not started |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
@@ -323,3 +323,14 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Infinite Caravanserai | `assets/candidates/royal-mirage-infinite-caravanserai-stage-3-v1.png` | 1024 × 1536 | 3,730,554 | `5fc001208399e9411d8d52d638664724a47ecf6d3afa9342f67287efa5fb6aaa` | `c42d0d5910d9e18e8b34e4a5862bf8d97161f4a7` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three passed exact-name, public-retail-function, palette, circulation, support, framing and stage-escalation review.
+
+
+## Royal Mirage Technology selected candidates — November 5, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Prism Works | `assets/candidates/royal-mirage-prism-works-stage-1-v1.png` | 1024 × 1536 | 3,187,613 | `a42368032c892b0ed3d7527895b875aafef30cbd910bcdc9c8da6f021eae464b` | `c011e406cc578640dbb675c2941fe30f202739e2` |
+| II | Djinn Array | `assets/candidates/royal-mirage-djinn-array-stage-2-v1.png` | 1024 × 1536 | 3,198,607 | `7fc343f17bed4022b5ed75917ad1620ef4d58e5282e36fcc3e05ff8c78e7e45c` | `b196553b7979e91a8bb49aa791ba2e1f390d2b00` |
+| III | Oracle Nexus | `assets/candidates/royal-mirage-oracle-nexus-stage-3-v1.png` | 1024 × 1536 | 3,428,795 | `5f6cb1517be2c25273d9d8d75e73ece8744d2cbd7b6f29a3ec24ae07e5a33b49` | `5d8821e34ace0a513a39efa44b14bfeb44b86d15` |
+
+Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three passed exact-name, research-function, palette, physical-support, framing, no-mystical-imagery and stage-escalation review.

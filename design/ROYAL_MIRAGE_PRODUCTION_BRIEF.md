@@ -82,4 +82,4 @@ Continuity anchors: sand/rose-gold mast, mirrored-black needle, sapphire/turquoi
 
 ## Exact next action
 
-Produce and inspect Prism Works / Djinn Array / Oracle Nexus from the Technology section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve mirrored-black research frames, sand shells, sapphire prism chambers, turquoise diagnostics and restrained rose-gold conduits; keep clean-room/test programs visible, secure bases/crowns complete and every research bridge or sensor terrace physically supported.
+Produce and inspect Mooncourt Lounge / Mirage Palace / Celestial Riad from the Entertainment section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve moonlit dry courtyards, sapphire performance glass, turquoise light, rose-gold screens, mirrored-black trusses and visible public performance functions; keep stages/seating, complete approaches/crowns and every balcony, gallery or bridge physically supported.

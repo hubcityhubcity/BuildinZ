@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row has 15 base lineage candidates passing equal-width collection QA; Royal Mirage Residential/Retail have 6 selected candidates; 69 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row has 15 base lineage candidates passing equal-width collection QA; Royal Mirage Residential/Retail/Technology have 9 selected candidates; 66 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce and inspect Prism Works / Djinn Array / Oracle Nexus from the Technology section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve mirrored-black research frames, sand shells, sapphire prism chambers, turquoise diagnostics and restrained rose-gold conduits; keep clean-room/test programs visible, secure bases/crowns complete and every research bridge or sensor terrace physically supported.
+Produce and inspect Mooncourt Lounge / Mirage Palace / Celestial Riad from the Entertainment section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve moonlit dry courtyards, sapphire performance glass, turquoise light, rose-gold screens, mirrored-black trusses and visible public performance functions; keep stages/seating, complete approaches/crowns and every balcony, gallery or bridge physically supported.
