@@ -76,4 +76,4 @@ Continuity anchors: white/gunmetal mast, racing-red velocity spine, cobalt canop
 
 ## Exact next action
 
-Produce and inspect Pole Beacon / Apex Tower / Crown of Speed from the Landmark section of `VELOCITY_ROW_PRODUCTION_BRIEF.md`. Preserve white/gunmetal mast, racing-red velocity spine, cobalt canopy glass, amber beacon rings and tied-back aero fins; keep observation rings/bridges, complete bases and crowns physically supported and in frame.
+Prepare `ROYAL_MIRAGE_PRODUCTION_BRIEF.md` from the canonical registry and collection standards, then produce and inspect Oasis Residences / Mirage Habitat / Sultan's Skyhold as the Residential lineage. Preserve Royal Mirage identity separation, exact mounted names, complete framing, physical support and clear Stage I→II→III escalation.

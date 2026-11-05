@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 5, 2026 (America/Chicago) against repository commit `e229ecc10214e3b5564a39e113cf39bb5b325286`.
+Recorded November 5, 2026 (America/Chicago) against repository commit `01dbb97f5144778344abc1d27c603101f7eb9b7a`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **95**
+- Repository asset files: **99**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **78**
+- Non-Neon required stage masters without a selected lineage candidate: **75**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -20,7 +20,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Golden Crest | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; 300 edition-stage renders, release manifest and final certification remain open |
 | Shadow Market | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; deterministic 20-finish edition plan validated; 300 edition-stage renders, release manifest and final certification remain open |
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Velocity Row | 15 | 0 | 0 | Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open |
+| Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | production not started |
 | Old World Steel | 15 | 0 | 0 | production not started |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
@@ -289,3 +289,15 @@ Delegated lineage candidates only. They are not prototype-integrated, edition va
 | III | Redline Coliseum | `assets/candidates/velocity-row-redline-coliseum-stage-3-v1.png` | 1024 × 1536 | 3,378,866 | `cdbd3547c9ef4ef039211ae58509612f053df93adaf890938cc160c1a9e10eb7` | `9f512ab9bf087f71ffb3ef053ab0e5e93b31e2d9` |
 
 Delegated lineage candidates only. They are not prototype-integrated, edition variants, or final NFT-certified. All three outputs passed exact-name, live-event function, palette, physical-support, framing and stage-escalation review on their first generated versions.
+
+
+## Velocity Row Landmark selected candidates and collection QA — November 5, 2026
+
+| Stage | Canonical name | Path | Dimensions | Bytes | SHA-256 | Git blob |
+|---:|---|---|---|---:|---|---|
+| I | Pole Beacon | `assets/candidates/velocity-row-pole-beacon-stage-1-v1.png` | 1024 × 1536 | 2,441,786 | `3608433eebe352062788a8f01127045d59d5865fed6248cedc8c2304c063a2d6` | `a0accf7d3239ae16f4a1036ea0449de894fd54f3` |
+| II | Apex Tower | `assets/candidates/velocity-row-apex-tower-stage-2-v1.png` | 1024 × 1536 | 2,556,412 | `f17b0431c7096740e4fcbe9e6e8c1ce7ddf80d87558ee4a788de0e4feb195157` | `abf98c05cff7a72b725a267d7e1926d255557762` |
+| III | Crown of Speed | `assets/candidates/velocity-row-crown-of-speed-stage-3-v1.png` | 1024 × 1536 | 2,911,595 | `c46b571c05029d99583d384ceb5f3c202e29fa8aab2b359ffb3e588f27969535` | `c5a08f46c28389f040de9fc31e15a619a94142e8` |
+| QA | 15-candidate contact sheet | `assets/qa/velocity-row-collection-contact-sheet-v1.png` | 1008 × 2480 | 4,760,410 | `bd3d24016354069a61071fba79cb9d344e7712af8204bac6413430fe24612ffe` | `398a38bb5939387230c8213b084ee5f9f5545fae` |
+
+The Landmark files are delegated lineage candidates only. The equal-width contact sheet passes the eight collection-level gates recorded in `VELOCITY_ROW_COLLECTION_QA.md`. None of these files is prototype-integrated, an edition variant, or final NFT-certified.

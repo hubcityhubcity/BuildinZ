@@ -317,3 +317,12 @@ Integrity evidence is recorded in `design/VELOCITY_ROW_TECHNOLOGY_ART_HANDOFF.md
 Generated and visually inspected Rush Arena, Overtake Pavilion and Redline Coliseum as Velocity Row's fourth complete three-stage candidate lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, banked white shells, red seating/ribbons, cobalt concourse glass, gunmetal supports, amber event lights, complete bases/crowns and clear escalation from compact arena to two-tier pavilion to a monumental three-bowl coliseum with a turbine crown.
 
 Integrity evidence is recorded in `design/VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md` and the consolidated manifest. These remain base lineage candidates only: not prototype-integrated, not edition variants and not final NFT-certified. Next bounded batch: Velocity Row Landmark — Pole Beacon → Apex Tower → Crown of Speed.
+
+
+## Velocity Row Landmark and collection-QA checkpoint — November 5, 2026
+
+Generated and visually inspected Pole Beacon, Apex Tower and Crown of Speed as Velocity Row's fifth and final base lineage. All are 1024 × 1536 RGB PNGs with exact mounted names, white/gunmetal masts, racing-red velocity spines, cobalt observation glass, amber beacon crowns, attached aero fins, complete ceremonial bases/crowns and clear stage escalation.
+
+An equal-width 3×5 contact sheet was generated and separately inspected across all 15 Velocity Row candidates. All eight gates pass: asset loading, exact names, stage progression, function separation, district continuity, physical support, framing and failure exclusions. Evidence is recorded in `design/VELOCITY_ROW_COLLECTION_QA.md`, `design/VELOCITY_ROW_LANDMARK_ART_HANDOFF.md` and the consolidated manifest. These remain base candidates only; final NFT certification remains open.
+
+Next bounded batch: prepare Royal Mirage's production brief, then Oasis Residences → Mirage Habitat → Sultan's Skyhold.

@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-05",
-  "repository_commit": "e229ecc10214e3b5564a39e113cf39bb5b325286",
+  "repository_commit": "01dbb97f5144778344abc1d27c603101f7eb9b7a",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 95,
+    "asset_files": 99,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 57
+    "lineage_selected_candidate_stage_assets": 60
   },
   "production_matrix": [
     {
@@ -65,9 +65,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail, Technology and Entertainment lineages have 12 visually inspected selected candidates; remaining 3 stage masters and final certification open",
+      "status": "15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 12
+      "selected_candidate_stage_assets": 15
     },
     {
       "neighborhood_id": 5,
@@ -1839,6 +1839,82 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, monumental central arena plus two integrated side bowls, multi-tier red seating, supported cobalt concourses and short bridges, gunmetal trusses, luminous attached turbine crown and complete ceremonial base. Integrity recorded in VELOCITY_ROW_ENTERTAINMENT_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-pole-beacon-stage-1-v1.png",
+      "bytes": 2441786,
+      "git_blob_sha": "a0accf7d3239ae16f4a1036ea0449de894fd54f3",
+      "sha256": "3608433eebe352062788a8f01127045d59d5865fed6248cedc8c2304c063a2d6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Pole Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation; visually inspected for exact mounted name, slender civic mast, red velocity spine, supported cobalt viewing ring, attached aero fins, amber crown and complete ceremonial base. Integrity recorded in VELOCITY_ROW_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-apex-tower-stage-2-v1.png",
+      "bytes": 2556412,
+      "git_blob_sha": "abf98c05cff7a72b725a267d7e1926d255557762",
+      "sha256": "f17b0431c7096740e4fcbe9e6e8c1ce7ddf80d87558ee4a788de0e4feb195157",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Apex Tower",
+      "stage": 2,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I reference; visually inspected for exact mounted name, taller leaning monument, two supported cobalt observation rings, broader canopy, attached fins, larger amber beacon and complete base/crown. Integrity recorded in VELOCITY_ROW_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/candidates/velocity-row-crown-of-speed-stage-3-v1.png",
+      "bytes": 2911595,
+      "git_blob_sha": "c5a08f46c28389f040de9fc31e15a619a94142e8",
+      "sha256": "c46b571c05029d99583d384ceb5f3c202e29fa8aab2b359ffb3e588f27969535",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Velocity Row",
+      "identity_name": "Crown of Speed",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Built-in image generation using Stage I/II references; visually inspected for exact mounted name, multi-fin civic mast, connected kinetic rings, enormous supported cobalt observation crown, supported observation bridges, luminous turbine beacon and complete expanded plaza base. Integrity recorded in VELOCITY_ROW_LANDMARK_ART_HANDOFF.md."
+    },
+    {
+      "path": "assets/qa/velocity-row-collection-contact-sheet-v1.png",
+      "bytes": 4760410,
+      "git_blob_sha": "398a38bb5939387230c8213b084ee5f9f5545fae",
+      "sha256": "bd3d24016354069a61071fba79cb9d344e7712af8204bac6413430fe24612ffe",
+      "dimensions": {
+        "width": 1008,
+        "height": 2480
+      },
+      "classification": "collection-qa-evidence",
+      "neighborhood": "Velocity Row",
+      "identity_name": null,
+      "stage": null,
+      "building_type": null,
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Equal-width 3×5 contact sheet of all 15 Velocity Row base candidates. Visually inspected for asset loading, exact mounted names, stage progression, function separation, district continuity, physical support, framing and failure exclusions. Gate record in VELOCITY_ROW_COLLECTION_QA.md."
     }
   ]
 }
