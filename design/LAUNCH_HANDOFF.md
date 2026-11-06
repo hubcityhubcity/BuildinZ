@@ -449,3 +449,11 @@ Generated and visually inspected Entertainment Stage I. Exact BOILER HALL mounte
 File assets/candidates/old-world-steel-boiler-hall-stage-1-v1.png;1024×1536 RGB;3,179,691 bytes;SHA-256 245b15f35cfa2785cdd687c2a4b136b171a48990f42575cec6b7e54012f972cc;Git blob f7f5bf88382b642b42ecd228a8d3f4fe74057eb2. Prompt required compact converted boiler-house performance venue, raised stage/instruments, audience seats, supported gallery, exact sign and complete framing.
 
 Next: Foundry Palace using Boiler Hall v1 reference; larger multi-hall theatre with supported audience balconies and copper canopy. Then Imperial Engineworks and equal-width Entertainment lineage review. Counts:126 assets,85 non-Neon selected candidates,50 remaining designs,zero final-certified.
+
+## Foundry Palace checkpoint — November 6, 2026
+
+Generated Stage II using accepted Boiler Hall reference. Actual output inspected: central grand theatre and two side halls with visible stages/instruments and audience seating, supported audience balconies and enclosed circulation bridges. Brick arches, riveted iron, blue performance glass and copper canopy/sawtooth roofs retain lineage; exact FOUNDRY PALACE name mounted once. Full wing ends, chimney/crown and public approach are visible. No hotel, retail, residential or laboratory ambiguity. Delegated candidate acceptance only.
+
+File assets/candidates/old-world-steel-foundry-palace-stage-2-v1.png;1024×1536 RGB;3,321,215 bytes;SHA-256 8c4cc725e2d7430ecda9a38ff3f32a0380b90699dcee3925eafb993173d27582;Git blob 52938827bfa8052cd013d6add38ad0b27ca3c606. Prompt required larger three-hall public theatre, visible stages/audiences, supported balconies/circulation bridges, exact name, prior-stage materials and complete framing.
+
+Next exact action: Imperial Engineworks using Boiler Hall and Foundry Palace references; monumental performance complex with several visible stages, tiered audiences, supported galleries and engine-inspired crown. Then compare Entertainment lineage at equal width. Counts:127 assets,86 non-Neon selected candidates,49 remaining designs,zero final-certified.
