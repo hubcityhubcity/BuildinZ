@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "7c57927a5e760149f4578bb1506a2358ee7f2d49",
+  "repository_commit": "cca3eeadfd98848331eb6d8532c63647c58073c1",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 140,
+    "asset_files": 141,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 97
+    "lineage_selected_candidate_stage_assets": 98
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential and Retail reviewed; Beacon Labs selected; 8 stage candidates and final certification open",
+      "status": "Residential/Retail reviewed; Technology I/II selected; 7 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 7
+      "selected_candidate_stage_assets": 8
     },
     {
       "neighborhood_id": 8,
@@ -2687,6 +2687,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact name, marine robotics/test benches and sealed water-testing apparatus, controlled entrance, rooftop sensor deck, pearl shells/navy fins/aqua diagnostic glazing, supported pier and complete access bridge."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-tidal-array-stage-2-v1.png",
+      "bytes": 2784089,
+      "git_blob_sha": "401b4cba8504025cec4f68384684247178a07d0b",
+      "sha256": "ca37c07881f8e39c2aaf3144f1f150513da874cb0e999744f7750567972b5ac4",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Tidal Array",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact name, taller marine-research tower, two braced instrument decks, visible enclosed robotics/water-testing chambers, complete pier/access bridge. Mast top margin narrow; final export safe-area check open."
     }
   ]
 }

@@ -560,3 +560,12 @@ Fresh main parent 7c57927a5e760149f4578bb1506a2358ee7f2d49 inspected. Built-in i
 Original generated image retained. Project source assets/candidates/moonline-harbor-beacon-labs-stage-1-v1.png;1024×1536;2,727,594 bytes;SHA-256 f52326d5f29514227b374eba217a0352d7860be69a8ff055b488bde86e98bc52;Git blob 7d7e59565cf5350abe7ae26f99ae704c7cfc23eb. PNG decoded successfully.
 
 Counts:140 assets,97 non-Neon selected candidates,38 remaining base designs,zero final-certified. Next exact action:Tidal Array using Beacon Labs v1; taller tidal-research tower with enclosed robotics chambers and supported instrument decks. Then Mooncurrent Nexus with connected research towers/core/enclosed bridges and machinery crown, followed by equal-width Technology review. No paid action, wallet, deployment or public messaging performed.
+
+
+## Tidal Array checkpoint — November 6, 2026
+
+Fresh main parent cca3eeadfd98848331eb6d8532c63647c58073c1 inspected. Built-in image generation used Beacon Labs v1 reference. Prompt required taller secured tidal-research tower, enclosed robotics chambers/underwater-drone and sealed water-testing equipment, two structurally braced instrument decks, rooftop weather/sensor array, retained pearl shells/navy fins/silver ribs/aqua glass, exact TIDAL ARRAY once and complete pier/access framing. Actual output inspected: name, clear lab function, added research levels, two side instrument decks connected by substantial braces, complete wing ends/pier/piles/access bridge pass. Highest mast remains inside frame but top margin narrow; final export safe area explicitly open. No precise floor-count/metric-height claim. Delegated individual candidate selection; three-stage review pending.
+
+Original image retained. Project source assets/candidates/moonline-harbor-tidal-array-stage-2-v1.png;1024×1536;2784089 bytes;SHA-256 ca37c07881f8e39c2aaf3144f1f150513da874cb0e999744f7750567972b5ac4;Git blob 401b4cba8504025cec4f68384684247178a07d0b. PNG decoded successfully.
+
+Counts:141 assets,98 non-Neon selected candidates,37 remaining base designs,zero final-certified. Next exact action:Mooncurrent Nexus using Beacon Labs v1/Tidal Array v1; connected research towers, central computation core, enclosed service bridges and supported tidal-machinery crown. Preserve laboratory function and full waterfront access framing, generous crown/mast margins; then equal-width Technology QA. No paid action, wallet, deployment or public messaging performed.
