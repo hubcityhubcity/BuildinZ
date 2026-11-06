@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 6, 2026 (America/Chicago) against repository parent commit `5c85380104a763d7ef198442613c42917d48d938`.
+Recorded November 6, 2026 (America/Chicago) against repository parent commit `fc95f078827a194395507c32af55d74525baa747`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **144**
+- Repository asset files: **145**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **34**
+- Non-Neon required stage masters without a selected lineage candidate: **33**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -23,7 +23,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
-| Moonline Harbor | 15 | 0 | 0 | 11 selected candidates; three lineages reviewed, Entertainment I/II selected; 4 stages and final certification open |
+| Moonline Harbor | 15 | 0 | 0 | 12 selected candidates; four lineages reviewed; 3 Landmark stages and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
@@ -453,3 +453,7 @@ Entertainment Stage I individually inspected and selected: visible stage/band, a
 ## Moondeck Palace checkpoint — November 6, 2026
 
 Entertainment Stage II individually inspected and selected: three halls/stages/audiences, supported upper balconies and complete waterfront access framing. Integrity in JSON/handoff. Totals:144 assets,101 non-Neon selected candidates,34 remaining base designs,zero final-certified. Next:Eclipse Marina and Entertainment review.
+
+## Moonline Harbor Entertainment completion — November 6, 2026
+
+Eclipse Marina selected after individual/equal-width inspection with Harbor Lounge and Moondeck Palace. Seven base-selection gates pass in MOONLINE_HARBOR_ENTERTAINMENT_QA.md. Integrity in JSON. Totals:145 assets,102 non-Neon selected candidates,33 remaining base designs,zero final-certified. Next:Tide Beacon.

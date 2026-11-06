@@ -596,3 +596,12 @@ Fresh main parent 5c85380104a763d7ef198442613c42917d48d938 inspected. Built-in g
 Original generated source retained. Project source assets/candidates/moonline-harbor-moondeck-palace-stage-2-v1.png;1024×1536;2843837 bytes;SHA-256 ae06bdf888278413fa7b9740c75f879e0f9b8994b77112752250efac053ec0ef;Git blob 022f334ad00952bfc6dfe4b8c9ebbc085fdbdb8e. PNG decoded successfully.
 
 Counts:144 assets,101 non-Neon selected candidates,34 remaining base designs,zero final-certified. Next exact action:Eclipse Marina using both Entertainment references; monumental multi-stage marina performance complex with added audience tiers/supported galleries and sweeping silver crown. Preserve prior-stage architecture and full waterfront access framing. Then equal-width Entertainment QA. No paid action, wallet, deployment or public message performed.
+
+
+## Eclipse Marina / Entertainment lineage QA — November 6, 2026
+
+Fresh main parent fc95f078827a194395507c32af55d74525baa747 inspected. Built-in generation used Harbor Lounge v1 and Moondeck Palace v1 references. Prompt required monumental three-stage performance complex retaining central/side stages, third central upper audience tier, added side seating, supported circulation/galleries and layered sweeping silver shell crown, exact ECLIPSE MARINA once and full waterfront access framing. Actual output individually and at equal width inspected: three stages/instruments/audiences visible, central third tier, upper side seating, supported circulation, larger crown and complete pier/pile/bridge framing pass. No additional stage count or metric physical-height claim made. Existing I/II hashes match; all PNGs decode. Delegated candidate selection only.
+
+Original generated source preserved. Project source assets/candidates/moonline-harbor-eclipse-marina-stage-3-v1.png;1024×1536;2910467 bytes;SHA-256 8889ce2d0371aea540094389b8a88a2ca631d9f5d80b2bf6e43714407c532254;Git blob 4186124488290b5acde0801ab0b5f42acbb99034. Evidence:MOONLINE_HARBOR_ENTERTAINMENT_QA.md. Temporary equal-width comparison not release asset.
+
+Counts:145 assets,102 non-Neon selected candidates,33 remaining base designs,zero final-certified. Next exact action:Tide Beacon, slender civic observation marker with supported enclosed viewing deck and Moonline materials/palette; then Lunar Lighthouse and Crown of Tides. Keep observation landmark distinct from research/shops/performance; full support/framing essential. Then Landmark and all-15-stage neighborhood QA. No paid action, wallet, deployment or public message performed.

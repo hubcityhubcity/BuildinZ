@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "5c85380104a763d7ef198442613c42917d48d938",
+  "repository_commit": "fc95f078827a194395507c32af55d74525baa747",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 144,
+    "asset_files": 145,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 101
+    "lineage_selected_candidate_stage_assets": 102
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail/Technology reviewed; Entertainment I/II selected; 4 stage candidates and final certification open",
+      "status": "Four lineages reviewed; 3 Landmark candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 11
+      "selected_candidate_stage_assets": 12
     },
     {
       "neighborhood_id": 8,
@@ -2763,6 +2763,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact name, three visible performance halls/stages/audiences, two upper central audience balcony tiers, connected circulation, pearl shell/navy supports and complete pier/piles/access bridge."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-eclipse-marina-stage-3-v1.png",
+      "bytes": 2910467,
+      "git_blob_sha": "4186124488290b5acde0801ab0b5f42acbb99034",
+      "sha256": "8889ce2d0371aea540094389b8a88a2ca631d9f5d80b2bf6e43714407c532254",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Eclipse Marina",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output and equal-width Entertainment lineage inspected: exact name, three visible stages/audiences, third central audience tier, side upper seating, layered shell crown, supported galleries and complete pier/piles/access bridge."
     }
   ]
 }
