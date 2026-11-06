@@ -411,3 +411,9 @@ Retried the existing inspected source after transient repository upload failures
 Prompt: evolve Forge Market into five-level shopping arcade with central glazed atrium, visible merchandise storefronts, supported riveted iron galleries, paired escalators, copper sawtooth roofs, exact STEELWORKS ARCADE sign, full freestanding silhouette and wet dusk plaza. Source retained unchanged from the failed-upload run.
 
 Exact next action: Grand Industrial Exchange using Retail I/II references, then equal-width Retail lineage QA. Counts now 121 assets, 80 non-Neon selected candidates, 55 remaining non-Neon designs, zero final-certified.
+
+## Old World Steel Retail completion — November 5, 2026
+
+Generated Grand Industrial Exchange using accepted Retail I/II references. Actual output inspected for exact sign, expanded vertical shopping atria, merchandise, escalators, supported iron bridges and copper lattice crown, complete side extents/base/crown. File assets/candidates/old-world-steel-grand-industrial-exchange-stage-3-v1.png; 1024×1536 RGB; 3,712,995 bytes; SHA-256 54c4181b1aafcb429e5895225a7465cb5d1938ba04c5a5b98113975e9eace6db; Git blob a6f8d0147c034e89d5fba954c4ed2ff01fd22f48. Prompt required nine-level vertical public exchange, prior-stage brick/iron/copper family, supported galleries/bridges, exact GRAND INDUSTRIAL EXCHANGE name and full framing. Delegated candidate selection.
+
+All three Retail sources compared at equal width; seven gates pass in OLD_WORLD_STEEL_RETAIL_QA.md. Temporary comparison is inspection-only. Next exact batch: Gearhouse Labs → Titan Mill → Machina Nexus. Counts:122 repository assets,81 non-Neon selected candidates,54 non-Neon designs without candidates,zero final-certified.

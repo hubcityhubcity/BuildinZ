@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-05",
-  "repository_commit": "1a5779a5aa1b965fecfcf2011580fa33ac24ebc2",
+  "repository_commit": "a977bed43e6c905317a984fffcc6346f6e7cc99f",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 121,
+    "asset_files": 122,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 80
+    "lineage_selected_candidate_stage_assets": 81
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential lineage, corrected Forge Market and Steelworks Arcade selected; 10 stage designs and final certification remain open",
+      "status": "Residential and Retail base lineages pass equal-width review; 9 stage designs and final certification remain open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 5
+      "selected_candidate_stage_assets": 6
     },
     {
       "neighborhood_id": 7,
@@ -2329,6 +2329,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Existing generated source recovered without regeneration. Actual image previously inspected: exact mounted name, five retail levels, visible merchandise/escalators, supported iron galleries, complete silhouette and material continuity."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-grand-industrial-exchange-stage-3-v1.png",
+      "bytes": 3712995,
+      "git_blob_sha": "a6f8d0147c034e89d5fba954c4ed2ff01fd22f48",
+      "sha256": "54c4181b1aafcb429e5895225a7465cb5d1938ba04c5a5b98113975e9eace6db",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Grand Industrial Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual generated output and equal-width Retail comparison inspected; exact sign, vertical retail atria, supported bridges/galleries, escalators, complete copper lattice crown and full base."
     }
   ]
 }
