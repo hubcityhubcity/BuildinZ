@@ -533,3 +533,12 @@ Sources preserved without overwrite:
 - assets/candidates/moonline-harbor-dockside-market-stage-1-v2.png;1024×1536;2,785,239 bytes;SHA-256 c6449ba8b223a1359b89403856bffd91ade6b6ccd4e49a1a8ace8d55d9d07f44;Git blob e018de7c210c7acbd26bb0c72a479f7273820cf6;SELECTED for lineage review.
 
 Both PNGs decode. Only v2 counts toward stage coverage. Counts:137 assets,94 non-Neon selected candidates,41 remaining base designs,zero final-certified. Next exact action:Pearl Galleria using v2; taller multi-level shopping galleria with visible shops, supported terraces and vertical circulation. Then High Tide Exchange and equal-width Retail lineage review. Keep full pier/access bridge framing. No paid action, wallet, deployment or public message performed.
+
+
+## Pearl Galleria checkpoint — November 6, 2026
+
+Fresh main parent 9af6753cde8d11bfab8a01fa7d1f93a0edd60069 inspected. Built-in image generation used selected Dockside Market v2 reference. Prompt required taller five-level shopping galleria, visible clothing/produce/household storefronts, central escalators/public circulation, supported terraces, pearl wave canopy/navy columns/silver ribs/aqua glazing, exact PEARL GALLERIA once, full pier supports and central bridge landing inside frame. Actual output visually inspected: name, shops, escalators, visible terrace supports and full roof/wings/pier/bridge framing pass. Retains architectural family; more shopping levels and taller atrium than Stage I. No apartment/hotel/lab/performance/pool substitution. Individual delegated candidate selection; three-stage comparison awaits Stage III.
+
+Original generated source preserved. Project source assets/candidates/moonline-harbor-pearl-galleria-stage-2-v1.png;1024×1536;2,990,573 bytes;SHA-256 3ec41113c8a14e63db865c085527cf277bfd6b69c6c04d9bc97a2c2b0bb90161;Git blob 7c1458e110a1057519a715c3a1f41bbb3755fdec. PNG decoded successfully.
+
+Counts:138 assets,95 non-Neon selected candidates,40 remaining base designs,zero final-certified. Next exact action:High Tide Exchange using Dockside Market v2/Pearl Galleria v1; vertical exchange with stacked retail atria, supported sky promenades and silver canopy crown. Preserve visible shops/escalators, waterfront palette and full access framing. Then equal-width Retail QA. No paid action, wallet, deployment or public message performed.

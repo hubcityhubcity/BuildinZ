@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "ea0a8524f70c3d401517d30a5189341e2754b094",
+  "repository_commit": "9af6753cde8d11bfab8a01fa7d1f93a0edd60069",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 137,
+    "asset_files": 138,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 94
+    "lineage_selected_candidate_stage_assets": 95
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential lineage reviewed; Dockside Market v2 selected; 11 stage candidates and final certification open",
+      "status": "Residential reviewed; Retail Stages I/II selected; 10 stage candidates, Retail QA and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 4
+      "selected_candidate_stage_assets": 5
     },
     {
       "neighborhood_id": 8,
@@ -2630,6 +2630,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual corrected output inspected: exact name, clothing/produce/household-goods storefronts, upper shopping gallery, pearl wave canopy/navy supports, pile-supported market pier and complete central access bridge/landing inside frame."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-pearl-galleria-stage-2-v1.png",
+      "bytes": 2990573,
+      "git_blob_sha": "7c1458e110a1057519a715c3a1f41bbb3755fdec",
+      "sha256": "3ec41113c8a14e63db865c085527cf277bfd6b69c6c04d9bc97a2c2b0bb90161",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Pearl Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact name, multilevel storefronts and public shopping galleries, visible central escalators, supported terraces, pearl wave canopy/navy columns, full pier piles and central access bridge/landing."
     }
   ]
 }

@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 6, 2026 (America/Chicago) against repository parent commit `ea0a8524f70c3d401517d30a5189341e2754b094`.
+Recorded November 6, 2026 (America/Chicago) against repository parent commit `9af6753cde8d11bfab8a01fa7d1f93a0edd60069`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **137**
+- Repository asset files: **138**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **41**
+- Non-Neon required stage masters without a selected lineage candidate: **40**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -23,7 +23,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
-| Moonline Harbor | 15 | 0 | 0 | 4 selected candidates; Residential reviewed, Dockside Market v2 selected; 11 stages and final certification open |
+| Moonline Harbor | 15 | 0 | 0 | 5 selected candidates; Residential reviewed, Retail I/II selected; 10 stages and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
@@ -425,3 +425,7 @@ Lunar Marina Arcology selected after individual and equal-width three-stage insp
 ## Dockside Market framing correction — November 6, 2026
 
 Stage I v1 retained as rejected because access bridge exits right frame. V2 individually inspected and selected with full market pier/access bridge/landing visible. Both source hashes and byte lengths are in JSON. Only v2 increments stage coverage. Totals:137 assets,94 non-Neon selected candidates,41 remaining base designs,zero final-certified. Next:Pearl Galleria using v2 reference.
+
+## Pearl Galleria checkpoint — November 6, 2026
+
+Retail Stage II individually inspected and selected with visible multilevel shops/escalators, supported terraces and full pier/access-bridge framing. Integrity in JSON and handoff. Totals:138 assets,95 non-Neon selected candidates,40 remaining base designs,zero final-certified. Next:High Tide Exchange and Retail lineage comparison.
