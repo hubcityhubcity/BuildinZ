@@ -542,3 +542,12 @@ Fresh main parent 9af6753cde8d11bfab8a01fa7d1f93a0edd60069 inspected. Built-in i
 Original generated source preserved. Project source assets/candidates/moonline-harbor-pearl-galleria-stage-2-v1.png;1024×1536;2,990,573 bytes;SHA-256 3ec41113c8a14e63db865c085527cf277bfd6b69c6c04d9bc97a2c2b0bb90161;Git blob 7c1458e110a1057519a715c3a1f41bbb3755fdec. PNG decoded successfully.
 
 Counts:138 assets,95 non-Neon selected candidates,40 remaining base designs,zero final-certified. Next exact action:High Tide Exchange using Dockside Market v2/Pearl Galleria v1; vertical exchange with stacked retail atria, supported sky promenades and silver canopy crown. Preserve visible shops/escalators, waterfront palette and full access framing. Then equal-width Retail QA. No paid action, wallet, deployment or public message performed.
+
+
+## High Tide Exchange / Retail lineage review — November 6, 2026
+
+Fresh main parent 20ce35e5326487d932c1f0f6d851aa6b0af90b89 inspected. Built-in generation used selected Dockside Market v2 and Pearl Galleria v1 references. Prompt required taller vertical shopping exchange, stacked glass atria, visible storefronts/escalators, supported sky promenades, silver wave-canopy crown, retained pearl/navy/aqua materials, exact HIGH TIDE EXCHANGE once and full pier/piles/access bridge landing. Actual output and equal-width comparison inspected: name/function/continuity/escalation/support/framing/exclusions pass; visible additional retail levels and stacked circulation distinguish pinnacle. No exact floor-count or metric-height claim made. Delegated candidate selection only.
+
+Original source preserved. Project source assets/candidates/moonline-harbor-high-tide-exchange-stage-3-v1.png;1024×1536;3,098,202 bytes;SHA-256 92a9352757ad5c838f70e55594d8d9ea4e9fc5e96444c2209586734d49ad5e92;Git blob dd0dfd0a7dfc895b4a91053c35c93077522e3349. All Retail sources decode; existing I/II hashes match. Temporary comparison is not release asset. Evidence:MOONLINE_HARBOR_RETAIL_QA.md. Rejected Dockside Market v1 was excluded.
+
+Counts:139 assets,96 non-Neon selected candidates,39 remaining base stage designs,zero final-certified. Next exact action:Beacon Labs, compact secured marine-engineering lab with visible research/test equipment, aqua diagnostic glass and supported waterfront foundation. Then Tidal Array and Mooncurrent Nexus. Preserve function separation from Residential/Retail. All final export/edition/metadata and launch gates remain open. No paid action, wallet, deployment or public messaging performed.

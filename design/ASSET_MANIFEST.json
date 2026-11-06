@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "9af6753cde8d11bfab8a01fa7d1f93a0edd60069",
+  "repository_commit": "20ce35e5326487d932c1f0f6d851aa6b0af90b89",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 138,
+    "asset_files": 139,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 95
+    "lineage_selected_candidate_stage_assets": 96
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential reviewed; Retail Stages I/II selected; 10 stage candidates, Retail QA and final certification open",
+      "status": "Residential and Retail lineages reviewed; 9 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 5
+      "selected_candidate_stage_assets": 6
     },
     {
       "neighborhood_id": 8,
@@ -2649,6 +2649,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact name, multilevel storefronts and public shopping galleries, visible central escalators, supported terraces, pearl wave canopy/navy columns, full pier piles and central access bridge/landing."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-high-tide-exchange-stage-3-v1.png",
+      "bytes": 3098202,
+      "git_blob_sha": "dd0dfd0a7dfc895b4a91053c35c93077522e3349",
+      "sha256": "92a9352757ad5c838f70e55594d8d9ea4e9fc5e96444c2209586734d49ad5e92",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "High Tide Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output and equal-width Retail comparison inspected: exact name, stacked retail atria/escalators, expanded supported shopping galleries, wave-canopy crown, visible shops and full pier/access bridge/landing."
     }
   ]
 }
