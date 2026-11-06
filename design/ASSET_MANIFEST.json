@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "989d344eb9e727bd5998d0f51ccad3ab3aaf31f9",
+  "repository_commit": "417ef5b9664ecfd435be54aa2e4685fc27e95d90",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 127,
+    "asset_files": 128,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 86
+    "lineage_selected_candidate_stage_assets": 87
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail/Technology reviewed; Entertainment Stages I/II selected; 4 stage designs and final certification open",
+      "status": "Residential, Retail, Technology and Entertainment lineages reviewed; 3 Landmark stages and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 11
+      "selected_candidate_stage_assets": 12
     },
     {
       "neighborhood_id": 7,
@@ -2443,6 +2443,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Generated with Boiler Hall reference; actual output inspected for exact name, central and two side performance halls, stages/instruments/seating, supported audience balconies/bridges, complete copper canopy/crown and public approach."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-imperial-engineworks-stage-3-v1.png",
+      "bytes": 3388966,
+      "git_blob_sha": "05963db7aa2d977fae866c9f0cd6ea94d446d55b",
+      "sha256": "23e65388a39e5d2a07777049f74ba13d1848b63817f75af5b334ecf1b9150730",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Imperial Engineworks",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output and equal-width Entertainment comparison inspected: exact name, visible central/side stages, added central audience tiers, supported circulation and prominent engine-gear canopy, full framing."
     }
   ]
 }

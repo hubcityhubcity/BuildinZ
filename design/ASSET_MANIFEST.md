@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **127**
+- Repository asset files: **128**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **49**
+- Non-Neon required stage masters without a selected lineage candidate: **48**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -22,7 +22,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Old World Steel | 15 | 0 | 0 | 11 selected candidates; Residential/Retail/Technology reviewed; Entertainment I/II selected; 4 stage designs remain open |
+| Old World Steel | 15 | 0 | 0 | 12 selected candidates; four lineages reviewed; 3 Landmark stages remain open |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
@@ -393,3 +393,7 @@ Selected Entertainment Stage I integrity and visual evidence are in ASSET_MANIFE
 ## Foundry Palace checkpoint — November 6, 2026
 
 Selected Entertainment Stage II integrity and visual evidence are recorded in ASSET_MANIFEST.json and LAUNCH_HANDOFF.md. Totals:127 assets,86 non-Neon selected candidates,49 remaining designs,zero final-certified. Next:Imperial Engineworks, then Entertainment lineage review.
+
+## Entertainment completion — November 6, 2026
+
+Seven lineage gates pass in OLD_WORLD_STEEL_ENTERTAINMENT_QA.md. Totals:128 assets,87 non-Neon selected candidates,48 remaining designs,zero final-certified. Integrity evidence in ASSET_MANIFEST.json.

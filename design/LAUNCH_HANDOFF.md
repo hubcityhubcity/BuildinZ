@@ -457,3 +457,11 @@ Generated Stage II using accepted Boiler Hall reference. Actual output inspected
 File assets/candidates/old-world-steel-foundry-palace-stage-2-v1.png;1024×1536 RGB;3,321,215 bytes;SHA-256 8c4cc725e2d7430ecda9a38ff3f32a0380b90699dcee3925eafb993173d27582;Git blob 52938827bfa8052cd013d6add38ad0b27ca3c606. Prompt required larger three-hall public theatre, visible stages/audiences, supported balconies/circulation bridges, exact name, prior-stage materials and complete framing.
 
 Next exact action: Imperial Engineworks using Boiler Hall and Foundry Palace references; monumental performance complex with several visible stages, tiered audiences, supported galleries and engine-inspired crown. Then compare Entertainment lineage at equal width. Counts:127 assets,86 non-Neon selected candidates,49 remaining designs,zero final-certified.
+
+## Imperial Engineworks / Entertainment QA — November 6, 2026
+
+Generated Stage III with Boiler Hall and Foundry Palace references. Actual output inspected for exact IMPERIAL ENGINEWORKS sign, central/side stages and audiences, additional central audience tiers, supported circulation and large engine-gear copper canopy. Full wings, chimney/crown and public approach visible. Prompt requested monumental multi-venue performance complex, prior-stage material family, supported galleries and engine-inspired crown. Delegated candidate acceptance only.
+
+File assets/candidates/old-world-steel-imperial-engineworks-stage-3-v1.png;1024×1536 RGB;3,388,966 bytes;SHA-256 23e65388a39e5d2a07777049f74ba13d1848b63817f75af5b334ecf1b9150730;Git blob 05963db7aa2d977fae866c9f0cd6ea94d446d55b. Seven equal-width lineage gates pass in OLD_WORLD_STEEL_ENTERTAINMENT_QA.md. Side halls preserve Stage II arrangement; no invented extra venues or metric-height claim. Comparison temporary, not release asset.
+
+Next:Rivet Monument → Iron Crown Spire → Colossus of Steel, then full neighborhood review. Counts:128 assets,87 non-Neon selected candidates,48 remaining designs,zero final-certified.
