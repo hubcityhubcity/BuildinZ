@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 5, 2026 (America/Chicago) against repository parent commit `a30271cb0a490915fb9c51b2d0ca7c8e240d162c`.
+Recorded November 5, 2026 (America/Chicago) against repository parent commit `b7cbc92b42c18859f5032d172825fece0266d91a`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **122**
+- Repository asset files: **123**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **54**
+- Non-Neon required stage masters without a selected lineage candidate: **53**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -22,7 +22,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Old World Steel | 15 | 0 | 0 | 6 selected base candidates; Residential and Retail pass lineage review; 9 stage designs remain open |
+| Old World Steel | 15 | 0 | 0 | 7 selected base candidates; Residential and Retail reviewed; Gearhouse Labs selected; 8 stage designs remain open |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
@@ -373,3 +373,7 @@ Existing inspected source uploaded successfully after transient service errors, 
 ## Old World Steel Retail completion
 
 Grand Industrial Exchange completes the three-stage Retail candidate lineage. Seven equal-width review gates pass in OLD_WORLD_STEEL_RETAIL_QA.md. Current totals: 122 assets, 81 non-Neon selected candidates, 54 remaining designs, zero final-certified. Full integrity evidence is in ASSET_MANIFEST.json.
+
+## Gearhouse Labs inventory reconciliation — November 5, 2026
+
+Synchronized coverage and production matrix with ASSET_MANIFEST.json at parent commit `b7cbc92b42c18859f5032d172825fece0266d91a`. Selected Technology Stage I: `assets/candidates/old-world-steel-gearhouse-labs-stage-1-v2.png`, 1024 × 1536 RGB, 3,034,288 bytes, SHA-256 `4cb5aecf80c18776acaff4aef09716e904bf3e9cf9c2c055dab25b33e8d12d6a`, Git blob `971bc83f9dfc65784e1dad06c53484a8f47d460f`. Current totals: 123 assets, 82 non-Neon selected candidates, 53 remaining designs, zero final-certified. Earlier dated checkpoints retain historical totals. Next: Titan Mill, then Machina Nexus.
