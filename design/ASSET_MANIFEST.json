@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "cca3eeadfd98848331eb6d8532c63647c58073c1",
+  "repository_commit": "c8d1b1fb9e11c600fc00123f81f06b7910d8e4d6",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 141,
+    "asset_files": 142,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 98
+    "lineage_selected_candidate_stage_assets": 99
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail reviewed; Technology I/II selected; 7 stage candidates and final certification open",
+      "status": "Residential/Retail/Technology lineages reviewed; 6 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 8
+      "selected_candidate_stage_assets": 9
     },
     {
       "neighborhood_id": 8,
@@ -2706,6 +2706,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact name, taller marine-research tower, two braced instrument decks, visible enclosed robotics/water-testing chambers, complete pier/access bridge. Mast top margin narrow; final export safe-area check open."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-mooncurrent-nexus-stage-3-v1.png",
+      "bytes": 2845651,
+      "git_blob_sha": "46186fcbe90952e42bb0a0ee4bd343f99942b105",
+      "sha256": "a6ba9861080567bf8e9d25b8a6cb20fd44cd1ffb04b5db14789ef87b313df5c8",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Mooncurrent Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output and equal-width lineage inspected: exact name, three research towers, central equipment/core, enclosed braced service bridges, marine robotics/testing chambers, supported machinery/sensor crown and complete waterfront access framing."
     }
   ]
 }
