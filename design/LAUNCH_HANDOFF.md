@@ -441,3 +441,11 @@ Recovered Titan Mill from pinned repository commit 2894f5654aec51a9f99c8b00153ae
 Selected assets/candidates/old-world-steel-machina-nexus-stage-3-v1.png;1024×1536 RGB;3,259,070 bytes;SHA-256 648c9882cd14a75d44d7e18bd8b8c67d92b1a0b5bab6d8ca5d6f21649c9062c3;Git blob 3d9eb946fa97bd7e6e28d4f41aa8323b563f6b09. All three Technology sources compared at equal width; seven gates pass in OLD_WORLD_STEEL_TECHNOLOGY_QA.md. Comparison is temporary inspection evidence, not a release asset.
 
 Next exact batch: Boiler Hall → Foundry Palace → Imperial Engineworks. Counts:125 assets,84 non-Neon selected candidates,51 remaining designs,zero final-certified.
+
+## Boiler Hall checkpoint — November 5, 2026
+
+Generated and visually inspected Entertainment Stage I. Exact BOILER HALL mounted name; concert stage with instruments, audience seating, supported side galleries and public foyer visible behind broad arched blue glass. Brick piers, riveted iron trusses, copper sawtooth roof and warm theatrical light match district. Complete building/canopies/chimney and public approach remain in frame. No retail, residential or lab ambiguity. Delegated base candidate; final certification open.
+
+File assets/candidates/old-world-steel-boiler-hall-stage-1-v1.png;1024×1536 RGB;3,179,691 bytes;SHA-256 245b15f35cfa2785cdd687c2a4b136b171a48990f42575cec6b7e54012f972cc;Git blob f7f5bf88382b642b42ecd228a8d3f4fe74057eb2. Prompt required compact converted boiler-house performance venue, raised stage/instruments, audience seats, supported gallery, exact sign and complete framing.
+
+Next: Foundry Palace using Boiler Hall v1 reference; larger multi-hall theatre with supported audience balconies and copper canopy. Then Imperial Engineworks and equal-width Entertainment lineage review. Counts:126 assets,85 non-Neon selected candidates,50 remaining designs,zero final-certified.

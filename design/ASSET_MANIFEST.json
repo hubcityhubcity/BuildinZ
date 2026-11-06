@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-05",
-  "repository_commit": "2894f5654aec51a9f99c8b00153ae687e68a6134",
+  "repository_commit": "4e5df9d04123ee2fe18e1c7670bf7356e8f6ec38",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 125,
+    "asset_files": 126,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 84
+    "lineage_selected_candidate_stage_assets": 85
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail and Technology base lineages pass equal-width review; 6 stage designs and final certification remain open",
+      "status": "Residential/Retail/Technology reviewed; Boiler Hall selected; 5 stage designs and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 9
+      "selected_candidate_stage_assets": 10
     },
     {
       "neighborhood_id": 7,
@@ -2405,6 +2405,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output and equal-width Technology lineage inspected: three connected research towers, central blue computation core, enclosed truss-supported service bridges, visible robotics/gear rigs, complete machinery crown/base and exact name."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-boiler-hall-stage-1-v1.png",
+      "bytes": 3179691,
+      "git_blob_sha": "f7f5bf88382b642b42ecd228a8d3f4fe74057eb2",
+      "sha256": "245b15f35cfa2785cdd687c2a4b136b171a48990f42575cec6b7e54012f972cc",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Boiler Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual generated output inspected: exact sign, raised concert stage/instruments, audience seats, supported gallery, public foyer, full roof/chimney and approach; coherent brick/iron/copper palette."
     }
   ]
 }
