@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 6, 2026 (America/Chicago) against repository parent commit `b4fb485244f50b6f9cecfde284e6e790f7a6e564`.
+Recorded November 6, 2026 (America/Chicago) against repository parent commit `397772b6410d227f3128187e0720dd1cbbd74e5b`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **130**
+- Repository asset files: **132**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **46**
+- Non-Neon required stage masters without a selected lineage candidate: **45**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -22,7 +22,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Old World Steel | 15 | 0 | 0 | 14 selected candidates; four lineages reviewed; Landmark Stages I/II selected; 1 Landmark stage remains open |
+| Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
@@ -405,3 +405,7 @@ Selected Landmark Stage I integrity and visual evidence are in ASSET_MANIFEST.js
 ## Iron Crown Spire checkpoint — November 6, 2026
 
 Stage II Landmark candidate visually inspected; exact mounted name, two supported observation levels, larger copper crown and complete framing. `assets/candidates/old-world-steel-iron-crown-spire-stage-2-v1.png`: 1024×1536; 2,887,990 bytes; SHA-256 `803f73485e69a919997296f7d39109b81d5d27bd657c952170e21078cd0b4b83`; Git blob `4230bba5b0d33cb9d011af22873b3c9332f5e243`. Delegated candidate selection only. Coverage: 130 asset files; 89 non-Neon selected candidates; 46 remaining stage masters; zero final-certified.
+
+## Old World Steel collection checkpoint — November 6, 2026
+
+Colossus of Steel completes the Landmark lineage. Equal-width Landmark and all-15-stage collection reviews recorded in OLD_WORLD_STEEL_LANDMARK_QA.md and OLD_WORLD_STEEL_COLLECTION_QA.md. Source and review-sheet integrity recorded in JSON. Counts:132 asset files,90 non-Neon selected candidates,45 remaining base stage masters,zero final-certified. Residential margins remain an explicit final-export review item.

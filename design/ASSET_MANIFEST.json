@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "b4fb485244f50b6f9cecfde284e6e790f7a6e564",
+  "repository_commit": "397772b6410d227f3128187e0720dd1cbbd74e5b",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 130,
+    "asset_files": 132,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 89
+    "lineage_selected_candidate_stage_assets": 90
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Four lineages reviewed; Landmark Stages I/II selected; 1 Landmark stage and final certification open",
+      "status": "15 base lineage candidates pass collection-level review; edition rendering, safe-area/export checks and final certification remain open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 14
+      "selected_candidate_stage_assets": 15
     },
     {
       "neighborhood_id": 7,
@@ -2500,6 +2500,41 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact mounted name, two enclosed blue-glass observation levels attached to riveted iron legs, larger copper crown and beacon, complete finial, brick pedestal and public approach."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-colossus-of-steel-stage-3-v1.png",
+      "bytes": 3169965,
+      "git_blob_sha": "64a9884de608b03af2f2c086cef2f66d517734dc",
+      "sha256": "8498b806ce92fc6cdab653167a6b03e2baefd7b392dc3f1027c6768b8dca94a2",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Colossus of Steel",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output and equal-width Landmark comparison inspected: exact name, broader multi-tier observation crown, connected outer ribs, expanded brick ceremonial base, complete finial and public approach."
+    },
+    {
+      "path": "assets/qa/old-world-steel-collection-contact-sheet-v1.png",
+      "bytes": 2931717,
+      "git_blob_sha": "0704fe98c3b2d4f849451ebaf3372247374e36c8",
+      "sha256": "7af3b0d845fb9bd79e11268400c57995ba7bceb2e393ff29a90a63cc376e69b5",
+      "dimensions": {
+        "width": 768,
+        "height": 1920
+      },
+      "classification": "qa-contact-sheet",
+      "neighborhood": "Old World Steel",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Inspected five-row, three-column equal-width review derivative; not NFT artwork."
     }
   ]
 }
