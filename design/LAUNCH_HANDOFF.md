@@ -433,3 +433,11 @@ Generated using selected Gearhouse Labs v2 reference. Actual output inspected: t
 File assets/candidates/old-world-steel-titan-mill-stage-2-v1.png;1024×1536 RGB;3,299,313 bytes;SHA-256 32ae24df614596670196de35e13951d9c965d250edf6738bb6a4922e29c387e7;Git blob b41213bd8facb424f9591c07896787f180f9a2c4. Prompt required nine-level research mill, sealed robotics chambers, massive truss-supported test decks, exact name, prior-stage material family and full complex framing.
 
 Next exact action: Machina Nexus using Gearhouse Labs v2 and Titan Mill v1 as references, with three connected research towers, central computation core, enclosed service bridges and monumental machinery crown. Then equal-width Technology lineage review. Counts:124 assets,83 non-Neon selected candidates,52 remaining designs,zero final-certified.
+
+## Machina Nexus and Technology lineage QA — November 5, 2026
+
+Recovered Titan Mill from pinned repository commit 2894f5654aec51a9f99c8b00153ae687e68a6134 after local copy was absent; its SHA-256 matched recorded evidence. Generated Machina Nexus using accepted Stages I/II references. Actual output inspected: three distinct research towers, central blue computation core, enclosed supported service bridges, visible robotics/gear rigs, monumental iron/copper machinery crown, complete yard/base and exact MACHINA NEXUS sign. Prompt specified these features, prior-stage materials and full-complex framing. Delegated candidate selection only.
+
+Selected assets/candidates/old-world-steel-machina-nexus-stage-3-v1.png;1024×1536 RGB;3,259,070 bytes;SHA-256 648c9882cd14a75d44d7e18bd8b8c67d92b1a0b5bab6d8ca5d6f21649c9062c3;Git blob 3d9eb946fa97bd7e6e28d4f41aa8323b563f6b09. All three Technology sources compared at equal width; seven gates pass in OLD_WORLD_STEEL_TECHNOLOGY_QA.md. Comparison is temporary inspection evidence, not a release asset.
+
+Next exact batch: Boiler Hall → Foundry Palace → Imperial Engineworks. Counts:125 assets,84 non-Neon selected candidates,51 remaining designs,zero final-certified.

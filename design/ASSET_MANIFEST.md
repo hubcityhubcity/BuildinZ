@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **124**
+- Repository asset files: **125**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **52**
+- Non-Neon required stage masters without a selected lineage candidate: **51**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -22,7 +22,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Old World Steel | 15 | 0 | 0 | 8 selected candidates; Residential/Retail reviewed; Technology I/II selected; 7 stage designs remain open |
+| Old World Steel | 15 | 0 | 0 | 9 selected base candidates; Residential/Retail/Technology reviewed; 6 stage designs remain open |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
@@ -381,3 +381,7 @@ Synchronized coverage and production matrix with ASSET_MANIFEST.json at parent c
 ## Titan Mill inventory checkpoint
 
 Selected Technology Stage II integrity is recorded in ASSET_MANIFEST.json and LAUNCH_HANDOFF.md. Totals:124 assets,83 non-Neon selected candidates,52 remaining designs,zero final-certified. Next:Machina Nexus, then Technology lineage review.
+
+## Technology completion checkpoint
+
+Machina Nexus completes Old World Steel Technology. Seven lineage gates pass in OLD_WORLD_STEEL_TECHNOLOGY_QA.md. Current totals:125 assets,84 non-Neon selected candidates,51 remaining designs,zero final-certified. Integrity is recorded in ASSET_MANIFEST.json.
