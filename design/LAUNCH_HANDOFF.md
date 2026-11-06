@@ -473,3 +473,12 @@ Generated and visually inspected Landmark Stage I. Exact RIVET MONUMENT name on 
 File assets/candidates/old-world-steel-rivet-monument-stage-1-v1.png;1024×1536 RGB;2,723,726 bytes;SHA-256 8cc6aecb8df7ef02eaa0ebd884cdebd4240c59d12ca8fc409efade867bec59df;Git blob cbfe0c04fc4ac4e5e89f974d28e99e650db92da4. Prompt required slender iron civic marker, one supported blue-glass observation deck, copper beacon, exact name and complete framing.
 
 Next exact action: Iron Crown Spire using Rivet Monument v1 reference; taller iron monument with two supported observation levels and complete crown. Then Colossus of Steel and full-neighborhood QA. Counts:129 assets,88 non-Neon selected candidates,47 remaining designs,zero final-certified.
+
+
+## Iron Crown Spire checkpoint — November 6, 2026
+
+Generated Stage II using Rivet Monument v1 reference. Actual output visually inspected: two distinct enclosed blue-glass observation levels attached to riveted iron lattice legs; larger complete copper crown with orange beacon; exact IRON CROWN SPIRE mounted once above the brick pedestal entrance. Full highest finial, structural feet, pedestal and public approach visible. Prior-stage iron/copper/brick family and wet-cobble dusk setting retained. Delegated candidate acceptance, not owner approval or final certification. Equal-width three-stage escalation review remains pending.
+
+File assets/candidates/old-world-steel-iron-crown-spire-stage-2-v1.png;1024×1536;2,887,990 bytes;SHA-256 803f73485e69a919997296f7d39109b81d5d27bd657c952170e21078cd0b4b83;Git blob 4230bba5b0d33cb9d011af22873b3c9332f5e243. Prompt required a taller civic spire with two supported enclosed viewing levels, larger sculpted crown, exact name and complete framing; original generated file preserved.
+
+Next exact action: Colossus of Steel using both Landmark references; skyline-defining steel monument with attached ribs, enormous supported observation crown and expanded ceremonial base. Then equal-width Landmark and full-neighborhood QA. Counts:130 assets,89 non-Neon selected candidates,46 remaining designs,zero final-certified. No wallet, paid mint, deployment or public messaging actions performed.
