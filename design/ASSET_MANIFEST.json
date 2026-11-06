@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "862809ba54bc9acd23ffd0d6b5595505373b4fa4",
+  "repository_commit": "ea0a8524f70c3d401517d30a5189341e2754b094",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 135,
+    "asset_files": 137,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 93
+    "lineage_selected_candidate_stage_assets": 94
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential lineage selected and reviewed; 12 stage candidates, final safe-area/export and certification open",
+      "status": "Residential lineage reviewed; Dockside Market v2 selected; 11 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 3
+      "selected_candidate_stage_assets": 4
     },
     {
       "neighborhood_id": 8,
@@ -2592,6 +2592,44 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output and equal-width lineage inspected: exact name, three towers, two braced private resort/lounge levels, multiple elevated pools, complete silver crown, pier supports and access bridge. Crown top margin narrow; final safe-area check open."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-dockside-market-stage-1-v1.png",
+      "bytes": 2999041,
+      "git_blob_sha": "b0eb75373d2dfb0ac8ef04af28b5a8add57d2aba",
+      "sha256": "d1b59757fbccf6519182a9cd82fb2a766d0d37a37abdf8abea589920c29d8d99",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "rejected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Dockside Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Rejected after actual inspection: access bridge exits right frame. Preserved original; not counted as selected."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-dockside-market-stage-1-v2.png",
+      "bytes": 2785239,
+      "git_blob_sha": "e018de7c210c7acbd26bb0c72a479f7273820cf6",
+      "sha256": "c6449ba8b223a1359b89403856bffd91ade6b6ccd4e49a1a8ace8d55d9d07f44",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Dockside Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual corrected output inspected: exact name, clothing/produce/household-goods storefronts, upper shopping gallery, pearl wave canopy/navy supports, pile-supported market pier and complete central access bridge/landing inside frame."
     }
   ]
 }

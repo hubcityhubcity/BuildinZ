@@ -522,3 +522,14 @@ Fresh main parent 862809ba54bc9acd23ffd0d6b5595505373b4fa4 inspected. Built-in i
 Original generated file retained. Project source assets/candidates/moonline-harbor-lunar-marina-arcology-stage-3-v1.png;1024×1536;2,951,862 bytes;SHA-256 6ca1068ad82734614fed8192ac780677c71f325a73cf03543f0c2c6a9e2977ee;Git blob 943dc1cd288642b7521ecee3bb44e2551f43b746. Existing Stage I/II hashes matched and all three files decode. Temporary comparison is not a release asset. Review evidence:MOONLINE_HARBOR_RESIDENTIAL_QA.md. Candidate selection under delegated authority only.
 
 Counts:135 assets,93 non-Neon selected candidates,42 remaining base designs,zero final-certified. Next exact action:Dockside Market, a low pile-supported market pier with visible shops and sheltered promenade in pearl/navy/silver/aqua; then Pearl Galleria and High Tide Exchange. Final export, edition production, permanent URIs/metadata and launch checks remain open. No paid action, wallet, deployment or public message performed.
+
+
+## Dockside Market candidate and framing correction — November 6, 2026
+
+Fresh main parent ea0a8524f70c3d401517d30a5189341e2754b094 inspected. Built-in generation prompt required low two-level retail market, visible clothing/produce/household displays, sheltered promenade, pearl wave canopy/navy columns/aqua glass, pile-supported pier, supported pedestrian approach, exact DOCKSIDE MARKET once and complete framing. V1 actual inspection rejected access bridge exiting right frame. Targeted built-in correction used v1 as reference and requested camera pullback/central bridge landing while preserving architecture, shops, signage and palette. V2 actual output inspected: whole market roof/wings, pier corners/piles, complete bridge and boardwalk landing visible; exact name and clear retail function retained. View is near frontal with visible pier/bridge depth, not a metric architectural elevation. Delegated candidate acceptance only.
+
+Sources preserved without overwrite:
+- assets/candidates/moonline-harbor-dockside-market-stage-1-v1.png;1024×1536;2,999,041 bytes;SHA-256 d1b59757fbccf6519182a9cd82fb2a766d0d37a37abdf8abea589920c29d8d99;Git blob b0eb75373d2dfb0ac8ef04af28b5a8add57d2aba;REJECTED, not selected.
+- assets/candidates/moonline-harbor-dockside-market-stage-1-v2.png;1024×1536;2,785,239 bytes;SHA-256 c6449ba8b223a1359b89403856bffd91ade6b6ccd4e49a1a8ace8d55d9d07f44;Git blob e018de7c210c7acbd26bb0c72a479f7273820cf6;SELECTED for lineage review.
+
+Both PNGs decode. Only v2 counts toward stage coverage. Counts:137 assets,94 non-Neon selected candidates,41 remaining base designs,zero final-certified. Next exact action:Pearl Galleria using v2; taller multi-level shopping galleria with visible shops, supported terraces and vertical circulation. Then High Tide Exchange and equal-width Retail lineage review. Keep full pier/access bridge framing. No paid action, wallet, deployment or public message performed.
