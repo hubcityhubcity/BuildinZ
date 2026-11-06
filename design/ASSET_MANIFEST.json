@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "417ef5b9664ecfd435be54aa2e4685fc27e95d90",
+  "repository_commit": "a09431bb7492dd1e28b43e87ea65c129de72719b",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 128,
+    "asset_files": 129,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 87
+    "lineage_selected_candidate_stage_assets": 88
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential, Retail, Technology and Entertainment lineages reviewed; 3 Landmark stages and final certification open",
+      "status": "Four lineages reviewed; Rivet Monument selected; 2 Landmark stages and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 12
+      "selected_candidate_stage_assets": 13
     },
     {
       "neighborhood_id": 7,
@@ -2462,6 +2462,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output and equal-width Entertainment comparison inspected: exact name, visible central/side stages, added central audience tiers, supported circulation and prominent engine-gear canopy, full framing."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-rivet-monument-stage-1-v1.png",
+      "bytes": 2723726,
+      "git_blob_sha": "cbfe0c04fc4ac4e5e89f974d28e99e650db92da4",
+      "sha256": "8cc6aecb8df7ef02eaa0ebd884cdebd4240c59d12ca8fc409efade867bec59df",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Rivet Monument",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact name, slender riveted iron civic tower, supported enclosed observation deck, copper beacon, full brick pedestal and public approach."
     }
   ]
 }

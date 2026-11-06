@@ -465,3 +465,11 @@ Generated Stage III with Boiler Hall and Foundry Palace references. Actual outpu
 File assets/candidates/old-world-steel-imperial-engineworks-stage-3-v1.png;1024×1536 RGB;3,388,966 bytes;SHA-256 23e65388a39e5d2a07777049f74ba13d1848b63817f75af5b334ecf1b9150730;Git blob 05963db7aa2d977fae866c9f0cd6ea94d446d55b. Seven equal-width lineage gates pass in OLD_WORLD_STEEL_ENTERTAINMENT_QA.md. Side halls preserve Stage II arrangement; no invented extra venues or metric-height claim. Comparison temporary, not release asset.
 
 Next:Rivet Monument → Iron Crown Spire → Colossus of Steel, then full neighborhood review. Counts:128 assets,87 non-Neon selected candidates,48 remaining designs,zero final-certified.
+
+## Rivet Monument checkpoint — November 6, 2026
+
+Generated and visually inspected Landmark Stage I. Exact RIVET MONUMENT name on brick pedestal; slender riveted iron lattice structure supports one enclosed observation deck with viewing telescopes, copper beacon crown and warm lamps. Complete highest finial, structural feet, pedestal and public approach visible. No factory/lab/theatre/residential ambiguity. Delegated candidate selection only.
+
+File assets/candidates/old-world-steel-rivet-monument-stage-1-v1.png;1024×1536 RGB;2,723,726 bytes;SHA-256 8cc6aecb8df7ef02eaa0ebd884cdebd4240c59d12ca8fc409efade867bec59df;Git blob cbfe0c04fc4ac4e5e89f974d28e99e650db92da4. Prompt required slender iron civic marker, one supported blue-glass observation deck, copper beacon, exact name and complete framing.
+
+Next exact action: Iron Crown Spire using Rivet Monument v1 reference; taller iron monument with two supported observation levels and complete crown. Then Colossus of Steel and full-neighborhood QA. Counts:129 assets,88 non-Neon selected candidates,47 remaining designs,zero final-certified.

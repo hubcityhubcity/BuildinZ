@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **128**
+- Repository asset files: **129**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **48**
+- Non-Neon required stage masters without a selected lineage candidate: **47**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -22,7 +22,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Old World Steel | 15 | 0 | 0 | 12 selected candidates; four lineages reviewed; 3 Landmark stages remain open |
+| Old World Steel | 15 | 0 | 0 | 13 selected candidates; four lineages reviewed; Rivet Monument selected; 2 Landmark stages remain open |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
@@ -397,3 +397,7 @@ Selected Entertainment Stage II integrity and visual evidence are recorded in AS
 ## Entertainment completion — November 6, 2026
 
 Seven lineage gates pass in OLD_WORLD_STEEL_ENTERTAINMENT_QA.md. Totals:128 assets,87 non-Neon selected candidates,48 remaining designs,zero final-certified. Integrity evidence in ASSET_MANIFEST.json.
+
+## Rivet Monument checkpoint — November 6, 2026
+
+Selected Landmark Stage I integrity and visual evidence are in ASSET_MANIFEST.json and LAUNCH_HANDOFF.md. Totals:129 assets,88 non-Neon selected candidates,47 remaining designs,zero final-certified. Next:Iron Crown Spire, then Colossus of Steel.
