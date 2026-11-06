@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-05",
-  "repository_commit": "a977bed43e6c905317a984fffcc6346f6e7cc99f",
+  "repository_commit": "d7e66d3a18d1deb826f8177f66557f0b3e8bcc79",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 122,
+    "asset_files": 123,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 81
+    "lineage_selected_candidate_stage_assets": 82
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential and Retail base lineages pass equal-width review; 9 stage designs and final certification remain open",
+      "status": "Residential and Retail reviewed; Gearhouse Labs selected; 8 stage designs and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 6
+      "selected_candidate_stage_assets": 7
     },
     {
       "neighborhood_id": 7,
@@ -2348,6 +2348,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual generated output and equal-width Retail comparison inspected; exact sign, vertical retail atria, supported bridges/galleries, escalators, complete copper lattice crown and full base."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-gearhouse-labs-stage-1-v2.png",
+      "bytes": 3034288,
+      "git_blob_sha": "971bc83f9dfc65784e1dad06c53484a8f47d460f",
+      "sha256": "4cb5aecf80c18776acaff4aef09716e904bf3e9cf9c2c055dab25b33e8d12d6a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Gearhouse Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual v2 inspected: exact signage, secured engineering labs, robotics and gear rigs, sealed blue glazing, complete yard/services/chimney and approach. v1 framing failed; corrected using targeted camera pullback."
     }
   ]
 }

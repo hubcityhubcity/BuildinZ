@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row and Royal Mirage each have 15 base lineage candidates passing equal-width collection QA; Old World Steel has six selected candidates across reviewed Residential and Retail lineages; 54 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row and Royal Mirage each have 15 base lineage candidates passing equal-width collection QA; Old World Steel has seven selected candidates across reviewed Residential/Retail and Technology Stage I; 53 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce Gearhouse Labs / Titan Mill / Machina Nexus under OLD_WORLD_STEEL_PRODUCTION_BRIEF.md. Old World Steel Retail passes seven lineage gates in OLD_WORLD_STEEL_RETAIL_QA.md. Preserve exact mounted names, secured research function, visible machinery and structural support. Final certification remains open.
+Produce Titan Mill using selected Gearhouse Labs v2 as reference, then Machina Nexus. Preserve enclosed engineering chambers, visible robotics, supported test decks/bridges, exact mounted names and complete framing. Final certification remains open.
