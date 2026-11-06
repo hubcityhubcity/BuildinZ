@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 6, 2026 (America/Chicago) against repository parent commit `397772b6410d227f3128187e0720dd1cbbd74e5b`.
+Recorded November 6, 2026 (America/Chicago) against repository parent commit `51ae28db890e481581023485de0d6a32ccd0dc19`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **132**
+- Repository asset files: **133**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **45**
+- Non-Neon required stage masters without a selected lineage candidate: **44**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -23,7 +23,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
-| Moonline Harbor | 15 | 0 | 0 | production not started |
+| Moonline Harbor | 15 | 0 | 0 | 1 selected candidate; 14 stages and lineage/final QA open |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
@@ -409,3 +409,7 @@ Stage II Landmark candidate visually inspected; exact mounted name, two supporte
 ## Old World Steel collection checkpoint — November 6, 2026
 
 Colossus of Steel completes the Landmark lineage. Equal-width Landmark and all-15-stage collection reviews recorded in OLD_WORLD_STEEL_LANDMARK_QA.md and OLD_WORLD_STEEL_COLLECTION_QA.md. Source and review-sheet integrity recorded in JSON. Counts:132 asset files,90 non-Neon selected candidates,45 remaining base stage masters,zero final-certified. Residential margins remain an explicit final-export review item.
+
+## Tidelight Residences checkpoint — November 6, 2026
+
+Moonline Harbor Residential Stage I individually inspected and selected under delegated authority. Source integrity and visual evidence recorded in JSON and handoff. Production brief verified against registry N08. Counts:133 asset files,91 non-Neon selected candidates,44 remaining base stage designs,zero final-certified. Next:Moonwake Habitat, then Lunar Marina Arcology and Residential QA.

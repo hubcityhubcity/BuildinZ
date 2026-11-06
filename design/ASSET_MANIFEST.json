@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "397772b6410d227f3128187e0720dd1cbbd74e5b",
+  "repository_commit": "51ae28db890e481581023485de0d6a32ccd0dc19",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 132,
+    "asset_files": 133,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 90
+    "lineage_selected_candidate_stage_assets": 91
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "production not started",
+      "status": "Tidelight Residences Stage I selected; 14 stage candidates, lineage QA and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 0
+      "selected_candidate_stage_assets": 1
     },
     {
       "neighborhood_id": 8,
@@ -2535,6 +2535,25 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Inspected five-row, three-column equal-width review derivative; not NFT artwork."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-tidelight-residences-stage-1-v1.png",
+      "bytes": 2770229,
+      "git_blob_sha": "98fc314f9a660bde09b4a9b9b3ef77caf22ca827",
+      "sha256": "9cfe72c70c38945fb748cce1d32e1bf8d0e44307dedf3d49b345c0d22cc767db",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Tidelight Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact name, repeated domestic apartment balconies, pearl curves/navy fins/teal glazing, private rooftop pool, pile-supported pier, connected supported access bridge and complete silhouette."
     }
   ]
 }
