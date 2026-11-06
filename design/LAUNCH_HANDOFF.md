@@ -605,3 +605,12 @@ Fresh main parent fc95f078827a194395507c32af55d74525baa747 inspected. Built-in g
 Original generated source preserved. Project source assets/candidates/moonline-harbor-eclipse-marina-stage-3-v1.png;1024×1536;2910467 bytes;SHA-256 8889ce2d0371aea540094389b8a88a2ca631d9f5d80b2bf6e43714407c532254;Git blob 4186124488290b5acde0801ab0b5f42acbb99034. Evidence:MOONLINE_HARBOR_ENTERTAINMENT_QA.md. Temporary equal-width comparison not release asset.
 
 Counts:145 assets,102 non-Neon selected candidates,33 remaining base designs,zero final-certified. Next exact action:Tide Beacon, slender civic observation marker with supported enclosed viewing deck and Moonline materials/palette; then Lunar Lighthouse and Crown of Tides. Keep observation landmark distinct from research/shops/performance; full support/framing essential. Then Landmark and all-15-stage neighborhood QA. No paid action, wallet, deployment or public message performed.
+
+
+## Tide Beacon checkpoint — November 6, 2026
+
+Fresh main parent 769e224dda1be451963d122784a9d040acdd7b99 inspected. Built-in generation without image reference established Landmark Stage I. Prompt required slender civic waterfront observation beacon, enclosed aqua-glass viewing deck with telescopes/visitors, modest silver lantern, pearl tapered tower/navy fins/silver ribs, exact TIDE BEACON once, supported pier/piles and full pedestrian access bridge/landing. Actual output inspected: correct mounted two-line name, viewing deck/telescopes, complete lantern/finial, slender silhouette, pier supports and complete access visible. Clear civic observation function, no lab/shop/residence/performance substitution. Individual delegated candidate selection; evolution comparison pending II/III.
+
+Original generated image retained. Project source assets/candidates/moonline-harbor-tide-beacon-stage-1-v1.png;1024×1536;2263506 bytes;SHA-256 fa959ca5c908fa18f102c7fde32a2824259fa116bdbb0d15a4c8de643ee70bc1;Git blob de447fe6f70216ed8215bcc223c21bdd1366817f. PNG decoded successfully.
+
+Counts:146 assets,103 non-Neon selected candidates,32 remaining base designs,zero final-certified. Next exact action:Lunar Lighthouse using Tide Beacon v1; taller civic tower with two supported enclosed viewing zones and complete lantern/crown. Then Crown of Tides and equal-width Landmark/full-neighborhood QA. Preserve all waterfront access and generous safe margins. No paid action, wallet, deployment or public message performed.

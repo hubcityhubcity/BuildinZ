@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "fc95f078827a194395507c32af55d74525baa747",
+  "repository_commit": "769e224dda1be451963d122784a9d040acdd7b99",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 145,
+    "asset_files": 146,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 102
+    "lineage_selected_candidate_stage_assets": 103
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Four lineages reviewed; 3 Landmark candidates and final certification open",
+      "status": "Four lineages reviewed; Tide Beacon selected; 2 Landmark candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 12
+      "selected_candidate_stage_assets": 13
     },
     {
       "neighborhood_id": 8,
@@ -2782,6 +2782,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output and equal-width Entertainment lineage inspected: exact name, three visible stages/audiences, third central audience tier, side upper seating, layered shell crown, supported galleries and complete pier/piles/access bridge."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-tide-beacon-stage-1-v1.png",
+      "bytes": 2263506,
+      "git_blob_sha": "de447fe6f70216ed8215bcc223c21bdd1366817f",
+      "sha256": "fa959ca5c908fa18f102c7fde32a2824259fa116bdbb0d15a4c8de643ee70bc1",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Tide Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact mounted name, slender pearl/navy civic tower, enclosed aqua observation deck with telescopes/visitors, complete silver lantern/finial, supported pier/piles and full access bridge."
     }
   ]
 }
