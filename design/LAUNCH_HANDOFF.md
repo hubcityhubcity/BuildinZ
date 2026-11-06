@@ -513,3 +513,12 @@ Fresh repository parent 1394d5216102eb9b65ea3ae19b8421b8cad654a6 read before pro
 Original generated image preserved. Project source assets/candidates/moonline-harbor-moonwake-habitat-stage-2-v1.png;1024×1536;2,828,814 bytes;SHA-256 6094828d89df66123d3be9002619c1aa0235a45688b7d521a20318e2507aa6d2;Git blob 54815dd5ad3d0874618aa75628f13ac5eb58a368.
 
 Counts:134 assets,92 non-Neon selected candidates,43 remaining base stage designs,zero final-certified. Next exact action:Lunar Marina Arcology using both Residential references; three stepped apartment towers, supported multi-zone private sky resort, several elevated pools and complete silver nautical crown. Keep all structure and approach inside frame, then perform equal-width lineage QA. No wallet, paid action, deployment or public messaging performed.
+
+
+## Lunar Marina Arcology / Residential review — November 6, 2026
+
+Fresh main parent 862809ba54bc9acd23ffd0d6b5595505373b4fa4 inspected. Built-in image generation used Tidelight Residences v1 and Moonwake Habitat v1 references. Prompt required three stepped apartment towers, taller crowned center, two visibly supported private resort/lounge bridge levels, multiple elevated pools, sun/seating zones, silver nautical crown, retained pearl/navy/teal family, full pile-supported pier/access bridge and exact LUNAR MARINA ARCOLOGY once. Actual output inspected individually and at equal width with both sources: function, name, family, support and program escalation pass. Crown remains inside frame but top margin is narrow; final safe-area/export check explicitly open. No exact floor count/metric height asserted.
+
+Original generated file retained. Project source assets/candidates/moonline-harbor-lunar-marina-arcology-stage-3-v1.png;1024×1536;2,951,862 bytes;SHA-256 6ca1068ad82734614fed8192ac780677c71f325a73cf03543f0c2c6a9e2977ee;Git blob 943dc1cd288642b7521ecee3bb44e2551f43b746. Existing Stage I/II hashes matched and all three files decode. Temporary comparison is not a release asset. Review evidence:MOONLINE_HARBOR_RESIDENTIAL_QA.md. Candidate selection under delegated authority only.
+
+Counts:135 assets,93 non-Neon selected candidates,42 remaining base designs,zero final-certified. Next exact action:Dockside Market, a low pile-supported market pier with visible shops and sheltered promenade in pearl/navy/silver/aqua; then Pearl Galleria and High Tide Exchange. Final export, edition production, permanent URIs/metadata and launch checks remain open. No paid action, wallet, deployment or public message performed.

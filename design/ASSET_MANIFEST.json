@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "1394d5216102eb9b65ea3ae19b8421b8cad654a6",
+  "repository_commit": "862809ba54bc9acd23ffd0d6b5595505373b4fa4",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 134,
+    "asset_files": 135,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 92
+    "lineage_selected_candidate_stage_assets": 93
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential Stages I/II selected; 13 stage candidates, lineage QA and final certification open",
+      "status": "Residential lineage selected and reviewed; 12 stage candidates, final safe-area/export and certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 2
+      "selected_candidate_stage_assets": 3
     },
     {
       "neighborhood_id": 8,
@@ -2573,6 +2573,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact name, two taller domestic apartment towers, curved pearl balconies/navy fins, enclosed private sky lounge visibly connected and braced into towers, larger elevated pool above lounge, full roofs/pier supports/access bridge."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-lunar-marina-arcology-stage-3-v1.png",
+      "bytes": 2951862,
+      "git_blob_sha": "943dc1cd288642b7521ecee3bb44e2551f43b746",
+      "sha256": "6ca1068ad82734614fed8192ac780677c71f325a73cf03543f0c2c6a9e2977ee",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Lunar Marina Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output and equal-width lineage inspected: exact name, three towers, two braced private resort/lounge levels, multiple elevated pools, complete silver crown, pier supports and access bridge. Crown top margin narrow; final safe-area check open."
     }
   ]
 }
