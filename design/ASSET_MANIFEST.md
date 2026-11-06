@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **120**
+- Repository asset files: **121**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **56**
+- Non-Neon required stage masters without a selected lineage candidate: **55**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -22,7 +22,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Old World Steel | 15 | 0 | 0 | 3 Residential base candidates pass lineage review; 12 stage designs and final certification remain open |
+| Old World Steel | 15 | 0 | 0 | 5 selected base candidates; Residential passes lineage review; Retail Stage III and 9 other stage designs remain open |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
@@ -365,3 +365,7 @@ Three selected candidates are recorded with bytes, dimensions, SHA-256 and Git b
 ## Forge Market correction checkpoint
 
 Selected Stage I v2 passes full-building framing; v1 retained as failed review history. Integrity evidence is in ASSET_MANIFEST.json and LAUNCH_HANDOFF.md. Current totals: 120 assets, 79 non-Neon selected candidates, 56 designs without selected art, zero final-certified.
+
+## Steelworks Arcade persistence checkpoint — November 5, 2026
+
+Existing inspected source uploaded successfully after transient service errors, without regeneration. File: `assets/candidates/old-world-steel-steelworks-arcade-stage-2-v1.png`; 1024 × 1536 RGB; 3,333,037 bytes; SHA-256 `a76477bd23a2263602e5c3204b237e3dad6641426ddf2f29ab0c8e2e1803aead`; Git blob `e31cd3ab7712a621a4978b6779f3c0b3bac00ce4`. Current totals: 121 asset files, 80 non-Neon selected candidates, 55 non-Neon designs without selected art, zero final-certified. Historical checkpoint totals above remain historical.

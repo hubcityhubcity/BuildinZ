@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-05",
-  "repository_commit": "a30271cb0a490915fb9c51b2d0ca7c8e240d162c",
+  "repository_commit": "1a5779a5aa1b965fecfcf2011580fa33ac24ebc2",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 120,
+    "asset_files": 121,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 79
+    "lineage_selected_candidate_stage_assets": 80
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential lineage and corrected Forge Market selected; 11 stage designs and final certification open",
+      "status": "Residential lineage, corrected Forge Market and Steelworks Arcade selected; 10 stage designs and final certification remain open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 4
+      "selected_candidate_stage_assets": 5
     },
     {
       "neighborhood_id": 7,
@@ -2310,6 +2310,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Targeted wider-framing edit of v1; actual output inspected: both full side extents, complete roof/chimney and approach, exact sign, preserved retail merchandise and supported iron canopies."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-steelworks-arcade-stage-2-v1.png",
+      "bytes": 3333037,
+      "git_blob_sha": "e31cd3ab7712a621a4978b6779f3c0b3bac00ce4",
+      "sha256": "a76477bd23a2263602e5c3204b237e3dad6641426ddf2f29ab0c8e2e1803aead",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Steelworks Arcade",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Existing generated source recovered without regeneration. Actual image previously inspected: exact mounted name, five retail levels, visible merchandise/escalators, supported iron galleries, complete silhouette and material continuity."
     }
   ]
 }

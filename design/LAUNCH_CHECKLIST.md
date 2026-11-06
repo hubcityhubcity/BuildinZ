@@ -20,7 +20,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [x] Shadow Market production brief committed with five exact lineages, palette separation, continuity anchors and per-output rejection gates.
 - [x] Consolidate one collection-wide asset manifest with every repository source/derivative, Git blob evidence, known hashes/dimensions, provenance state and release state.
 - [ ] Certify final export framing, typography and image integrity for all 15 Neon Heights stage assets.
-- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row and Royal Mirage each have 15 base lineage candidates passing equal-width collection QA; Old World Steel has three individually inspected Residential candidates passing lineage review; 57 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
+- [ ] Produce and visually inspect all 135 non-Neon stage designs. Golden Crest and Shadow Market each have 15 selected base candidates and pass collection-level QA; Skygarden District has 15 selected base candidates and passes equal-width collection QA; Velocity Row and Royal Mirage each have 15 base lineage candidates passing equal-width collection QA; Old World Steel has five selected candidates including its reviewed Residential lineage and Retail Stages I/II; 55 non-Neon stage masters remain without selected candidates. Deterministic edition-finish plans exist for Golden Crest and Shadow Market; edition rendering and final certification remain open.
 - [ ] Produce and validate edition-level visual differentiation without counting placeholders.
 
 ## 2. Registry, editions and metadata
@@ -75,4 +75,4 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Produce Steelworks Arcade using selected Forge Market v2 as reference, then Grand Industrial Exchange. Forge Market v1 is retained as failed framing history; v2 passes individual visual review. Final certification remains open.
+Produce Grand Industrial Exchange using selected Forge Market v2 and Steelworks Arcade v1 as architectural references. Preserve exact stage name, retail function, supported galleries/bridges, stacked atria, copper lattice crown and complete framing. Compare the completed Retail lineage at equal width before advancing to Technology. Final certification remains open.
