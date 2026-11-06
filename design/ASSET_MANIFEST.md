@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 6, 2026 (America/Chicago) against repository parent commit `20ce35e5326487d932c1f0f6d851aa6b0af90b89`.
+Recorded November 6, 2026 (America/Chicago) against repository parent commit `7c57927a5e760149f4578bb1506a2358ee7f2d49`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **139**
+- Repository asset files: **140**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **39**
+- Non-Neon required stage masters without a selected lineage candidate: **38**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -23,7 +23,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
-| Moonline Harbor | 15 | 0 | 0 | 6 selected candidates; Residential and Retail reviewed; 9 stages and final certification open |
+| Moonline Harbor | 15 | 0 | 0 | 7 selected candidates; Residential/Retail reviewed, Beacon Labs selected; 8 stages and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
@@ -433,3 +433,7 @@ Retail Stage II individually inspected and selected with visible multilevel shop
 ## Moonline Harbor Retail completion — November 6, 2026
 
 High Tide Exchange individually and jointly inspected with selected Dockside Market v2 and Pearl Galleria v1. Seven base-selection gates pass in MOONLINE_HARBOR_RETAIL_QA.md. Source hashes in JSON. Totals:139 assets,96 non-Neon selected candidates,39 remaining base designs,zero final-certified. Next:Beacon Labs.
+
+## Beacon Labs checkpoint — November 6, 2026
+
+Technology Stage I individually inspected and selected; visible marine robotics and testing distinguish research from shops/apartments. Integrity in JSON and handoff. Totals:140 assets,97 non-Neon selected candidates,38 remaining base designs,zero final-certified. Next:Tidal Array, then Mooncurrent Nexus and Technology review.

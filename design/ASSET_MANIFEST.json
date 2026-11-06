@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "20ce35e5326487d932c1f0f6d851aa6b0af90b89",
+  "repository_commit": "7c57927a5e760149f4578bb1506a2358ee7f2d49",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 139,
+    "asset_files": 140,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 96
+    "lineage_selected_candidate_stage_assets": 97
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential and Retail lineages reviewed; 9 stage candidates and final certification open",
+      "status": "Residential and Retail reviewed; Beacon Labs selected; 8 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 6
+      "selected_candidate_stage_assets": 7
     },
     {
       "neighborhood_id": 8,
@@ -2668,6 +2668,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output and equal-width Retail comparison inspected: exact name, stacked retail atria/escalators, expanded supported shopping galleries, wave-canopy crown, visible shops and full pier/access bridge/landing."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-beacon-labs-stage-1-v1.png",
+      "bytes": 2727594,
+      "git_blob_sha": "7d7e59565cf5350abe7ae26f99ae704c7cfc23eb",
+      "sha256": "f52326d5f29514227b374eba217a0352d7860be69a8ff055b488bde86e98bc52",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Beacon Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact name, marine robotics/test benches and sealed water-testing apparatus, controlled entrance, rooftop sensor deck, pearl shells/navy fins/aqua diagnostic glazing, supported pier and complete access bridge."
     }
   ]
 }
