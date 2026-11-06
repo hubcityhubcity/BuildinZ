@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "c0fac18a4ac0a26e0d49249952add507c7fa383b",
+  "repository_commit": "5c85380104a763d7ef198442613c42917d48d938",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 143,
+    "asset_files": 144,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 100
+    "lineage_selected_candidate_stage_assets": 101
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail/Technology reviewed; Harbor Lounge selected; 5 stage candidates and final certification open",
+      "status": "Residential/Retail/Technology reviewed; Entertainment I/II selected; 4 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 10
+      "selected_candidate_stage_assets": 11
     },
     {
       "neighborhood_id": 8,
@@ -2744,6 +2744,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact name, raised live-music stage with performers/instruments, seated audience and supported upper gallery, pearl shell/navy ribs/aqua glazing, complete roof/pier/piles/access bridge."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-moondeck-palace-stage-2-v1.png",
+      "bytes": 2843837,
+      "git_blob_sha": "022f334ad00952bfc6dfe4b8c9ebbc085fdbdb8e",
+      "sha256": "ae06bdf888278413fa7b9740c75f879e0f9b8994b77112752250efac053ec0ef",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Moondeck Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact name, three visible performance halls/stages/audiences, two upper central audience balcony tiers, connected circulation, pearl shell/navy supports and complete pier/piles/access bridge."
     }
   ]
 }

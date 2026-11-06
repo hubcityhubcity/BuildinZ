@@ -587,3 +587,12 @@ Fresh main parent c0fac18a4ac0a26e0d49249952add507c7fa383b inspected. Built-in g
 Original generated source preserved. Project source assets/candidates/moonline-harbor-harbor-lounge-stage-1-v1.png;1024×1536;2808538 bytes;SHA-256 e89ffff7047b8a886bf8562f6eef03d7992b2a490cb0aabcb0e7be085a56e8ed;Git blob dabaca65428d678ba006dc9010160e28d14d7ffc. PNG decoded successfully.
 
 Counts:143 assets,100 non-Neon selected candidates,35 remaining base designs,zero final-certified. Next exact action:Moondeck Palace using Harbor Lounge v1; larger multi-hall performance venue, supported audience decks and silver canopy, with stages/instruments/audiences visible. Then Eclipse Marina and equal-width Entertainment review. Preserve complete waterfront access framing and distinct performance function. No paid action, wallet, deployment or public message performed.
+
+
+## Moondeck Palace checkpoint — November 6, 2026
+
+Fresh main parent 5c85380104a763d7ef198442613c42917d48d938 inspected. Built-in generation used Harbor Lounge v1 reference. Prompt required taller/broader three-hall performance venue, central live-music auditorium and two side halls, visible stages/instruments/audiences, two supported central balcony tiers, enclosed circulation, pearl shells/navy ribs/silver canopy/aqua glazing, exact MOONDECK PALACE once and full pier/pile/access framing. Actual output inspected: central band, left piano/ensemble, right band and seated audiences visible; two upper central balcony tiers, connected side circulation, correct name and complete roof/wing ends/pier/piles/access bridge present. Clear performance venue, no hotel/retail/lab substitution. Delegated individual candidate selection; three-stage comparison pending.
+
+Original generated source retained. Project source assets/candidates/moonline-harbor-moondeck-palace-stage-2-v1.png;1024×1536;2843837 bytes;SHA-256 ae06bdf888278413fa7b9740c75f879e0f9b8994b77112752250efac053ec0ef;Git blob 022f334ad00952bfc6dfe4b8c9ebbc085fdbdb8e. PNG decoded successfully.
+
+Counts:144 assets,101 non-Neon selected candidates,34 remaining base designs,zero final-certified. Next exact action:Eclipse Marina using both Entertainment references; monumental multi-stage marina performance complex with added audience tiers/supported galleries and sweeping silver crown. Preserve prior-stage architecture and full waterfront access framing. Then equal-width Entertainment QA. No paid action, wallet, deployment or public message performed.
