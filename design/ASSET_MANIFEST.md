@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 6, 2026 (America/Chicago) against repository parent commit `51ae28db890e481581023485de0d6a32ccd0dc19`.
+Recorded November 6, 2026 (America/Chicago) against repository parent commit `1394d5216102eb9b65ea3ae19b8421b8cad654a6`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **133**
+- Repository asset files: **134**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **44**
+- Non-Neon required stage masters without a selected lineage candidate: **43**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -23,7 +23,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
-| Moonline Harbor | 15 | 0 | 0 | 1 selected candidate; 14 stages and lineage/final QA open |
+| Moonline Harbor | 15 | 0 | 0 | 2 selected Residential candidates; 13 stages and lineage/final QA open |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
@@ -413,3 +413,7 @@ Colossus of Steel completes the Landmark lineage. Equal-width Landmark and all-1
 ## Tidelight Residences checkpoint — November 6, 2026
 
 Moonline Harbor Residential Stage I individually inspected and selected under delegated authority. Source integrity and visual evidence recorded in JSON and handoff. Production brief verified against registry N08. Counts:133 asset files,91 non-Neon selected candidates,44 remaining base stage designs,zero final-certified. Next:Moonwake Habitat, then Lunar Marina Arcology and Residential QA.
+
+## Moonwake Habitat checkpoint — November 6, 2026
+
+Residential Stage II individually inspected; preserves Tidelight Residences family and adds two taller apartment towers, braced private enclosed sky lounge and larger elevated pool. Integrity in JSON and handoff. Totals:134 assets,92 non-Neon selected candidates,43 remaining base stage designs,zero final-certified. Next:Lunar Marina Arcology, then Residential lineage QA.

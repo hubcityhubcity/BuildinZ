@@ -504,3 +504,12 @@ Built-in image generation used no prior image reference for this new neighborhoo
 Original generated file retained. Project source assets/candidates/moonline-harbor-tidelight-residences-stage-1-v1.png;1024×1536;2,770,229 bytes;SHA-256 9cfe72c70c38945fb748cce1d32e1bf8d0e44307dedf3d49b345c0d22cc767db;Git blob 98fc314f9a660bde09b4a9b9b3ef77caf22ca827.
 
 Counts:133 assets,91 non-Neon selected candidates,44 remaining base designs,zero final-certified. Next exact action: Moonwake Habitat using this image as reference; two taller apartment towers, visibly supported private enclosed sky lounge and larger elevated pool. Then Lunar Marina Arcology and Residential equal-width review. Preserve rollback; no wallet, paid action, deployment or public message performed.
+
+
+## Moonwake Habitat checkpoint — November 6, 2026
+
+Fresh repository parent 1394d5216102eb9b65ea3ae19b8421b8cad654a6 read before production. Built-in image generation used Tidelight Residences v1 as reference. Prompt required two taller residential towers, curved pearl balconies/navy fins, domestic interiors, supported enclosed private residents' sky lounge, larger elevated pool on lounge roof, supported pier and access bridge, exact MOONWAKE HABITAT once and complete portrait framing. Actual output inspected: lounge attaches visibly to both towers with diagonal braces; pool enlarged over Stage I; domestic units, material family and cool waterfront setting retained. Full roof/antennae, outer balconies, pier corners/piles and access bridge inside frame. Floor count/metric height not asserted. Individual candidate acceptance under delegated authority; full I→II→III comparison remains pending.
+
+Original generated image preserved. Project source assets/candidates/moonline-harbor-moonwake-habitat-stage-2-v1.png;1024×1536;2,828,814 bytes;SHA-256 6094828d89df66123d3be9002619c1aa0235a45688b7d521a20318e2507aa6d2;Git blob 54815dd5ad3d0874618aa75628f13ac5eb58a368.
+
+Counts:134 assets,92 non-Neon selected candidates,43 remaining base stage designs,zero final-certified. Next exact action:Lunar Marina Arcology using both Residential references; three stepped apartment towers, supported multi-zone private sky resort, several elevated pools and complete silver nautical crown. Keep all structure and approach inside frame, then perform equal-width lineage QA. No wallet, paid action, deployment or public messaging performed.
