@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 6, 2026 (America/Chicago) against repository parent commit `c8d1b1fb9e11c600fc00123f81f06b7910d8e4d6`.
+Recorded November 6, 2026 (America/Chicago) against repository parent commit `c0fac18a4ac0a26e0d49249952add507c7fa383b`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **142**
+- Repository asset files: **143**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **36**
+- Non-Neon required stage masters without a selected lineage candidate: **35**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -23,7 +23,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
-| Moonline Harbor | 15 | 0 | 0 | 9 selected candidates; Residential/Retail/Technology reviewed; 6 stages and final certification open |
+| Moonline Harbor | 15 | 0 | 0 | 10 selected candidates; three lineages reviewed, Harbor Lounge selected; 5 stages and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
@@ -445,3 +445,7 @@ Technology Stage II individually inspected and selected; two braced instrument d
 ## Moonline Harbor Technology completion — November 6, 2026
 
 Mooncurrent Nexus selected after individual and equal-width lineage inspection. See MOONLINE_HARBOR_TECHNOLOGY_QA.md; Tidal Array mast-margin export check retained. Integrity in JSON. Totals:142 assets,99 non-Neon selected candidates,36 remaining base designs,zero final-certified. Next:Harbor Lounge.
+
+## Harbor Lounge checkpoint — November 6, 2026
+
+Entertainment Stage I individually inspected and selected: visible stage/band, audience seating and supported upper gallery. Integrity in JSON/handoff. Totals:143 assets,100 non-Neon selected candidates,35 remaining base designs,zero final-certified. Next:Moondeck Palace, then Eclipse Marina and Entertainment review.

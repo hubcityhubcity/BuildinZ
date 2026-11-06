@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "c8d1b1fb9e11c600fc00123f81f06b7910d8e4d6",
+  "repository_commit": "c0fac18a4ac0a26e0d49249952add507c7fa383b",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 142,
+    "asset_files": 143,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 99
+    "lineage_selected_candidate_stage_assets": 100
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail/Technology lineages reviewed; 6 stage candidates and final certification open",
+      "status": "Residential/Retail/Technology reviewed; Harbor Lounge selected; 5 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 9
+      "selected_candidate_stage_assets": 10
     },
     {
       "neighborhood_id": 8,
@@ -2725,6 +2725,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output and equal-width lineage inspected: exact name, three research towers, central equipment/core, enclosed braced service bridges, marine robotics/testing chambers, supported machinery/sensor crown and complete waterfront access framing."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-harbor-lounge-stage-1-v1.png",
+      "bytes": 2808538,
+      "git_blob_sha": "dabaca65428d678ba006dc9010160e28d14d7ffc",
+      "sha256": "e89ffff7047b8a886bf8562f6eef03d7992b2a490cb0aabcb0e7be085a56e8ed",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Moonline Harbor",
+      "identity_name": "Harbor Lounge",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact name, raised live-music stage with performers/instruments, seated audience and supported upper gallery, pearl shell/navy ribs/aqua glazing, complete roof/pier/piles/access bridge."
     }
   ]
 }
