@@ -425,3 +425,11 @@ Generated Technology Stage I: secured three-level engineering labs with visible 
 Selected assets/candidates/old-world-steel-gearhouse-labs-stage-1-v2.png; 1024×1536 RGB; 3,034,288 bytes; SHA-256 4cb5aecf80c18776acaff4aef09716e904bf3e9cf9c2c055dab25b33e8d12d6a; Git blob 971bc83f9dfc65784e1dad06c53484a8f47d460f. Failed v1 remains in generated source history and is not counted in the repository manifest.
 
 Exact next action: Titan Mill using Gearhouse Labs v2 as reference; taller research mill with enclosed robotics chambers and supported test decks, exact name and full framing. Then Machina Nexus. Counts:123 assets,82 non-Neon selected candidates,53 remaining designs,zero final-certified.
+
+## Titan Mill checkpoint — November 5, 2026
+
+Generated using selected Gearhouse Labs v2 reference. Actual output inspected: taller nine-level secured engineering tower, enclosed robotics/gear test chambers, supported external test decks, brick piers, riveted iron exoskeleton, copper sawtooth roof/machinery crown and exact TITAN MILL entry sign. Complete roof/chimney, service sheds, yard gate and approach are in frame. Research function remains distinct from Retail/Residential. Delegated candidate selection only.
+
+File assets/candidates/old-world-steel-titan-mill-stage-2-v1.png;1024×1536 RGB;3,299,313 bytes;SHA-256 32ae24df614596670196de35e13951d9c965d250edf6738bb6a4922e29c387e7;Git blob b41213bd8facb424f9591c07896787f180f9a2c4. Prompt required nine-level research mill, sealed robotics chambers, massive truss-supported test decks, exact name, prior-stage material family and full complex framing.
+
+Next exact action: Machina Nexus using Gearhouse Labs v2 and Titan Mill v1 as references, with three connected research towers, central computation core, enclosed service bridges and monumental machinery crown. Then equal-width Technology lineage review. Counts:124 assets,83 non-Neon selected candidates,52 remaining designs,zero final-certified.

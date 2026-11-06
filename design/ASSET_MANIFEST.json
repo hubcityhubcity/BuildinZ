@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-05",
-  "repository_commit": "d7e66d3a18d1deb826f8177f66557f0b3e8bcc79",
+  "repository_commit": "3316b588e2c5af803605e1bdfe1e9a03a17feed9",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 123,
+    "asset_files": 124,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 82
+    "lineage_selected_candidate_stage_assets": 83
   },
   "production_matrix": [
     {
@@ -87,9 +87,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential and Retail reviewed; Gearhouse Labs selected; 8 stage designs and final certification open",
+      "status": "Residential/Retail reviewed; Technology Stages I/II selected; 7 stage designs and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 7
+      "selected_candidate_stage_assets": 8
     },
     {
       "neighborhood_id": 7,
@@ -2367,6 +2367,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual v2 inspected: exact signage, secured engineering labs, robotics and gear rigs, sealed blue glazing, complete yard/services/chimney and approach. v1 framing failed; corrected using targeted camera pullback."
+    },
+    {
+      "path": "assets/candidates/old-world-steel-titan-mill-stage-2-v1.png",
+      "bytes": 3299313,
+      "git_blob_sha": "b41213bd8facb424f9591c07896787f180f9a2c4",
+      "sha256": "32ae24df614596670196de35e13951d9c965d250edf6738bb6a4922e29c387e7",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Old World Steel",
+      "identity_name": "Titan Mill",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Generated with Gearhouse Labs v2 reference; actual output inspected: exact sign, nine-level secured research tower, robotics/gear rigs, supported external test decks, full chimney/crown/base and family continuity."
     }
   ]
 }

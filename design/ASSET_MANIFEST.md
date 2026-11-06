@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **123**
+- Repository asset files: **124**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **53**
+- Non-Neon required stage masters without a selected lineage candidate: **52**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -22,7 +22,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Skygarden District | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
-| Old World Steel | 15 | 0 | 0 | 7 selected base candidates; Residential and Retail reviewed; Gearhouse Labs selected; 8 stage designs remain open |
+| Old World Steel | 15 | 0 | 0 | 8 selected candidates; Residential/Retail reviewed; Technology I/II selected; 7 stage designs remain open |
 | Moonline Harbor | 15 | 0 | 0 | production not started |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
@@ -377,3 +377,7 @@ Grand Industrial Exchange completes the three-stage Retail candidate lineage. Se
 ## Gearhouse Labs inventory reconciliation — November 5, 2026
 
 Synchronized coverage and production matrix with ASSET_MANIFEST.json at parent commit `b7cbc92b42c18859f5032d172825fece0266d91a`. Selected Technology Stage I: `assets/candidates/old-world-steel-gearhouse-labs-stage-1-v2.png`, 1024 × 1536 RGB, 3,034,288 bytes, SHA-256 `4cb5aecf80c18776acaff4aef09716e904bf3e9cf9c2c055dab25b33e8d12d6a`, Git blob `971bc83f9dfc65784e1dad06c53484a8f47d460f`. Current totals: 123 assets, 82 non-Neon selected candidates, 53 remaining designs, zero final-certified. Earlier dated checkpoints retain historical totals. Next: Titan Mill, then Machina Nexus.
+
+## Titan Mill inventory checkpoint
+
+Selected Technology Stage II integrity is recorded in ASSET_MANIFEST.json and LAUNCH_HANDOFF.md. Totals:124 assets,83 non-Neon selected candidates,52 remaining designs,zero final-certified. Next:Machina Nexus, then Technology lineage review.
