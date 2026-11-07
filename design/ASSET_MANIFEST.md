@@ -557,3 +557,7 @@ Built-in generation used Scarlet Habitat v1 reference. Actual output inspected: 
 Path assets/candidates/crimson-commons-crimson-arcology-stage-3-v1.png;3279182 bytes;1024×1536;PNG verified;SHA-256 aa3f774e7e9684cc79772463fe4d8f56a9bc92f44de947f2115ea106ec8e1102;Git blob f01f32381a7fe9ac19e51cf8eb4352dbe4cc415b.
 
 Totals171 assets;123 non-Neon selected+15 Neon prototypes=138/150 base slots;12 remaining;zero final-certified. Crimson3/15. Exact next:actual equal-width Residential comparison before Commons Market. Preserve III top margin and I/II site safe-area/style review on final correction queue. No paid/wallet/deploy/mint/public messaging action.
+
+## Residential comparison checkpoint — November 7, 2026
+
+Actual equal-width three-source review recorded in CRIMSON_COMMONS_RESIDENTIAL_QA.md. Core lineage gates pass; final III top margin, site safe areas and camera/style remain open. No new art/count advancement:138/150 base stages selected;12 remaining;zero certified. Exact next:Commons Market, then Ruby Galleria/Cardinal Exchange and Retail comparison.

@@ -45,3 +45,7 @@ Five identities ×20 editions =100 Genesis tokens for this neighborhood; three s
 ## Exact next batch
 
 Generate Ember Residences Stage I, inspect actual output and persist candidate before Scarlet Habitat and Crimson Arcology. Residential family comparison precedes Retail. Current Crimson artwork0/15 selected, all300 edition-stage renders unproduced. Global base selection remains135/150; final-certified0. Existing final export correction queue stays open.
+
+## Residential comparison checkpoint — November 7, 2026
+
+Actual equal-width three-source review recorded in CRIMSON_COMMONS_RESIDENTIAL_QA.md. Core lineage gates pass; final III top margin, site safe areas and camera/style remain open. No new art/count advancement:138/150 base stages selected;12 remaining;zero certified. Exact next:Commons Market, then Ruby Galleria/Cardinal Exchange and Retail comparison.
