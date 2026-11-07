@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "9ae632a3106c403b545c45aeae9c7db7d6693ce5",
+  "repository_commit": "3bd0cd7f01ad9a1b3dd830b824df76c6859e9d72",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 171,
+    "asset_files": 172,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 123
+    "lineage_selected_candidate_stage_assets": 124
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential base lineage reviewed;12 stages and final certification open; III top/site framing and camera consistency open",
+      "status": "Residential reviewed; Commons Market individually selected;11 stages/final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 3
+      "selected_candidate_stage_assets": 4
     }
   ],
   "assets": [
@@ -3273,6 +3273,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact name, three domestic towers, two braced resort levels/enclosed lounges, several elevated pools and attached architectural crown. Crown top clearance tight; wider final framing required. Individual candidate only; lineage comparison pending."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-commons-market-stage-1-v1.png",
+      "bytes": 2532615,
+      "sha256": "128673ffedd4f39cb613fb32d02117966df71690498d9c664ff1d84f77acdc1a",
+      "git_blob_sha": "6830e8299cadf17c74a6ed90a253ed9a6a15d495",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Commons Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact COMMONS MARKET; clothing/produce/books/housewares shops, two-level sheltered arcade, supported galleries and dry steps. Crimson/burgundy/bone/charcoal/brass. Tight side clearance and near-symmetric camera require final export/style check. Candidate only."
     }
   ]
 }

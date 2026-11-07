@@ -833,3 +833,11 @@ Totals171 assets;123 non-Neon selected+15 Neon prototypes=138/150 base slots;12 
 ## Residential comparison checkpoint — November 7, 2026
 
 Actual equal-width three-source review recorded in CRIMSON_COMMONS_RESIDENTIAL_QA.md. Core lineage gates pass; final III top margin, site safe areas and camera/style remain open. No new art/count advancement:138/150 base stages selected;12 remaining;zero certified. Exact next:Commons Market, then Ruby Galleria/Cardinal Exchange and Retail comparison.
+
+## Commons Market checkpoint — November 7, 2026
+
+Built-in generation followed Crimson brief for low two-level public shopping arcade with visible merchandise, bone piers/charcoal/crimson-burgundy/brass, covered galleries and dry civic approach. Actual output inspected: exact COMMONS MARKET, clothing/produce/books/housewares and shoppers, supported upper gallery, roof/steps present. Side clearance tight and camera near-symmetric: final wider framing/style review required. No metric floor/height claim. Delegated base candidate, not owner approval/final-certified.
+
+Path assets/candidates/crimson-commons-commons-market-stage-1-v1.png;2532615 bytes;1024×1536;PNG verified;SHA-256 128673ffedd4f39cb613fb32d02117966df71690498d9c664ff1d84f77acdc1a;Git blob 6830e8299cadf17c74a6ed90a253ed9a6a15d495. Generated original preserved.
+
+Totals172 assets;124 non-Neon+15 Neon prototypes=139/150 base slots;11 remaining;zero final-certified. Crimson4/15. Next:Ruby Galleria using this source, taller multilevel shops/escalators/supported galleries; then Cardinal Exchange and Retail review. All existing export/edition/metadata/integration/security gates open. No paid/wallet/deploy/mint/public message action.
