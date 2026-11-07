@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
-  "recorded_date": "2026-11-06",
-  "repository_commit": "2648d92d9ba9a53beb350cd2ed2d83cd44d8087a",
+  "recorded_date": "2026-11-07",
+  "repository_commit": "e94a5fca103ced1c06c82b835b43b1d2a7090006",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 154,
+    "asset_files": 155,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 109
+    "lineage_selected_candidate_stage_assets": 110
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential lineage reviewed; Agora Plaza Stage I selected; 11 stage candidates and final certification open",
+      "status": "Residential lineage reviewed; Retail Stages I/II individually selected; 10 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 4
+      "selected_candidate_stage_assets": 5
     },
     {
       "neighborhood_id": 9,
@@ -2950,6 +2950,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual v2 inspected: elevated three-quarter stylized 3D view, exact mounted AGORA PLAZA once, visible clothing/produce/books/housewares shops, supported sheltered arcade/galleries, modest cobalt dome, full roof/wings/base/steps and dry approach. White/cobalt/cyan dominate; restrained gold/laurel. Agent-selected candidate, not owner approval or final export certification."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-lyceum-galleria-stage-2-v1.png",
+      "bytes": 2598690,
+      "git_blob_sha": "9b1d0a3ad318b27c4440fce7881f315f2e79d504",
+      "sha256": "cd9af721650b3497b21ffda95ecb84bee42cb0a8f4050e95500c89e53c5684d1",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Lyceum Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact mounted LYCEUM GALLERIA once, stacked retail shops with clothing/produce/books/housewares, central visible escalators, supported colonnaded galleries, larger cyan/cobalt dome, complete roof/wings/base/steps. White/cobalt/cyan and laurel/gold trim preserve Agora Plaza lineage. Candidate only; Stage III comparison/export certification pending."
     }
   ]
 }
