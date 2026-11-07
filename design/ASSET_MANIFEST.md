@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 7, 2026 (America/Chicago) against repository parent commit `778e54a2e45b7d87737aa2b8a8b5cffe4a4de62c`.
+Recorded November 7, 2026 (America/Chicago) against repository parent commit `0e87793b68e83e18358b56b6f9d31b86a742aa2c`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **157**
+- Repository asset files: **158**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **23**
+- Non-Neon required stage masters without a selected lineage candidate: **22**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -24,7 +24,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
-| Arcadia Prime | 15 | 0 | 0 | 7 selected candidates: Residential/Retail reviewed, Axiom Labs individually inspected; 8 stages and final certification open |
+| Arcadia Prime | 15 | 0 | 0 | 8 selected candidates: Residential/Retail reviewed, Technology I/II individually inspected; 7 stages and final certification open |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
 ## Prototype-selected Neon Heights set
@@ -497,3 +497,7 @@ Infinite Forum individually/equal-width inspected with Agora Plaza v2 and Lyceum
 ## Axiom Labs checkpoint — November 7, 2026
 
 Technology Stage I individually inspected and selected: visible robotics/test benches, instrument displays, enclosed research chambers, secured entrance and compact ribbed machinery dome. Exact name and full building/base framing verified. Integrity in JSON/handoff. Totals:157 assets,112 non-Neon selected candidates,23 remaining base stages,zero final-certified. Next:Oracle Spire, then Prime Mind Nexus and Technology comparison.
+
+## Oracle Spire checkpoint — November 7, 2026
+
+Technology Stage II individually inspected and selected: taller research tower, enclosed robotics/testing chambers and two instrument decks on diagonal supports; exact name, complete antenna/dome/base framing. Integrity in JSON/handoff. Totals:158 assets,113 non-Neon selected candidates,22 remaining base stages,zero final-certified. Next:Prime Mind Nexus and equal-width Technology review.

@@ -706,3 +706,15 @@ Built-in image generation prompt: modest compact secured engineering campus in e
 Totals:157 repository assets;112 non-Neon selected base stage candidates plus15 Neon prototype stages;23 base stages without selected candidates;0 final-certified. Arcadia Prime7/15 selected. Metadata/URIs, edition rendering, production integration/security and release gates remain open.
 
 Exact next: Oracle Spire using Axiom Labs v1, taller secured research spire with enclosed testing and visibly supported instrument decks; then Prime Mind Nexus and Technology comparison. No paid service, wallet transaction, deployment, mint opening or public message performed.
+
+## Oracle Spire checkpoint — November 7, 2026
+
+Parent: 0e87793b68e83e18358b56b6f9d31b86a742aa2c. N09-I03 Technology Stage II exact name: Axiom Labs → Oracle Spire → Prime Mind Nexus. Delegated candidate selection, not prior owner artwork approval.
+
+Built-in image generation used selected Axiom Labs v1 as reference. Prompt preserved white-stone piers/cobalt panels/cyan glazing, restrained gold/laurel, secured entrance and dry stepped platform; evolved a taller enclosed research tower with robotics/test chambers, two supported scientific decks, machinery dome and complete finial. Actual output inspected: ORACLE SPIRE mounted once, robotics arms/workbenches/instrument displays and researchers, two instrument decks carrying scientific sensing equipment on diagonal braces attached to tower, complete antenna/dome and base/approach. Clear growth from compact Axiom campus; no metric-height/floor-count claim. Individual selection only; three-stage comparison and final export/safe-area/edition certification remain open.
+
+- `assets/candidates/arcadia-prime-oracle-spire-stage-2-v1.png`: 2,521,291 bytes;1024×1536; PNG decode verified; SHA-256 `5f23e6899f77370b0ba671e74ec001292372d9b704b34a39ba553e337de649e6`; Git blob `6f081c30c94c8fbe14f4a8ed2989909f451e209b`. Generated original and Axiom source retained.
+
+Totals:158 repository assets;113 non-Neon selected base stage candidates plus15 Neon prototype stages;22 base stages without selected candidates;0 final-certified. Arcadia Prime8/15 selected. Final metadata/URIs, editions, production integration/security and release gates remain open.
+
+Exact next: Prime Mind Nexus using Axiom Labs v1 and Oracle Spire v1; connected research towers, computation core, enclosed braced service bridges and supported machinery/dome crown, then equal-width Technology QA before Muse Hall. No paid service, wallet transaction, deployment, mint opening or public message performed.

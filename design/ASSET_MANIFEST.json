@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "778e54a2e45b7d87737aa2b8a8b5cffe4a4de62c",
+  "repository_commit": "0e87793b68e83e18358b56b6f9d31b86a742aa2c",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 157,
+    "asset_files": 158,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 112
+    "lineage_selected_candidate_stage_assets": 113
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential and Retail lineages reviewed; Axiom Labs individually selected; 8 stage candidates and final certification open",
+      "status": "Residential/Retail lineages reviewed; Technology I/II individually selected; 7 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 7
+      "selected_candidate_stage_assets": 8
     },
     {
       "neighborhood_id": 9,
@@ -3007,6 +3007,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact AXIOM LABS once; robotics arms/workbenches, instrument displays, enclosed test chambers and access gates. Compact white-stone/cobalt campus with cyan machinery dome and attached ribs, full roof/wing/base/steps, elevated three-quarter style. Agent-selected candidate; lineage comparison and final export/edition certification pending."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-oracle-spire-stage-2-v1.png",
+      "bytes": 2521291,
+      "git_blob_sha": "6f081c30c94c8fbe14f4a8ed2989909f451e209b",
+      "sha256": "5f23e6899f77370b0ba671e74ec001292372d9b704b34a39ba553e337de649e6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Oracle Spire",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact ORACLE SPIRE once; taller secured research tower with visible robotics/test chambers, two scientific instrument decks on diagonal braces, attached machinery dome and complete antenna. White/cobalt/cyan Axiom lineage; full roof/base/steps. Individual candidate only; III comparison and final export certification open."
     }
   ]
 }
