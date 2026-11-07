@@ -728,3 +728,17 @@ Parent:252c0d03775adc64a68dfb97d3b8238009621848. N09-I03 Axiom Labs → Oracle S
 Totals:159 repository assets;114 non-Neon selected base stage candidates plus15 Neon prototype stages;21 base stages without selected candidates;0 final-certified. Arcadia Prime9/15 selected. Final exports/editions, metadata/URIs, production integration/security and release audit remain open.
 
 Exact next:Muse Hall, small performance hall with visible stage/instruments/audience under cobalt shell dome; then Apollo Palace → Olympian Conservatory and Entertainment QA. Preserve Nexus wider side-framing correction on final export queue alongside Moonline/Old World Steel concerns. No paid service, wallet transaction, deployment, mint opening or public message performed.
+
+## Muse Hall checkpoint — November 7, 2026
+
+Parent:03e07d7873f2a3aaee9cc06e7c78afffa5bfda5b. N09-I04 Entertainment exact lineage Muse Hall → Apollo Palace → Olympian Conservatory. Delegated production candidate choice, not prior owner artwork approval.
+
+Built-in image generation prompt requested compact white/cobalt/cyan concert hall beneath supported shell dome, visible raised stage with piano/drums/singer/strings, facing seated audience, instrument rehearsal wings, exact entrance name and dry angular base. Actual v1 rejected for frontal photographic camera. Targeted edit rotated to elevated three-quarter miniature style and preserved architecture/program, but v2 sign incorrectly included ONCE. Targeted text-only correction produced v3, visually inspected: exact MUSE HALL, concert and audience clear, rehearsal instruments, full finial/dome/wing/base/approach visible. White-stone/cobalt/cyan with thin gold/laurel remains distinct from retail/labs. Select only v3; retain originals/rejected sources. Final II/III lineage and export/safe-area/edition certification remain open.
+
+- `assets/candidates/arcadia-prime-muse-hall-stage-1-v1.png`: 2758497 bytes;1024×1536; PNG decode verified; SHA-256 `f313d38fcc64abf4f55e9b200428c7e8149ef3d2cf5cab1974026fc36edb885d`; Git blob `556e884d307b2281219550fe52eb45682d2f4187`; rejected-candidate.
+- `assets/candidates/arcadia-prime-muse-hall-stage-1-v2.png`: 2249543 bytes;1024×1536; PNG decode verified; SHA-256 `a64021d178366d5bf616f77ddd2f5bbafebf80e2208d51d187f083403eb6971c`; Git blob `8b39f7ea12ed9a45b3d89b0ec9f6510b2304a12d`; rejected-candidate.
+- `assets/candidates/arcadia-prime-muse-hall-stage-1-v3.png`: 2120700 bytes;1024×1536; PNG decode verified; SHA-256 `633ca89ddd310db1b5b8cf3738ed8d05dc3a932ee1e49be5ce7cacdad3671b30`; Git blob `4292628703170135eed23090a7fc2ae46cd35b90`; lineage-selected-candidate.
+
+Totals:162 repository assets;115 non-Neon selected base stage candidates plus15 Neon prototype stages;20 base stages without selected candidates;0 final-certified. Arcadia Prime10/15 selected. Final metadata/URIs, editions, integration/security and release gates remain open. These are artwork counts, not readiness percentages.
+
+Exact next:Apollo Palace using Muse Hall v3, larger multi-hall theatre with supported audience balconies and white/cobalt canopy; then Olympian Conservatory and Entertainment review. Keep Nexus wider side-framing correction and other recorded export concerns open. No paid service, wallet transaction, deployment, mint opening or public message performed.

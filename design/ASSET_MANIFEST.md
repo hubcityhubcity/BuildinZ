@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 7, 2026 (America/Chicago) against repository parent commit `252c0d03775adc64a68dfb97d3b8238009621848`.
+Recorded November 7, 2026 (America/Chicago) against repository parent commit `03e07d7873f2a3aaee9cc06e7c78afffa5bfda5b`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **159**
+- Repository asset files: **162**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **21**
+- Non-Neon required stage masters without a selected lineage candidate: **20**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -24,7 +24,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
-| Arcadia Prime | 15 | 0 | 0 | 9 selected candidates: Residential/Retail/Technology base lineages reviewed; 6 stages and final certification open; Nexus side margins require final widening |
+| Arcadia Prime | 15 | 0 | 0 | 10 selected candidates: Residential/Retail/Technology reviewed, Muse Hall selected; 5 stages and final certification open; Nexus side margins require final widening |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
 ## Prototype-selected Neon Heights set
@@ -505,3 +505,7 @@ Technology Stage II individually inspected and selected: taller research tower, 
 ## Arcadia Prime Technology completion — November 7, 2026
 
 Prime Mind Nexus selected after individual/equal-width comparison with Axiom Labs and Oracle Spire. Evidence:ARCADIA_PRIME_TECHNOLOGY_QA.md. Core lineage gates pass; Nexus wider final side framing remains an explicit export gate. Totals:159 assets,114 non-Neon selected candidates,21 remaining base stages,zero final-certified. Next:Muse Hall.
+
+## Muse Hall checkpoint — November 7, 2026
+
+v1 rejected for frontal camera; v2 rejected for extra sign word; both preserved. Corrected v3 individually inspected and selected with visible concert/audience/rehearsal rooms, exact name, cobalt shell dome, elevated three-quarter view and complete framing. Integrity in JSON/handoff. Totals:162 assets,115 non-Neon selected candidates,20 remaining base stages,zero final-certified. Next:Apollo Palace, then Olympian Conservatory and Entertainment comparison.

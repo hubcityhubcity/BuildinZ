@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "252c0d03775adc64a68dfb97d3b8238009621848",
+  "repository_commit": "03e07d7873f2a3aaee9cc06e7c78afffa5bfda5b",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 159,
+    "asset_files": 162,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 114
+    "lineage_selected_candidate_stage_assets": 115
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail/Technology base lineages reviewed; 6 stage candidates and final certification open; Nexus final side margins need widening",
+      "status": "Residential/Retail/Technology base lineages reviewed; Muse Hall individually selected; 5 stages and final certification open; Nexus side margins need widening",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 9
+      "selected_candidate_stage_assets": 10
     },
     {
       "neighborhood_id": 9,
@@ -3045,6 +3045,63 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output and equal-width Technology comparison inspected: exact PRIME MIND NEXUS once; three research towers, computation core, two enclosed bridges on diagonal braces, lab equipment and scientific decks, complete crowns/antennae/base. Base candidate selected; outer side margins tight and must be widened/rechecked before final export. No metric-height claim."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-muse-hall-stage-1-v1.png",
+      "bytes": 2758497,
+      "git_blob_sha": "556e884d307b2281219550fe52eb45682d2f4187",
+      "sha256": "f313d38fcc64abf4f55e9b200428c7e8149ef3d2cf5cab1974026fc36edb885d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "rejected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Muse Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Original preserved; rejected for frontal camera. Not counted as selected artwork."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-muse-hall-stage-1-v2.png",
+      "bytes": 2249543,
+      "git_blob_sha": "8b39f7ea12ed9a45b3d89b0ec9f6510b2304a12d",
+      "sha256": "a64021d178366d5bf616f77ddd2f5bbafebf80e2208d51d187f083403eb6971c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "rejected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Muse Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Perspective correction preserved; rejected because sign incorrectly includes ONCE. Superseded by v3; excluded from selected coverage."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-muse-hall-stage-1-v3.png",
+      "bytes": 2120700,
+      "git_blob_sha": "4292628703170135eed23090a7fc2ae46cd35b90",
+      "sha256": "633ca89ddd310db1b5b8cf3738ed8d05dc3a932ee1e49be5ce7cacdad3671b30",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Muse Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual corrected output inspected: exact MUSE HALL sign, visible piano/drums/singer/strings, raised concert stage and facing seated audience, rehearsal wings, supported cobalt shell dome, white/cobalt/cyan palette, elevated three-quarter view and complete base/approach. Agent-selected candidate; lineage/final export certification pending."
     }
   ]
 }
