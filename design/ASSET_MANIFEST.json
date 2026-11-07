@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "6d88ae629d5631a68b8e11bcd588b5f1a05cacf8",
+  "repository_commit": "a92f0ec8cd952c5500f1f65388d2eec817da7df1",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 165,
+    "asset_files": 166,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 117
+    "lineage_selected_candidate_stage_assets": 118
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail/Technology/Entertainment base lineages reviewed; 3 Landmark stages and final certification open; Nexus side margins need widening",
+      "status": "Four base lineages reviewed; Arcadia Beacon selected; 2 Landmark stages/final certification open; Nexus side and Beacon top margins require export correction",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 12
+      "selected_candidate_stage_assets": 13
     },
     {
       "neighborhood_id": 9,
@@ -3159,6 +3159,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual v2 and equal-width Entertainment comparison inspected: exact name, three central audience balcony tiers, five visible performance spaces with audiences, attached domed crown/pavilions, white/cobalt/cyan continuity and improved full-side/base framing. Base candidate selected; final standardized exports/typography/editions open."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-arcadia-beacon-stage-1-v1.png",
+      "bytes": 2344790,
+      "git_blob_sha": "c77e31c1f4525161c9153b173d2dbeaa7c2d9ad5",
+      "sha256": "c35acb9aa7e60d4ee9dec21c6533de0403e6db86b91b0a2a5bf9acf94a39bd0c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Arcadia Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact ARCADIA BEACON sign, enclosed cyan viewing gallery with visitors/telescopes, attached supports and lantern dome, white/cobalt civic tower with dry complete base/approach. Finial fully present but top margin tight; wider final export required. Candidate only."
     }
   ]
 }

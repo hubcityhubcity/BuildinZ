@@ -765,3 +765,15 @@ Parent:6d88ae629d5631a68b8e11bcd588b5f1a05cacf8. N09-I04 Muse Hall → Apollo Pa
 Totals:165 repository assets;117 non-Neon selected base stage candidates plus15 Neon prototype stages;18 base stages without selected candidates;0 final-certified. Arcadia Prime12/15 selected. Exports/editions, final metadata/URIs, production integration/security and release audit remain open.
 
 Exact next:Arcadia Beacon, slender civic observation tower with enclosed viewing gallery/cyan lantern and dry white/cobalt base; then Parthenon Apex → Crown of Olympus and Landmark/full-neighborhood QA. Keep Nexus wider-side correction and other export concerns open. No paid service, wallet transaction, deployment, mint opening or public message performed.
+
+## Arcadia Beacon checkpoint — November 7, 2026
+
+Parent:a92f0ec8cd952c5500f1f65388d2eec817da7df1. N09-I05 Landmark lineage Arcadia Beacon → Parthenon Apex → Crown of Olympus follows production brief. Delegated candidate choice, not prior owner artwork approval.
+
+Built-in image generation requested slender white-stone/cobalt civic observation tower, one enclosed cyan viewing gallery with visitors/telescopes, supported compact lantern dome, colonnaded entry and dry stepped angular base, exact ARCADIA BEACON sign. Actual output visually inspected: exact name, observation function and visible telescope/visitors, attached gallery/dome ribs, complete base/steps and finial. Finial is fully visible but close to top edge; record wider final export framing as required. Individual base candidate selected, not final-certified. No precise height/capacity claim.
+
+- `assets/candidates/arcadia-prime-arcadia-beacon-stage-1-v1.png`: 2344790 bytes;1024×1536; PNG decode verified; SHA-256 `c35acb9aa7e60d4ee9dec21c6533de0403e6db86b91b0a2a5bf9acf94a39bd0c`; Git blob `c77e31c1f4525161c9153b173d2dbeaa7c2d9ad5`. Generated original retained.
+
+Totals:166 repository assets;118 non-Neon selected base stages plus15 Neon prototype stages;17 base stages without selected candidates;0 final-certified. Arcadia Prime13/15 selected. Final exports/editions, metadata/URIs, production integration/security and release audit remain open.
+
+Exact next:Parthenon Apex using Beacon v1, taller civic landmark with two supported viewing galleries/colonnaded summit, exact name and generous finial margins; then Crown of Olympus and Landmark/full-neighborhood QA. Keep Beacon top-margin/Nexus side-margin and other recorded export corrections open. No paid service, wallet transaction, deployment, mint opening or public message performed.
