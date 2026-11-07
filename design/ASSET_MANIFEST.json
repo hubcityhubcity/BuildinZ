@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "06ca82f55483b924bfa83f53d5a746890a13c36c",
+  "repository_commit": "180cb47e1647a2560e00ec511446c960eb540107",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 150,
+    "asset_files": 151,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 106
+    "lineage_selected_candidate_stage_assets": 107
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Arcadian Residences selected; 14 stage candidates, lineage QA and final certification open",
+      "status": "Residential I/II selected; 13 stage candidates, lineage QA and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 1
+      "selected_candidate_stage_assets": 2
     },
     {
       "neighborhood_id": 9,
@@ -2874,6 +2874,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact name, repeated domestic balconies, private rooftop cyan pool/lounge with cobalt dome, white-stone/cobalt/laurel/cyan palette, complete building silhouette and entrance steps/approach."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-harmony-habitat-stage-2-v1.png",
+      "bytes": 3106821,
+      "git_blob_sha": "d23d5cde331e1d4515dcce4f1b8e521976441bf1",
+      "sha256": "d9210afd45b9cb25c4122c98b3427ebec9689a2594d6cef93d4feb0644f0ef30",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Harmony Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact name, twin taller apartment towers, braced enclosed private sky lounge, larger elevated pool, retained white-stone/cobalt/cyan domestic family, complete domes/base/entrance approach."
     }
   ]
 }

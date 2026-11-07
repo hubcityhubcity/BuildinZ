@@ -641,3 +641,12 @@ Fresh main parent 06ca82f55483b924bfa83f53d5a746890a13c36c inspected. Registry N
 Original generated image retained. Project source assets/candidates/arcadia-prime-arcadian-residences-stage-1-v1.png;1024×1536;3138174 bytes;SHA-256 50dc27bc15d9e3db18e5fbd2fcf2f663802d95775815b82c80fc2114f8f5428d;Git blob 3d9f374227a20456978ce5bb28fbdb13c393b2dc. PNG decoded successfully.
 
 Counts:150 asset files,106 non-Neon selected candidates,29 remaining base designs,zero final-certified. Next exact action:Harmony Habitat using Arcadian Residences v1; two taller apartment towers, supported enclosed private sky lounge and larger elevated pool. Then Elysium Arcology with three towers, multi-zone resort/several pools/complete geometric crown, followed by equal-width Residential QA. No paid action, wallet, deployment or public message performed.
+
+
+## Harmony Habitat checkpoint — November 6, 2026
+
+Fresh main parent 180cb47e1647a2560e00ec511446c960eb540107 inspected. Built-in generation used Arcadian Residences v1 reference. Prompt required twin taller domestic apartment towers, repeated cobalt balconies/cyan domestic interiors, white-stone colonnades, cobalt domes/restrained gold/laurel accents, visibly braced enclosed private sky lounge, larger elevated pool, exact HARMONY HABITAT once and complete dry entrance approach. Actual output inspected: domestic apartments, twin towers, attached diagonal lounge braces, enlarged pool above lounge, correct name and complete domes/side edges/base/steps visible. Family retained; no public temple/hotel/shop/lab/performance substitution. No exact floor-count/metric-height claim. Delegated individual candidate selection; three-stage comparison pending.
+
+Original generated source retained. Project source assets/candidates/arcadia-prime-harmony-habitat-stage-2-v1.png;1024×1536;3106821 bytes;SHA-256 d9210afd45b9cb25c4122c98b3427ebec9689a2594d6cef93d4feb0644f0ef30;Git blob d23d5cde331e1d4515dcce4f1b8e521976441bf1. PNG decoded successfully.
+
+Counts:151 asset files,107 non-Neon selected candidates,28 remaining base designs,zero final-certified. Next exact action:Elysium Arcology using both Residential references; three towers, supported multi-zone private sky resort/several elevated pools and complete cobalt/gold geometric crown, then equal-width lineage QA. Preserve domestic function, restrained rooftop greenery and complete framing. No paid action, wallet, deployment or public message performed.

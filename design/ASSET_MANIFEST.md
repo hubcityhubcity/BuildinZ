@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 6, 2026 (America/Chicago) against repository parent commit `06ca82f55483b924bfa83f53d5a746890a13c36c`.
+Recorded November 6, 2026 (America/Chicago) against repository parent commit `180cb47e1647a2560e00ec511446c960eb540107`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **150**
+- Repository asset files: **151**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **29**
+- Non-Neon required stage masters without a selected lineage candidate: **28**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -24,7 +24,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
-| Arcadia Prime | 15 | 0 | 0 | Arcadian Residences selected; 14 stages and lineage/final QA open |
+| Arcadia Prime | 15 | 0 | 0 | Residential I/II selected; 13 stages and lineage/final QA open |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
 ## Prototype-selected Neon Heights set
@@ -473,3 +473,7 @@ Crown of Tides selected and Landmark/full-collection comparisons completed. Evid
 ## Arcadian Residences checkpoint — November 6, 2026
 
 Arcadia Prime brief verifies all 15 names against registry N09 and separates delegated architectural choices. Residential Stage I inspected/selected; source integrity in JSON/handoff. Totals:150 asset files,106 non-Neon selected candidates,29 remaining base designs,zero final-certified. Next:Harmony Habitat.
+
+## Harmony Habitat checkpoint — November 6, 2026
+
+Residential Stage II individually inspected and selected: twin towers, braced private enclosed sky lounge and larger elevated pool. Integrity in JSON/handoff. Totals:151 asset files,107 non-Neon selected candidates,28 remaining base designs,zero final-certified. Next:Elysium Arcology and Residential review.

@@ -60,4 +60,4 @@ Registry names/palette/theme are canonical delegated production decisions, not p
 
 Arcadian Residences v1 individually inspected and selected: repeated domestic balconies, rooftop private pool/lounge beneath cobalt dome, white-stone/cobalt/laurel/cyan family, readable mounted name and complete building/entrance approach. No precise floor-count claim. Integrity in ASSET_MANIFEST.json.
 
-Next: Harmony Habitat using Arcadian Residences v1 reference, then Elysium Arcology and equal-width Residential QA. Complete one lineage before next identity. Final safe-area/export, edition, URI/metadata and launch gates remain open.
+Harmony Habitat v1 now individually selected: twin taller apartment towers, braced enclosed private sky lounge, larger elevated pool and full dome/base/approach framing. Next: Elysium Arcology using both accepted Residential references, then equal-width lineage QA. Complete one lineage before next identity. Final safe-area/export, edition, URI/metadata and launch gates remain open.
