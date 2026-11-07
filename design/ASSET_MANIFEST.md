@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 6, 2026 (America/Chicago) against repository parent commit `1f676b9e7cd78cb7b83fa107bf3fc8c4faa87be6`.
+Recorded November 6, 2026 (America/Chicago) against repository parent commit `2648d92d9ba9a53beb350cd2ed2d83cd44d8087a`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **152**
+- Repository asset files: **154**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **27**
+- Non-Neon required stage masters without a selected lineage candidate: **26**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -24,7 +24,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
-| Arcadia Prime | 15 | 0 | 0 | 3 Residential candidates with lineage review; 12 stages and final certification open |
+| Arcadia Prime | 15 | 0 | 0 | 4 selected candidates: Residential reviewed, Agora Plaza individually inspected; 11 stages and final certification open |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
 ## Prototype-selected Neon Heights set
@@ -481,3 +481,7 @@ Residential Stage II individually inspected and selected: twin towers, braced pr
 ## Arcadia Prime Residential completion — November 6, 2026
 
 Elysium Arcology individually/equal-width inspected with Arcadian Residences and Harmony Habitat. Eight base-selection gates pass in ARCADIA_PRIME_RESIDENTIAL_QA.md. Integrity in JSON. Totals:152 assets,108 non-Neon selected candidates,27 remaining base designs,zero final-certified. Next:Agora Plaza.
+
+## Agora Plaza checkpoint — November 6, 2026
+
+v1 retained as rejected camera source; v2 inspected and selected after perspective correction. Retail identity, exact name, supported arcade, cobalt dome and full building/base framing verified visually. Integrity in JSON/handoff. Totals:154 asset files,109 non-Neon selected stage candidates,26 remaining base stages,zero final-certified. Next:Lyceum Galleria using v2, then Infinite Forum and Retail comparison.

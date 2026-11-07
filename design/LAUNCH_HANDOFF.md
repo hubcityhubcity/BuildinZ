@@ -659,3 +659,16 @@ Fresh main parent 1f676b9e7cd78cb7b83fa107bf3fc8c4faa87be6 inspected. Built-in g
 Original generated source retained. Project source assets/candidates/arcadia-prime-elysium-arcology-stage-3-v1.png;1024×1536;3261748 bytes;SHA-256 a37cd37381873d5c97b45fe23df3219cb482e1ee5769bae16a27b817480fae91;Git blob 5e42457181a1cdadf394e8a8cee7676258940b70. Evidence:ARCADIA_PRIME_RESIDENTIAL_QA.md. Temporary comparison not release art.
 
 Counts:152 assets,108 non-Neon selected candidates,27 remaining base designs,zero final-certified. Next exact action:Agora Plaza, low colonnaded Retail plaza with visible shops/sheltered arcade and white/cobalt/cyan dry approach; then Lyceum Galleria and Infinite Forum. Preserve clear retail function and final safe-area checks. No paid action, wallet, deployment or public message performed.
+
+## Agora Plaza checkpoint — November 6, 2026
+
+Parent: 2648d92d9ba9a53beb350cd2ed2d83cd44d8087a. Canonical N09-I02 Retail Stage I: Agora Plaza → Lyceum Galleria → Infinite Forum. Delegated candidate decisions, not prior owner artwork approval.
+
+Built-in image generation produced v1 with the brief's low white-stone/cobalt shopping arcade, visible clothing/produce/books/housewares, cyan glazing, restrained gold/laurel, cobalt dome and dry approach. Actual inspection rejected the frontal photographic camera. Targeted edit preserved the design and changed camera/composition to elevated three-quarter stylized collectible view. v2 actual inspection passes exact mounted name once, retail function, supported arcade/galleries, modest Stage I mass, full roof/wing/base/entrance framing and palette. No pools or residential program. Both originals preserved; only v2 selected. Retail progression review waits for II/III. Final safe-area/edition certification remains open.
+
+- `assets/candidates/arcadia-prime-agora-plaza-stage-1-v1.png`: 2753642 bytes; 1024×1536; SHA-256 `81f1124ebd070a231da962a10f7e287bbf024b2181e2a5de8157c728e242957e`; Git blob `18446c23ea93f4a9ad2e787bd61044db695a7975`; rejected-candidate.
+- `assets/candidates/arcadia-prime-agora-plaza-stage-1-v2.png`: 2448141 bytes; 1024×1536; SHA-256 `bc2729a0e5bb879008fdb435adb9ed699375f3e927f02ffbe874c62800a08534`; Git blob `99c231f15001cecb593e599d4bc3468f8f302034`; lineage-selected-candidate.
+
+Totals:154 repository asset files;109 non-Neon selected base stage candidates plus15 Neon prototype stages;26 base stages without selected candidates;0 final-certified. Arcadia Prime4/15 selected. These are artwork coverage counts, not launch readiness. Metadata/editions, production integration, security review and final release gates stay open.
+
+Exact next: generate Lyceum Galleria from Agora Plaza v2, taller multi-level retail with shops/escalators/supported galleries and cobalt glass dome; then Infinite Forum and equal-width Retail QA. Preserve rejected v1. No paid service, wallet transaction, deployment, mint opening or public message performed.

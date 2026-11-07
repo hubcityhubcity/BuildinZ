@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "1f676b9e7cd78cb7b83fa107bf3fc8c4faa87be6",
+  "repository_commit": "2648d92d9ba9a53beb350cd2ed2d83cd44d8087a",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 152,
+    "asset_files": 154,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 108
+    "lineage_selected_candidate_stage_assets": 109
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential lineage selected and reviewed; 12 stage candidates and final certification open",
+      "status": "Residential lineage reviewed; Agora Plaza Stage I selected; 11 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 3
+      "selected_candidate_stage_assets": 4
     },
     {
       "neighborhood_id": 9,
@@ -2912,6 +2912,44 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output/equal-width lineage inspected: exact name, three domestic apartment towers, two braced private resort levels, several elevated cyan pools, enclosed lounges, complete cobalt geometric crown and full base/approach."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-agora-plaza-stage-1-v1.png",
+      "bytes": 2753642,
+      "git_blob_sha": "18446c23ea93f4a9ad2e787bd61044db695a7975",
+      "sha256": "81f1124ebd070a231da962a10f7e287bbf024b2181e2a5de8157c728e242957e",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "rejected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Agora Plaza",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Original preserved; rejected for frontal photographic camera rather than required isometric/three-quarter stylized view. Superseded by v2; not counted toward selected stage coverage."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-agora-plaza-stage-1-v2.png",
+      "bytes": 2448141,
+      "git_blob_sha": "99c231f15001cecb593e599d4bc3468f8f302034",
+      "sha256": "bc2729a0e5bb879008fdb435adb9ed699375f3e927f02ffbe874c62800a08534",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Agora Plaza",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual v2 inspected: elevated three-quarter stylized 3D view, exact mounted AGORA PLAZA once, visible clothing/produce/books/housewares shops, supported sheltered arcade/galleries, modest cobalt dome, full roof/wings/base/steps and dry approach. White/cobalt/cyan dominate; restrained gold/laurel. Agent-selected candidate, not owner approval or final export certification."
     }
   ]
 }
