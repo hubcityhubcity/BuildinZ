@@ -88,3 +88,7 @@ Arcadia Prime now has15/15 individually selected base candidates; Landmark/full-
 ## Arcadia collection review — November 7, 2026
 
 Actual15-source equal-width comparison completed; see ARCADIA_PRIME_COLLECTION_QA.md and ARCADIA_PRIME_LANDMARK_QA.md.15/15 base candidates retained, zero final-certified. Final camera/scale/background consistency and Residential side safe areas remain open alongside Beacon/Nexus corrections. No art generated or certification advanced. Next:Crimson Commons production brief verified against registry. Current coverage135/150 selected;15 remaining.
+
+## Crimson Commons production checkpoint — November 7, 2026
+
+Registry N10/index9 names/palette verified. CRIMSON_COMMONS_PRODUCTION_BRIEF.md defines all15 exact stage forms, functional separation, framing/support/inspection gates and authority. No art generated or count advanced. Next:Ember Residences → Scarlet Habitat → Crimson Arcology, then Residential comparison. Global135/150 selected; final-certified0; all export corrections stay open.
