@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "e94a5fca103ced1c06c82b835b43b1d2a7090006",
+  "repository_commit": "141a3350b89128b768d6ce398c807ba8b08fefa5",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 155,
+    "asset_files": 156,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 110
+    "lineage_selected_candidate_stage_assets": 111
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential lineage reviewed; Retail Stages I/II individually selected; 10 stage candidates and final certification open",
+      "status": "Residential and Retail lineages selected and reviewed; 9 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 5
+      "selected_candidate_stage_assets": 6
     },
     {
       "neighborhood_id": 9,
@@ -2969,6 +2969,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact mounted LYCEUM GALLERIA once, stacked retail shops with clothing/produce/books/housewares, central visible escalators, supported colonnaded galleries, larger cyan/cobalt dome, complete roof/wings/base/steps. White/cobalt/cyan and laurel/gold trim preserve Agora Plaza lineage. Candidate only; Stage III comparison/export certification pending."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-infinite-forum-stage-3-v1.png",
+      "bytes": 2767239,
+      "git_blob_sha": "d17ba1389f4bac777231c8060fc57b93e57ae8de",
+      "sha256": "2ad7aea5f5ded2e19b930b34fe7b8332d9e62c69cfc517b7450726af3a281a68",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Infinite Forum",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output and equal-width Retail comparison inspected: exact INFINITE FORUM once; taller stocked retail wings, escalators through stacked atrium, connecting galleries anchored to white piers, expanded roof pavilions and complete ribbed cobalt/cyan dome crown. Full base/steps and consistent palette. Seven base-selection gates pass; final export/edition certification open."
     }
   ]
 }

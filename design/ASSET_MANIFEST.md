@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 7, 2026 (America/Chicago) against repository parent commit `e94a5fca103ced1c06c82b835b43b1d2a7090006`.
+Recorded November 7, 2026 (America/Chicago) against repository parent commit `141a3350b89128b768d6ce398c807ba8b08fefa5`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **155**
+- Repository asset files: **156**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **25**
+- Non-Neon required stage masters without a selected lineage candidate: **24**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -24,7 +24,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
-| Arcadia Prime | 15 | 0 | 0 | 5 selected candidates: Residential reviewed, Retail I/II individually inspected; 10 stages and final certification open |
+| Arcadia Prime | 15 | 0 | 0 | 6 selected candidates: Residential and Retail lineages reviewed; 9 stages and final certification open |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
 ## Prototype-selected Neon Heights set
@@ -489,3 +489,7 @@ v1 retained as rejected camera source; v2 inspected and selected after perspecti
 ## Lyceum Galleria checkpoint — November 7, 2026
 
 Retail Stage II individually inspected and selected: taller stacked retail galleries, visible central escalators, supported colonnades and larger cobalt/cyan dome, exact name and full base framing. Integrity in JSON/handoff. Totals:155 asset files,110 non-Neon selected stage candidates,25 remaining base stages,zero final-certified. Next:Infinite Forum, then equal-width Retail lineage review.
+
+## Arcadia Prime Retail completion — November 7, 2026
+
+Infinite Forum individually/equal-width inspected with Agora Plaza v2 and Lyceum Galleria v1. Seven base-selection gates pass in ARCADIA_PRIME_RETAIL_QA.md. Source dimensions/bytes/hashes in JSON. Totals:156 assets,111 non-Neon selected candidates,24 remaining base stages,zero final-certified. Next:Axiom Labs. Final export/edition work remains open.
