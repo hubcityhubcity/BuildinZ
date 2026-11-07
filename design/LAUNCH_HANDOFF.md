@@ -614,3 +614,12 @@ Fresh main parent 769e224dda1be451963d122784a9d040acdd7b99 inspected. Built-in g
 Original generated image retained. Project source assets/candidates/moonline-harbor-tide-beacon-stage-1-v1.png;1024×1536;2263506 bytes;SHA-256 fa959ca5c908fa18f102c7fde32a2824259fa116bdbb0d15a4c8de643ee70bc1;Git blob de447fe6f70216ed8215bcc223c21bdd1366817f. PNG decoded successfully.
 
 Counts:146 assets,103 non-Neon selected candidates,32 remaining base designs,zero final-certified. Next exact action:Lunar Lighthouse using Tide Beacon v1; taller civic tower with two supported enclosed viewing zones and complete lantern/crown. Then Crown of Tides and equal-width Landmark/full-neighborhood QA. Preserve all waterfront access and generous safe margins. No paid action, wallet, deployment or public message performed.
+
+
+## Lunar Lighthouse checkpoint — November 6, 2026
+
+Fresh main parent e36911ac662a458aacd13a41d91197aebc20f084 inspected. Built-in generation used Tide Beacon v1 reference. Prompt required taller civic lighthouse with two supported enclosed observation decks at different heights, telescopes/visitors, larger complete silver lantern/crown, retained pearl/navy/aqua family, exact LUNAR LIGHTHOUSE once and expanded supported pier/access bridge/landing. Actual output inspected: two distinct viewing zones, attached curved deck supports, larger lantern and complete finial, correct mounted two-line name, full pier/piles/access bridge visible. Clear civic observation function; no lab/shop/residential/performance substitution. Individual delegated candidate selection; three-stage review awaits pinnacle.
+
+Original generated source retained. Project source assets/candidates/moonline-harbor-lunar-lighthouse-stage-2-v1.png;1024×1536;2353867 bytes;SHA-256 aa0fa9c76f99f8bc1e2bf36fc433302f94386f7d12d470f4dbb0ba0bda3ee3c7;Git blob 8839c9795b9e21848812a5e2af96320c8eb32173. PNG decoded successfully.
+
+Counts:147 assets,104 non-Neon selected candidates,31 remaining base designs,zero final-certified. Next exact action:Crown of Tides using both Landmark references; broad supported observation crown/multiple viewing galleries, attached outer ribs, expanded civic pier and complete waterfront access. Keep full crown/finial margins, then equal-width Landmark and all-15-stage neighborhood QA. No paid action, wallet, deployment or public message performed.
