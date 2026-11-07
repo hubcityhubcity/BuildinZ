@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "b6c1f2c845f2c2cc069b1927ca700b18efa5c587",
+  "repository_commit": "f31df3983e2d461c6617db3af0868d64ea0004aa",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
@@ -109,7 +109,7 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "15 base candidates selected; Landmark/full-neighborhood review pending; final export corrections and certification open",
+      "status": "15 base candidates retained after Landmark/collection review; final camera/scale/safe-area/export certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
       "selected_candidate_stage_assets": 15
     },

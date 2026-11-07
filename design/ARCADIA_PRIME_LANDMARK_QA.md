@@ -1,0 +1,3 @@
+# Arcadia Prime Landmark review
+
+November 7, 2026; source f31df3983e2d461c6617db3af0868d64ea0004aa. Actual Arcadia Beacon v1, Parthenon Apex v1 and Crown of Olympus v1 compared at equal400×600 panels in the collection sheet. Exact names and civic observation function pass; one→two→three visible viewing galleries, colonnaded lanterns and expanded attached crown ribs establish program progression. White/cobalt/cyan family and dry base persist. Full silhouettes visible; Beacon top margin remains open. III camera pulled back; no metric height claim. Base candidates retained; final scale/camera, safe-area and typography certification open. Full source hash mapping: ARCADIA_PRIME_COLLECTION_QA.md.

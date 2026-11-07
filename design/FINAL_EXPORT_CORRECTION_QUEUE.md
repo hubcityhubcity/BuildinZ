@@ -23,3 +23,10 @@ Recorded November 7, 2026. Source snapshot: 0f42936444d372b3590913bae5be7e06189e
 ## Production continuation
 
 Current selected base coverage stays 134/150; 16 slots remain. No new artwork produced by this documentation checkpoint. Crown of Olympus remains next, followed by Landmark/full-neighborhood QA. Crimson Commons follows after Arcadia review. All final certification counts remain zero.
+
+## Arcadia collection review — November 7, 2026
+
+Actual15-source equal-width comparison completed; see ARCADIA_PRIME_COLLECTION_QA.md and ARCADIA_PRIME_LANDMARK_QA.md.15/15 base candidates retained, zero final-certified. Final camera/scale/background consistency and Residential side safe areas remain open alongside Beacon/Nexus corrections. No art generated or certification advanced. Next:Crimson Commons production brief verified against registry. Current coverage135/150 selected;15 remaining.
+
+- [ ] Arcadia Residential I/II/III: verify/widen outer side safe areas at production export size.
+- [ ] Arcadia collection: reconcile camera scale/background variation, including smaller-on-canvas Landmark III; preserve program growth and avoid pixel-height claims.

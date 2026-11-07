@@ -797,3 +797,7 @@ Individually selected under delegated authority, not owner approval/final certif
 Path: assets/candidates/arcadia-prime-crown-of-olympus-stage-3-v1.png; 2337276 bytes;1024×1536; PNG verified; SHA-256 f9fed2a2776724347ab86e5952a023aef2888bb8df4815f326a54b7a6782109c; Git blob 930790e1238c7ee162f0bd36ee30b0f7420aa07a.
 
 Totals:168 assets;120 non-Neon selected +15 Neon prototypes =135/150 base slots;15 remaining;zero final-certified. Arcadia15/15 individually selected, Landmark/full-neighborhood comparisons pending. Exact next: perform both actual visual comparisons before Crimson Commons brief. Keep FINAL_EXPORT_CORRECTION_QUEUE.md open; no wallet/deployment/mint/public messaging action.
+
+## Arcadia collection review — November 7, 2026
+
+Actual15-source equal-width comparison completed; see ARCADIA_PRIME_COLLECTION_QA.md and ARCADIA_PRIME_LANDMARK_QA.md.15/15 base candidates retained, zero final-certified. Final camera/scale/background consistency and Residential side safe areas remain open alongside Beacon/Nexus corrections. No art generated or certification advanced. Next:Crimson Commons production brief verified against registry. Current coverage135/150 selected;15 remaining.
