@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "0e87793b68e83e18358b56b6f9d31b86a742aa2c",
+  "repository_commit": "252c0d03775adc64a68dfb97d3b8238009621848",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 158,
+    "asset_files": 159,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 113
+    "lineage_selected_candidate_stage_assets": 114
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail lineages reviewed; Technology I/II individually selected; 7 stage candidates and final certification open",
+      "status": "Residential/Retail/Technology base lineages reviewed; 6 stage candidates and final certification open; Nexus final side margins need widening",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 8
+      "selected_candidate_stage_assets": 9
     },
     {
       "neighborhood_id": 9,
@@ -3026,6 +3026,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact ORACLE SPIRE once; taller secured research tower with visible robotics/test chambers, two scientific instrument decks on diagonal braces, attached machinery dome and complete antenna. White/cobalt/cyan Axiom lineage; full roof/base/steps. Individual candidate only; III comparison and final export certification open."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-prime-mind-nexus-stage-3-v1.png",
+      "bytes": 2815445,
+      "git_blob_sha": "8914b9f0a4501dfe3dd33c551a84e0d091740f36",
+      "sha256": "1ba02aa99d2526fd6e9c2f9c86726406f3bc5fc2f0de569ddb4b55ddc171c33d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Prime Mind Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output and equal-width Technology comparison inspected: exact PRIME MIND NEXUS once; three research towers, computation core, two enclosed bridges on diagonal braces, lab equipment and scientific decks, complete crowns/antennae/base. Base candidate selected; outer side margins tight and must be widened/rechecked before final export. No metric-height claim."
     }
   ]
 }
