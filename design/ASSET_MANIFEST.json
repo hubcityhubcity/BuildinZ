@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "7434163640653c71a548956c52814e8bbd53f5de",
+  "repository_commit": "f089f02b6797f2cac2bd6892d10930c037998d21",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 169,
+    "asset_files": 170,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 121
+    "lineage_selected_candidate_stage_assets": 122
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Ember Residences individually selected;14 stages and final certification open",
+      "status": "Residential I/II individually selected;13 stages and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 1
+      "selected_candidate_stage_assets": 2
     }
   ],
   "assets": [
@@ -3235,6 +3235,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact name, repeated furnished domestic balconies, bone piers/charcoal frames/crimson-burgundy panels/brass trim, one private rooftop pool/lounge and dry stepped entrance. Building visible; wider plaza extends to edges, final site safe-area/style QA open. Candidate only."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-scarlet-habitat-stage-2-v1.png",
+      "bytes": 3339091,
+      "sha256": "c923d17135cc43c76934e9edca394bee0d5bb042983e5dda044bae7481baa82e",
+      "git_blob_sha": "17a63c24a046c443e8e2566638813a37ffafeebe",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact SCARLET HABITAT, twin furnished apartment towers, enclosed private sky lounge on substantial diagonal braces and larger elevated pool. Crimson/burgundy/bone/charcoal/brass lineage; full roofs/entrance visible. Site framing and full lineage/final export QA open."
     }
   ]
 }

@@ -100,3 +100,11 @@ Built-in generation produced first N10-I01 Residential candidate using committed
 Path assets/candidates/crimson-commons-ember-residences-stage-1-v1.png;3106160 bytes;1024×1536;PNG verified;SHA-256 a097824c28cdddac9ed27dc9a28e48ea6f596af01b0689598c3452afa85cf615;Git blob 2a57ce1417e7bb9e24c527f28485337dffcf4c5a. Original preserved.
 
 Totals169 assets;121 non-Neon selected +15 Neon prototype stages=136/150 base slots;14 remaining;zero final-certified. Crimson1/15. Next:Scarlet Habitat from this source, twin taller apartment towers with supported enclosed private sky lounge and larger elevated pool, then Crimson Arcology/Residential comparison. All existing export/edition/metadata/integration/security gates remain open. No paid/wallet/deploy/mint/public messaging action.
+
+## Scarlet Habitat checkpoint — November 7, 2026
+
+Built-in generation used Ember Residences v1 reference. Actual output inspected: exact name, twin tall domestic towers, enclosed furnished private sky lounge, diagonal braces tied into towers, larger elevated resident pool and complete roofs/entry. Crimson/burgundy/bone/charcoal/brass retained. No metric floor/height claim. Agent candidate choice, not prior owner approval/final certification; final site safe-area/style and lineage comparison remain open.
+
+Path assets/candidates/crimson-commons-scarlet-habitat-stage-2-v1.png;3339091 bytes;1024×1536;PNG verified;SHA-256 c923d17135cc43c76934e9edca394bee0d5bb042983e5dda044bae7481baa82e;Git blob 17a63c24a046c443e8e2566638813a37ffafeebe. Original/reference retained.
+
+Totals170 assets;122 non-Neon selected +15 Neon prototypes=137/150 base slots;13 remaining;zero final-certified. Crimson2/15. Next:Crimson Arcology with three towers, supported multi-zone private resort/several elevated pools and attached ember-lit crown, then equal-width Residential review. All existing export/edition/metadata/integration/security gates open. No paid/wallet/deploy/mint/public messaging action.
