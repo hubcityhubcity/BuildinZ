@@ -73,6 +73,10 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 - [ ] Owner funds and signs deployment/mint-opening transactions.
 - [ ] Open public mint and send public announcements only after explicit authorization.
 
+## Final export correction queue
+
+- [ ] Close every recorded item in [FINAL_EXPORT_CORRECTION_QUEUE.md](FINAL_EXPORT_CORRECTION_QUEUE.md) with actual corrected-file and visual evidence before final certification.
+
 ## Current exact next action
 
 Generate Crown of Olympus using Arcadia Beacon v1 and Parthenon Apex v1 under ARCADIA_PRIME_PRODUCTION_BRIEF.md: broad multi-gallery civic observation crown carried by attached ribs/colonnades, complete lantern and expanded ceremonial base. Keep viewing visitors/telescopes, white/cobalt/cyan, restrained gold/laurel and dry approach; exact mounted name and generous full silhouette framing. Then Landmark/full-neighborhood review. Final export/edition certification remains open, including Beacon top margin, Nexus side margins, Moonline margins and Old World Steel residential safe areas.
