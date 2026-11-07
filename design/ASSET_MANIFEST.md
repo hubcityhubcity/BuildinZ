@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 6, 2026 (America/Chicago) against repository parent commit `e36911ac662a458aacd13a41d91197aebc20f084`.
+Recorded November 6, 2026 (America/Chicago) against repository parent commit `ad66094cdc70dee85e2e5ef902f4961e68cb864d`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **147**
+- Repository asset files: **149**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **31**
+- Non-Neon required stage masters without a selected lineage candidate: **30**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -23,7 +23,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Velocity Row | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
-| Moonline Harbor | 15 | 0 | 0 | 14 selected candidates; four lineages reviewed, Landmark I/II selected; 1 Landmark stage and final certification open |
+| Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | production not started |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
@@ -465,3 +465,7 @@ Landmark Stage I individually inspected and selected: slender observation tower 
 ## Lunar Lighthouse checkpoint — November 6, 2026
 
 Landmark Stage II individually inspected and selected: two supported viewing decks/telescopes, larger lantern/crown and complete waterfront access. Integrity in JSON/handoff. Totals:147 assets,104 non-Neon selected candidates,31 remaining base designs,zero final-certified. Next:Crown of Tides, then Landmark/full-neighborhood QA.
+
+## Moonline Harbor collection checkpoint — November 6, 2026
+
+Crown of Tides selected and Landmark/full-collection comparisons completed. Evidence:MOONLINE_HARBOR_LANDMARK_QA.md and MOONLINE_HARBOR_COLLECTION_QA.md; review sheet and source hashes in JSON. Totals:149 assets,105 non-Neon selected candidates,30 remaining base designs,zero final-certified. 120/150 base stages selected including Neon prototypes, not a launch-readiness percentage. Final export margins and edition work remain open. Next:Arcadia Prime production brief.

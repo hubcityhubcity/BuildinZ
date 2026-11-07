@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "e36911ac662a458aacd13a41d91197aebc20f084",
+  "repository_commit": "ad66094cdc70dee85e2e5ef902f4961e68cb864d",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 147,
+    "asset_files": 149,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 104
+    "lineage_selected_candidate_stage_assets": 105
   },
   "production_matrix": [
     {
@@ -98,9 +98,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Four lineages reviewed; Landmark I/II selected; 1 Landmark candidate and final certification open",
+      "status": "15 base candidates pass collection review; safe-area/export checks, edition production and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 14
+      "selected_candidate_stage_assets": 15
     },
     {
       "neighborhood_id": 8,
@@ -2820,6 +2820,41 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact name, two enclosed aqua viewing decks with telescopes/visitors, curved ribs attached to pearl/navy tower, larger complete silver lantern/crown, pier piles and full access bridge/landing."
+    },
+    {
+      "path": "assets/candidates/moonline-harbor-crown-of-tides-stage-3-v1.png",
+      "bytes": 2410911,
+      "git_blob_sha": "380990228c25a0e09ab973cb1b430f84d851be2a",
+      "sha256": "3a5dd13700e5eb1a1cc7f21d200a385dcd1808dc40f685d86ceca8f3aabe3805",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "neighborhood": "Moonline Harbor",
+      "selected_for_prototype": false,
+      "final_nft_certification": false,
+      "classification": "lineage-selected-candidate",
+      "identity_name": "Crown of Tides",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_lineage_review": true,
+      "evidence": "Actual output/equal-width Landmark inspection: exact name, three enclosed telescope viewing galleries, attached outer ribs, larger lantern/crown, broad civic pier and complete access bridge."
+    },
+    {
+      "path": "assets/qa/moonline-harbor-collection-contact-sheet-v1.png",
+      "bytes": 2754119,
+      "git_blob_sha": "3c7e4ffff62908d781b7a1ac15bfd0737890c4bf",
+      "sha256": "dfcbde79e89dbb2ffa6eb6e8dd18bcd22d6fbbb480a091513916b880afaaed02",
+      "dimensions": {
+        "width": 768,
+        "height": 1920
+      },
+      "neighborhood": "Moonline Harbor",
+      "selected_for_prototype": false,
+      "final_nft_certification": false,
+      "classification": "qa-contact-sheet",
+      "selected_for_lineage_review": false,
+      "evidence": "Actual five-row/three-column equal-width collection comparison inspected; review derivative, not NFT artwork."
     }
   ]
 }
