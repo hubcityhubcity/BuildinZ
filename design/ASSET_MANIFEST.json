@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "a92f0ec8cd952c5500f1f65388d2eec817da7df1",
+  "repository_commit": "d26c7ba2ca2da8c445f972731362785705b133f6",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 166,
+    "asset_files": 167,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 118
+    "lineage_selected_candidate_stage_assets": 119
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Four base lineages reviewed; Arcadia Beacon selected; 2 Landmark stages/final certification open; Nexus side and Beacon top margins require export correction",
+      "status": "Four base lineages reviewed; Landmark I/II selected; Crown of Olympus/final certification open; Beacon top/Nexus side margins require correction",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 13
+      "selected_candidate_stage_assets": 14
     },
     {
       "neighborhood_id": 9,
@@ -3178,6 +3178,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact ARCADIA BEACON sign, enclosed cyan viewing gallery with visitors/telescopes, attached supports and lantern dome, white/cobalt civic tower with dry complete base/approach. Finial fully present but top margin tight; wider final export required. Candidate only."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-parthenon-apex-stage-2-v1.png",
+      "bytes": 2295616,
+      "git_blob_sha": "d20c42bd6bfb3da8ee067ea6666f40c5105420bd",
+      "sha256": "84a62676d2e15edc77856bfd72e027f513f6798561db65367455dee9ea5bd3e1",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Parthenon Apex",
+      "stage": 2,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact PARTHENON APEX sign; two distinct enclosed cyan viewing galleries with telescopes/visitors on attached white brackets, colonnaded lantern summit and full finial/base/steps. White/cobalt/cyan lineage retained. Individual candidate only; full lineage/final export certification open."
     }
   ]
 }

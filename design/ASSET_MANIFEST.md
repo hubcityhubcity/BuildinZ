@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 7, 2026 (America/Chicago) against repository parent commit `a92f0ec8cd952c5500f1f65388d2eec817da7df1`.
+Recorded November 7, 2026 (America/Chicago) against repository parent commit `d26c7ba2ca2da8c445f972731362785705b133f6`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **166**
+- Repository asset files: **167**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **17**
+- Non-Neon required stage masters without a selected lineage candidate: **16**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -24,7 +24,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
-| Arcadia Prime | 15 | 0 | 0 | 13 selected candidates: four lineages reviewed, Arcadia Beacon selected; 2 Landmark stages/final certification open; Nexus side and Beacon top margins require correction |
+| Arcadia Prime | 15 | 0 | 0 | 14 selected candidates: four lineages reviewed, Landmark I/II selected; Crown of Olympus/final certification open; Nexus side and Beacon top margins require correction |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
 ## Prototype-selected Neon Heights set
@@ -521,3 +521,7 @@ Olympian Conservatory v2 selected after side-framing correction; v1 preserved/re
 ## Arcadia Beacon checkpoint — November 7, 2026
 
 Landmark Stage I inspected/selected: exact name, viewing gallery/telescopes, supported lantern and full civic base/approach. Finial present but top margin tight; final widening required. Integrity in JSON/handoff. Totals:166 assets,118 non-Neon selected candidates,17 remaining base stages,zero final-certified. Next:Parthenon Apex.
+
+## Parthenon Apex checkpoint — November 7, 2026
+
+Landmark Stage II individually inspected/selected: exact name, two enclosed viewing galleries/telescopes, supported colonnaded lantern summit and full finial/base/approach. Integrity in JSON/handoff. Totals:167 assets,119 non-Neon selected candidates,16 remaining base stages,zero final-certified. Next:Crown of Olympus and Landmark/full-neighborhood comparison.
