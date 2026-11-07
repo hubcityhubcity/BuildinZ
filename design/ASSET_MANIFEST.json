@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "ad66094cdc70dee85e2e5ef902f4961e68cb864d",
+  "repository_commit": "06ca82f55483b924bfa83f53d5a746890a13c36c",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 149,
+    "asset_files": 150,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 105
+    "lineage_selected_candidate_stage_assets": 106
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "production not started",
+      "status": "Arcadian Residences selected; 14 stage candidates, lineage QA and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 0
+      "selected_candidate_stage_assets": 1
     },
     {
       "neighborhood_id": 9,
@@ -2855,6 +2855,25 @@
       "classification": "qa-contact-sheet",
       "selected_for_lineage_review": false,
       "evidence": "Actual five-row/three-column equal-width collection comparison inspected; review derivative, not NFT artwork."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-arcadian-residences-stage-1-v1.png",
+      "bytes": 3138174,
+      "git_blob_sha": "3d9f374227a20456978ce5bb28fbdb13c393b2dc",
+      "sha256": "50dc27bc15d9e3db18e5fbd2fcf2f663802d95775815b82c80fc2114f8f5428d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Arcadian Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact name, repeated domestic balconies, private rooftop cyan pool/lounge with cobalt dome, white-stone/cobalt/laurel/cyan palette, complete building silhouette and entrance steps/approach."
     }
   ]
 }
