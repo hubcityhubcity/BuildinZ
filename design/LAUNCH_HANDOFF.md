@@ -650,3 +650,12 @@ Fresh main parent 180cb47e1647a2560e00ec511446c960eb540107 inspected. Built-in g
 Original generated source retained. Project source assets/candidates/arcadia-prime-harmony-habitat-stage-2-v1.png;1024×1536;3106821 bytes;SHA-256 d9210afd45b9cb25c4122c98b3427ebec9689a2594d6cef93d4feb0644f0ef30;Git blob d23d5cde331e1d4515dcce4f1b8e521976441bf1. PNG decoded successfully.
 
 Counts:151 asset files,107 non-Neon selected candidates,28 remaining base designs,zero final-certified. Next exact action:Elysium Arcology using both Residential references; three towers, supported multi-zone private sky resort/several elevated pools and complete cobalt/gold geometric crown, then equal-width lineage QA. Preserve domestic function, restrained rooftop greenery and complete framing. No paid action, wallet, deployment or public message performed.
+
+
+## Elysium Arcology / Residential lineage QA — November 6, 2026
+
+Fresh main parent 1f676b9e7cd78cb7b83fa107bf3fc8c4faa87be6 inspected. Built-in generation used Arcadian Residences v1/Harmony Habitat v1 references. Prompt required three stepped domestic apartment towers, two visibly braced private sky-resort levels, enclosed lounges, several elevated cyan pools/sun/seating zones, complete cobalt/gold geometric crown, retained white-stone/cobalt/cyan family, exact ELYSIUM ARCOLOGY once and full approach framing. Actual output individually and equal-width inspected: three towers, multi-zone private amenities, attached braces, geometric central crown, name and full silhouette/base/steps pass. No floor-count or metric-height claim. All sources decode; I/II hashes match manifest. Delegated candidate selection only.
+
+Original generated source retained. Project source assets/candidates/arcadia-prime-elysium-arcology-stage-3-v1.png;1024×1536;3261748 bytes;SHA-256 a37cd37381873d5c97b45fe23df3219cb482e1ee5769bae16a27b817480fae91;Git blob 5e42457181a1cdadf394e8a8cee7676258940b70. Evidence:ARCADIA_PRIME_RESIDENTIAL_QA.md. Temporary comparison not release art.
+
+Counts:152 assets,108 non-Neon selected candidates,27 remaining base designs,zero final-certified. Next exact action:Agora Plaza, low colonnaded Retail plaza with visible shops/sheltered arcade and white/cobalt/cyan dry approach; then Lyceum Galleria and Infinite Forum. Preserve clear retail function and final safe-area checks. No paid action, wallet, deployment or public message performed.

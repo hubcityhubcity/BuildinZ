@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-06",
-  "repository_commit": "180cb47e1647a2560e00ec511446c960eb540107",
+  "repository_commit": "1f676b9e7cd78cb7b83fa107bf3fc8c4faa87be6",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 151,
+    "asset_files": 152,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 107
+    "lineage_selected_candidate_stage_assets": 108
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential I/II selected; 13 stage candidates, lineage QA and final certification open",
+      "status": "Residential lineage selected and reviewed; 12 stage candidates and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 2
+      "selected_candidate_stage_assets": 3
     },
     {
       "neighborhood_id": 9,
@@ -2893,6 +2893,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact name, twin taller apartment towers, braced enclosed private sky lounge, larger elevated pool, retained white-stone/cobalt/cyan domestic family, complete domes/base/entrance approach."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-elysium-arcology-stage-3-v1.png",
+      "bytes": 3261748,
+      "git_blob_sha": "5e42457181a1cdadf394e8a8cee7676258940b70",
+      "sha256": "a37cd37381873d5c97b45fe23df3219cb482e1ee5769bae16a27b817480fae91",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Elysium Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output/equal-width lineage inspected: exact name, three domestic apartment towers, two braced private resort levels, several elevated cyan pools, enclosed lounges, complete cobalt geometric crown and full base/approach."
     }
   ]
 }
