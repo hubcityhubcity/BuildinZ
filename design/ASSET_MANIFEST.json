@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "8cf14db66b4c84d47c939f8e76e8ca753bf6622d",
+  "repository_commit": "6d88ae629d5631a68b8e11bcd588b5f1a05cacf8",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 163,
+    "asset_files": 165,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 116
+    "lineage_selected_candidate_stage_assets": 117
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail/Technology base lineages reviewed; Entertainment I/II individually selected; 4 stages and final certification open; Nexus side margins need widening",
+      "status": "Residential/Retail/Technology/Entertainment base lineages reviewed; 3 Landmark stages and final certification open; Nexus side margins need widening",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 11
+      "selected_candidate_stage_assets": 12
     },
     {
       "neighborhood_id": 9,
@@ -3121,6 +3121,44 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact APOLLO PALACE sign; central concert stage and audience, two upper central audience balcony tiers and two side performance halls with musicians/seating. White piers support balcony tiers, cobalt shell dome/canopies and cyan glazing preserve Muse lineage; full roof/wings/base visible. Individual candidate; final lineage/export certification open."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-olympian-conservatory-stage-3-v1.png",
+      "bytes": 2430313,
+      "git_blob_sha": "f426011d18b7a5c1e6cd5714425cc098dc7acd0c",
+      "sha256": "7b2ddc00b4426e59f8c29122714322e80d5047245bf8dccde8326a704a06c5db",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "rejected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Olympian Conservatory",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Original preserved; rejected for tight outer side framing. Corrected by v2; excluded from selected coverage."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-olympian-conservatory-stage-3-v2.png",
+      "bytes": 2211053,
+      "git_blob_sha": "a948d5252847100362ae68fb559dfd373e82b079",
+      "sha256": "5af828586dafa5478b3ad65983793a81b69621a114b71302a355077eb6b0fbaf",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Olympian Conservatory",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual v2 and equal-width Entertainment comparison inspected: exact name, three central audience balcony tiers, five visible performance spaces with audiences, attached domed crown/pavilions, white/cobalt/cyan continuity and improved full-side/base framing. Base candidate selected; final standardized exports/typography/editions open."
     }
   ]
 }
