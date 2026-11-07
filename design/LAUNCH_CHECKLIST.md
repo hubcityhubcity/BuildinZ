@@ -92,3 +92,11 @@ Actual15-source equal-width comparison completed; see ARCADIA_PRIME_COLLECTION_Q
 ## Crimson Commons production checkpoint — November 7, 2026
 
 Registry N10/index9 names/palette verified. CRIMSON_COMMONS_PRODUCTION_BRIEF.md defines all15 exact stage forms, functional separation, framing/support/inspection gates and authority. No art generated or count advanced. Next:Ember Residences → Scarlet Habitat → Crimson Arcology, then Residential comparison. Global135/150 selected; final-certified0; all export corrections stay open.
+
+## Ember Residences checkpoint — November 7, 2026
+
+Built-in generation produced first N10-I01 Residential candidate using committed Crimson brief: bone piers/charcoal/crimson/burgundy/brass, furnished apartment balconies, one private rooftop pool/lounge and dry civic arrival. Actual output inspected: exact EMBER RESIDENCES, domestic function, attached balconies, roof and entrance visible. Wider plaza reaches frame edges; full site safe-area/camera consistency remain final export gates. No metric floor/height claim. Agent selection, not prior owner approval/final certification.
+
+Path assets/candidates/crimson-commons-ember-residences-stage-1-v1.png;3106160 bytes;1024×1536;PNG verified;SHA-256 a097824c28cdddac9ed27dc9a28e48ea6f596af01b0689598c3452afa85cf615;Git blob 2a57ce1417e7bb9e24c527f28485337dffcf4c5a. Original preserved.
+
+Totals169 assets;121 non-Neon selected +15 Neon prototype stages=136/150 base slots;14 remaining;zero final-certified. Crimson1/15. Next:Scarlet Habitat from this source, twin taller apartment towers with supported enclosed private sky lounge and larger elevated pool, then Crimson Arcology/Residential comparison. All existing export/edition/metadata/integration/security gates remain open. No paid/wallet/deploy/mint/public messaging action.

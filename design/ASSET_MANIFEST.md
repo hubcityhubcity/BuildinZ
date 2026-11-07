@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **168**
+- Repository asset files: **169**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **15**
+- Non-Neon required stage masters without a selected lineage candidate: **14**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -533,3 +533,11 @@ Arcadia Prime now has15/15 individually selected base candidates; Landmark/full-
 ## Arcadia collection review — November 7, 2026
 
 Actual15-source equal-width comparison completed; see ARCADIA_PRIME_COLLECTION_QA.md and ARCADIA_PRIME_LANDMARK_QA.md.15/15 base candidates retained, zero final-certified. Final camera/scale/background consistency and Residential side safe areas remain open alongside Beacon/Nexus corrections. No art generated or certification advanced. Next:Crimson Commons production brief verified against registry. Current coverage135/150 selected;15 remaining.
+
+## Ember Residences checkpoint — November 7, 2026
+
+Built-in generation produced first N10-I01 Residential candidate using committed Crimson brief: bone piers/charcoal/crimson/burgundy/brass, furnished apartment balconies, one private rooftop pool/lounge and dry civic arrival. Actual output inspected: exact EMBER RESIDENCES, domestic function, attached balconies, roof and entrance visible. Wider plaza reaches frame edges; full site safe-area/camera consistency remain final export gates. No metric floor/height claim. Agent selection, not prior owner approval/final certification.
+
+Path assets/candidates/crimson-commons-ember-residences-stage-1-v1.png;3106160 bytes;1024×1536;PNG verified;SHA-256 a097824c28cdddac9ed27dc9a28e48ea6f596af01b0689598c3452afa85cf615;Git blob 2a57ce1417e7bb9e24c527f28485337dffcf4c5a. Original preserved.
+
+Totals169 assets;121 non-Neon selected +15 Neon prototype stages=136/150 base slots;14 remaining;zero final-certified. Crimson1/15. Next:Scarlet Habitat from this source, twin taller apartment towers with supported enclosed private sky lounge and larger elevated pool, then Crimson Arcology/Residential comparison. All existing export/edition/metadata/integration/security gates remain open. No paid/wallet/deploy/mint/public messaging action.
