@@ -694,3 +694,15 @@ Parent: 141a3350b89128b768d6ce398c807ba8b08fefa5. N09-I02 exact Retail lineage A
 Totals:156 repository assets;111 non-Neon selected base stage candidates plus15 Neon prototype stages;24 base stages without selected candidates;0 final-certified. Arcadia Prime6/15 selected with Residential/Retail reviewed. Edition rendering, final metadata/URIs, production integration/security and release gates remain open.
 
 Exact next: Axiom Labs, compact secured robotics/engineering labs with visible benches and diagnostic glazing, cobalt geometric dome, white-stone supports and dry approach. Then Oracle Spire → Prime Mind Nexus and Technology comparison. Keep functional distinction from shops/residences. No paid service, wallet transaction, deployment, mint opening or public message performed.
+
+## Axiom Labs checkpoint — November 7, 2026
+
+Parent: 778e54a2e45b7d87737aa2b8a8b5cffe4a4de62c. N09-I03 Technology Stage I exact name follows Arcadia brief: Axiom Labs → Oracle Spire → Prime Mind Nexus. Delegated candidate choice, not prior owner artwork approval.
+
+Built-in image generation prompt: modest compact secured engineering campus in elevated three-quarter stylized 3D, white-stone piers/cobalt panels/cyan glazing, thin gold/laurel accents, visible robotics/workbenches/test chambers/instrument screens, compact geometric machinery dome, secured entrance and dry stepped base. Exact mounted AXIOM LABS once, full roof/base framing, no shop/residential/pool/theatre program. Actual output visually inspected: robotics arms at benches, instrument displays and researchers, enclosed test chamber, access gates, attached dome ribs and complete approach. Distinct research function; no metric floor/height claim. Individual candidate selected; II/III comparison, final export/safe-area/edition certification remain open.
+
+- `assets/candidates/arcadia-prime-axiom-labs-stage-1-v1.png`: 2,661,027 bytes;1024×1536; PNG decode verified; SHA-256 `84a4b334231119a254348009dd54ad08a2122edffd3db62b7457288e8b2fa534`; Git blob `3cd6aa8210e285b119993e5447e5d99280eedac3`. Generated original retained.
+
+Totals:157 repository assets;112 non-Neon selected base stage candidates plus15 Neon prototype stages;23 base stages without selected candidates;0 final-certified. Arcadia Prime7/15 selected. Metadata/URIs, edition rendering, production integration/security and release gates remain open.
+
+Exact next: Oracle Spire using Axiom Labs v1, taller secured research spire with enclosed testing and visibly supported instrument decks; then Prime Mind Nexus and Technology comparison. No paid service, wallet transaction, deployment, mint opening or public message performed.
