@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "03e07d7873f2a3aaee9cc06e7c78afffa5bfda5b",
+  "repository_commit": "8cf14db66b4c84d47c939f8e76e8ca753bf6622d",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 162,
+    "asset_files": 163,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 115
+    "lineage_selected_candidate_stage_assets": 116
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail/Technology base lineages reviewed; Muse Hall individually selected; 5 stages and final certification open; Nexus side margins need widening",
+      "status": "Residential/Retail/Technology base lineages reviewed; Entertainment I/II individually selected; 4 stages and final certification open; Nexus side margins need widening",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 10
+      "selected_candidate_stage_assets": 11
     },
     {
       "neighborhood_id": 9,
@@ -3102,6 +3102,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual corrected output inspected: exact MUSE HALL sign, visible piano/drums/singer/strings, raised concert stage and facing seated audience, rehearsal wings, supported cobalt shell dome, white/cobalt/cyan palette, elevated three-quarter view and complete base/approach. Agent-selected candidate; lineage/final export certification pending."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-apollo-palace-stage-2-v1.png",
+      "bytes": 2276629,
+      "git_blob_sha": "6785d2a4438a47b21ec290b94c217aecb2991689",
+      "sha256": "4fb9c6ac2b0671d4ab53f1e4af02e3878e7012be44bfac1fe143417f300c2099",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Apollo Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact APOLLO PALACE sign; central concert stage and audience, two upper central audience balcony tiers and two side performance halls with musicians/seating. White piers support balcony tiers, cobalt shell dome/canopies and cyan glazing preserve Muse lineage; full roof/wings/base visible. Individual candidate; final lineage/export certification open."
     }
   ]
 }

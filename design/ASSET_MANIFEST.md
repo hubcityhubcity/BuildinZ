@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 7, 2026 (America/Chicago) against repository parent commit `03e07d7873f2a3aaee9cc06e7c78afffa5bfda5b`.
+Recorded November 7, 2026 (America/Chicago) against repository parent commit `8cf14db66b4c84d47c939f8e76e8ca753bf6622d`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **162**
+- Repository asset files: **163**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **20**
+- Non-Neon required stage masters without a selected lineage candidate: **19**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -24,7 +24,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
-| Arcadia Prime | 15 | 0 | 0 | 10 selected candidates: Residential/Retail/Technology reviewed, Muse Hall selected; 5 stages and final certification open; Nexus side margins require final widening |
+| Arcadia Prime | 15 | 0 | 0 | 11 selected candidates: Residential/Retail/Technology reviewed, Entertainment I/II selected; 4 stages and final certification open; Nexus side margins require final widening |
 | Crimson Commons | 15 | 0 | 0 | production not started |
 
 ## Prototype-selected Neon Heights set
@@ -509,3 +509,7 @@ Prime Mind Nexus selected after individual/equal-width comparison with Axiom Lab
 ## Muse Hall checkpoint — November 7, 2026
 
 v1 rejected for frontal camera; v2 rejected for extra sign word; both preserved. Corrected v3 individually inspected and selected with visible concert/audience/rehearsal rooms, exact name, cobalt shell dome, elevated three-quarter view and complete framing. Integrity in JSON/handoff. Totals:162 assets,115 non-Neon selected candidates,20 remaining base stages,zero final-certified. Next:Apollo Palace, then Olympian Conservatory and Entertainment comparison.
+
+## Apollo Palace checkpoint — November 7, 2026
+
+Entertainment Stage II individually inspected and selected: three visible performance halls, two upper central audience balcony tiers, exact name and complete shell dome/wing/base framing. Integrity in JSON/handoff. Totals:163 assets,116 non-Neon selected candidates,19 remaining base stages,zero final-certified. Next:Olympian Conservatory and equal-width Entertainment comparison.
