@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-07",
-  "repository_commit": "d26c7ba2ca2da8c445f972731362785705b133f6",
+  "repository_commit": "b6c1f2c845f2c2cc069b1927ca700b18efa5c587",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 167,
+    "asset_files": 168,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 119
+    "lineage_selected_candidate_stage_assets": 120
   },
   "production_matrix": [
     {
@@ -109,9 +109,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Four base lineages reviewed; Landmark I/II selected; Crown of Olympus/final certification open; Beacon top/Nexus side margins require correction",
+      "status": "15 base candidates selected; Landmark/full-neighborhood review pending; final export corrections and certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 14
+      "selected_candidate_stage_assets": 15
     },
     {
       "neighborhood_id": 9,
@@ -3197,6 +3197,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact PARTHENON APEX sign; two distinct enclosed cyan viewing galleries with telescopes/visitors on attached white brackets, colonnaded lantern summit and full finial/base/steps. White/cobalt/cyan lineage retained. Individual candidate only; full lineage/final export certification open."
+    },
+    {
+      "path": "assets/candidates/arcadia-prime-crown-of-olympus-stage-3-v1.png",
+      "bytes": 2337276,
+      "sha256": "f9fed2a2776724347ab86e5952a023aef2888bb8df4815f326a54b7a6782109c",
+      "git_blob_sha": "930790e1238c7ee162f0bd36ee30b0f7420aa07a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Crown of Olympus",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Individually inspected: exact name, three cyan viewing tiers with visitors/telescopes, attached white ribs carrying broad crown into base, complete lantern/finial and dry approach. Landmark comparison pending; no metric-height claim."
     }
   ]
 }

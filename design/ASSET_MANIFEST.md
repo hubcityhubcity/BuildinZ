@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **167**
+- Repository asset files: **168**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **16**
+- Non-Neon required stage masters without a selected lineage candidate: **15**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -525,3 +525,7 @@ Landmark Stage I inspected/selected: exact name, viewing gallery/telescopes, sup
 ## Parthenon Apex checkpoint — November 7, 2026
 
 Landmark Stage II individually inspected/selected: exact name, two enclosed viewing galleries/telescopes, supported colonnaded lantern summit and full finial/base/approach. Integrity in JSON/handoff. Totals:167 assets,119 non-Neon selected candidates,16 remaining base stages,zero final-certified. Next:Crown of Olympus and Landmark/full-neighborhood comparison.
+
+## Crown of Olympus checkpoint — November 7, 2026
+
+Arcadia Prime now has15/15 individually selected base candidates; Landmark/full-neighborhood comparison remains pending. Current totals:168 assets,120 non-Neon selected,15 base stages remaining,zero final-certified. Next:actual Landmark/full-neighborhood visual QA; preserve all export correction gates.
