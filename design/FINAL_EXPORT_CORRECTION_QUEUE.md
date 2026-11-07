@@ -30,3 +30,11 @@ Actual15-source equal-width comparison completed; see ARCADIA_PRIME_COLLECTION_Q
 
 - [ ] Arcadia Residential I/II/III: verify/widen outer side safe areas at production export size.
 - [ ] Arcadia collection: reconcile camera scale/background variation, including smaller-on-canvas Landmark III; preserve program growth and avoid pixel-height claims.
+
+## Crimson Arcology checkpoint — November 7, 2026
+
+Built-in generation used Scarlet Habitat v1 reference. Actual output inspected: exact CRIMSON ARCOLOGY, three domestic towers, attached crown, two elevated enclosed lounge/resort levels on large diagonal braces, several separate elevated pools and private seating. Palette retained. Top crown margin tight; wider final export required. No metric height claim; agent candidate choice, not owner approval/final certification. Original preserved.
+
+Path assets/candidates/crimson-commons-crimson-arcology-stage-3-v1.png;3279182 bytes;1024×1536;PNG verified;SHA-256 aa3f774e7e9684cc79772463fe4d8f56a9bc92f44de947f2115ea106ec8e1102;Git blob f01f32381a7fe9ac19e51cf8eb4352dbe4cc415b.
+
+Totals171 assets;123 non-Neon selected+15 Neon prototypes=138/150 base slots;12 remaining;zero final-certified. Crimson3/15. Exact next:actual equal-width Residential comparison before Commons Market. Preserve III top margin and I/II site safe-area/style review on final correction queue. No paid/wallet/deploy/mint/public messaging action.

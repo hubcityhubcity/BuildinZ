@@ -821,3 +821,11 @@ Built-in generation used Ember Residences v1 reference. Actual output inspected:
 Path assets/candidates/crimson-commons-scarlet-habitat-stage-2-v1.png;3339091 bytes;1024×1536;PNG verified;SHA-256 c923d17135cc43c76934e9edca394bee0d5bb042983e5dda044bae7481baa82e;Git blob 17a63c24a046c443e8e2566638813a37ffafeebe. Original/reference retained.
 
 Totals170 assets;122 non-Neon selected +15 Neon prototypes=137/150 base slots;13 remaining;zero final-certified. Crimson2/15. Next:Crimson Arcology with three towers, supported multi-zone private resort/several elevated pools and attached ember-lit crown, then equal-width Residential review. All existing export/edition/metadata/integration/security gates open. No paid/wallet/deploy/mint/public messaging action.
+
+## Crimson Arcology checkpoint — November 7, 2026
+
+Built-in generation used Scarlet Habitat v1 reference. Actual output inspected: exact CRIMSON ARCOLOGY, three domestic towers, attached crown, two elevated enclosed lounge/resort levels on large diagonal braces, several separate elevated pools and private seating. Palette retained. Top crown margin tight; wider final export required. No metric height claim; agent candidate choice, not owner approval/final certification. Original preserved.
+
+Path assets/candidates/crimson-commons-crimson-arcology-stage-3-v1.png;3279182 bytes;1024×1536;PNG verified;SHA-256 aa3f774e7e9684cc79772463fe4d8f56a9bc92f44de947f2115ea106ec8e1102;Git blob f01f32381a7fe9ac19e51cf8eb4352dbe4cc415b.
+
+Totals171 assets;123 non-Neon selected+15 Neon prototypes=138/150 base slots;12 remaining;zero final-certified. Crimson3/15. Exact next:actual equal-width Residential comparison before Commons Market. Preserve III top margin and I/II site safe-area/style review on final correction queue. No paid/wallet/deploy/mint/public messaging action.
