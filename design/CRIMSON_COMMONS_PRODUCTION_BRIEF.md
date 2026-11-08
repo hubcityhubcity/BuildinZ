@@ -44,7 +44,7 @@ Five identities ×20 editions =100 Genesis tokens for this neighborhood; three s
 
 ## Exact next batch
 
-Generate Redline Labs under CRIMSON_COMMONS_PRODUCTION_BRIEF.md: secured engineering labs, visible robotics/test benches and diagnostic glass; then Vermilion Spire, Phoenix Nexus and Technology comparison. Retail core lineage reviewed in CRIMSON_COMMONS_RETAIL_QA.md; final camera/framing corrections remain open. Counts unchanged:141/150 selected base stages,9 remain,zero final-certified.
+Generate Vermilion Spire from selected Redline Labs v2 after inspecting original: taller research spire, enclosed testing chambers, braced instrument decks; then Phoenix Nexus and Technology comparison. Crimson7/15;142/150 selected base slots;8 remain;zero certified.
 
 ## Residential comparison checkpoint — November 7, 2026
 
@@ -61,3 +61,13 @@ assets/candidates/crimson-commons-cardinal-exchange-stage-3-v1.png;2668901 bytes
 ## Retail comparison checkpoint — November 7, 2026
 
 Actual equal-width original-source comparison completed; names, growing mass, palette, retail function and visible supports pass candidate lineage review. Near-symmetric camera, tight sides and final crown/program/export checks remain open. Evidence:CRIMSON_COMMONS_RETAIL_QA.md. Generate Redline Labs under CRIMSON_COMMONS_PRODUCTION_BRIEF.md: secured engineering labs, visible robotics/test benches and diagnostic glass; then Vermilion Spire, Phoenix Nexus and Technology comparison. Retail core lineage reviewed in CRIMSON_COMMONS_RETAIL_QA.md; final camera/framing corrections remain open. Counts unchanged:141/150 selected base stages,9 remain,zero final-certified.
+
+
+## Redline Labs checkpoint — November 7, 2026
+
+Generated and inspected v1: correct name, laboratory function/palette, strong corner camera, but right low wing clipped; rejected and preserved. Built-in framing correction v2 restores complete right wing and visible base/roof. Actual v2 inspected: robotics, diagnostic screens, test benches, researchers, secured entrance and bone structural braces. Selected v2 under delegated production authority, not prior owner approval/final certification. PNG decode verified1024x1536. V1:2920907 bytes,SHA256 da986db4be42fd69bee26b270ddc449f3ee771e108e2cf112a13d716eb107df0. V2:2794209 bytes,SHA256 530634c9c42706036113f42078aa6e06020d7ad7f14a0d7b97dab61d19272c67. Manifest records Git hashes. Inventory176 files;127 non-Neon candidates+15 Neon prototypes=142/150 base slots. Final export/style/crop checks remain open.
+
+Generate Vermilion Spire from selected Redline Labs v2 after inspecting original: taller research spire, enclosed testing chambers, braced instrument decks; then Phoenix Nexus and Technology comparison. Crimson7/15;142/150 selected base slots;8 remain;zero certified.
+
+Original generation prompt: Use case: stylized-concept. BuildinZ Crimson Commons Technology Stage I: REDLINE LABS. Premium architectural isometric 3D render in portrait1024x1536. Compact secured two-level engineering research building with bone structural piers, charcoal metal frames, crimson and burgundy facade panels, thin warm brass edges, vertical burgundy banners without text. Clearly visible through large diagnostic glass walls: industrial robotic arms, engineering test benches, instruments and researchers, secure glazed entrance. No shops, apartment balconies, pools or theatre. Attached low roof instrumentation and mechanical vents, supported structure; reserve tall research spire and connected towers for later evolutions. Elevated three-quarter CORNER view with visibly unequal facade widths, strong side depth, full roof, all wings, base corners and dry civic approach inside image with generous margins. Restrained sunset urban backdrop, warm architectural lighting and muted laboratory task lights. Exact sole mounted entrance name in clean gold sans-serif: "REDLINE LABS". No other words, type labels or stage labels. No flames, floating decks or cropped architecture.
+Correction: pull camera back; preserve exact building, name/function/materials; complete right wing and show entire base/roof/approach with margins. Actual output visually checked; no numerical safe-area claim.

@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **174**
+- Repository asset files: **176**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **9**
+- Non-Neon required stage masters without a selected lineage candidate: **8**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -25,7 +25,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | 15 selected base candidates, collection reviewed; final export/camera/safe-area certification open |
-| Crimson Commons | 15 | 0 | 0 | 6 selected candidates: Residential reviewed, Retail I/II/III individually inspected;9 stage slots and final certification open |
+| Crimson Commons | 15 | 0 | 0 | 7 selected candidates: Residential/Retail reviewed, Redline Labs v2 inspected;8 stage slots and final certification open |
 
 ## Prototype-selected Neon Heights set
 
@@ -587,3 +587,13 @@ Generation prompt (built-in tool): Use case: stylized-concept. BuildinZ Crimson 
 Restored and visually inspected exact Commons Market and Ruby Galleria references; their SHA-256 values match manifest. Built-in generation evolved the family into taller stacked atria/shopping galleries, paired escalators, visible structural side braces and broad layered crown. Actual output inspected: exact CARDINAL EXCHANGE, stocked retail, bone/crimson/burgundy/charcoal/brass and dry steps. Near-symmetric camera and tight side margins remain final correction gates. Do not certify requested six floors from prompt. Delegated candidate selection, not owner approval/final certification.
 
 assets/candidates/crimson-commons-cardinal-exchange-stage-3-v1.png;2668901 bytes;1024x1536;PNG verified;SHA-256 e210976480e3f8c5b837cfb07c4e390ebb820e7e4c30a6c17601016af92397f5;Git blob f9ee728c2f17693d7120c27e7536d957207bdf4d. Original preserved. Totals174 assets,126 non-Neon candidates+15 Neon prototypes=141/150. Perform equal-width Crimson Commons Retail I/II/III comparison using preserved originals before Redline Labs. Crimson6/15 selected;141/150 global base slots;9 remain;zero final-certified. Camera/framing, editions, metadata, website/contracts and release gates remain open.
+
+
+## Redline Labs checkpoint — November 7, 2026
+
+Generated and inspected v1: correct name, laboratory function/palette, strong corner camera, but right low wing clipped; rejected and preserved. Built-in framing correction v2 restores complete right wing and visible base/roof. Actual v2 inspected: robotics, diagnostic screens, test benches, researchers, secured entrance and bone structural braces. Selected v2 under delegated production authority, not prior owner approval/final certification. PNG decode verified1024x1536. V1:2920907 bytes,SHA256 da986db4be42fd69bee26b270ddc449f3ee771e108e2cf112a13d716eb107df0. V2:2794209 bytes,SHA256 530634c9c42706036113f42078aa6e06020d7ad7f14a0d7b97dab61d19272c67. Manifest records Git hashes. Inventory176 files;127 non-Neon candidates+15 Neon prototypes=142/150 base slots. Final export/style/crop checks remain open.
+
+Generate Vermilion Spire from selected Redline Labs v2 after inspecting original: taller research spire, enclosed testing chambers, braced instrument decks; then Phoenix Nexus and Technology comparison. Crimson7/15;142/150 selected base slots;8 remain;zero certified.
+
+Original generation prompt: Use case: stylized-concept. BuildinZ Crimson Commons Technology Stage I: REDLINE LABS. Premium architectural isometric 3D render in portrait1024x1536. Compact secured two-level engineering research building with bone structural piers, charcoal metal frames, crimson and burgundy facade panels, thin warm brass edges, vertical burgundy banners without text. Clearly visible through large diagnostic glass walls: industrial robotic arms, engineering test benches, instruments and researchers, secure glazed entrance. No shops, apartment balconies, pools or theatre. Attached low roof instrumentation and mechanical vents, supported structure; reserve tall research spire and connected towers for later evolutions. Elevated three-quarter CORNER view with visibly unequal facade widths, strong side depth, full roof, all wings, base corners and dry civic approach inside image with generous margins. Restrained sunset urban backdrop, warm architectural lighting and muted laboratory task lights. Exact sole mounted entrance name in clean gold sans-serif: "REDLINE LABS". No other words, type labels or stage labels. No flames, floating decks or cropped architecture.
+Correction: pull camera back; preserve exact building, name/function/materials; complete right wing and show entire base/roof/approach with margins. Actual output visually checked; no numerical safe-area claim.

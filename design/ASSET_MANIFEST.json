@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "190a84efa51558b56940ce8ae70591e841f22cbb",
+  "repository_commit": "8a4bca6485c51421dec547a268c90bd3c82841f5",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 174,
+    "asset_files": 176,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 126
+    "lineage_selected_candidate_stage_assets": 127
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential reviewed; Retail I/II/III individually selected;9 stages and final certification open",
+      "status": "Residential/Retail reviewed;Redline Labs v2 selected;8 stages and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 6
+      "selected_candidate_stage_assets": 7
     }
   ],
   "assets": [
@@ -3330,6 +3330,44 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact CARDINAL EXCHANGE; taller stacked shopping galleries/atria and escalators, visible side braces and broad layered attached roof crown; retained palette, merchandise and dry civic steps. Near-symmetric camera and tight side clearance remain final correction gates. Prompt requested six tiers; no exact floor-count certification."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-redline-labs-stage-1-v1.png",
+      "bytes": 2920907,
+      "sha256": "da986db4be42fd69bee26b270ddc449f3ee771e108e2cf112a13d716eb107df0",
+      "git_blob_sha": "e059a912cb7f143fe6b468e622b37d4b057f0927",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "rejected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Redline Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Rejected: right low wing clipped. Preserved original."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-redline-labs-stage-1-v2.png",
+      "bytes": 2794209,
+      "sha256": "530634c9c42706036113f42078aa6e06020d7ad7f14a0d7b97dab61d19272c67",
+      "git_blob_sha": "8511729b12849049861c0c2eb71bc90d48dbab14",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Redline Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual v2 inspected: right wing restored/full roof/base visible, correct REDLINE LABS, robotics/test benches/researchers/diagnostic glass, secured gate, bone braces and crimson/charcoal/brass. Strong corner depth. Final export/safe areas and lineage comparison open."
     }
   ]
 }
