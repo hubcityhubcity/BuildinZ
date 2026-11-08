@@ -1,15 +1,15 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 7, 2026 (America/Chicago) against repository parent commit `ee29210bc1b24a2c3a0280f67a86a74d8d1afce0`.
+Recorded November 7, 2026 (America/Chicago) against repository parent commit `a94580dd1027daf86ea7ff5e6779e1157584a09d`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
 ## Coverage
 
-- Repository asset files: **172**
+- Repository asset files: **173**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **11**
+- Non-Neon required stage masters without a selected lineage candidate: **10**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -25,7 +25,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | 15 selected base candidates, collection reviewed; final export/camera/safe-area certification open |
-| Crimson Commons | 15 | 0 | 0 | 4 selected candidates: Residential reviewed, Commons Market individually inspected;11 stage slots and final certification open |
+| Crimson Commons | 15 | 0 | 0 | 5 selected candidates: Residential reviewed, Retail I/II individually inspected;10 stage slots and final certification open |
 
 ## Prototype-selected Neon Heights set
 
@@ -569,3 +569,14 @@ Built-in generation followed Crimson brief for low two-level public shopping arc
 Path assets/candidates/crimson-commons-commons-market-stage-1-v1.png;2532615 bytes;1024×1536;PNG verified;SHA-256 128673ffedd4f39cb613fb32d02117966df71690498d9c664ff1d84f77acdc1a;Git blob 6830e8299cadf17c74a6ed90a253ed9a6a15d495. Generated original preserved.
 
 Totals172 assets;124 non-Neon+15 Neon prototypes=139/150 base slots;11 remaining;zero final-certified. Crimson4/15. Next:Ruby Galleria using this source, taller multilevel shops/escalators/supported galleries; then Cardinal Exchange and Retail review. All existing export/edition/metadata/integration/security gates open. No paid/wallet/deploy/mint/public message action.
+
+
+## Ruby Galleria checkpoint — November 8, 2026 UTC
+
+Restored original Commons Market from earlier chat attachment; SHA-256 128673ffedd4f39cb613fb32d02117966df71690498d9c664ff1d84f77acdc1a matches repository manifest. Inspected original before built-in image generation. Actual Ruby output inspected: exact RUBY GALLERIA; taller retail tiers, central escalators, stocked clothing/produce/books/housewares shops and supported galleries; bone/charcoal/crimson-burgundy/brass, dry civic platform. Generated image shows three visible retail tiers rather than the requested four: select for lineage growth, do not claim four floors. Camera remains nearly symmetric and side clearance tight; final camera/framing certification stays open. Delegated production selection, not prior owner approval.
+
+Path assets/candidates/crimson-commons-ruby-galleria-stage-2-v1.png;2567784 bytes;1024×1536;PNG decode verified;SHA-256 a5e196d3df3a6ddcc7b0e0eee8e65b1590e0e97ecec537cdf96753ce25297a24;Git blob 77608dede8ed51c2afc417198d55fc7e519d0332. Original generated output preserved.
+
+Totals173 assets;125 non-Neon selected+15 Neon prototypes=140/150 base slots;10 remaining;zero final-certified. Generate Cardinal Exchange from the selected Commons Market and Ruby Galleria originals after visually inspecting both: vertical retail exchange, stacked atria, supported sky shopping promenades and broad attached structural crown. Then perform equal-width Retail I/II/III comparison. Crimson5/15 selected; global140/150 base slots,10 remaining; final-certified0. Final camera/framing corrections, editions, metadata, integration, security review and release gates remain open.
+
+Generation prompt (built-in tool): Use case: stylized-concept. BuildinZ Crimson Commons Retail Stage II candidate, portrait 1024x1536. Reference image is the existing Stage I Commons Market: preserve its bone structural piers, charcoal trim, crimson/burgundy panels, fine warm brass edges, banner language, dry stepped civic plaza and stocked retail identity. Evolve it clearly into a taller four-level RUBY GALLERIA with open central shopping atrium, visible paired escalators between levels, structurally supported galleries, clothing, produce, books and housewares shops, small shoppers for scale. Elevated isometric three-quarter corner view, both wings and depth visible. Fully frame roof, wings, platform and approach with generous side margins; no cropped architecture. Beautiful precise architectural 3D render, warm evening shop lighting and restrained sunset city backdrop. Exact sole building name mounted in clean gold sans-serif letters: "RUBY GALLERIA". No Commons Market lettering, no other words or stage labels. Increasing architectural complexity from source, retain grounded civic retail character. No pools, residences, labs, theatre, casino, flames, floating floors or unsupported balconies. Reserve monumental vertical exchange crown for Stage III.

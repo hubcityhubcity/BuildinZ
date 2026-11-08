@@ -44,7 +44,7 @@ Five identities ×20 editions =100 Genesis tokens for this neighborhood; three s
 
 ## Exact next batch
 
-Generate Ruby Galleria from repository-selected Commons Market v1: taller multilevel stocked shops, visible escalators, central atrium and supported galleries, retaining crimson/burgundy/charcoal/bone/brass. Retrieve and visually inspect the original reference before generation. Then Cardinal Exchange and Retail comparison. Crimson4/15 selected; global139/150 base slots,11 remaining; final-certified0. All final export corrections remain open.
+Generate Cardinal Exchange from the selected Commons Market and Ruby Galleria originals after visually inspecting both: vertical retail exchange, stacked atria, supported sky shopping promenades and broad attached structural crown. Then perform equal-width Retail I/II/III comparison. Crimson5/15 selected; global140/150 base slots,10 remaining; final-certified0. Final camera/framing corrections, editions, metadata, integration, security review and release gates remain open.
 
 ## Residential comparison checkpoint — November 7, 2026
 
