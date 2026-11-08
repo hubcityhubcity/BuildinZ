@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "e948a29eb3350f4bdbe85eec9aa8752509f5a456",
+  "repository_commit": "57f62116a55e50883ed2cd48321f9916ebd530bd",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 180,
+    "asset_files": 181,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 131
+    "lineage_selected_candidate_stage_assets": 132
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail/Technology reviewed;Entertainment I/II selected;4 stages and final certification open",
+      "status": "Residential/Retail/Technology reviewed;Entertainment I/II/III selected;3 stages and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 11
+      "selected_candidate_stage_assets": 12
     }
   ],
   "assets": [
@@ -3444,6 +3444,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact SCARLET PALACE, two distinct glazed performance halls with stages/instruments/audiences and supported tiers, connecting foyer, expanded mass and retained palette/braces/dry plaza. Near-symmetric camera and tight sides remain final gates; metric height increase not certified."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-crimson-coliseum-stage-3-v1.png",
+      "bytes": 2949252,
+      "sha256": "0be25a196be59641d38958e18e77476bac3ebe87eefeb9fe4c503951190d008d",
+      "git_blob_sha": "f804df5a030000cd76ead8d1a2c840af5a57a8f9",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Coliseum",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact CRIMSON COLISEUM; multiple visible stage/audience zones, supported upper tiers, central glazed foyer and attached broad illuminated canopy crown. Palette/braces/dry plaza retained; near-symmetric camera and tight sides final gates; metric heights not certified."
     }
   ]
 }
