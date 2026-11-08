@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "f8c24a3a7daaafbed80a99c3d3b96b9988413596",
+  "repository_commit": "e948a29eb3350f4bdbe85eec9aa8752509f5a456",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 179,
+    "asset_files": 180,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 130
+    "lineage_selected_candidate_stage_assets": 131
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail/Technology reviewed;Ember Hall selected;5 stages and final certification open",
+      "status": "Residential/Retail/Technology reviewed;Entertainment I/II selected;4 stages and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 10
+      "selected_candidate_stage_assets": 11
     }
   ],
   "assets": [
@@ -3425,6 +3425,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact EMBER HALL; raised concert stage with piano/drums/microphones and audience seating, supported side gallery, bone braces/crimson/burgundy/charcoal/brass, dry steps. Roof and base visible; side clearance tight. Final camera/export and lineage QA open."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-scarlet-palace-stage-2-v1.png",
+      "bytes": 2911478,
+      "sha256": "bb253b05f143a145f522a538562bce455d3e31d5c9aa4253a99a1edb758dfc7e",
+      "git_blob_sha": "b0d55e43e94f838a030c758342edaa333baccf41",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact SCARLET PALACE, two distinct glazed performance halls with stages/instruments/audiences and supported tiers, connecting foyer, expanded mass and retained palette/braces/dry plaza. Near-symmetric camera and tight sides remain final gates; metric height increase not certified."
     }
   ]
 }

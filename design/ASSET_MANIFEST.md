@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **179**
+- Repository asset files: **180**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **5**
+- Non-Neon required stage masters without a selected lineage candidate: **4**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -25,7 +25,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | 15 selected base candidates, collection reviewed; final export/camera/safe-area certification open |
-| Crimson Commons | 15 | 0 | 0 | 10 selected candidates: Residential/Retail/Technology reviewed, Ember Hall inspected;5 stage slots and final certification open |
+| Crimson Commons | 15 | 0 | 0 | 11 selected candidates: Residential/Retail/Technology reviewed, Entertainment I/II inspected;4 stage slots and final certification open |
 
 ## Prototype-selected Neon Heights set
 
@@ -624,3 +624,12 @@ Built-in generation per Crimson brief. Actual output inspected: exact EMBER HALL
 assets/candidates/crimson-commons-ember-hall-stage-1-v1.png;2856578 bytes;1024x1536;PNG verified;SHA256 4a6ce7c5d9d3b30b72d42c8e0ac5b63ea908d0c0a1d4cecf3c6605b3cf119b98;Git blob 8f1c69689e5da77d6a4a0a2aab49cbedc1e8fef9. Original preserved.179 inventory assets;130 non-Neon+15 Neon prototypes=145/150 base slots. Generate Scarlet Palace from Ember Hall v1 after inspecting original: taller multi-hall theatre, visible stages/audiences and supported upper audience tiers; then Crimson Coliseum and Entertainment comparison. Crimson10/15;145/150 selected base slots;5 remain;zero certified.
 
 Generation prompt: Use case stylized-concept. BuildinZ Crimson Commons Entertainment Stage I EMBER HALL. Compact premium civic concert hall, bone structural piers and diagonal supports, charcoal frames, crimson/burgundy facade panels, restrained warm brass edges, blank vertical burgundy banners. Large glazed facade reveals a raised performance stage with musicians' instruments (grand piano, drum kit, microphones), theatrical warm lighting and rows of seated audience facing stage. Clearly concert/performance architecture, no laboratories, shops, apartments, pools or casino. Low angular attached roof and supported audience gallery; reserve monumental multihall palace/coliseum for later stages. Exact sole mounted entrance name EMBER HALL in clean gold sans-serif; no stage/type labels or other words. Premium isometric elevated three-quarter CORNER 3D architectural rendering, unequal facade widths and clear side depth. Portrait1024x1536, warm sunset urban backdrop, dry stepped civic plaza. Pull camera back to show full roof, wings, base corners and approach, generous side margins, no cropped architecture or flames.
+
+
+## Scarlet Palace checkpoint — November 8, 2026
+
+Inspected Ember Hall original before built-in generation. Actual output inspected: correct SCARLET PALACE, two glazed concert halls with stages/instruments/audience seating and supported upper tiers, connecting foyer, expanded mass/program, retained bone/crimson-burgundy/charcoal/brass and dry civic approach. Candidate selected under delegated authority, not owner approval/final certification. Camera near-symmetric and side clearance tight; final camera/export/lineage checks open. Do not infer metric height increase from differently framed renders.
+
+assets/candidates/crimson-commons-scarlet-palace-stage-2-v1.png;2911478 bytes;1024x1536;PNG verified;SHA256 bb253b05f143a145f522a538562bce455d3e31d5c9aa4253a99a1edb758dfc7e;Git blob b0d55e43e94f838a030c758342edaa333baccf41. Original preserved.180 inventory assets;131 non-Neon+15 Neon prototypes=146/150 base slots. Generate Crimson Coliseum from Ember Hall v1 and Scarlet Palace v1 after inspecting originals: monumental multi-zone performance coliseum, multiple stages/audience tiers and attached ember-lit canopy crown; then equal-width Entertainment comparison. Crimson11/15;146/150 selected base slots;4 remain;zero certified.
+
+Built-in prompt: BuildinZ Crimson Commons Entertainment Stage II SCARLET PALACE. Reference Ember Hall StageI: preserve bone piers/diagonal braces, charcoal frames, crimson/burgundy panels, fine brass edges, angular roof, burgundy blank banners, concert function and dry civic steps. Evolve into clearly taller larger multi-hall performance palace, two visibly distinct performance halls with raised stages/instruments and seated audiences facing stages, supported upper audience tiers and glazed connecting foyer. Attached supports throughout. Exact sole mounted gold sans-serif name SCARLET PALACE, remove EMBER HALL; no stage/type labels/other words. Reserve monumental coliseum/canopy crown for StageIII. Premium isometric elevated three-quarter CORNER architectural3D, unequal facade widths with side depth, sunset backdrop. Portrait1024x1536. Pull camera back substantially, entire roof, wing ends, base corners and approach visible with generous side clearance. No cropped architecture, pools, residences, shops, labs, casinos or flames.
