@@ -44,7 +44,7 @@ Five identities ×20 editions =100 Genesis tokens for this neighborhood; three s
 
 ## Exact next batch
 
-Perform equal-width Crimson Commons Technology I/II/III comparison from Redline Labs v2, Vermilion Spire v1 and Phoenix Nexus v1; then Ember Hall. Crimson9/15;144/150 selected base slots;6 remain;zero final-certified.
+Generate Ember Hall per Crimson brief: compact concert hall, raised performance stage with instruments and visible audience seating, supported architecture, exact name, full framing; then Scarlet Palace/Crimson Coliseum. Technology core lineage reviewed; final safe-area/export checks remain open.144/150 selected base slots;6 remain;zero certified.
 
 ## Residential comparison checkpoint — November 7, 2026
 
@@ -89,3 +89,8 @@ Inspected both selected technology originals before built-in generation. Actual 
 assets/candidates/crimson-commons-phoenix-nexus-stage-3-v1.png;2940983 bytes;1024x1536;PNG verified;SHA256 b43d23f481532b1ef165d00afb01e7a76f98fce5530399ee7551b8d54c34f6c8;Git blob df125ddad834200da3d081bee2a3eda75bda3658. Original preserved.178 inventory assets;129 non-Neon+15 Neon prototypes=144/150 base slots. Perform equal-width Crimson Commons Technology I/II/III comparison from Redline Labs v2, Vermilion Spire v1 and Phoenix Nexus v1; then Ember Hall. Crimson9/15;144/150 selected base slots;6 remain;zero final-certified.
 
 Built-in generation prompt: BuildinZ Crimson Commons Technology Stage III PHOENIX NEXUS. Reference1 Redline Labs and reference2 Vermilion Spire are same permanent evolution family. Preserve bone diagonal structural braces, charcoal frames, crimson/burgundy panels, warm brass edges, secured dry civic campus and visible robotics/research labs. Evolve into larger connected research towers, two tall towers joined by ENCLOSED glazed service bridges with visible trusses firmly attached to tower piers, visible computation core/server arrays in central glazed research section, robotic testing chambers, attached machinery/sensor crown. Clearly greater mass/program than StageII. Exact sole mounted entrance name PHOENIX NEXUS in clean gold sans-serif. Remove prior names; no stage/type labels. Premium isometric elevated three-quarter CORNER architectural3D, unequal facade widths, sunset lighting. Portrait1024x1536. Full tips, all wings, fenced base and approach inside frame with generous visible margins. No pools, apartments, shops, theatres, flames or unsupported floating decks. Preserve laboratory functional identity.
+
+
+## Technology comparison checkpoint — November 8, 2026
+
+Actual three-original equal-width comparison completed; core names/function/palette/supports/mass progression pass candidate lineage review. Final III margin, mobile signage and consistent camera/export checks open. Evidence:CRIMSON_COMMONS_TECHNOLOGY_QA.md. No counts advanced. Generate Ember Hall per Crimson brief: compact concert hall, raised performance stage with instruments and visible audience seating, supported architecture, exact name, full framing; then Scarlet Palace/Crimson Coliseum. Technology core lineage reviewed; final safe-area/export checks remain open.144/150 selected base slots;6 remain;zero certified.
