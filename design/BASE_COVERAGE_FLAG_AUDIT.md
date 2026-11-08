@@ -1,0 +1,5 @@
+# Base coverage selection-flag discrepancy
+
+November 8, 2026. Audit against b3174e5eb3fd843f2fdaeacf88ef9755f839c860. Classification totals report135 lineage candidates+15 prototypes=150. Explicit selection flags resolve only147 files. Three lineage-classified records lack selected_for_lineage_review; do not assert150 flag-resolved selections until source evidence is reconciled. This does not remove existing art or change token supply. No final certification inferred.
+
+Run scripts/validate_base_coverage.py design/ASSET_MANIFEST.json to reproduce. Current185 inventory,135 lineage classifications,147 explicit selections,zero duplicate described slots. The validator reports rather than silently repairs legacy schema differences. Six missing Residential/Retail originals still need restoration for full visual review; binary fetch returned empty content despite success, so no restoration claimed. Next:resolve the three inconsistent flags against their lineage approval evidence, then restore exact originals. No images regenerated.
