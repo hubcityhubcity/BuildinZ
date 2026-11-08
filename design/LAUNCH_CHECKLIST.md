@@ -79,7 +79,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Generate Crown of Olympus using Arcadia Beacon v1 and Parthenon Apex v1 under ARCADIA_PRIME_PRODUCTION_BRIEF.md: broad multi-gallery civic observation crown carried by attached ribs/colonnades, complete lantern and expanded ceremonial base. Keep viewing visitors/telescopes, white/cobalt/cyan, restrained gold/laurel and dry approach; exact mounted name and generous full silhouette framing. Then Landmark/full-neighborhood review. Final export/edition certification remains open, including Beacon top margin, Nexus side margins, Moonline margins and Old World Steel residential safe areas.
+Generate Ruby Galleria from repository-selected Commons Market v1: taller multilevel stocked shops, visible escalators, central atrium and supported galleries, retaining crimson/burgundy/charcoal/bone/brass. Retrieve and visually inspect the original reference before generation. Then Cardinal Exchange and Retail comparison. Crimson4/15 selected; global139/150 base slots,11 remaining; final-certified0. All final export corrections remain open.
 
 ## Crown of Olympus checkpoint — November 7, 2026
 

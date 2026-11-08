@@ -1,6 +1,6 @@
 # BuildinZ consolidated asset manifest
 
-Recorded November 7, 2026 (America/Chicago) against repository parent commit `d26c7ba2ca2da8c445f972731362785705b133f6`.
+Recorded November 7, 2026 (America/Chicago) against repository parent commit `ee29210bc1b24a2c3a0280f67a86a74d8d1afce0`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.
 
@@ -24,8 +24,8 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Royal Mirage | 15 | 0 | 0 | 15 base lineage candidates pass equal-width collection QA; edition rendering, release manifest and final certification remain open |
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
-| Arcadia Prime | 15 | 0 | 0 | 14 selected candidates: four lineages reviewed, Landmark I/II selected; Crown of Olympus/final certification open; Nexus side and Beacon top margins require correction |
-| Crimson Commons | 15 | 0 | 0 | production not started |
+| Arcadia Prime | 15 | 0 | 0 | 15 selected base candidates, collection reviewed; final export/camera/safe-area certification open |
+| Crimson Commons | 15 | 0 | 0 | 4 selected candidates: Residential reviewed, Commons Market individually inspected;11 stage slots and final certification open |
 
 ## Prototype-selected Neon Heights set
 

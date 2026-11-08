@@ -841,3 +841,7 @@ Built-in generation followed Crimson brief for low two-level public shopping arc
 Path assets/candidates/crimson-commons-commons-market-stage-1-v1.png;2532615 bytes;1024×1536;PNG verified;SHA-256 128673ffedd4f39cb613fb32d02117966df71690498d9c664ff1d84f77acdc1a;Git blob 6830e8299cadf17c74a6ed90a253ed9a6a15d495. Generated original preserved.
 
 Totals172 assets;124 non-Neon+15 Neon prototypes=139/150 base slots;11 remaining;zero final-certified. Crimson4/15. Next:Ruby Galleria using this source, taller multilevel shops/escalators/supported galleries; then Cardinal Exchange and Retail review. All existing export/edition/metadata/integration/security gates open. No paid/wallet/deploy/mint/public message action.
+
+## Current-state reconciliation — November 7, 2026
+
+Corrected stale actionable sections: checklist still directed Crown of Olympus; Crimson brief still directed Ember Residences/0 selected. Replaced only current-state sections, preserved historical checkpoints, and aligned Markdown neighborhood rows with JSON. Current172 assets,124 non-Neon selected plus15 Neon prototypes=139/150;11 remaining;zero certified. Ruby Galleria remains next. Local Commons Market reference was unavailable this run, so no generation performed; retrieve original repository blob before generation, do not recreate Stage I. No artwork/count advancement or wallet/deploy/mint/public messaging action.
