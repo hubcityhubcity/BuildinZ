@@ -44,7 +44,7 @@ Five identities ×20 editions =100 Genesis tokens for this neighborhood; three s
 
 ## Exact next batch
 
-Perform Landmark I/II/III comparison, then full15-source Crimson collection review. All150 base-stage slots now have selected candidates/prototypes; none final-certified. Prioritize mandatory Bloodmoon tip framing, Entertainment height/camera consistency, safe-area/export and remaining collection corrections before edition renders/metadata/site/contracts/release gates. Do not regenerate already selected identities.
+Perform full15-source Crimson Commons collection review, then versioned corrections: Bloodmoon tip margin, Landmark consistent-camera height readability, Entertainment height/camera consistency and other framing gates.150/150 base slots selected;zero final-certified. Do not count candidate coverage as launch readiness.
 
 ## Residential comparison checkpoint — November 7, 2026
 
@@ -153,3 +153,8 @@ Inspected Bloodmoon Beacon/Cardinal Apex originals before built-in generation. A
 assets/candidates/crimson-commons-crown-of-flame-stage-3-v1.png;2539326 bytes;1024x1536;PNG verified;SHA256 0d7fcf2923420cebd1683182ef2b429c861f63655b0e454bedd0fd2907132768;Git blob 9f46d212ff0a4c2f37049fc31cbe88571774147a. Original preserved.184 inventory assets;135 non-Neon+15 Neon prototypes=150/150 base slots selected,zero final-certified. Perform Landmark I/II/III comparison, then full15-source Crimson collection review. All150 base-stage slots now have selected candidates/prototypes; none final-certified. Prioritize mandatory Bloodmoon tip framing, Entertainment height/camera consistency, safe-area/export and remaining collection corrections before edition renders/metadata/site/contracts/release gates. Do not regenerate already selected identities.
 
 Built-in prompt: BuildinZ Crimson Commons Landmark Stage III CROWN OF FLAME. References Bloodmoon Beacon StageI and Cardinal Apex StageII. Preserve bone diagonal structural ribs/piers, crimson/burgundy panels, charcoal frames, fine brass edges, blank burgundy banners, civic dry stepped base and telescopic observation identity. Evolve into broader more monumental observation crown with THREE clearly distinct enclosed glazed viewing galleries containing public telescopes/observers, each attached to central tower with visible structural ribs; complete warm ember-lit lantern summit, no actual flames. Expanded supported civic base. Clearly increased mass/program relative to StageII. Exact sole gold sans-serif mounted entrance name CROWN OF FLAME. Remove old names; no other words/type/stage labels. Premium isometric elevated three-quarter corner3D, sunset city, portrait1024x1536. Pull camera back: generous sky margin above complete tip/lantern, all galleries/base corners/approach within frame and side clearance. No cropped structures, floating decks, pools, residences, shops, theatres or labs.
+
+
+## Landmark comparison checkpoint — November 8, 2026
+
+Actual equal-width originals review completed. Names/function/palette/supports and gallery-count evolution pass candidate review. Height escalation remains unverified at differing camera scale; I tip margin correction mandatory. Evidence:CRIMSON_COMMONS_LANDMARK_QA.md. Perform full15-source Crimson Commons collection review, then versioned corrections: Bloodmoon tip margin, Landmark consistent-camera height readability, Entertainment height/camera consistency and other framing gates.150/150 base slots selected;zero final-certified. Do not count candidate coverage as launch readiness.
