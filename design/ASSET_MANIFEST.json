@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "8e7ce895aa21c01ea4f851811e89fbc87f036ee1",
+  "repository_commit": "fde9929f9cc97abf317eb18ac3362cb72bc3dc93",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 177,
+    "asset_files": 178,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 128
+    "lineage_selected_candidate_stage_assets": 129
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail reviewed;Technology I/II selected;7 stages and final certification open",
+      "status": "Residential/Retail reviewed;Technology I/II/III selected;6 stages and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 8
+      "selected_candidate_stage_assets": 9
     }
   ],
   "assets": [
@@ -3387,6 +3387,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact VERMILION SPIRE, taller single research tower, glazed robotics/testing chambers, bone diagonal braces, attached sensor/mechanical crown, retained low lab wing and dry secured campus. Complete tip/wings/base visible. Final safe-area/export and three-stage comparison open."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-phoenix-nexus-stage-3-v1.png",
+      "bytes": 2940983,
+      "sha256": "b43d23f481532b1ef165d00afb01e7a76f98fce5530399ee7551b8d54c34f6c8",
+      "git_blob_sha": "df125ddad834200da3d081bee2a3eda75bda3658",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Phoenix Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact PHOENIX NEXUS, twin research towers with attached glazed trussed bridges, central computation/server chamber, robotics/testing labs, bone diagonal braces and mechanical/sensor crowns. Complete tips/base visible; side margins tight. Final safe-area/export and lineage comparison open."
     }
   ]
 }
