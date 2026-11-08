@@ -2,11 +2,11 @@
 
 November 8, 2026;source commit 4e2d6cd943d3c886e2b6e3896113354dbe8b73a1. This queue consolidates recorded visual reviews; it is not a new full15-image visual certification.
 
-Repository audit:15 selected files cover exactly five building types×three stages, with no duplicate slots. Every selected file matches actual Git tree blob and byte size. Rejected Redline Labs v1 is excluded.184 inventory files and150 selected base-stage slots globally;zero final-certified.
+Repository audit:15 selected files cover exactly five building types×three stages, with no duplicate slots. Every selected file matches actual Git tree blob and byte size. Rejected Redline Labs v1 is excluded.185 inventory files and150 selected base-stage slots globally;zero final-certified.
 
 | Priority | Target | Required correction/verification | Acceptance evidence |
 |---|---|---|---|
-| 1 | Bloodmoon Beacon I | Pull camera back, preserve architecture/name/gallery/lantern. | Actual output shows entire tip with deliberate sky margin; checksum/decode recorded; original retained. |
+| Completed candidate correction | Bloodmoon Beacon I v2 | Framing corrected in5c53e8c; v1 preserved as superseded. | Actual v2 inspected with sky above tip; integrity recorded in BLOODMOON_BEACON_FRAMING_QA.md. Final export checks open. |
 | 2 | Landmark I/II/III | Consistent camera and comparable foundation scale; ensure clearly readable architectural growth. | Side-by-side originals at equal foundation scale; gallery1→2→3 preserved; no invented metric height. |
 | 3 | Entertainment I/II/III | Correct camera/height readability; II currently appears shorter in full-image comparison. | Clear progression with retained concert spaces, supported tiers and exact names. |
 | 4 | Retail I/II/III | Stronger isometric side depth and wider side clearance. | Full wings/base/roof within safe areas; stocked retail retained. |
@@ -19,4 +19,4 @@ Current local workspace contains nine selected Technology/Entertainment/Landmark
 
 ## Exact next batch
 
-Make versioned Bloodmoon Beacon framing correction now from its available original. Preserve v1; inspect actual v2, record integrity, atomically update selected manifest entry only if it passes. Then restore six missing sources for full collection review and work through this queue. No edition rendering or launch-certification advancement until final-art gates pass.
+Restore six selected Residential/Retail originals for full15-source Crimson visual review. Bloodmoon Beacon v2 is selected and its tip-framing correction completed at candidate level; do not repeat it. Continue consistent-camera/evolution-height checks using v2, then remaining final-art queue.150 selected base slots;zero final-certified.

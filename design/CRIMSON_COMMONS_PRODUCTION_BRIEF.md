@@ -44,7 +44,7 @@ Five identities ×20 editions =100 Genesis tokens for this neighborhood; three s
 
 ## Exact next batch
 
-Perform full15-source Crimson Commons collection review, then versioned corrections: Bloodmoon tip margin, Landmark consistent-camera height readability, Entertainment height/camera consistency and other framing gates.150/150 base slots selected;zero final-certified. Do not count candidate coverage as launch readiness.
+Restore six selected Residential/Retail originals for full15-source Crimson visual review. Bloodmoon Beacon v2 is selected and its tip-framing correction completed at candidate level; do not repeat it. Continue consistent-camera/evolution-height checks using v2, then remaining final-art queue.150 selected base slots;zero final-certified.
 
 ## Residential comparison checkpoint — November 7, 2026
 

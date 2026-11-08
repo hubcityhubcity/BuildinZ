@@ -79,7 +79,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Correct Bloodmoon Beacon framing from available v1, preserve original and inspect v2 before changing selected entry. Then restore six Residential/Retail originals for full15-source visual review and follow CRIMSON_COMMONS_FINAL_ART_QUEUE.md.150 selected base slots;zero certified.
+Restore six selected Residential/Retail originals for full15-source Crimson visual review. Bloodmoon Beacon v2 is selected and its tip-framing correction completed at candidate level; do not repeat it. Continue consistent-camera/evolution-height checks using v2, then remaining final-art queue.150 selected base slots;zero final-certified.
 
 ## Crown of Olympus checkpoint — November 7, 2026
 

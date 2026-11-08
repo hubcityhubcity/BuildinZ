@@ -6,7 +6,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **184**
+- Repository asset files: **185**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
 - Non-Neon required stage masters without a selected lineage candidate: **0**
