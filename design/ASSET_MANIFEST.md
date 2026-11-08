@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **178**
+- Repository asset files: **179**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **6**
+- Non-Neon required stage masters without a selected lineage candidate: **5**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -25,7 +25,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | 15 selected base candidates, collection reviewed; final export/camera/safe-area certification open |
-| Crimson Commons | 15 | 0 | 0 | 9 selected candidates: Residential/Retail reviewed, Technology I/II/III inspected;6 stage slots and final certification open |
+| Crimson Commons | 15 | 0 | 0 | 10 selected candidates: Residential/Retail/Technology reviewed, Ember Hall inspected;5 stage slots and final certification open |
 
 ## Prototype-selected Neon Heights set
 
@@ -615,3 +615,12 @@ Inspected both selected technology originals before built-in generation. Actual 
 assets/candidates/crimson-commons-phoenix-nexus-stage-3-v1.png;2940983 bytes;1024x1536;PNG verified;SHA256 b43d23f481532b1ef165d00afb01e7a76f98fce5530399ee7551b8d54c34f6c8;Git blob df125ddad834200da3d081bee2a3eda75bda3658. Original preserved.178 inventory assets;129 non-Neon+15 Neon prototypes=144/150 base slots. Perform equal-width Crimson Commons Technology I/II/III comparison from Redline Labs v2, Vermilion Spire v1 and Phoenix Nexus v1; then Ember Hall. Crimson9/15;144/150 selected base slots;6 remain;zero final-certified.
 
 Built-in generation prompt: BuildinZ Crimson Commons Technology Stage III PHOENIX NEXUS. Reference1 Redline Labs and reference2 Vermilion Spire are same permanent evolution family. Preserve bone diagonal structural braces, charcoal frames, crimson/burgundy panels, warm brass edges, secured dry civic campus and visible robotics/research labs. Evolve into larger connected research towers, two tall towers joined by ENCLOSED glazed service bridges with visible trusses firmly attached to tower piers, visible computation core/server arrays in central glazed research section, robotic testing chambers, attached machinery/sensor crown. Clearly greater mass/program than StageII. Exact sole mounted entrance name PHOENIX NEXUS in clean gold sans-serif. Remove prior names; no stage/type labels. Premium isometric elevated three-quarter CORNER architectural3D, unequal facade widths, sunset lighting. Portrait1024x1536. Full tips, all wings, fenced base and approach inside frame with generous visible margins. No pools, apartments, shops, theatres, flames or unsupported floating decks. Preserve laboratory functional identity.
+
+
+## Ember Hall checkpoint — November 8, 2026
+
+Built-in generation per Crimson brief. Actual output inspected: exact EMBER HALL; raised stage with piano, drums, microphones and audience seating; supported upper side gallery; bone structural braces/crimson-burgundy/charcoal/brass and dry civic steps. Roof/base inside frame; side clearance tight and final camera/framing/export checks remain open. Delegated candidate selection, not prior owner approval/final certification.
+
+assets/candidates/crimson-commons-ember-hall-stage-1-v1.png;2856578 bytes;1024x1536;PNG verified;SHA256 4a6ce7c5d9d3b30b72d42c8e0ac5b63ea908d0c0a1d4cecf3c6605b3cf119b98;Git blob 8f1c69689e5da77d6a4a0a2aab49cbedc1e8fef9. Original preserved.179 inventory assets;130 non-Neon+15 Neon prototypes=145/150 base slots. Generate Scarlet Palace from Ember Hall v1 after inspecting original: taller multi-hall theatre, visible stages/audiences and supported upper audience tiers; then Crimson Coliseum and Entertainment comparison. Crimson10/15;145/150 selected base slots;5 remain;zero certified.
+
+Generation prompt: Use case stylized-concept. BuildinZ Crimson Commons Entertainment Stage I EMBER HALL. Compact premium civic concert hall, bone structural piers and diagonal supports, charcoal frames, crimson/burgundy facade panels, restrained warm brass edges, blank vertical burgundy banners. Large glazed facade reveals a raised performance stage with musicians' instruments (grand piano, drum kit, microphones), theatrical warm lighting and rows of seated audience facing stage. Clearly concert/performance architecture, no laboratories, shops, apartments, pools or casino. Low angular attached roof and supported audience gallery; reserve monumental multihall palace/coliseum for later stages. Exact sole mounted entrance name EMBER HALL in clean gold sans-serif; no stage/type labels or other words. Premium isometric elevated three-quarter CORNER 3D architectural rendering, unequal facade widths and clear side depth. Portrait1024x1536, warm sunset urban backdrop, dry stepped civic plaza. Pull camera back to show full roof, wings, base corners and approach, generous side margins, no cropped architecture or flames.

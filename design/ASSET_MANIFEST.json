@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "fde9929f9cc97abf317eb18ac3362cb72bc3dc93",
+  "repository_commit": "f8c24a3a7daaafbed80a99c3d3b96b9988413596",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 178,
+    "asset_files": 179,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 129
+    "lineage_selected_candidate_stage_assets": 130
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail reviewed;Technology I/II/III selected;6 stages and final certification open",
+      "status": "Residential/Retail/Technology reviewed;Ember Hall selected;5 stages and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 9
+      "selected_candidate_stage_assets": 10
     }
   ],
   "assets": [
@@ -3406,6 +3406,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact PHOENIX NEXUS, twin research towers with attached glazed trussed bridges, central computation/server chamber, robotics/testing labs, bone diagonal braces and mechanical/sensor crowns. Complete tips/base visible; side margins tight. Final safe-area/export and lineage comparison open."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-ember-hall-stage-1-v1.png",
+      "bytes": 2856578,
+      "sha256": "4a6ce7c5d9d3b30b72d42c8e0ac5b63ea908d0c0a1d4cecf3c6605b3cf119b98",
+      "git_blob_sha": "8f1c69689e5da77d6a4a0a2aab49cbedc1e8fef9",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact EMBER HALL; raised concert stage with piano/drums/microphones and audience seating, supported side gallery, bone braces/crimson/burgundy/charcoal/brass, dry steps. Roof and base visible; side clearance tight. Final camera/export and lineage QA open."
     }
   ]
 }

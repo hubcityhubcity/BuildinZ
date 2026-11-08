@@ -79,7 +79,7 @@ Canonical checklist recorded October 31, 2026 (America/Chicago). A checked item 
 
 ## Current exact next action
 
-Generate Ember Hall per Crimson brief: compact concert hall, raised performance stage with instruments and visible audience seating, supported architecture, exact name, full framing; then Scarlet Palace/Crimson Coliseum. Technology core lineage reviewed; final safe-area/export checks remain open.144/150 selected base slots;6 remain;zero certified.
+Generate Scarlet Palace from Ember Hall v1 after inspecting original: taller multi-hall theatre, visible stages/audiences and supported upper audience tiers; then Crimson Coliseum and Entertainment comparison. Crimson10/15;145/150 selected base slots;5 remain;zero certified.
 
 ## Crown of Olympus checkpoint — November 7, 2026
 
@@ -184,3 +184,12 @@ Built-in generation prompt: BuildinZ Crimson Commons Technology Stage III PHOENI
 ## Technology comparison checkpoint — November 8, 2026
 
 Actual three-original equal-width comparison completed; core names/function/palette/supports/mass progression pass candidate lineage review. Final III margin, mobile signage and consistent camera/export checks open. Evidence:CRIMSON_COMMONS_TECHNOLOGY_QA.md. No counts advanced. Generate Ember Hall per Crimson brief: compact concert hall, raised performance stage with instruments and visible audience seating, supported architecture, exact name, full framing; then Scarlet Palace/Crimson Coliseum. Technology core lineage reviewed; final safe-area/export checks remain open.144/150 selected base slots;6 remain;zero certified.
+
+
+## Ember Hall checkpoint — November 8, 2026
+
+Built-in generation per Crimson brief. Actual output inspected: exact EMBER HALL; raised stage with piano, drums, microphones and audience seating; supported upper side gallery; bone structural braces/crimson-burgundy/charcoal/brass and dry civic steps. Roof/base inside frame; side clearance tight and final camera/framing/export checks remain open. Delegated candidate selection, not prior owner approval/final certification.
+
+assets/candidates/crimson-commons-ember-hall-stage-1-v1.png;2856578 bytes;1024x1536;PNG verified;SHA256 4a6ce7c5d9d3b30b72d42c8e0ac5b63ea908d0c0a1d4cecf3c6605b3cf119b98;Git blob 8f1c69689e5da77d6a4a0a2aab49cbedc1e8fef9. Original preserved.179 inventory assets;130 non-Neon+15 Neon prototypes=145/150 base slots. Generate Scarlet Palace from Ember Hall v1 after inspecting original: taller multi-hall theatre, visible stages/audiences and supported upper audience tiers; then Crimson Coliseum and Entertainment comparison. Crimson10/15;145/150 selected base slots;5 remain;zero certified.
+
+Generation prompt: Use case stylized-concept. BuildinZ Crimson Commons Entertainment Stage I EMBER HALL. Compact premium civic concert hall, bone structural piers and diagonal supports, charcoal frames, crimson/burgundy facade panels, restrained warm brass edges, blank vertical burgundy banners. Large glazed facade reveals a raised performance stage with musicians' instruments (grand piano, drum kit, microphones), theatrical warm lighting and rows of seated audience facing stage. Clearly concert/performance architecture, no laboratories, shops, apartments, pools or casino. Low angular attached roof and supported audience gallery; reserve monumental multihall palace/coliseum for later stages. Exact sole mounted entrance name EMBER HALL in clean gold sans-serif; no stage/type labels or other words. Premium isometric elevated three-quarter CORNER 3D architectural rendering, unequal facade widths and clear side depth. Portrait1024x1536, warm sunset urban backdrop, dry stepped civic plaza. Pull camera back to show full roof, wings, base corners and approach, generous side margins, no cropped architecture or flames.
