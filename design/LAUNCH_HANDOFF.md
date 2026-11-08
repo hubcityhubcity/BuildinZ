@@ -965,3 +965,8 @@ Built-in prompt: BuildinZ Crimson Commons Landmark Stage III CROWN OF FLAME. Ref
 ## Landmark comparison checkpoint — November 8, 2026
 
 Actual equal-width originals review completed. Names/function/palette/supports and gallery-count evolution pass candidate review. Height escalation remains unverified at differing camera scale; I tip margin correction mandatory. Evidence:CRIMSON_COMMONS_LANDMARK_QA.md. Perform full15-source Crimson Commons collection review, then versioned corrections: Bloodmoon tip margin, Landmark consistent-camera height readability, Entertainment height/camera consistency and other framing gates.150/150 base slots selected;zero final-certified. Do not count candidate coverage as launch readiness.
+
+
+## Final-art queue checkpoint — November 8, 2026
+
+Verified15 unique Crimson type/stage slots against actual repository blobs/sizes; no count advancement. Consolidated actionable correction gates in CRIMSON_COMMONS_FINAL_ART_QUEUE.md. Full15-source visual review not completed: six Residential/Retail originals are not in current workspace; restore exact originals. Available Bloodmoon framing correction is unblocked. Correct Bloodmoon Beacon framing from available v1, preserve original and inspect v2 before changing selected entry. Then restore six Residential/Retail originals for full15-source visual review and follow CRIMSON_COMMONS_FINAL_ART_QUEUE.md.150 selected base slots;zero certified.
