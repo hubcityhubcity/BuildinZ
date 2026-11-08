@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **181**
+- Repository asset files: **182**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **3**
+- Non-Neon required stage masters without a selected lineage candidate: **2**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -25,7 +25,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | 15 selected base candidates, collection reviewed; final export/camera/safe-area certification open |
-| Crimson Commons | 15 | 0 | 0 | 12 selected candidates: Residential/Retail/Technology reviewed, Entertainment I/II/III inspected;3 stage slots and final certification open |
+| Crimson Commons | 15 | 0 | 0 | 13 selected candidates: Four identity lineages reviewed, Bloodmoon Beacon inspected;2 stage slots and final certification open |
 
 ## Prototype-selected Neon Heights set
 
@@ -642,3 +642,12 @@ Inspected both selected Entertainment originals before built-in generation. Actu
 assets/candidates/crimson-commons-crimson-coliseum-stage-3-v1.png;2949252 bytes;1024x1536;PNG verified;SHA256 0be25a196be59641d38958e18e77476bac3ebe87eefeb9fe4c503951190d008d;Git blob f804df5a030000cd76ead8d1a2c840af5a57a8f9. Original preserved.181 inventory assets;132 non-Neon+15 Neon prototypes=147/150 base slots. Perform equal-width Crimson Commons Entertainment I/II/III comparison from Ember Hall v1, Scarlet Palace v1, Crimson Coliseum v1; then Bloodmoon Beacon. Crimson12/15;147/150 selected base slots;3 remain;zero certified.
 
 Built-in prompt: BuildinZ Crimson Commons Entertainment Stage III CRIMSON COLISEUM. References Ember Hall and Scarlet Palace are the same evolution family. Preserve bone diagonal braces/piers, charcoal framing, crimson/burgundy panels, fine brass edges, blank burgundy banners and dry civic approach. Evolve into monumental taller multi-zone performance coliseum, several visible performance stages with instruments and seated audiences facing each stage, supported upper audience tiers, glazed foyers and a broad ATTACHED canopy crown lit with warm ember-colored architectural light (no actual flames). Clear increase in mass, height/program relative to StageII. Exact sole mounted gold sans-serif name CRIMSON COLISEUM; remove older names; no other words/stage/type labels. Premium isometric elevated three-quarter corner3D architecture, visible unequal front/side widths, sunset. Portrait1024x1536. Pull camera back to fit entire canopy crown, all wings, base and approach with generous side margins. No cropped structure, pools, apartments, shops, laboratories, casinos or floating decks.
+
+
+## Bloodmoon Beacon checkpoint — November 8, 2026
+
+Built-in generation per Crimson brief. Actual output inspected: exact BLOODMOON BEACON, one enclosed telescope/observer gallery, complete attached illuminated lantern, bone supporting ribs/crimson-burgundy/charcoal/brass and dry civic base. Tip is very close to upper edge; final wider framing correction remains mandatory. No numerical clearance asserted. Delegated candidate selection, not prior owner approval/final certification.
+
+assets/candidates/crimson-commons-bloodmoon-beacon-stage-1-v1.png;2415836 bytes;1024x1536;PNG verified;SHA256 af3857c8edc27466c37f05d70c4252e0c78c2f13a9af51e6b544ec4fdb5cac43;Git blob ad9c37bb3c5783e54ebb0f84b8ef018967a7aa41. Original preserved.182 inventory assets;133 non-Neon+15 Neon prototypes=148/150 base slots. Generate Cardinal Apex from Bloodmoon Beacon v1 after inspecting original: taller civic landmark with two attached enclosed observation galleries and supported summit; then Crown of Flame and Landmark comparison. Correct StageI tight tip margin during final export pass. Crimson13/15;148/150 selected base slots;2 remain;zero certified.
+
+Built-in prompt: Use case stylized-concept. BuildinZ Crimson Commons Landmark Stage I BLOODMOON BEACON. Slender civic observation beacon on modest dry stepped civic base, ONE enclosed glazed viewing gallery near summit with clearly visible public telescopes and observers, complete attached warm ember lantern above gallery (architectural illumination, no flame). Bone structural piers and diagonal ribs, charcoal frames, crimson/burgundy panels, fine warm brass edges, blank burgundy vertical banners. Distinct observation landmark, no labs/robotics, apartments, shops, concert stage or pools. Reserve two galleries/taller structure for StageII and broad three-gallery crown for StageIII. Exact sole mounted entrance name BLOODMOON BEACON in clean gold sans-serif; no extra wording/stage/type labels. Premium isometric elevated three-quarter CORNER architectural3D, unequal base facade widths, strong depth. Portrait1024x1536, sunset city backdrop. Entire lantern/tip, gallery, all base corners and dry approach within frame, generous sky and side margins; no cropped structure or floating decks.

@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "57f62116a55e50883ed2cd48321f9916ebd530bd",
+  "repository_commit": "27e23b3dab36151182597763ab1eb65a87c64f01",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 181,
+    "asset_files": 182,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 132
+    "lineage_selected_candidate_stage_assets": 133
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail/Technology reviewed;Entertainment I/II/III selected;3 stages and final certification open",
+      "status": "Four identity lineages reviewed;Bloodmoon Beacon selected;2 stages and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 12
+      "selected_candidate_stage_assets": 13
     }
   ],
   "assets": [
@@ -3463,6 +3463,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact CRIMSON COLISEUM; multiple visible stage/audience zones, supported upper tiers, central glazed foyer and attached broad illuminated canopy crown. Palette/braces/dry plaza retained; near-symmetric camera and tight sides final gates; metric heights not certified."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-bloodmoon-beacon-stage-1-v1.png",
+      "bytes": 2415836,
+      "sha256": "af3857c8edc27466c37f05d70c4252e0c78c2f13a9af51e6b544ec4fdb5cac43",
+      "git_blob_sha": "ad9c37bb3c5783e54ebb0f84b8ef018967a7aa41",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Bloodmoon Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact BLOODMOON BEACON, single enclosed telescope/observer gallery, complete attached illuminated lantern, supported bone ribs/crimson-burgundy/charcoal/brass and dry civic base. Tip very close to top; final framing correction required before certification."
     }
   ]
 }
