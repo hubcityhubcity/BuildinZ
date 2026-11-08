@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "a94580dd1027daf86ea7ff5e6779e1157584a09d",
+  "repository_commit": "190a84efa51558b56940ce8ae70591e841f22cbb",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 173,
+    "asset_files": 174,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 125
+    "lineage_selected_candidate_stage_assets": 126
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential reviewed; Retail I/II individually selected;10 stages/final certification open",
+      "status": "Residential reviewed; Retail I/II/III individually selected;9 stages and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 5
+      "selected_candidate_stage_assets": 6
     }
   ],
   "assets": [
@@ -3311,6 +3311,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact RUBY GALLERIA, increased retail tiers versus source, atrium escalators, supported shopping galleries, clothing/produce/books/housewares, dry steps; retained crimson/burgundy/bone/charcoal/brass. Near-symmetric camera and tight side clearance keep final camera/framing gate open. Candidate only; no four-floor claim."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-cardinal-exchange-stage-3-v1.png",
+      "bytes": 2668901,
+      "sha256": "e210976480e3f8c5b837cfb07c4e390ebb820e7e4c30a6c17601016af92397f5",
+      "git_blob_sha": "f9ee728c2f17693d7120c27e7536d957207bdf4d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact CARDINAL EXCHANGE; taller stacked shopping galleries/atria and escalators, visible side braces and broad layered attached roof crown; retained palette, merchandise and dry civic steps. Near-symmetric camera and tight side clearance remain final correction gates. Prompt requested six tiers; no exact floor-count certification."
     }
   ]
 }
