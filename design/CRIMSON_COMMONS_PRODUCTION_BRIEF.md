@@ -44,7 +44,7 @@ Five identities ×20 editions =100 Genesis tokens for this neighborhood; three s
 
 ## Exact next batch
 
-Perform equal-width Crimson Commons Retail I/II/III comparison using preserved originals before Redline Labs. Crimson6/15 selected;141/150 global base slots;9 remain;zero final-certified. Camera/framing, editions, metadata, website/contracts and release gates remain open.
+Generate Redline Labs under CRIMSON_COMMONS_PRODUCTION_BRIEF.md: secured engineering labs, visible robotics/test benches and diagnostic glass; then Vermilion Spire, Phoenix Nexus and Technology comparison. Retail core lineage reviewed in CRIMSON_COMMONS_RETAIL_QA.md; final camera/framing corrections remain open. Counts unchanged:141/150 selected base stages,9 remain,zero final-certified.
 
 ## Residential comparison checkpoint — November 7, 2026
 
@@ -56,3 +56,8 @@ Actual equal-width three-source review recorded in CRIMSON_COMMONS_RESIDENTIAL_Q
 Restored and visually inspected exact Commons Market and Ruby Galleria references; their SHA-256 values match manifest. Built-in generation evolved the family into taller stacked atria/shopping galleries, paired escalators, visible structural side braces and broad layered crown. Actual output inspected: exact CARDINAL EXCHANGE, stocked retail, bone/crimson/burgundy/charcoal/brass and dry steps. Near-symmetric camera and tight side margins remain final correction gates. Do not certify requested six floors from prompt. Delegated candidate selection, not owner approval/final certification.
 
 assets/candidates/crimson-commons-cardinal-exchange-stage-3-v1.png;2668901 bytes;1024x1536;PNG verified;SHA-256 e210976480e3f8c5b837cfb07c4e390ebb820e7e4c30a6c17601016af92397f5;Git blob f9ee728c2f17693d7120c27e7536d957207bdf4d. Original preserved. Totals174 assets,126 non-Neon candidates+15 Neon prototypes=141/150. Perform equal-width Crimson Commons Retail I/II/III comparison using preserved originals before Redline Labs. Crimson6/15 selected;141/150 global base slots;9 remain;zero final-certified. Camera/framing, editions, metadata, website/contracts and release gates remain open.
+
+
+## Retail comparison checkpoint — November 7, 2026
+
+Actual equal-width original-source comparison completed; names, growing mass, palette, retail function and visible supports pass candidate lineage review. Near-symmetric camera, tight sides and final crown/program/export checks remain open. Evidence:CRIMSON_COMMONS_RETAIL_QA.md. Generate Redline Labs under CRIMSON_COMMONS_PRODUCTION_BRIEF.md: secured engineering labs, visible robotics/test benches and diagnostic glass; then Vermilion Spire, Phoenix Nexus and Technology comparison. Retail core lineage reviewed in CRIMSON_COMMONS_RETAIL_QA.md; final camera/framing corrections remain open. Counts unchanged:141/150 selected base stages,9 remain,zero final-certified.
