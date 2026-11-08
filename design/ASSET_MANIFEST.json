@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "878a384e7cc4ab06ac0e0477c285cb6e3773228d",
+  "repository_commit": "f22ef2fe49f9b6baefa4e726bec1922f42b30c3c",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 183,
+    "asset_files": 184,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 134
+    "lineage_selected_candidate_stage_assets": 135
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Four identity lineages reviewed;Landmark I/II selected;1 stage and final certification open",
+      "status": "15 base candidates selected;Landmark/full collection comparison and final corrections/certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 14
+      "selected_candidate_stage_assets": 15
     }
   ],
   "assets": [
@@ -3501,6 +3501,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: correct CARDINAL APEX, two distinct enclosed telescope/observer galleries supported by attached ribs, complete illuminated lantern with visible sky margin, retained palette and civic base. Final equal-scale height/export/lineage checks open."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-crown-of-flame-stage-3-v1.png",
+      "bytes": 2539326,
+      "sha256": "0d7fcf2923420cebd1683182ef2b429c861f63655b0e454bedd0fd2907132768",
+      "git_blob_sha": "9f46d212ff0a4c2f37049fc31cbe88571774147a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crown of Flame",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact CROWN OF FLAME, three distinct enclosed observer/telescope galleries, attached bone ribs, complete illuminated lantern with sky margin and expanded dry civic base. Final equal-scale height/export and collection review open."
     }
   ]
 }

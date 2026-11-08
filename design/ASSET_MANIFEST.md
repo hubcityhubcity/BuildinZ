@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **183**
+- Repository asset files: **184**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **1**
+- Non-Neon required stage masters without a selected lineage candidate: **0**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -25,7 +25,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | 15 selected base candidates, collection reviewed; final export/camera/safe-area certification open |
-| Crimson Commons | 15 | 0 | 0 | 14 selected candidates: Four identity lineages reviewed, Landmark I/II inspected;1 stage slot and final certification open |
+| Crimson Commons | 15 | 0 | 0 | 15 selected base candidates; Landmark/full collection comparison and final corrections/certification open |
 
 ## Prototype-selected Neon Heights set
 
@@ -660,3 +660,12 @@ Inspected original Bloodmoon Beacon before built-in generation. Actual output in
 assets/candidates/crimson-commons-cardinal-apex-stage-2-v1.png;2460607 bytes;1024x1536;PNG verified;SHA256 f3d5454a3f26fa02534f75347e3a95fc9502fa07e0cbf77e30d27e12b28a0493;Git blob 2a550a006bf4b9ddb9962006a4faf31a35940bcb. Original preserved.183 inventory assets;134 non-Neon+15 Neon prototypes=149/150 base slots. Generate Crown of Flame from Bloodmoon Beacon v1 and Cardinal Apex v1 after inspecting originals: broad three-gallery observation crown, attached structural ribs and complete ember lantern above expanded civic base; then Landmark comparison and full Crimson review. Crimson14/15;149/150 selected base slots;1 remains;zero certified.
 
 Built-in prompt: BuildinZ Crimson Commons Landmark Stage II CARDINAL APEX. Reference Bloodmoon Beacon is Stage I. Preserve bone supporting diagonal ribs/piers, crimson/burgundy panels, charcoal window frames, fine brass edges, blank burgundy banners, dry stepped civic base and observation function. Evolve into clearly taller more substantial civic observation landmark with TWO distinct attached enclosed glazed viewing galleries at different heights, telescopes and observers visible in each, connected by supported central tower, complete supported warm illuminated lantern summit. No actual flame. Exact sole mounted gold sans-serif entrance name CARDINAL APEX; remove BLOODMOON BEACON. No other words/type/stage labels. Reserve broad three-gallery observation crown for StageIII. Premium isometric elevated three-quarter corner3D, unequal base facade widths and clear depth, sunset backdrop. Portrait1024x1536. Pull camera well back: complete tip/lantern, galleries, all base corners and approach inside frame; generous SKY above tip and side margins. No cropped architecture, floating galleries, labs, apartments, shops, theatres or pools.
+
+
+## Crown of Flame checkpoint — November 8, 2026
+
+Inspected Bloodmoon Beacon/Cardinal Apex originals before built-in generation. Actual output inspected: exact CROWN OF FLAME, three distinct enclosed telescope/observer galleries, attached supporting bone ribs, complete illuminated lantern with visible sky margin, expanded dry civic base and consistent palette. Candidate selection under delegated authority, not owner approval/final certification. Full lineage/equal-scale height, safe-area/export and collection checks remain open.
+
+assets/candidates/crimson-commons-crown-of-flame-stage-3-v1.png;2539326 bytes;1024x1536;PNG verified;SHA256 0d7fcf2923420cebd1683182ef2b429c861f63655b0e454bedd0fd2907132768;Git blob 9f46d212ff0a4c2f37049fc31cbe88571774147a. Original preserved.184 inventory assets;135 non-Neon+15 Neon prototypes=150/150 base slots selected,zero final-certified. Perform Landmark I/II/III comparison, then full15-source Crimson collection review. All150 base-stage slots now have selected candidates/prototypes; none final-certified. Prioritize mandatory Bloodmoon tip framing, Entertainment height/camera consistency, safe-area/export and remaining collection corrections before edition renders/metadata/site/contracts/release gates. Do not regenerate already selected identities.
+
+Built-in prompt: BuildinZ Crimson Commons Landmark Stage III CROWN OF FLAME. References Bloodmoon Beacon StageI and Cardinal Apex StageII. Preserve bone diagonal structural ribs/piers, crimson/burgundy panels, charcoal frames, fine brass edges, blank burgundy banners, civic dry stepped base and telescopic observation identity. Evolve into broader more monumental observation crown with THREE clearly distinct enclosed glazed viewing galleries containing public telescopes/observers, each attached to central tower with visible structural ribs; complete warm ember-lit lantern summit, no actual flames. Expanded supported civic base. Clearly increased mass/program relative to StageII. Exact sole gold sans-serif mounted entrance name CROWN OF FLAME. Remove old names; no other words/type/stage labels. Premium isometric elevated three-quarter corner3D, sunset city, portrait1024x1536. Pull camera back: generous sky margin above complete tip/lantern, all galleries/base corners/approach within frame and side clearance. No cropped structures, floating decks, pools, residences, shops, theatres or labs.
