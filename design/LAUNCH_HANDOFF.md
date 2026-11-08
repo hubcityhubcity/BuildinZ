@@ -987,3 +987,8 @@ Resolved prior147-vs150 flag discrepancy against ROYAL_MIRAGE_LANDMARK_ART_HANDO
 ## Coverage validator hardened — November 8, 2026
 
 scripts/validate_base_coverage.py now fails on incomplete explicit selection coverage, missing described slot fields, and lineage classification without selection flag. Existing duplicate-slot/integrity-field/count checks retained. Current manifest passes:185 inventory,150 explicit selections,150 described unique slots,135 lineage candidates. Deliberately removed selection flag and duplicated stage slot both fail regression checks. These checks validate records, not visual art/security/final launch certification. Next remains restoring six Crimson originals for full collection visual review and remaining camera/height corrections.
+
+
+## Landmark v2 comparison — November 8, 2026
+
+Re-ran actual three-source comparison using selected Bloodmoon v2. Top margin corrected and II reads taller than I; III's additional width/program is clear but height escalation overII still unresolved. See CRIMSON_COMMONS_LANDMARK_V2_COMPARISON.md. Exact next unblocked art batch:Crown of Flame versioned central-shaft/summit-height correction with all three galleries/name/ribs preserved; compare actual output before selection. No counts/certification advanced.
