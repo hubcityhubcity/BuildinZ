@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "27e23b3dab36151182597763ab1eb65a87c64f01",
+  "repository_commit": "878a384e7cc4ab06ac0e0477c285cb6e3773228d",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 182,
+    "asset_files": 183,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 133
+    "lineage_selected_candidate_stage_assets": 134
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Four identity lineages reviewed;Bloodmoon Beacon selected;2 stages and final certification open",
+      "status": "Four identity lineages reviewed;Landmark I/II selected;1 stage and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 13
+      "selected_candidate_stage_assets": 14
     }
   ],
   "assets": [
@@ -3482,6 +3482,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact BLOODMOON BEACON, single enclosed telescope/observer gallery, complete attached illuminated lantern, supported bone ribs/crimson-burgundy/charcoal/brass and dry civic base. Tip very close to top; final framing correction required before certification."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-cardinal-apex-stage-2-v1.png",
+      "bytes": 2460607,
+      "sha256": "f3d5454a3f26fa02534f75347e3a95fc9502fa07e0cbf77e30d27e12b28a0493",
+      "git_blob_sha": "2a550a006bf4b9ddb9962006a4faf31a35940bcb",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Apex",
+      "stage": 2,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: correct CARDINAL APEX, two distinct enclosed telescope/observer galleries supported by attached ribs, complete illuminated lantern with visible sky margin, retained palette and civic base. Final equal-scale height/export/lineage checks open."
     }
   ]
 }
