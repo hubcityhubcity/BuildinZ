@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "8a4bca6485c51421dec547a268c90bd3c82841f5",
+  "repository_commit": "8e7ce895aa21c01ea4f851811e89fbc87f036ee1",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 176,
+    "asset_files": 177,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
     "neighborhoods_with_prototype_selected_set": 1,
     "neighborhoods_with_final_certified_set": 0,
-    "lineage_selected_candidate_stage_assets": 127
+    "lineage_selected_candidate_stage_assets": 128
   },
   "production_matrix": [
     {
@@ -120,9 +120,9 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "Residential/Retail reviewed;Redline Labs v2 selected;8 stages and final certification open",
+      "status": "Residential/Retail reviewed;Technology I/II selected;7 stages and final certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
-      "selected_candidate_stage_assets": 7
+      "selected_candidate_stage_assets": 8
     }
   ],
   "assets": [
@@ -3368,6 +3368,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual v2 inspected: right wing restored/full roof/base visible, correct REDLINE LABS, robotics/test benches/researchers/diagnostic glass, secured gate, bone braces and crimson/charcoal/brass. Strong corner depth. Final export/safe areas and lineage comparison open."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-vermilion-spire-stage-2-v1.png",
+      "bytes": 2767766,
+      "sha256": "77583d5d36faec0a7304dc16230fd861321f02e754286cf69ba51887b17fa938",
+      "git_blob_sha": "f84dd146d8487ea1776fd75cd6fa6a7142b0048a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Vermilion Spire",
+      "stage": 2,
+      "building_type": "Technology",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: exact VERMILION SPIRE, taller single research tower, glazed robotics/testing chambers, bone diagonal braces, attached sensor/mechanical crown, retained low lab wing and dry secured campus. Complete tip/wings/base visible. Final safe-area/export and three-stage comparison open."
     }
   ]
 }

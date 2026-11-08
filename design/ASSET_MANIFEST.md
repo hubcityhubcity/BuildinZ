@@ -6,10 +6,10 @@ This is the canonical repository asset inventory. “Selected” means selected 
 
 ## Coverage
 
-- Repository asset files: **176**
+- Repository asset files: **177**
 - Prototype-selected Neon Heights stage files: **15 of 15**
 - Final NFT-certified stage files: **0 of 150**
-- Non-Neon required stage masters without a selected lineage candidate: **8**
+- Non-Neon required stage masters without a selected lineage candidate: **7**
 - No placeholder is counted as artwork.
 
 ## Production matrix
@@ -25,7 +25,7 @@ This is the canonical repository asset inventory. “Selected” means selected 
 | Old World Steel | 15 | 0 | 0 | 15 base candidates pass collection review; edition/export checks and final certification open |
 | Moonline Harbor | 15 | 0 | 0 | 15 base candidates pass collection review; safe-area/export checks, edition production and final certification open |
 | Arcadia Prime | 15 | 0 | 0 | 15 selected base candidates, collection reviewed; final export/camera/safe-area certification open |
-| Crimson Commons | 15 | 0 | 0 | 7 selected candidates: Residential/Retail reviewed, Redline Labs v2 inspected;8 stage slots and final certification open |
+| Crimson Commons | 15 | 0 | 0 | 8 selected candidates: Residential/Retail reviewed, Technology I/II inspected;7 stage slots and final certification open |
 
 ## Prototype-selected Neon Heights set
 
@@ -597,3 +597,12 @@ Generate Vermilion Spire from selected Redline Labs v2 after inspecting original
 
 Original generation prompt: Use case: stylized-concept. BuildinZ Crimson Commons Technology Stage I: REDLINE LABS. Premium architectural isometric 3D render in portrait1024x1536. Compact secured two-level engineering research building with bone structural piers, charcoal metal frames, crimson and burgundy facade panels, thin warm brass edges, vertical burgundy banners without text. Clearly visible through large diagnostic glass walls: industrial robotic arms, engineering test benches, instruments and researchers, secure glazed entrance. No shops, apartment balconies, pools or theatre. Attached low roof instrumentation and mechanical vents, supported structure; reserve tall research spire and connected towers for later evolutions. Elevated three-quarter CORNER view with visibly unequal facade widths, strong side depth, full roof, all wings, base corners and dry civic approach inside image with generous margins. Restrained sunset urban backdrop, warm architectural lighting and muted laboratory task lights. Exact sole mounted entrance name in clean gold sans-serif: "REDLINE LABS". No other words, type labels or stage labels. No flames, floating decks or cropped architecture.
 Correction: pull camera back; preserve exact building, name/function/materials; complete right wing and show entire base/roof/approach with margins. Actual output visually checked; no numerical safe-area claim.
+
+
+## Vermilion Spire checkpoint — November 8, 2026
+
+Inspected selected Redline Labs v2 original before built-in generation. Actual StageII output inspected: exact VERMILION SPIRE; clearly taller single research tower with robotics/testing chambers, bone diagonal braces, sensor/mechanical crown, preserved low laboratory wing and secured dry civic campus. Tip, wings and base visible inside frame; final numerical safe-area/export and full lineage QA remain open. Delegated candidate selection, not prior owner approval/final certification.
+
+assets/candidates/crimson-commons-vermilion-spire-stage-2-v1.png;2767766 bytes;1024x1536;PNG verified;SHA256 77583d5d36faec0a7304dc16230fd861321f02e754286cf69ba51887b17fa938;Git blob f84dd146d8487ea1776fd75cd6fa6a7142b0048a.177 inventory assets;128 non-Neon+15 Neon prototypes=143/150 base slots. Original preserved. Generate Phoenix Nexus from selected Redline Labs v2 and Vermilion Spire v1 after inspecting both originals: connected research towers, visible computation core, enclosed braced service bridges and attached machinery crown; then equal-width Technology comparison. Crimson8/15;143/150 base slots selected;7 remain;zero final-certified.
+
+Built-in generation prompt: BuildinZ Crimson Commons Technology Stage II VERMILION SPIRE. Reference is selected Redline Labs Stage I: preserve bone structural braces, charcoal frames, crimson/burgundy panels, warm brass edges, robotics engineering labs and secured dry civic campus. Evolve into a clearly taller single research spire rising above original low laboratory wing, enclosed glazed testing chambers, visibly braced scientific instrument decks with sensors, robotic arms and researchers through diagnostic glass. Retain grounded visible structural supports and mechanical roof equipment; reserve connected multiple towers for Stage III. Exact sole mounted entrance name in gold sans-serif: VERMILION SPIRE. Remove REDLINE LABS. No other wording or stage labels. Premium isometric elevated three-quarter CORNER architectural3D, unequal facade widths and strong side depth, sunset. Portrait1024x1536. Pull camera back to fit ENTIRE spire tip, low wings, fenced base and approach with generous margins on all sides. No clipped architecture, shops, apartments, pools, theatre, flames or floating decks.
