@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "58a24098ccc813e0b78ff9526bacd60c87638cc1",
+  "repository_commit": "1590352a479b62a9a455e5e1c9fa0580f0c48ce4",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
@@ -824,7 +824,8 @@
       "building_type": "Landmark",
       "selected_for_prototype": false,
       "final_nft_certification": false,
-      "evidence": "visually inspected generated output; exact-name, framing, physical-support and lineage checks recorded in ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md"
+      "evidence": "visually inspected generated output; exact-name, framing, physical-support and lineage checks recorded in ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md",
+      "selected_for_lineage_review": true
     },
     {
       "path": "assets/candidates/royal-mirage-djinn-array-stage-2-v1.png",
@@ -1013,7 +1014,8 @@
       "building_type": "Landmark",
       "selected_for_prototype": false,
       "final_nft_certification": false,
-      "evidence": "visually inspected generated output; exact-name, framing, physical-support and lineage checks recorded in ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md"
+      "evidence": "visually inspected generated output; exact-name, framing, physical-support and lineage checks recorded in ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md",
+      "selected_for_lineage_review": true
     },
     {
       "path": "assets/candidates/royal-mirage-souk-plaza-stage-1-v1.png",
@@ -1050,7 +1052,8 @@
       "building_type": "Landmark",
       "selected_for_prototype": false,
       "final_nft_certification": false,
-      "evidence": "visually inspected generated output; exact-name, framing, physical-support and lineage checks recorded in ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md"
+      "evidence": "visually inspected generated output; exact-name, framing, physical-support and lineage checks recorded in ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md",
+      "selected_for_lineage_review": true
     },
     {
       "path": "assets/candidates/royal-mirage-sultans-skyhold-stage-3-v1.png",

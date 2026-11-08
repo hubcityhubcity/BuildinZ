@@ -1,5 +1,6 @@
-# Base coverage selection-flag discrepancy
+# Base coverage flag audit — resolved
 
-November 8, 2026. Audit against b3174e5eb3fd843f2fdaeacf88ef9755f839c860. Classification totals report135 lineage candidates+15 prototypes=150. Explicit selection flags resolve only147 files. Three lineage-classified records lack selected_for_lineage_review; do not assert150 flag-resolved selections until source evidence is reconciled. This does not remove existing art or change token supply. No final certification inferred.
 
-Run scripts/validate_base_coverage.py design/ASSET_MANIFEST.json to reproduce. Current185 inventory,135 lineage classifications,147 explicit selections,zero duplicate described slots. The validator reports rather than silently repairs legacy schema differences. Six missing Residential/Retail originals still need restoration for full visual review; binary fetch returned empty content despite success, so no restoration claimed. Next:resolve the three inconsistent flags against their lineage approval evidence, then restore exact originals. No images regenerated.
+## Royal Mirage selection flags reconciled — November 8, 2026
+
+Resolved prior147-vs150 flag discrepancy against ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md and ROYAL_MIRAGE_COLLECTION_QA.md, both explicitly select Royal Minaret/Sovereign Needle/Crown of Sand. Their exact paths/blob hashes/byte sizes match manifest and actual tree. Added omitted selected_for_lineage_review=true to those three records only. This restores schema consistency, not new artwork/owner approval/final certification.150 explicit selections cover150 unique neighborhood/type/stage slots;185 inventory entries match repository hashes/sizes. Zero final-certified. Next:restore six Crimson Residential/Retail originals for full visual review; continue camera/height corrections using Bloodmoon v2.

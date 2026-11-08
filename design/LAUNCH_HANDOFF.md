@@ -977,3 +977,8 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 Built-in image edit pulled camera back from v1 while preserving exact name, one enclosed telescope/observer gallery, complete lantern, bone ribs and crimson palette. Actual v2 inspected: clear sky above tip and full base/approach visible. Selected v2; v1 retained as superseded. Top-edge defect corrected for this candidate; final lineup/mobile/export certification remains open.
 
 assets/candidates/crimson-commons-bloodmoon-beacon-stage-1-v2.png;2391376 bytes;1024x1536;PNG verified;SHA256 d0da2a675e0cde5c9f457dcd8e9af9a9fb3eb1ff4a9ad9472852f8d06ca839b1;Git blob 9cf98e4bb47fceeff123c5e915fdb11677bb034a.185 inventory files;150 selected base slots unchanged;zero final-certified. Next:restore missing Residential/Retail originals and full Crimson review, use Bloodmoon v2 in all new comparisons. Correction queue's v1 framing action is now completed at candidate level. Do not repeat generation.
+
+
+## Royal Mirage selection flags reconciled — November 8, 2026
+
+Resolved prior147-vs150 flag discrepancy against ROYAL_MIRAGE_LANDMARK_ART_HANDOFF.md and ROYAL_MIRAGE_COLLECTION_QA.md, both explicitly select Royal Minaret/Sovereign Needle/Crown of Sand. Their exact paths/blob hashes/byte sizes match manifest and actual tree. Added omitted selected_for_lineage_review=true to those three records only. This restores schema consistency, not new artwork/owner approval/final certification.150 explicit selections cover150 unique neighborhood/type/stage slots;185 inventory entries match repository hashes/sizes. Zero final-certified. Next:restore six Crimson Residential/Retail originals for full visual review; continue camera/height corrections using Bloodmoon v2.
