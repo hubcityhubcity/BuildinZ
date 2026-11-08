@@ -15,6 +15,11 @@ def validate(data):
     if len(assets)!=data["summary"]["asset_files"]: errors.append("inventory count mismatch")
     lineage=sum(a.get("classification")=="lineage-selected-candidate" for a in assets)
     if lineage!=data["summary"]["lineage_selected_candidate_stage_assets"]: errors.append("lineage count mismatch")
+    if len(selected)!=data["summary"]["required_identity_stage_assets"]: errors.append("selected coverage incomplete")
+    if len(complete)!=len(slots): errors.append("selected record missing slot fields")
+    for a in assets:
+        if a.get("classification")=="lineage-selected-candidate" and not a.get("selected_for_lineage_review"):
+            errors.append("lineage candidate missing selection flag: "+a["path"])
     for a in selected:
         if not a.get("git_blob_sha") or not a.get("bytes"): errors.append("missing integrity: "+a["path"])
         if a.get("stage") is not None and a["stage"] not in (1,2,3): errors.append("invalid stage: "+a["path"])
