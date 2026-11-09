@@ -87,9 +87,9 @@ async function run() {
     await desktop.locator('#type').selectOption('Technology');
     assert.match(await desktop.locator('#result-count').innerText(), /1 planned editions match/);
     assert.equal(await desktop.locator('#cards article.card').first().locator('h3').innerText(), 'Daystar Citadel');
-    assert.match(await desktop.locator('#cards article.card').first().locator('.art').innerText(), /Stage artwork in production/);
-    assert.equal(await desktop.locator('#cards article.card').first().locator('img').count(), 0);
-    note('Golden Crest candidate art is labeled; unproduced Technology art is NOT invented');
+    await desktop.waitForFunction(() => { const img = document.querySelector('#cards article img'); return img && img.complete && img.naturalWidth > 0; });
+    assert.equal(await desktop.locator('#cards article.card').first().locator('img').count(), 1);
+    note('Golden Crest Technology selected candidate image decodes');
 
     await desktop.locator('#neighborhood').selectOption('');
     await desktop.locator('#type').selectOption('');
@@ -121,8 +121,8 @@ async function run() {
     await mobile.locator('#stage').selectOption('2');
     assert.match(await mobile.locator('#result-count').innerText(), /100 planned editions match/);
     assert.equal(await mobile.locator('#cards article.card').first().locator('h3').innerText(), 'Veilside Habitat');
-    assert.match(await mobile.locator('#cards article.card').first().locator('.art').innerText(), /Stage artwork in production/);
-    note('360px mobile viewport: no horizontal overflow, working controls, honest missing-art state');
+    await mobile.waitForFunction(() => { const img = document.querySelector('#cards article img'); return img && img.complete && img.naturalWidth > 0; });
+    note('360px mobile viewport: no horizontal overflow, working controls, selected candidate image decoded');
 
     const broken = await browser.newPage();
     await broken.route('**/metadata/genesis-token-registry.json', route =>
