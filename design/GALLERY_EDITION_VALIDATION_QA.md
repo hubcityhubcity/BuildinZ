@@ -1,0 +1,3 @@
+# Gallery edition validation
+
+November 9, 2026. Added integer token/edition checks, safe stage-name presence check, fifty identity groups and twenty distinct editions per identity validation to actual gallery loader. This closes a gap where1000 unique token IDs could still mask duplicate edition assignments within one identity. Executed extracted actual validation function under Node against canonical1000-token registry:pass. Deliberate duplicate edition within an identity:rejected. This is data validation, not browser testing/security audit or final metadata certification. Browser/mobile/image-load/navigation checks and art/edition launch gates remain open.

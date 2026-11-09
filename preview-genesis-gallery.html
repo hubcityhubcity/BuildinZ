@@ -200,9 +200,21 @@
       !Array.isArray(manifest.assets)) throw Error("The expected canonical registry or asset manifest was not found.");
     const unique = new Set(registry.tokens.map(t => t.token_id));
     if (unique.size !== 1000 || !registry.tokens.every(t =>
-      t.token_id >= 1 && t.token_id <= 1000 && t.edition >= 1 && t.edition <= 20 &&
+      Number.isInteger(t.token_id) && t.token_id >= 1 && t.token_id <= 1000 &&
+      Number.isInteger(t.edition) && t.edition >= 1 && t.edition <= 20 && t.stage_names &&
       t.evolution_persists_on_transfer === true && [1,2,3].every(s => Boolean(t.stage_names[String(s)]))))
       throw Error("Token uniqueness, stage mapping, or transfer-persistence validation failed.");
+    const editions = new Map();
+    for (const token of registry.tokens) {
+      if (!token.identity_id) throw Error("Missing building identity.");
+      if (!editions.has(token.identity_id)) editions.set(token.identity_id, new Set());
+      const seen = editions.get(token.identity_id);
+      if (seen.has(token.edition)) throw Error("Duplicate edition within a building identity.");
+      seen.add(token.edition);
+    }
+    if (editions.size !== 50 || [...editions.values()].some(seen => seen.size !== 20))
+      throw Error("Expected fifty identities with twenty distinct editions each.");
+
   }
   async function start() {
     try {
