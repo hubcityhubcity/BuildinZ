@@ -1718,5 +1718,207 @@
       "render_status": "not_produced",
       "image_uris": null
     }
+  ],
+  "finish_specifications": [
+    {
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "facade": "matte ember-red ceramic facade",
+      "trim": "charcoal mortar joints",
+      "lighting": "warm-white window light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "facade": "deep burgundy satin facade panels",
+      "trim": "bone structural trim",
+      "lighting": "warm-white window light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "facade": "charcoal anodized frame",
+      "trim": "crimson inset facade panels",
+      "lighting": "low amber frame lighting",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "facade": "bone mineral structural piers",
+      "trim": "burgundy recessed panels",
+      "lighting": "warm-white window light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "facade": "crimson matte facade",
+      "trim": "brushed warm-brass thin edges",
+      "lighting": "restrained amber cornice lighting",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "facade": "charcoal facade",
+      "trim": "crimson woven vertical banners on existing supports",
+      "lighting": "warm-white window light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F07",
+      "finish_name": "Ruby Glass",
+      "facade": "ruby-tinted black glazing",
+      "trim": "bone mullions",
+      "lighting": "warm-white interior light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F08",
+      "finish_name": "Warm Lantern",
+      "facade": "burgundy facade",
+      "trim": "warm-brass existing lantern housings",
+      "lighting": "soft amber lantern glow",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F09",
+      "finish_name": "Garnet Enamel",
+      "facade": "garnet enamel facade panels",
+      "trim": "charcoal frame",
+      "lighting": "warm-white window light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F10",
+      "finish_name": "Oxide Metal",
+      "facade": "dark oxidized copper facade accents",
+      "trim": "burgundy base panels",
+      "lighting": "restrained amber seams",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F11",
+      "finish_name": "Scarlet Satin",
+      "facade": "scarlet satin facade panels",
+      "trim": "bone trim",
+      "lighting": "warm-white window light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F12",
+      "finish_name": "Civic Mosaic",
+      "facade": "crimson/bone small-scale mosaic facade insets",
+      "trim": "charcoal frame",
+      "lighting": "warm-white window light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F13",
+      "finish_name": "Copper Mesh",
+      "facade": "warm-copper fine mesh over existing opaque panel zones",
+      "trim": "charcoal framing",
+      "lighting": "soft amber interior light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F14",
+      "finish_name": "Ember Inlay",
+      "facade": "charcoal facade",
+      "trim": "thin ember-red inlaid seams",
+      "lighting": "low amber seam lighting",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F15",
+      "finish_name": "Burgundy Rib",
+      "facade": "burgundy ribbed cladding within existing panel bounds",
+      "trim": "bone piers",
+      "lighting": "warm-white window light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F16",
+      "finish_name": "Bone Relief",
+      "facade": "bone shallow geometric relief on existing opaque panels",
+      "trim": "crimson recesses",
+      "lighting": "warm-white window light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F17",
+      "finish_name": "Brass Lattice",
+      "facade": "burgundy facade",
+      "trim": "fine brass lattice inside existing facade frames",
+      "lighting": "restrained amber edge light",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F18",
+      "finish_name": "Ruby Crownlight",
+      "facade": "ruby-tinted glazing",
+      "trim": "brass upper trim on existing roof geometry",
+      "lighting": "ruby architectural crown lighting without new crown geometry",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F19",
+      "finish_name": "Crimson Halo",
+      "facade": "charcoal/burgundy facade",
+      "trim": "bone structure and thin brass trim",
+      "lighting": "crimson light along existing roof perimeter only",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    },
+    {
+      "finish_id": "CC-F20",
+      "finish_name": "Commons Signature",
+      "facade": "burgundy satin and bone relief facade",
+      "trim": "fine brass frame inlays plus crimson banners on existing supports",
+      "lighting": "balanced warm-white interiors and restrained ember roof accents",
+      "geometry_changes": "none",
+      "stage_application": "Apply same materials to each stage's corresponding existing surfaces; preserve all stage-specific geometry and amenities.",
+      "review_status": "not_rendered"
+    }
   ]
 }
