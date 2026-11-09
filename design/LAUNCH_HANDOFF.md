@@ -1047,3 +1047,8 @@ Source workflow at 4d5808b27bc59f24a6edf1f4198ff726b3b0b2a1 passed: https://gith
 Reconciled the stale checklist paragraph that still described unselected non-Neon slots. Actual manifest:188 files,15 selected prototypes,135 selected lineage candidates,150 required stage slots,zero final-certified. No certification checkbox was closed.
 
 Next: restore six missing local Crimson Residential/Retail originals for source review; execute browser acceptance where runtime is available; complete final source safe-area/evolution/typography review and edition rendering before permanent metadata or release freeze. Browser runtime limitations are recorded in BROWSER_VERIFICATION_HANDOFF.md. Do not repeat the fixed 21-versus-150 CI correction.
+
+
+## Browser suite verified — November 9, 2026
+
+Actual Playwright desktop/mobile CI passed at dfc80d0419906e0491f75c8328dae22515f7826a. Evidence and bounded scope: GALLERY_BROWSER_CI_EVIDENCE.md; run42639961572. This resolves the inability to execute these functional checks locally, through CI. Full visual/accessibility/mint acceptance remains open. Pages build passed but deployment failed (run42639960339); diagnose before claiming hosted acceptance. Next:deployment diagnostics, saved browser screenshots, then final artwork/edition work.
