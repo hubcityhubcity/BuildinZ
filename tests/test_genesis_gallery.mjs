@@ -63,9 +63,9 @@ test('concept art references are unique, real files and never marked certified',
     (a.selected_for_prototype || a.classification === 'lineage-selected-candidate') &&
     a.identity_name && Number.isInteger(a.stage) && a.path.startsWith('assets/') &&
     !a.final_nft_certification);
-  assert.equal(selected.length, 21);
+  assert.equal(selected.length, 150);
   assert.equal(selected.filter(a => a.selected_for_prototype).length, 15);
-  assert.equal(selected.filter(a => a.classification === 'lineage-selected-candidate').length, 6);
+  assert.equal(selected.filter(a => a.classification === 'lineage-selected-candidate').length, 135);
   const seen = new Set();
   const canonicalNames = new Set(collection.neighborhoods.flatMap(n =>
     n.identities.flatMap(i => i.stages.map(s => s.name))));
@@ -85,7 +85,7 @@ test('gallery has explicit preview disclosures, filters and no mint button', () 
   assert.ok(gallery.includes('design/ASSET_MANIFEST.json'));
   assert.ok(gallery.includes('design/COLLECTION_REGISTRY.json'));
   assert.ok(gallery.includes('planned tokens, not minted NFTs'));
-  assert.ok(gallery.includes('Neither is certified final NFT/edition artwork'));
+  assert.ok(gallery.includes('These are not certified final NFT/edition artwork'));
   assert.ok(gallery.includes('not this edition'));
   assert.ok(!/<button[^>]*>\s*(mint|buy|connect wallet)/i.test(gallery));
 });
