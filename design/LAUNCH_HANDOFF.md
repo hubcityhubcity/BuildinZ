@@ -1052,3 +1052,12 @@ Next: restore six missing local Crimson Residential/Retail originals for source 
 ## Browser suite verified — November 9, 2026
 
 Actual Playwright desktop/mobile CI passed at dfc80d0419906e0491f75c8328dae22515f7826a. Evidence and bounded scope: GALLERY_BROWSER_CI_EVIDENCE.md; run42639961572. This resolves the inability to execute these functional checks locally, through CI. Full visual/accessibility/mint acceptance remains open. Pages build passed but deployment failed (run42639960339); diagnose before claiming hosted acceptance. Next:deployment diagnostics, saved browser screenshots, then final artwork/edition work.
+
+
+## Screenshot capture and deployment verified — November 9, 2026
+
+Browser workflow42654568840 passed at d6c8323e2dcb287a992870e98429f1cb8f8bfed0 and created artifact13691770828, genesis-gallery-browser-evidence,27395985 bytes,not expired when checked. Review/download: https://github.com/hubcityhubcity/BuildinZ/actions/runs/42654568840 . The artifact contains generated screenshot evidence; its image contents have not yet been downloaded or visually inspected here. Do not mark visual acceptance passed.
+
+Pages workflow42654565363 at the same commit succeeded: https://github.com/hubcityhubcity/BuildinZ/actions/runs/42654565363 . The earlier deployment failure is no longer a current deployment blocker; its cause remains unknown. This confirms workflow deployment success, not a hosted browser acceptance test.
+
+Next:download and inspect actual screenshot artifact; verify hosted gallery against deployed commit; resume final artwork/edition review. Keep all final artwork certification, accessibility, mint integration and release gates open.
