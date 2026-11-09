@@ -3,7 +3,11 @@ on:
   push:
     branches: [main]
     paths:
-      - "preview-genesis-gallery.html"
+      - "*.html"
+      - "scripts/validate_genesis_registry.py"
+      - "scripts/build_genesis_metadata.mjs"
+      - "scripts/verify_collection_labels.py"
+      - "design/COLLECTION_CONSISTENCY_STANDARD.md"
       - "tests/test_genesis_gallery.mjs"
       - "tests/test_build_genesis_metadata.mjs"
       - "metadata/genesis-token-registry.json"
@@ -25,6 +29,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Validate canonical stage labels
+        run: python3 scripts/verify_collection_labels.py
       - name: Validate collection registry
         run: python3 scripts/validate_genesis_registry.py
       - name: Test stage metadata guardrails
