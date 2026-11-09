@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "462bf6076267bff2a1ce8bc1aab831366e59cc84",
+  "repository_commit": "9bcc11628059daa6ee44d73333d2115765014f5a",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 186,
+    "asset_files": 187,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3438,13 +3438,13 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "lineage-selected-candidate",
+      "classification": "superseded-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Scarlet Palace",
       "stage": 2,
       "building_type": "Entertainment",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
+      "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact SCARLET PALACE, two distinct glazed performance halls with stages/instruments/audiences and supported tiers, connecting foyer, expanded mass and retained palette/braces/dry plaza. Near-symmetric camera and tight sides remain final gates; metric height increase not certified."
     },
@@ -3561,6 +3561,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual v2 inspected: lengthened shaft and greater gallery separation, exact CROWN OF FLAME, three enclosed galleries/supporting ribs/lantern retained; tip/base inside. Selected correction candidate; consistent-scale lineup/mobile/export certification remains open."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-scarlet-palace-stage-2-v2.png",
+      "bytes": 2923100,
+      "sha256": "10aa853eaaa443151332f7de96a5105e1e13ba6c9bc38dc84155c04a4798586e",
+      "git_blob_sha": "f134438aa564b47ff35abf78a5fab43db3010236",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual v2 inspected: two concert halls/stages/audiences and added supported upper tiers, correct SCARLET PALACE, taller facade and visible right-side depth, palette/braces retained. Final equal-scale lineup and side safe-area gates open."
     }
   ]
 }
