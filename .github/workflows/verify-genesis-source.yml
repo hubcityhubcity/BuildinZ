@@ -5,6 +5,7 @@ on:
     paths:
       - "*.html"
       - "scripts/validate_genesis_registry.py"
+      - "scripts/validate_base_coverage.py"
       - "scripts/build_genesis_metadata.mjs"
       - "scripts/verify_collection_labels.py"
       - "design/COLLECTION_CONSISTENCY_STANDARD.md"
@@ -31,6 +32,8 @@ jobs:
           node-version: '22'
       - name: Validate canonical stage labels
         run: python3 scripts/verify_collection_labels.py
+      - name: Validate selected base stage coverage
+        run: python3 scripts/validate_base_coverage.py
       - name: Validate collection registry
         run: python3 scripts/validate_genesis_registry.py
       - name: Test stage metadata guardrails
