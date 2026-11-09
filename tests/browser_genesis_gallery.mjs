@@ -55,6 +55,27 @@ async function run() {
     assert.equal(await desktop.locator('#cards article.card').first().locator('img').count(), 1);
     note('Desktop: 1000 registry records, 24 rendered cards, prototype artwork and pagination');
 
+    const decoded = await desktop.evaluate(async () => {
+      const manifest = await (await fetch('design/ASSET_MANIFEST.json')).json();
+      const assets = manifest.assets.filter(a =>
+        (a.selected_for_prototype || a.classification === 'lineage-selected-candidate') &&
+        a.identity_name && Number.isInteger(a.stage) && a.path.startsWith('assets/') &&
+        !a.final_nft_certification);
+      const failures = [];
+      for (const asset of assets) {
+        const img = new Image();
+        img.src = asset.path;
+        try {
+          await img.decode();
+          if (!img.naturalWidth || !img.naturalHeight) throw new Error('zero dimensions');
+        } catch (error) { failures.push(asset.path + ': ' + error.message); }
+      }
+      return { count: assets.length, failures };
+    });
+    assert.equal(decoded.count, 150);
+    assert.deepEqual(decoded.failures, [], 'Selected stage images failed browser decoding');
+    note('All 150 selected stage images decode in Chromium; not visual certification');
+
     const homepage = await browser.newPage({ viewport: { width: 1280, height: 800 } });
     homepage.on('pageerror', e => browserErrors.push(e.message));
     await homepage.goto(url.replace('preview-genesis-gallery.html', 'index.html'), { waitUntil: 'networkidle' });
