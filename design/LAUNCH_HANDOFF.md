@@ -1033,3 +1033,8 @@ Actual I-v1/II-v2/III-v2 equal-width review completed. III now clearly tallest; 
 ## Mobile presentation inspection — November 9, 2026
 
 Actual176x264 corrected Entertainment thumbnails inspected. Full2:3 contain display preserves roof/base; baked signage too small for sole label. Require exact stage name in real HTML below full artwork, separate type/stage, no cover cropping. Evidence:ENTERTAINMENT_MOBILE_PRESENTATION_QA.md. Image-only check, not browser/accessibility certification. Next:inspect actual gallery code and implement contain+semantic labels; missing-source/full Crimson and final art gates remain open.
+
+
+## Gallery mapping verification — November 9, 2026
+
+Executed actual gallery eligibility/name lookup logic against current repository registry+manifest:1000 token records,1000 unique IDs,150 unique eligible selected stage names,3000 token-stage lookups,zero missing mappings/duplicate selected names. This verifies shared candidate-preview mapping only, not final edition images, permanent image URLs, browser rendering, mint readiness or contract persistence. Gallery portrait ratio change committed6533a285; actual browser/mobile verification remains open. Next:browser gallery navigation/filter/stage switching/image-load checks; complete missing-source restoration/full Crimson review and final art/edition gates.
