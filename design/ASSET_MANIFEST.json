@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "1590352a479b62a9a455e5e1c9fa0580f0c48ce4",
+  "repository_commit": "462bf6076267bff2a1ce8bc1aab831366e59cc84",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 185,
+    "asset_files": 186,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3514,13 +3514,13 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "lineage-selected-candidate",
+      "classification": "superseded-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Crown of Flame",
       "stage": 3,
       "building_type": "Landmark",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
+      "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact CROWN OF FLAME, three distinct enclosed observer/telescope galleries, attached bone ribs, complete illuminated lantern with sky margin and expanded dry civic base. Final equal-scale height/export and collection review open."
     },
@@ -3542,6 +3542,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual v2 inspected: deliberate sky above complete tip, full base/approach, correct BLOODMOON BEACON, one enclosed telescope gallery, illuminated lantern and original rib/palette identity retained. Selected framing correction; final lineage/mobile/export checks open."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-crown-of-flame-stage-3-v2.png",
+      "bytes": 2476114,
+      "sha256": "0f8426fe43fa98c4b26f96e61ddaf7ad9c7ae613bb91f07a922cbab0b84fb392",
+      "git_blob_sha": "1fc744fc03a059640327c8aa07b1a9c9db5d4d3a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crown of Flame",
+      "stage": 3,
+      "building_type": "Landmark",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual v2 inspected: lengthened shaft and greater gallery separation, exact CROWN OF FLAME, three enclosed galleries/supporting ribs/lantern retained; tip/base inside. Selected correction candidate; consistent-scale lineup/mobile/export certification remains open."
     }
   ]
 }
