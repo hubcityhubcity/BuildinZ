@@ -1,0 +1,1722 @@
+{
+  "schema_version": "1.0.0",
+  "status": "delegated-production-plan-not-rendered",
+  "authority": "Agent creative decision under delegated edition/rarity scope; not prior owner artwork approval",
+  "neighborhood": "crimson-commons",
+  "scope": {
+    "tokens": 100,
+    "identity_count": 5,
+    "editions_per_identity": 20,
+    "stage_renders_required": 300,
+    "stage_renders_completed_by_this_plan": 0
+  },
+  "rules": [
+    "Preserve selected architecture, stage-specific names, camera/framing and approved evolution anchors.",
+    "Finish variations affect facade materials, trim, glazing, banner weave and architectural lighting only; never add floors or rooftop programs to imply a different stage.",
+    "Use crimson/burgundy/charcoal/bone/warm-brass palette; no Neon cyan/purple identity shift.",
+    "Edition finish persists across all three stages and resale; rarity remains canonical.",
+    "Final renders require visual inspection and unique edition image checksums; this JSON is not NFT metadata or completed artwork."
+  ],
+  "editions": [
+    {
+      "token_id": 901,
+      "token_key": "BZ-0901",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 1,
+      "base_rarity": "Common",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 902,
+      "token_key": "BZ-0902",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 2,
+      "base_rarity": "Common",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 903,
+      "token_key": "BZ-0903",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 3,
+      "base_rarity": "Common",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 904,
+      "token_key": "BZ-0904",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 4,
+      "base_rarity": "Common",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 905,
+      "token_key": "BZ-0905",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 5,
+      "base_rarity": "Common",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 906,
+      "token_key": "BZ-0906",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 6,
+      "base_rarity": "Common",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 907,
+      "token_key": "BZ-0907",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 7,
+      "base_rarity": "Common",
+      "finish_id": "CC-F07",
+      "finish_name": "Ruby Glass",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 908,
+      "token_key": "BZ-0908",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 8,
+      "base_rarity": "Common",
+      "finish_id": "CC-F08",
+      "finish_name": "Warm Lantern",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 909,
+      "token_key": "BZ-0909",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 9,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F09",
+      "finish_name": "Garnet Enamel",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 910,
+      "token_key": "BZ-0910",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 10,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F10",
+      "finish_name": "Oxide Metal",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 911,
+      "token_key": "BZ-0911",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 11,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F11",
+      "finish_name": "Scarlet Satin",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 912,
+      "token_key": "BZ-0912",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 12,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F12",
+      "finish_name": "Civic Mosaic",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 913,
+      "token_key": "BZ-0913",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 13,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F13",
+      "finish_name": "Copper Mesh",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 914,
+      "token_key": "BZ-0914",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 14,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F14",
+      "finish_name": "Ember Inlay",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 915,
+      "token_key": "BZ-0915",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 15,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F15",
+      "finish_name": "Burgundy Rib",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 916,
+      "token_key": "BZ-0916",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 16,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F16",
+      "finish_name": "Bone Relief",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 917,
+      "token_key": "BZ-0917",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 17,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F17",
+      "finish_name": "Brass Lattice",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 918,
+      "token_key": "BZ-0918",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 18,
+      "base_rarity": "Epic",
+      "finish_id": "CC-F18",
+      "finish_name": "Ruby Crownlight",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 919,
+      "token_key": "BZ-0919",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 19,
+      "base_rarity": "Epic",
+      "finish_id": "CC-F19",
+      "finish_name": "Crimson Halo",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 920,
+      "token_key": "BZ-0920",
+      "identity_id": "N10-I01",
+      "building_type": "Residential",
+      "edition": 20,
+      "base_rarity": "Legendary",
+      "finish_id": "CC-F20",
+      "finish_name": "Commons Signature",
+      "stage_names": {
+        "1": "Ember Residences",
+        "2": "Scarlet Habitat",
+        "3": "Crimson Arcology"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 921,
+      "token_key": "BZ-0921",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 1,
+      "base_rarity": "Common",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 922,
+      "token_key": "BZ-0922",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 2,
+      "base_rarity": "Common",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 923,
+      "token_key": "BZ-0923",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 3,
+      "base_rarity": "Common",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 924,
+      "token_key": "BZ-0924",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 4,
+      "base_rarity": "Common",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 925,
+      "token_key": "BZ-0925",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 5,
+      "base_rarity": "Common",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 926,
+      "token_key": "BZ-0926",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 6,
+      "base_rarity": "Common",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 927,
+      "token_key": "BZ-0927",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 7,
+      "base_rarity": "Common",
+      "finish_id": "CC-F07",
+      "finish_name": "Ruby Glass",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 928,
+      "token_key": "BZ-0928",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 8,
+      "base_rarity": "Common",
+      "finish_id": "CC-F08",
+      "finish_name": "Warm Lantern",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 929,
+      "token_key": "BZ-0929",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 9,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F09",
+      "finish_name": "Garnet Enamel",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 930,
+      "token_key": "BZ-0930",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 10,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F10",
+      "finish_name": "Oxide Metal",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 931,
+      "token_key": "BZ-0931",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 11,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F11",
+      "finish_name": "Scarlet Satin",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 932,
+      "token_key": "BZ-0932",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 12,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F12",
+      "finish_name": "Civic Mosaic",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 933,
+      "token_key": "BZ-0933",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 13,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F13",
+      "finish_name": "Copper Mesh",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 934,
+      "token_key": "BZ-0934",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 14,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F14",
+      "finish_name": "Ember Inlay",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 935,
+      "token_key": "BZ-0935",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 15,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F15",
+      "finish_name": "Burgundy Rib",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 936,
+      "token_key": "BZ-0936",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 16,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F16",
+      "finish_name": "Bone Relief",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 937,
+      "token_key": "BZ-0937",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 17,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F17",
+      "finish_name": "Brass Lattice",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 938,
+      "token_key": "BZ-0938",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 18,
+      "base_rarity": "Epic",
+      "finish_id": "CC-F18",
+      "finish_name": "Ruby Crownlight",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 939,
+      "token_key": "BZ-0939",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 19,
+      "base_rarity": "Epic",
+      "finish_id": "CC-F19",
+      "finish_name": "Crimson Halo",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 940,
+      "token_key": "BZ-0940",
+      "identity_id": "N10-I02",
+      "building_type": "Retail",
+      "edition": 20,
+      "base_rarity": "Legendary",
+      "finish_id": "CC-F20",
+      "finish_name": "Commons Signature",
+      "stage_names": {
+        "1": "Commons Market",
+        "2": "Ruby Galleria",
+        "3": "Cardinal Exchange"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 941,
+      "token_key": "BZ-0941",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 1,
+      "base_rarity": "Common",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 942,
+      "token_key": "BZ-0942",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 2,
+      "base_rarity": "Common",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 943,
+      "token_key": "BZ-0943",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 3,
+      "base_rarity": "Common",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 944,
+      "token_key": "BZ-0944",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 4,
+      "base_rarity": "Common",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 945,
+      "token_key": "BZ-0945",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 5,
+      "base_rarity": "Common",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 946,
+      "token_key": "BZ-0946",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 6,
+      "base_rarity": "Common",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 947,
+      "token_key": "BZ-0947",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 7,
+      "base_rarity": "Common",
+      "finish_id": "CC-F07",
+      "finish_name": "Ruby Glass",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 948,
+      "token_key": "BZ-0948",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 8,
+      "base_rarity": "Common",
+      "finish_id": "CC-F08",
+      "finish_name": "Warm Lantern",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 949,
+      "token_key": "BZ-0949",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 9,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F09",
+      "finish_name": "Garnet Enamel",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 950,
+      "token_key": "BZ-0950",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 10,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F10",
+      "finish_name": "Oxide Metal",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 951,
+      "token_key": "BZ-0951",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 11,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F11",
+      "finish_name": "Scarlet Satin",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 952,
+      "token_key": "BZ-0952",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 12,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F12",
+      "finish_name": "Civic Mosaic",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 953,
+      "token_key": "BZ-0953",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 13,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F13",
+      "finish_name": "Copper Mesh",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 954,
+      "token_key": "BZ-0954",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 14,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F14",
+      "finish_name": "Ember Inlay",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 955,
+      "token_key": "BZ-0955",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 15,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F15",
+      "finish_name": "Burgundy Rib",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 956,
+      "token_key": "BZ-0956",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 16,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F16",
+      "finish_name": "Bone Relief",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 957,
+      "token_key": "BZ-0957",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 17,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F17",
+      "finish_name": "Brass Lattice",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 958,
+      "token_key": "BZ-0958",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 18,
+      "base_rarity": "Epic",
+      "finish_id": "CC-F18",
+      "finish_name": "Ruby Crownlight",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 959,
+      "token_key": "BZ-0959",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 19,
+      "base_rarity": "Epic",
+      "finish_id": "CC-F19",
+      "finish_name": "Crimson Halo",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 960,
+      "token_key": "BZ-0960",
+      "identity_id": "N10-I03",
+      "building_type": "Technology",
+      "edition": 20,
+      "base_rarity": "Legendary",
+      "finish_id": "CC-F20",
+      "finish_name": "Commons Signature",
+      "stage_names": {
+        "1": "Redline Labs",
+        "2": "Vermilion Spire",
+        "3": "Phoenix Nexus"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 961,
+      "token_key": "BZ-0961",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 1,
+      "base_rarity": "Common",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 962,
+      "token_key": "BZ-0962",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 2,
+      "base_rarity": "Common",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 963,
+      "token_key": "BZ-0963",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 3,
+      "base_rarity": "Common",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 964,
+      "token_key": "BZ-0964",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 4,
+      "base_rarity": "Common",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 965,
+      "token_key": "BZ-0965",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 5,
+      "base_rarity": "Common",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 966,
+      "token_key": "BZ-0966",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 6,
+      "base_rarity": "Common",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 967,
+      "token_key": "BZ-0967",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 7,
+      "base_rarity": "Common",
+      "finish_id": "CC-F07",
+      "finish_name": "Ruby Glass",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 968,
+      "token_key": "BZ-0968",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 8,
+      "base_rarity": "Common",
+      "finish_id": "CC-F08",
+      "finish_name": "Warm Lantern",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 969,
+      "token_key": "BZ-0969",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 9,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F09",
+      "finish_name": "Garnet Enamel",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 970,
+      "token_key": "BZ-0970",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 10,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F10",
+      "finish_name": "Oxide Metal",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 971,
+      "token_key": "BZ-0971",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 11,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F11",
+      "finish_name": "Scarlet Satin",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 972,
+      "token_key": "BZ-0972",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 12,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F12",
+      "finish_name": "Civic Mosaic",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 973,
+      "token_key": "BZ-0973",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 13,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F13",
+      "finish_name": "Copper Mesh",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 974,
+      "token_key": "BZ-0974",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 14,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F14",
+      "finish_name": "Ember Inlay",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 975,
+      "token_key": "BZ-0975",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 15,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F15",
+      "finish_name": "Burgundy Rib",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 976,
+      "token_key": "BZ-0976",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 16,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F16",
+      "finish_name": "Bone Relief",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 977,
+      "token_key": "BZ-0977",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 17,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F17",
+      "finish_name": "Brass Lattice",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 978,
+      "token_key": "BZ-0978",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 18,
+      "base_rarity": "Epic",
+      "finish_id": "CC-F18",
+      "finish_name": "Ruby Crownlight",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 979,
+      "token_key": "BZ-0979",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 19,
+      "base_rarity": "Epic",
+      "finish_id": "CC-F19",
+      "finish_name": "Crimson Halo",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 980,
+      "token_key": "BZ-0980",
+      "identity_id": "N10-I04",
+      "building_type": "Entertainment",
+      "edition": 20,
+      "base_rarity": "Legendary",
+      "finish_id": "CC-F20",
+      "finish_name": "Commons Signature",
+      "stage_names": {
+        "1": "Ember Hall",
+        "2": "Scarlet Palace",
+        "3": "Crimson Coliseum"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 981,
+      "token_key": "BZ-0981",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 1,
+      "base_rarity": "Common",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 982,
+      "token_key": "BZ-0982",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 2,
+      "base_rarity": "Common",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 983,
+      "token_key": "BZ-0983",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 3,
+      "base_rarity": "Common",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 984,
+      "token_key": "BZ-0984",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 4,
+      "base_rarity": "Common",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 985,
+      "token_key": "BZ-0985",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 5,
+      "base_rarity": "Common",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 986,
+      "token_key": "BZ-0986",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 6,
+      "base_rarity": "Common",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 987,
+      "token_key": "BZ-0987",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 7,
+      "base_rarity": "Common",
+      "finish_id": "CC-F07",
+      "finish_name": "Ruby Glass",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 988,
+      "token_key": "BZ-0988",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 8,
+      "base_rarity": "Common",
+      "finish_id": "CC-F08",
+      "finish_name": "Warm Lantern",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 989,
+      "token_key": "BZ-0989",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 9,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F09",
+      "finish_name": "Garnet Enamel",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 990,
+      "token_key": "BZ-0990",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 10,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F10",
+      "finish_name": "Oxide Metal",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 991,
+      "token_key": "BZ-0991",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 11,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F11",
+      "finish_name": "Scarlet Satin",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 992,
+      "token_key": "BZ-0992",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 12,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F12",
+      "finish_name": "Civic Mosaic",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 993,
+      "token_key": "BZ-0993",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 13,
+      "base_rarity": "Uncommon",
+      "finish_id": "CC-F13",
+      "finish_name": "Copper Mesh",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 994,
+      "token_key": "BZ-0994",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 14,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F14",
+      "finish_name": "Ember Inlay",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 995,
+      "token_key": "BZ-0995",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 15,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F15",
+      "finish_name": "Burgundy Rib",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 996,
+      "token_key": "BZ-0996",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 16,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F16",
+      "finish_name": "Bone Relief",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 997,
+      "token_key": "BZ-0997",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 17,
+      "base_rarity": "Rare",
+      "finish_id": "CC-F17",
+      "finish_name": "Brass Lattice",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 998,
+      "token_key": "BZ-0998",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 18,
+      "base_rarity": "Epic",
+      "finish_id": "CC-F18",
+      "finish_name": "Ruby Crownlight",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 999,
+      "token_key": "BZ-0999",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 19,
+      "base_rarity": "Epic",
+      "finish_id": "CC-F19",
+      "finish_name": "Crimson Halo",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    },
+    {
+      "token_id": 1000,
+      "token_key": "BZ-1000",
+      "identity_id": "N10-I05",
+      "building_type": "Landmark",
+      "edition": 20,
+      "base_rarity": "Legendary",
+      "finish_id": "CC-F20",
+      "finish_name": "Commons Signature",
+      "stage_names": {
+        "1": "Bloodmoon Beacon",
+        "2": "Cardinal Apex",
+        "3": "Crown of Flame"
+      },
+      "render_status": "not_produced",
+      "image_uris": null
+    }
+  ]
+}
