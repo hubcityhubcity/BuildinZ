@@ -4,7 +4,7 @@
 //           node tests/browser_genesis_gallery.mjs
 import assert from 'node:assert/strict';
 import http from 'node:http';
-import { readFile, stat } from 'node:fs/promises';
+import { readFile, stat, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { chromium } from 'playwright';
@@ -132,6 +132,10 @@ async function run() {
     assert.equal(await broken.locator('#cards article.card').count(), 0);
     note('Fail-closed registry load error: no phantom token cards');
 
+    await mkdir(path.join(ROOT, 'browser-evidence'), { recursive: true });
+    await desktop.locator('#search').fill('Crimson Coliseum');
+    await desktop.screenshot({ path: path.join(ROOT, 'browser-evidence', 'desktop-gallery.png'), fullPage: true });
+    await mobile.screenshot({ path: path.join(ROOT, 'browser-evidence', 'mobile-gallery.png'), fullPage: true });
     assert.deepEqual(browserErrors, [], 'Unexpected browser JavaScript exceptions');
     note('No uncaught browser JavaScript errors');
     console.log('Total browser checks: ' + report.length + ' passed.');

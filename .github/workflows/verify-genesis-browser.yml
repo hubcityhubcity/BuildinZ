@@ -32,3 +32,12 @@ jobs:
           npx playwright install --with-deps chromium
       - name: Run desktop/mobile gallery browser checks
         run: node tests/browser_genesis_gallery.mjs
+
+      - name: Retain rendered gallery evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: genesis-gallery-browser-evidence
+          path: browser-evidence/
+          if-no-files-found: warn
+          retention-days: 30
