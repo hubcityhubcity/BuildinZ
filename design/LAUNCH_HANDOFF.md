@@ -1038,3 +1038,12 @@ Actual176x264 corrected Entertainment thumbnails inspected. Full2:3 contain disp
 ## Gallery mapping verification — November 9, 2026
 
 Executed actual gallery eligibility/name lookup logic against current repository registry+manifest:1000 token records,1000 unique IDs,150 unique eligible selected stage names,3000 token-stage lookups,zero missing mappings/duplicate selected names. This verifies shared candidate-preview mapping only, not final edition images, permanent image URLs, browser rendering, mint readiness or contract persistence. Gallery portrait ratio change committed6533a285; actual browser/mobile verification remains open. Next:browser gallery navigation/filter/stage switching/image-load checks; complete missing-source restoration/full Crimson review and final art/edition gates.
+
+
+## Source CI verified — November 9, 2026
+
+Source workflow at 4d5808b27bc59f24a6edf1f4198ff726b3b0b2a1 passed: https://github.com/hubcityhubcity/BuildinZ/actions/runs/42616902262 . This includes canonical label validation, registry validation, metadata guardrails and gallery source tests with actual repository file-existence assertions intact. Pages deployment also succeeded (run 42616901463); deployment success is not browser acceptance.
+
+Reconciled the stale checklist paragraph that still described unselected non-Neon slots. Actual manifest:188 files,15 selected prototypes,135 selected lineage candidates,150 required stage slots,zero final-certified. No certification checkbox was closed.
+
+Next: restore six missing local Crimson Residential/Retail originals for source review; execute browser acceptance where runtime is available; complete final source safe-area/evolution/typography review and edition rendering before permanent metadata or release freeze. Browser runtime limitations are recorded in BROWSER_VERIFICATION_HANDOFF.md. Do not repeat the fixed 21-versus-150 CI correction.
