@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-08",
-  "repository_commit": "9bcc11628059daa6ee44d73333d2115765014f5a",
+  "repository_commit": "92a7e0684c13f6bae459629fe9d3c3fac3e43012",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 187,
+    "asset_files": 188,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3457,13 +3457,13 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "lineage-selected-candidate",
+      "classification": "superseded-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Crimson Coliseum",
       "stage": 3,
       "building_type": "Entertainment",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
+      "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact CRIMSON COLISEUM; multiple visible stage/audience zones, supported upper tiers, central glazed foyer and attached broad illuminated canopy crown. Palette/braces/dry plaza retained; near-symmetric camera and tight sides final gates; metric heights not certified."
     },
@@ -3580,6 +3580,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual v2 inspected: two concert halls/stages/audiences and added supported upper tiers, correct SCARLET PALACE, taller facade and visible right-side depth, palette/braces retained. Final equal-scale lineup and side safe-area gates open."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-crimson-coliseum-stage-3-v2.png",
+      "bytes": 3004430,
+      "sha256": "7388615a680ab70e8f943af3c49fcce1484d3fb2d7dafa361a921e33c87b1911",
+      "git_blob_sha": "15ea5e51c9114fa86366a100704ed996e1413cca",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "lineage-selected-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Coliseum",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": true,
+      "final_nft_certification": false,
+      "evidence": "Actual v2 inspected: raised central foyer/upper tiers/attached illuminated canopy; exact CRIMSON COLISEUM and multiple performance zones/audiences/supports retained. Clear taller silhouette; final full lineup/scale/side safe-area checks open."
     }
   ]
 }
