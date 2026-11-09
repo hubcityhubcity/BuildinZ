@@ -1,0 +1,5 @@
+# Corrected Entertainment lineup review
+
+November 8, 2026;source 034bd08a25a499a34b52cf59fd46e4e7932a9e49. Actual equal-width full-image comparison:Ember Hall v1,Scarlet Palace v2,Crimson Coliseum v2. Names, concert stages/instruments/audiences, structural supports and palette retained. III now clearly reads tallest with expanded upper tiers and attached canopy crown. II has increased program/vertical audience tiers overI, but apparent overall height remains similar at different camera scales. Therefore III silhouette correction passes candidate review; full calibrated I→II→III height/scale gate remains OPEN. Do not claim measured height or final certification.
+
+All188 inventory entries match actual repository blob hashes and sizes;150 explicit selected slots retained. No source changes or counts advanced. Full Crimson visual review remains blocked on six missing originals; work on available final-export crop/mobile checks and source retrieval in parallel across batches. Next bounded available batch:measure/test mobile signage and safe-area crops for these three corrected masters, record actual evidence before any further regeneration.
