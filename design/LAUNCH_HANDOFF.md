@@ -1028,3 +1028,8 @@ assets/candidates/crimson-commons-crimson-coliseum-stage-3-v2.png;3004430 bytes;
 ## Corrected Entertainment reviewed — November 8, 2026
 
 Actual I-v1/II-v2/III-v2 equal-width review completed. III now clearly tallest; II program/tiers increase but overall apparent height similar toI at different camera scale, so calibrated height gate remains open. All188 inventory blobs/sizes verified. Evidence:CRIMSON_COMMONS_CORRECTED_ENTERTAINMENT_QA.md. Next available batch:actual mobile signage/safe-area crop checks for corrected Entertainment masters.150 selections,zero certified; missing-source restoration/full Crimson review remain open.
+
+
+## Mobile presentation inspection — November 9, 2026
+
+Actual176x264 corrected Entertainment thumbnails inspected. Full2:3 contain display preserves roof/base; baked signage too small for sole label. Require exact stage name in real HTML below full artwork, separate type/stage, no cover cropping. Evidence:ENTERTAINMENT_MOBILE_PRESENTATION_QA.md. Image-only check, not browser/accessibility certification. Next:inspect actual gallery code and implement contain+semantic labels; missing-source/full Crimson and final art gates remain open.
