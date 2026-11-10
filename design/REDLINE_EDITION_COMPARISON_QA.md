@@ -1,0 +1,5 @@
+# Redline edition matched-scale review
+
+November9,2026. Inspected actual source v2,F01,F02 at equal512x768 display size in attached comparison. Both finishes are materially distinct:F01 orange-red brick texture,F02 dark wine smooth panels. Visible roof machinery,main and side building masses,bone supports,window grid,entrance sign,fence alignment and landscape remain consistent at this review scale. No apparent added floor or new amenity. Source and derivatives retain the same framing;architectural margins remain tight at sides. This is visual candidate-level acceptance for finish differentiation and gross continuity,not pixel-exact preservation,final framing,full-resolution typography or NFT certification.
+
+Review artifact:qa/crimson-commons/redline-finish-comparison.png. Original PNGs preserved. Next:apply F02 to untouched Vermilion Spire StageII source,then Phoenix Nexus StageIII;compare three-stage material continuity before further finish expansion. No permanent image URI or final metadata assigned;zero certified artwork remains.
