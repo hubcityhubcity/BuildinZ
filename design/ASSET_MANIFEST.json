@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 189,
+    "asset_files": 190,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3619,6 +3619,26 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual local PNG verified with Pillow; SHA256 and Git blob hash computed and matched repository tree. Visual candidate review in CRIMSON_FIRST_EDITION_RENDER_QA.md; not owner-approved or final certified."
+    },
+    {
+      "path": "assets/editions/crimson-commons-redline-labs-stage-1-cc-f02-v1.png",
+      "bytes": 2586460,
+      "git_blob_sha": "6af7f41f87aa8124aad48beddc1faaad5f80a0d3",
+      "sha256": "2723fb3cf4c7d6f36e0c0ddbebc3177b0654c28aeb1c66b332005b271dc08f2d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-render-candidate",
+      "neighborhood": "crimson-commons",
+      "identity_name": "Redline Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "finish_id": "CC-F02",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Pillow PNG verification; computed SHA256/Git blob and length matched repository. Candidate visual review in CRIMSON_SECOND_EDITION_RENDER_QA.md."
     }
   ]
 }
