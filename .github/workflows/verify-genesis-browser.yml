@@ -4,6 +4,8 @@ on:
     branches: [main]
     paths:
       - "preview-genesis-gallery.html"
+      - "review-crimson-burgundy.html"
+      - "assets/editions/**"
       - "index.html"
       - "tests/browser_genesis_gallery.mjs"
       - "metadata/genesis-token-registry.json"

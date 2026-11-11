@@ -145,6 +145,21 @@ async function run() {
     await mobile.waitForFunction(() => { const img = document.querySelector('#cards article img'); return img && img.complete && img.naturalWidth > 0; });
     note('360px mobile viewport: no horizontal overflow, working controls, selected candidate image decoded');
 
+    const lineup = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
+    await lineup.goto(url.replace('preview-genesis-gallery.html', 'review-crimson-burgundy.html'), { waitUntil: 'networkidle' });
+    assert.deepEqual(await lineup.locator('figcaption h2').allTextContents(), ['Redline Labs','Vermilion Spire','Phoenix Nexus']);
+    assert.equal(await lineup.locator('figure img').count(), 3);
+    for (const img of await lineup.locator('figure img').all()) {
+      await img.scrollIntoViewIfNeeded();
+      await img.evaluate(el => el.decode());
+      assert.equal(await img.evaluate(el => el.naturalWidth > 0 && el.naturalHeight > 0), true);
+    }
+    await lineup.setViewportSize({ width: 360, height: 780 });
+    assert(await lineup.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1), 'Burgundy review mobile overflow');
+    await mkdir(path.join(ROOT, 'browser-evidence'), { recursive: true });
+    await lineup.screenshot({ path: path.join(ROOT, 'browser-evidence', 'burgundy-lineup-mobile.png'), fullPage: true });
+    note('Burgundy lineage review: three exact names, actual image decoding, mobile overflow and screenshot');
+
     const broken = await browser.newPage();
     await broken.route('**/metadata/genesis-token-registry.json', route =>
       route.fulfill({ status: 503, contentType: 'text/plain', body: 'Unavailable' }));
