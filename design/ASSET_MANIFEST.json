@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 190,
+    "asset_files": 191,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3639,6 +3639,26 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Pillow PNG verification; computed SHA256/Git blob and length matched repository. Candidate visual review in CRIMSON_SECOND_EDITION_RENDER_QA.md."
+    },
+    {
+      "path": "assets/editions/crimson-commons-vermilion-spire-stage-2-cc-f02-v1.png",
+      "bytes": 2515263,
+      "git_blob_sha": "bebe87d4531fb62a6d64262989f3ec2a3222232f",
+      "sha256": "33e2e6dd91a73ba3a3f034450610bea714d30087a4cef8a05d6d59d456dad5bd",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-render-candidate",
+      "neighborhood": "crimson-commons",
+      "identity_name": "Vermilion Spire",
+      "stage": 2,
+      "building_type": "Technology",
+      "finish_id": "CC-F02",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual PNG decoded with Pillow; SHA256 and Git blob calculated; blob/length matched repository tree. Candidate only."
     }
   ]
 }
