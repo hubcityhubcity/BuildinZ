@@ -4,6 +4,8 @@ on:
     branches: [main]
     paths:
       - "*.html"
+      - "assets/**"
+      - "scripts/verify_asset_bytes.py"
       - "scripts/validate_genesis_registry.py"
       - "scripts/validate_base_coverage.py"
       - "scripts/validate_crimson_editions.py"
@@ -32,6 +34,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Verify inventoried asset bytes
+        run: python3 scripts/verify_asset_bytes.py
       - name: Validate canonical stage labels
         run: python3 scripts/verify_collection_labels.py
       - name: Validate selected base stage coverage
