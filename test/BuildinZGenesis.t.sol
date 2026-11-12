@@ -146,6 +146,28 @@ contract BuildinZGenesisTest is Test {
         assertEq(address(collection).balance, 0);
     }
 
+
+    function testChangedMintPriceRejectsStaleQuoteWithoutConsumingTokenIds() public {
+        configureMetadata();
+        collection.setMintPriceWei(0.1 ether);
+        collection.setPublicMintEnabled(true);
+        vm.prank(alice);
+        collection.mint{value: 0.1 ether}(1);
+        collection.setMintPriceWei(0.2 ether);
+        vm.prank(bob);
+        vm.expectRevert(BuildinZGenesis.IncorrectPayment.selector);
+        collection.mint{value: 0.1 ether}(1);
+        assertEq(collection.totalMinted(), 1);
+        assertEq(collection.nextTokenId(), 2);
+        assertEq(address(collection).balance, 0.1 ether);
+        vm.prank(bob);
+        collection.mint{value: 0.2 ether}(1);
+        assertEq(collection.ownerOf(2), bob);
+        assertEq(collection.stageOf(1), 1);
+        assertEq(collection.totalMinted(), 2);
+        assertEq(address(collection).balance, 0.3 ether);
+    }
+
     function testERC4906Interface() public view {
         assertTrue(collection.supportsInterface(0x49064906));
         assertTrue(collection.supportsInterface(0x80ac58cd));
