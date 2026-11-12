@@ -160,6 +160,33 @@ async function run() {
     await lineup.screenshot({ path: path.join(ROOT, 'browser-evidence', 'burgundy-lineup-mobile.png'), fullPage: true });
     note('Burgundy lineage review: three exact names, actual image decoding, mobile overflow and screenshot');
 
+
+    const sources = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
+    sources.on('pageerror', e => browserErrors.push(e.message));
+    await sources.goto(url.replace('preview-genesis-gallery.html', 'review-crimson-sources.html'), { waitUntil: 'networkidle' });
+    const assetManifest = JSON.parse(await readFile(path.join(ROOT, 'design/ASSET_MANIFEST.json'), 'utf8'));
+    const types = ['Residential','Retail','Technology','Entertainment','Landmark'];
+    const selected = types.flatMap(type => assetManifest.assets.filter(a =>
+      a.neighborhood === 'Crimson Commons' && a.selected_for_lineage_review && a.building_type === type
+    ).sort((a,b) => a.stage - b.stage));
+    assert.equal(selected.length, 15);
+    assert.deepEqual(await sources.locator('figure h3').allTextContents(), selected.map(a => a.identity_name));
+    assert.equal(await sources.locator('figure img').count(), 15);
+    for (let i=0; i<selected.length; i++) {
+      const figure = sources.locator('figure').nth(i);
+      assert.equal(await figure.locator('img').getAttribute('src'), selected[i].path);
+      assert.equal(await figure.locator('a').getAttribute('href'), selected[i].path);
+      assert.match(await figure.innerText(), new RegExp(selected[i].sha256));
+      await figure.locator('img').scrollIntoViewIfNeeded();
+      await figure.locator('img').evaluate(el => el.decode());
+    }
+    for (const width of [1440,768,360]) {
+      await sources.setViewportSize({ width, height: 900 });
+      assert(await sources.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1), 'Crimson source review overflow at '+width);
+    }
+    await sources.screenshot({ path: path.join(ROOT, 'browser-evidence', 'crimson-sources-mobile.png'), fullPage: true });
+    note('Crimson sources: 15 canonical names, image links, hashes and decodes; 1440/768/360px overflow checks');
+
     const broken = await browser.newPage();
     await broken.route('**/metadata/genesis-token-registry.json', route =>
       route.fulfill({ status: 503, contentType: 'text/plain', body: 'Unavailable' }));
