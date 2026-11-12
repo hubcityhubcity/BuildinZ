@@ -1,0 +1,9 @@
+# Browser acceptance evidence — November 12, 2026
+
+Run https://github.com/hubcityhubcity/BuildinZ/actions/runs/43227261806 at a6fe834db7bee00cf45a7e27767f71f4d433f463 passed all 11 browser checks. Job 131213535411 logs were read; all installation and test steps succeeded. Ubuntu 24.04 pin resolves the prior unsupported Ubuntu 26.04 failure.
+
+Verified: 1,000 registry records and 24-card pagination; all 150 selected stage images decode in Chromium; homepage gallery navigation; next/previous token IDs; Legendary rarity and Aurora Arcology stage III mapping; Golden Crest Technology candidate loading; exact search and empty results; 360px controls and no horizontal overflow; Burgundy lineage exact names Redline Labs / Vermilion Spire / Phoenix Nexus and three decoded images; registry 503 fails closed; no uncaught browser errors in monitored pages.
+
+Artifact 13948592173, genesis-gallery-browser-evidence, 26,875,483 bytes, SHA256 c59a28123677f50f4780dd00480cf17aeeba12825fcda7ebfe874147141a13c2, expires December 12, 2026. Includes desktop-gallery.png, mobile-gallery.png and burgundy-lineup-mobile.png. Artifact existence verified via API; screenshots have NOT been downloaded or visually inspected. Passing automated checks does not certify artwork, accessibility, full responsive coverage, mint integration or launch readiness.
+
+Next: retrieve and visually inspect screenshot evidence and the actual Burgundy three-stage artwork; preserve original bytes and record findings before expanding finishes. Complete missing asset dimension/hash evidence, final artwork/edition production and permanent metadata. Production points/BRICK settlement and integrated mint acceptance remain open. Supersedes the browser infrastructure blocker in LAUNCH_HANDOFF.md and BROWSER_RUNNER_COMPATIBILITY_HANDOFF.md; historical failure evidence remains valid.
