@@ -20,6 +20,10 @@ for a in manifest['assets']:
             with Image.open(p) as im:
                 im.load()
                 if im.width < 1 or im.height < 1: raise ValueError('zero dimensions')
+                recorded=a.get('dimensions')
+                if recorded is not None:
+                    if not isinstance(recorded,dict) or recorded.get('width')!=im.width or recorded.get('height')!=im.height:
+                        raise ValueError('recorded dimensions mismatch')
             decoded+=1
         except Exception as exc: errors.append(name+': image decode failed: '+str(exc))
     b=p.read_bytes()
