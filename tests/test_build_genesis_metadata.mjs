@@ -1,3 +1,4 @@
+import {readFileSync} from 'node:fs';
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import {checkRegistry,checkImages,makeMetadata,prepareRelease} from '../scripts/build_genesis_metadata.mjs';
@@ -45,4 +46,16 @@ test('rejected: missing local bytes and corrupted registry',()=>{
   assert.throws(()=>checkImages([token],images,{verifyBytes:true}),/missing\/unsafe local image/);
   assert.throws(()=>prepareRelease([token],images),/expected 1000 canonical tokens/);
   assert.throws(()=>checkRegistry([{...token,initial_stage:2}],1),/evolution invariant/);
+});
+
+test('per-identity rarity rejects offsetting swaps with unchanged global totals',()=>{
+  const tokens=JSON.parse(readFileSync(new URL('../metadata/genesis-token-registry.json',import.meta.url),'utf8')).tokens;
+  assert.equal(checkRegistry(tokens).identities,50);
+  const changed=structuredClone(tokens);
+  const first=changed.find(t=>t.base_rarity==='Common');
+  const other=changed.find(t=>t.identity_id!==first.identity_id&&t.base_rarity==='Legendary');
+  [first.base_rarity,other.base_rarity]=[other.base_rarity,first.base_rarity];
+  const counts=list=>list.reduce((out,t)=>{out[t.base_rarity]=(out[t.base_rarity]||0)+1;return out;},{});
+  assert.deepEqual(counts(changed),counts(tokens));
+  assert.throws(()=>checkRegistry(changed),/rarity allocation within/);
 });
