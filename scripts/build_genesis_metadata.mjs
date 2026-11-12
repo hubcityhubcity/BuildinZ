@@ -29,17 +29,20 @@ export function checkRegistry(tokens,expected=1000) {
     requireThat(t.stage_names && Object.keys(t.stage_names).sort().join(',')==='1,2,3','stage names missing at '+id);
     for(const s of STAGES) requireThat(typeof t.stage_names[s]==='string'&&t.stage_names[s].trim(),'empty stage name at '+id);
     const stable=JSON.stringify([t.neighborhood_name,t.building_type,t.stage_names]);
-    if(!identities.has(t.identity_id)) identities.set(t.identity_id,{stable,editions:new Set()});
+    if(!identities.has(t.identity_id)) identities.set(t.identity_id,{stable,editions:new Set(),rarities:{}});
     const group=identities.get(t.identity_id);
     requireThat(group.stable===stable,'canonical identity drift at '+id);
     requireThat(!group.editions.has(t.edition),'repeated identity edition at '+id);
     group.editions.add(t.edition);
+    group.rarities[t.base_rarity]=(group.rarities[t.base_rarity]||0)+1;
     counts[t.base_rarity]=(counts[t.base_rarity]||0)+1;
   }
   if(expected===1000){
     requireThat(identities.size===50,'must have 50 identities');
     requireThat([...identities.values()].every(v=>v.editions.size===20),'must have 20 editions/identity');
     for(const [tier,n] of Object.entries(RARITY)) requireThat(counts[tier]===n,'incorrect '+tier+' rarity allocation');
+    for(const [identity,group] of identities) for(const [tier,n] of Object.entries({Common:8,Uncommon:5,Rare:4,Epic:2,Legendary:1}))
+      requireThat(group.rarities[tier]===n,'incorrect '+tier+' rarity allocation within '+identity);
   }
   return {tokens:tokens.length,identities:identities.size,stage_files:tokens.length*3};
 }
