@@ -1,0 +1,5 @@
+# Asset manifest evidence completion — November 12, 2026
+
+Source run https://github.com/hubcityhubcity/BuildinZ/actions/runs/43246982431 passed at 9abbcdf01429ec559deab8c145e8b3225238d5c4. Full job 131282170342 logs read: 192 assets verified and decoded, zero errors. Recovered 18 dimension records and 15 SHA256 records from actual checkout bytes. Each recovered path and Git blob matched the current manifest before applying only missing fields. All 192 manifest assets now have dimensions and SHA256; no originals or certification states changed.
+
+Raw recovered evidence: ASSET_RECOVERED_EVIDENCE.json. Structural verification checked exact 18/15 counts, existing blob correspondence and zero remaining missing fields. Next: require source CI on this manifest commit to pass full byte/hash/dimension decoding. Then visually inspect Burgundy lineup and browser screenshots, continue final art and edition production. Final certified stage count remains zero; metadata permanent URIs, points settlement and integrated mint gates stay open.

@@ -1,0 +1,161 @@
+[
+  {
+    "dimensions": {
+      "height": 543,
+      "width": 1629
+    },
+    "git_blob_sha": "ceb5a15770c5edd75b7b65a91e5fbb740f78bf93",
+    "path": "assets/banner.webp",
+    "sha256": "4f44382a6c38a98ef3f89026d22dc13b8fc72e7653127904d42caef323893429"
+  },
+  {
+    "dimensions": {
+      "height": 1460,
+      "width": 1078
+    },
+    "git_blob_sha": "56af0340496df4f7ee5954cb6417225645c26ae9",
+    "path": "assets/candidates/midnight-stage-1-signage-v2.png",
+    "sha256": "377d3004137084fad7595e3fc07c9fbefffa4b64a7a76919a3771ba4af2024a0"
+  },
+  {
+    "dimensions": {
+      "height": 1422,
+      "width": 1106
+    },
+    "git_blob_sha": "5b8a3d7530ade2184ad198b71fd3eaccf33c074a",
+    "path": "assets/candidates/midnight-stage-2-signage-v1.png",
+    "sha256": "140d88e5bf5ba00cb28ce6676d0a000d702e006c81290cdef69fb4a6090e19c9"
+  },
+  {
+    "dimensions": {
+      "height": 1422,
+      "width": 1106
+    },
+    "git_blob_sha": "46bcb3fd7e7cd269d1fe4e730fa4a5e145be3eda",
+    "path": "assets/candidates/midnight-stage-2-signage-v2.png",
+    "sha256": "fdba7465c554f16edef8870ce560e1913ae8008379a7be19d050298e235cb851"
+  },
+  {
+    "dimensions": {
+      "height": 1342,
+      "width": 1172
+    },
+    "git_blob_sha": "d904a06314077c7f0e474783fdd614119563c4a8",
+    "path": "assets/candidates/midnight-stage-3-signage-v1.png",
+    "sha256": "ca8c86b19a86be78589fcefd4c68931f1ed36b7607951e844f495b866f3c523c"
+  },
+  {
+    "dimensions": {
+      "height": 1342,
+      "width": 1172
+    },
+    "git_blob_sha": "200207f56cbf0beb1d50204512c43b3e26923768",
+    "path": "assets/candidates/midnight-stage-3-signage-v2.png",
+    "sha256": "22d9ec19f49ce0fa2a37c5668f2017ca9b92c2466a492a09311bafe265494141"
+  },
+  {
+    "dimensions": {
+      "height": 530,
+      "width": 390
+    },
+    "git_blob_sha": "6d18ebef548391ab307bf45e839740f010c2c7f0",
+    "path": "assets/crown.webp",
+    "sha256": "dbb629ea92e910a4840ee99b4d56f39defa7b303114f1ad584416b68d4501716"
+  },
+  {
+    "dimensions": {
+      "height": 530,
+      "width": 390
+    },
+    "git_blob_sha": "50ae5864e82398a28d51b564606529c0c1f24117",
+    "path": "assets/holo.webp",
+    "sha256": "df3832cc91a6da0defd00a8e673e0ba5b6b93036d0ec42f5a3af2fd1528bb0a2"
+  },
+  {
+    "dimensions": {
+      "height": 626,
+      "width": 483
+    },
+    "git_blob_sha": "0f942fef177f4c8682af92fb9c10634f07424bb2",
+    "path": "assets/holotech-stage-1.webp",
+    "sha256": "fd80cee55ed14a52f120fc4cd132c641115be751bd3af22b67c388a30dc518b4"
+  },
+  {
+    "dimensions": {
+      "height": 629,
+      "width": 507
+    },
+    "git_blob_sha": "b02f8f9d2f359589ebefc9470b4aa0bbb4da7f3b",
+    "path": "assets/holotech-stage-2.webp",
+    "sha256": "2599d29ab5ffc84cc87c5766964d29bd4bb2a158d3bbde0f2d3b2784c95d73ba"
+  },
+  {
+    "dimensions": {
+      "height": 627,
+      "width": 513
+    },
+    "git_blob_sha": "c633c296646cac703753d92bd211756b2ef677de",
+    "path": "assets/holotech-stage-3.webp",
+    "sha256": "a5389cc0e22ec247c304b16231b6f982ba164e27fee1aa9b6fb4c3c3d87bacb8"
+  },
+  {
+    "dimensions": {
+      "height": 180,
+      "width": 180
+    },
+    "git_blob_sha": "5d84934261b704eb2183b45cbd34a1cb73ea9bd3",
+    "path": "assets/logo.webp",
+    "sha256": "0ea6171ece8c15904304a4fc003ad5ca4269efdb1eb80fc92810e30abdd8b0ec"
+  },
+  {
+    "dimensions": {
+      "height": 530,
+      "width": 390
+    },
+    "git_blob_sha": "86d4555a4ffef866351818ea503c70d727080a43",
+    "path": "assets/midnight.webp",
+    "sha256": "0ff81d0e3e639db8cbd143b0a22fbf48905b4f7d46703ffd3523ba129ec6edf0"
+  },
+  {
+    "dimensions": {
+      "height": 941,
+      "width": 1672
+    },
+    "git_blob_sha": "862ed005aba31ee76c8abda6d1f3010652cc4b43",
+    "path": "assets/neon-original.png",
+    "sha256": "9f6bd51b8eb363abb4cc36c37cf935e9492dfdf7a68ad3f3e24ce2658b9b2d54"
+  },
+  {
+    "dimensions": {
+      "height": 1536,
+      "width": 1024
+    },
+    "git_blob_sha": "15e4e9a8571f1065edf36e2fb68818916374dd34",
+    "path": "assets/pulse-stage-1.png"
+  },
+  {
+    "dimensions": {
+      "height": 1536,
+      "width": 1024
+    },
+    "git_blob_sha": "c8d3492c441adbaa1835a58425c78c0418d34ec4",
+    "path": "assets/pulse-stage-2.png"
+  },
+  {
+    "dimensions": {
+      "height": 1536,
+      "width": 1024
+    },
+    "git_blob_sha": "e45708a2502bce43d5d0f599392569c91dc60c89",
+    "path": "assets/pulse-stage-3.png"
+  },
+  {
+    "dimensions": {
+      "height": 530,
+      "width": 390
+    },
+    "git_blob_sha": "e1b989370bf2c208404fb97c537f22031c8119ec",
+    "path": "assets/pulse.webp",
+    "sha256": "e7bda895a7f27c48ba68820049a4054786315ea3743d8861cf4da38b2c97fe10"
+  }
+]
