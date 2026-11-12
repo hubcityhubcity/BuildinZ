@@ -1,5 +1,31 @@
 # Genesis production handoff
 
+## Current checkpoint — November 12, 2026
+
+Read this checkpoint before historical entries below. Main inspected: 0f703551b8e8f4e1951badfd2debc1a2a8f64b92.
+
+| Workstream | Verified evidence | Still open |
+|---|---|---|
+| Source assets | 192 inventoried images; byte/hash and pixel-decoding CI43182997138 passed;174 recorded dimensions match in CI43200013460 |18 missing dimension records,15 missing SHA256 records;visual certification0 |
+| Base collection |150 selected stage slots:15 Neon prototypes +135 non-Neon candidates |Final framing,typography,comparable-scale evolution and all collection review gates |
+| Edition production |Four actual candidates:Redline CC-F01;Technology CC-F02 stagesI/II/III;all inventoried |Burgundy three-stage lineup review;remaining edition images;no candidates promoted to final |
+| Metadata |1000 stable tokens;3000 stage mappings;per-identity rarity guard and regression tests pass |Final image assignment,permanent URIs,3000 release documents and freeze |
+| Contract prototype |CI43154830132 passed including stale mint quote and StageIII resale/URI tests |Production points/BRICK settlement,wallet integration,test-network acceptance,independent review |
+| Website |Pages deployment and source tests pass;earlier browser functional suite passed |Current Chromium download blocker,updated lineage browser checks,visual/accessibility acceptance |
+
+Authoritative canon remains GENESIS_LAUNCH_SCOPE_2026-10-30.md and COLLECTION_CONSISTENCY_STANDARD.md. New finish recipes and non-Neon choices are delegated agent decisions,not prior owner artwork approvals. No mainnet deployment,mint activation,spending or wallet signing is authorized by this checkpoint.
+
+### Exact next production actions
+
+1. Restore exact Phoenix CC-F02 bytes (SHA2564732fbb32a70995aab55b5d6507a3c93b1a71b2cc4b084b1746d8be4d92801ca) from the saved repository source;do not regenerate. Inspect review-crimson-burgundy.html or matched-scale lineup and record actual findings before multiplying finishes.
+2. Restore six Crimson Residential/Retail originals for complete collection review. Use CRIMSON_COMMONS_FINAL_ART_QUEUE.md;Bloodmoon/Entertainment corrected variants already exist. Do not restart finished candidate corrections.
+3. Obtain Chromium download error logs before further speculative CI setup changes. Separate this infrastructure issue from the successful full192-image decode evidence.
+4. Fill missing dimension/hash evidence from actual checkout bytes;never infer final visual quality from hashes.
+5. Complete final-art and edition production before permanent metadata/release freeze. Reconcile points-first settlement with approved policy before changing prototype evolution economics.
+
+Key evidence: RASTER_INTEGRITY_CI_EVIDENCE.md, DIMENSION_VERIFICATION_HANDOFF.md, PHOENIX_BURGUNDY_EDITION_QA.md, BURGUNDY_LINEUP_REVIEW_HANDOFF.md, MINT_PRICE_QUOTE_TEST_HANDOFF.md. No launch readiness percentage is asserted.
+
+
 Baseline inspected: main e7a981768e6f5fd377739aad764ab1851258f021, October 30, 2026. This is a source inventory, not visual certification.
 
 ## Canon and decisions
