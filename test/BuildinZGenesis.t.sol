@@ -115,8 +115,13 @@ contract BuildinZGenesisTest is Test {
         collection.evolve(1);
         assertEq(collection.stageOf(1), 3);
         assertEq(collection.tokenURI(1), "ipfs://bafyexamplecid/1/3.json");
-        vm.expectRevert(BuildinZGenesis.FinalStageReached.selector);
         vm.prank(bob);
+        collection.transferFrom(bob, alice, 1);
+        assertEq(collection.ownerOf(1), alice);
+        assertEq(collection.stageOf(1), 3);
+        assertEq(collection.tokenURI(1), "ipfs://bafyexamplecid/1/3.json");
+        vm.expectRevert(BuildinZGenesis.FinalStageReached.selector);
+        vm.prank(alice);
         collection.evolve(1);
     }
 
