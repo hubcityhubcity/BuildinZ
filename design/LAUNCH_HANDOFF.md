@@ -1,6 +1,34 @@
 # Genesis production handoff
 
-## Current checkpoint — November 12, 2026
+## Current checkpoint — November 13, 2026
+
+Main inspected: 71d49ac4f81d8cf7fa02987ef6f6c81541ed8e21. Read this before historical checkpoints.
+
+| Gate | Actual state and evidence | Remaining work |
+|---|---|---|
+| Inventory |196 raster files; all have dimensions/SHA256; source CI43386419651 passed at3441da8 |New asset changes require full verification; integrity is separate from visual approval |
+| Base artwork |150 selected slots;15 Neon prototypes/135 other candidates;zero final-certified |Full final framing, signage, evolution and edition production |
+| Crimson |All15 selected originals restored and visually compared; three Residential signage v2 derivatives saved; Arcology framing v3 held/nonselected |Common camera/foundation evidence and conservative framing corrections; no repeated generation of completed signage |
+| Editions |Four finish candidates retained; Burgundy lineup/source preservation reviewed at bounded display scale |Distinctiveness, final base lineage acceptance and remaining edition-stage images |
+| Website QA |13 browser checks passed in43409045784; desktop capture fix passed43424921337; actual mobile/desktop screenshot regions inspected |Remaining regions, keyboard/accessibility acceptance and production mint interface |
+| Metadata/contracts |1000 planned tokens/3000 stage mappings; prototype contract transfer/quote tests passed previously |Final image URIs, release metadata, points-first settlement and wallet/network integration |
+
+Completed blockers: missing18dimension/15SHA256 records resolved; Phoenix and six Crimson sources restored; Ubuntu26.04 incompatibility resolved by pinning browser runner24.04; artifact ZIP retrieval available. Do not restart these completed tasks.
+
+Arcology v3 remains held after observed generative/camera drift. Exploratory registration suggests scale1.16987,x−1.07,y−66.31 native pixels around center; this is not foundation measurement or proof of architectural equivalence. Use ARCOLOGY_REGISTRATION_HANDOFF.md and saved script/report. Final export policy (3% margins, comparable reference scale, coherent geometric signs) is a delegated agent decision, not a claimed previous user approval.
+
+### Exact next production batch
+
+1. Apply the documented transform for native reference QA and record foundation/crown/bridge/pool residual observations. Do not blindly repeat Arcology zoom-out generation.
+2. Resolve Residential camera/framing across the complete corrected lineage, preserving v1/v2/v3 history. Keep candidates unselected until acceptance.
+3. Continue remaining Crimson Retail/other final-art corrections from CRIMSON_COMMONS_FINAL_ART_QUEUE.md, preserving completed Bloodmoon/Entertainment variants.
+4. Complete final base/edition artwork before permanent metadata freeze. Retain points-first utility/BRICK placeholder/no initial liquidity; production settlement and integrated mint gates remain open.
+
+Evidence index: ASSET_MANIFEST_COMPLETION_HANDOFF.md; CRIMSON_FULL_COLLECTION_VISUAL_REVIEW.md; EMBER_V2_SIGNAGE_ACCEPTANCE.md; RESIDENTIAL_V2_LINEAGE_QA.md; ARCOLOGY_V3_COMPARATIVE_DISPOSITION.md; ALIGNMENT_BROWSER_VISUAL_EVIDENCE.md; DESKTOP_SCREENSHOT_VERIFIED.md; ARCOLOGY_REGISTRATION_HANDOFF.md.
+
+No paid/mainnet mint, spending, signing, private-key access, social messaging or game work occurred. No readiness percentage or final certification asserted.
+
+## Historical checkpoint — November 12, 2026 (superseded)
 
 Read this checkpoint before historical entries below. Main inspected: 0f703551b8e8f4e1951badfd2debc1a2a8f64b92.
 
