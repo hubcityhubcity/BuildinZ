@@ -1,0 +1,71 @@
+[
+  {
+    "region": "crown",
+    "method": "grayscale Sobel edge MSE; centered similarity transform; deterministic seed42",
+    "analysis_size": [
+      256,
+      384
+    ],
+    "roi_analysis_pixels": [
+      60,
+      10,
+      200,
+      100
+    ],
+    "overlay_to_base_scale": 1.1675498717271369,
+    "native_offset_pixels": [
+      -0.7458176940432713,
+      -67.16830398966762
+    ],
+    "identity_loss": 0.20008093897275578,
+    "fitted_loss": 0.05562357885272845,
+    "optimizer_success": true,
+    "limitations": "Exploratory image registration, not measured foundation anchors or geometric equivalence. Repeated windows and lighting can bias fit. No source pixels modified."
+  },
+  {
+    "region": "amenities",
+    "method": "grayscale Sobel edge MSE; centered similarity transform; deterministic seed42",
+    "analysis_size": [
+      256,
+      384
+    ],
+    "roi_analysis_pixels": [
+      35,
+      100,
+      220,
+      210
+    ],
+    "overlay_to_base_scale": 1.1667215555345696,
+    "native_offset_pixels": [
+      -1.0217872498347034,
+      -67.4643188850132
+    ],
+    "identity_loss": 0.1878155756609893,
+    "fitted_loss": 0.05497425658129695,
+    "optimizer_success": true,
+    "limitations": "Exploratory image registration, not measured foundation anchors or geometric equivalence. Repeated windows and lighting can bias fit. No source pixels modified."
+  },
+  {
+    "region": "foundation",
+    "method": "grayscale Sobel edge MSE; centered similarity transform; deterministic seed42",
+    "analysis_size": [
+      256,
+      384
+    ],
+    "roi_analysis_pixels": [
+      30,
+      240,
+      225,
+      340
+    ],
+    "overlay_to_base_scale": 1.1678459582875598,
+    "native_offset_pixels": [
+      -1.310255925116422,
+      -64.31805486342812
+    ],
+    "identity_loss": 0.21911998024495669,
+    "fitted_loss": 0.04257367380202368,
+    "optimizer_success": true,
+    "limitations": "Exploratory image registration, not measured foundation anchors or geometric equivalence. Repeated windows and lighting can bias fit. No source pixels modified."
+  }
+]
