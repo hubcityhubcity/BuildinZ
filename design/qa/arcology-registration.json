@@ -1,0 +1,22 @@
+{
+  "method": "grayscale Sobel edge MSE; centered similarity transform; deterministic seed42",
+  "analysis_size": [
+    256,
+    384
+  ],
+  "roi_analysis_pixels": [
+    35,
+    80,
+    220,
+    310
+  ],
+  "overlay_to_base_scale": 1.169867802272529,
+  "native_offset_pixels": [
+    -1.0656414472305975,
+    -66.31290222297413
+  ],
+  "identity_loss": 0.19549277072449697,
+  "fitted_loss": 0.05828035606522847,
+  "optimizer_success": true,
+  "limitations": "Exploratory image registration, not measured foundation anchors or geometric equivalence. Repeated windows and lighting can bias fit. No source pixels modified."
+}
