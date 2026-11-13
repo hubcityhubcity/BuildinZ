@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 193,
+    "asset_files": 194,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3752,6 +3752,25 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual generated v2 visually inspected: exact geometric sans-serif EMBER RESIDENCES lettering; main architecture and roof pool retained. Native/mobile and safe-margin gates pending. v1 remains selected."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-scarlet-habitat-stage-2-v2.png",
+      "bytes": 3048661,
+      "sha256": "181a34ec153eadb9ef359a37e2a5e8589afcf5f1ae14b9d8937431382ad94f59",
+      "git_blob_sha": "068bce757f99c4bc180d13bc4a26a027bf9b34ed",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "signage-correction-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual v2 visually inspected: correct sans-serif SCARLET HABITAT; twin towers/elevated lounge and pool visibly retained. Native/mobile and framing acceptance pending; v1 remains selected."
     }
   ]
 }
