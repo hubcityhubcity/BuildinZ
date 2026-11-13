@@ -3283,15 +3283,15 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "lineage-selected-candidate",
+      "classification": "superseded-lineage-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Ember Residences",
       "stage": 1,
       "building_type": "Residential",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
+      "selected_for_lineage_review": false,
       "final_nft_certification": false,
-      "evidence": "Actual output inspected: exact name, repeated furnished domestic balconies, bone piers/charcoal frames/crimson-burgundy panels/brass trim, one private rooftop pool/lounge and dry stepped entrance. Building visible; wider plaza extends to edges, final site safe-area/style QA open. Candidate only."
+      "evidence": "Actual output inspected: exact name, repeated furnished domestic balconies, bone piers/charcoal frames/crimson-burgundy panels/brass trim, one private rooftop pool/lounge and dry stepped entrance. Building visible; wider plaza extends to edges, final site safe-area/style QA open. Candidate only. Superseded for lineage preview only by v2 on Nov13; original retained."
     },
     {
       "path": "assets/candidates/crimson-commons-scarlet-habitat-stage-2-v1.png",
@@ -3302,15 +3302,15 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "lineage-selected-candidate",
+      "classification": "superseded-lineage-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Scarlet Habitat",
       "stage": 2,
       "building_type": "Residential",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
+      "selected_for_lineage_review": false,
       "final_nft_certification": false,
-      "evidence": "Actual output inspected: exact SCARLET HABITAT, twin furnished apartment towers, enclosed private sky lounge on substantial diagonal braces and larger elevated pool. Crimson/burgundy/bone/charcoal/brass lineage; full roofs/entrance visible. Site framing and full lineage/final export QA open."
+      "evidence": "Actual output inspected: exact SCARLET HABITAT, twin furnished apartment towers, enclosed private sky lounge on substantial diagonal braces and larger elevated pool. Crimson/burgundy/bone/charcoal/brass lineage; full roofs/entrance visible. Site framing and full lineage/final export QA open. Superseded for lineage preview only by v2 on Nov13; original retained."
     },
     {
       "path": "assets/candidates/crimson-commons-crimson-arcology-stage-3-v1.png",
@@ -3321,15 +3321,15 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "lineage-selected-candidate",
+      "classification": "superseded-lineage-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Crimson Arcology",
       "stage": 3,
       "building_type": "Residential",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
+      "selected_for_lineage_review": false,
       "final_nft_certification": false,
-      "evidence": "Actual output inspected: exact name, three domestic towers, two braced resort levels/enclosed lounges, several elevated pools and attached architectural crown. Crown top clearance tight; wider final framing required. Individual candidate only; lineage comparison pending."
+      "evidence": "Actual output inspected: exact name, three domestic towers, two braced resort levels/enclosed lounges, several elevated pools and attached architectural crown. Crown top clearance tight; wider final framing required. Individual candidate only; lineage comparison pending. Superseded for lineage preview only by v3 on Nov13; original retained."
     },
     {
       "path": "assets/candidates/crimson-commons-commons-market-stage-1-v1.png",
@@ -3743,15 +3743,15 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "signage-correction-candidate",
+      "classification": "lineage-selected-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Ember Residences",
       "stage": 1,
       "building_type": "Residential",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": false,
+      "selected_for_lineage_review": true,
       "final_nft_certification": false,
-      "evidence": "Actual generated v2 visually inspected: exact geometric sans-serif EMBER RESIDENCES lettering; main architecture and roof pool retained. Native/mobile and safe-margin gates pending. v1 remains selected."
+      "evidence": "Actual generated v2 visually inspected: exact geometric sans-serif EMBER RESIDENCES lettering; main architecture and roof pool retained. Native/mobile and safe-margin gates pending. v1 remains selected. Selected for reversible lineage preview Nov13 following signage/aligned structural review; common camera/export/final certification remain open."
     },
     {
       "path": "assets/candidates/crimson-commons-scarlet-habitat-stage-2-v2.png",
@@ -3762,15 +3762,15 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "signage-correction-candidate",
+      "classification": "lineage-selected-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Scarlet Habitat",
       "stage": 2,
       "building_type": "Residential",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": false,
+      "selected_for_lineage_review": true,
       "final_nft_certification": false,
-      "evidence": "Actual v2 visually inspected: correct sans-serif SCARLET HABITAT; twin towers/elevated lounge and pool visibly retained. Native/mobile and framing acceptance pending; v1 remains selected."
+      "evidence": "Actual v2 visually inspected: correct sans-serif SCARLET HABITAT; twin towers/elevated lounge and pool visibly retained. Native/mobile and framing acceptance pending; v1 remains selected. Selected for reversible lineage preview Nov13 following signage/aligned structural review; common camera/export/final certification remain open."
     },
     {
       "path": "assets/candidates/crimson-commons-crimson-arcology-stage-3-v2.png",
@@ -3800,15 +3800,15 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "framing-correction-candidate",
+      "classification": "lineage-selected-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Crimson Arcology",
       "stage": 3,
       "building_type": "Residential",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": false,
+      "selected_for_lineage_review": true,
       "final_nft_certification": false,
-      "evidence": "v3 full-frame comparison against v2 completed Nov13: antenna clearance improved, but zoom-out changes apparent foundation scale and generative window/landscape details; held nonselected pending aligned geometry comparison. Source CI43386419651 and browser43386419631 passed. Not final certified."
+      "evidence": "v3 full-frame comparison against v2 completed Nov13: antenna clearance improved, but zoom-out changes apparent foundation scale and generative window/landscape details; held nonselected pending aligned geometry comparison. Source CI43386419651 and browser43386419631 passed. Not final certified. Selected for reversible lineage preview Nov13 following signage/aligned structural review; common camera/export/final certification remain open."
     }
   ]
 }

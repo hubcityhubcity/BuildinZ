@@ -1,0 +1,9 @@
+# Residential preview selection — November 13, 2026
+
+Delegated reversible production decision: select Ember Residences v2, Scarlet Habitat v2 and Crimson Arcology v3 for lineage PREVIEW/review. Exact stage names/signs corrected; Arcology antenna clearance improved. All are already saved/inventoried, byte/decode CI passed, mobile/native signage and aligned structural details reviewed. Regional crown/amenity/foundation registration agrees closely, supporting broadly uniform camera-scale change rather than established gross redesign. Earlier nonselection holds are superseded only for preview selection, not final-art acceptance.
+
+Updated ASSET_MANIFEST.json selection/classification/provenance and review-crimson-sources.html exact paths/hashes together. All originals retained as superseded review candidates; no binary overwritten. Inventory196, selected non-Neon slots135, global selected base slots150 and final-certified0 unchanged. Generic registry preview derives selected candidate images from manifest; no permanent metadata images or edition completion asserted.
+
+Known limitations remain explicit: cross-stage common foundation/camera comparison, exact silhouette bounds across all Residential stages, fine-detail equivalence, final signs/corners consistency and complete export QA. Preview selection need not wait for final certification; this narrows an earlier self-imposed hold so corrected candidates can be reviewed coherently without presenting them as final. No user approval is invented.
+
+Next require source/browser CI for selection and fifteen-source exact-name/path/hash checks. Inspect updated Residential preview at native/mobile sizes, then complete common-reference/framing gates before final certification or edition expansion. If regression occurs revert this selection commit; prior assets remain intact. Continue Retail and other collection corrections without repeating completed Residential signage generation.
