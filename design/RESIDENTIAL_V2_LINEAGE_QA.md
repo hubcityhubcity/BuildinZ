@@ -1,0 +1,9 @@
+# Corrected Residential lineage QA — November 13, 2026
+
+Read latest Arcology handoff and verified source run43372296089/browser43372295998/Pages43372295109 all succeeded on eaf1af2d3a6995ee4ed6ee08e6605d69b34ac913. Source validation covers195 inventoried images; no additional image generated this batch.
+
+Viewed actual three v2 PNGs together at360x540 per complete frame plus native-resolution lettering crops. Exact names EMBER RESIDENCES / SCARLET HABITAT / CRIMSON ARCOLOGY are readable, all sans-serif warm gold on burgundy mounting. Arcology uses more squared corners than Ember; harmonize stroke/corner treatment in final native signage pass if needed, without another wholesale architecture generation. Twin-tower lounge and four-pool multi-zone Stage III program remain visible. No ground-level public pool observed. Visual growth from single mid-rise to twin towers to crowned three-tower resort is clear, but equal physical camera scale is not established.
+
+Framing FAIL remains explicit: native1024x1536 Stage III antenna reaches approximately y20, while3% top safe margin requires at least46.08pixels (round up47). This is a visual estimate, not an automated silhouette measurement, and is sufficient to keep final certification closed. Stage I side clearances also require exact architectural silhouette inspection. No v2 source was selected and no edition production counted complete.
+
+Next concrete production: create an Arcology v3 framing derivative with at least47pixels of sky above the tip and minimum31pixels side architectural margins; preserve complete building, crown, bridges, pools, lettering and base. Extend background/reframe rather than crop structure. Inspect output and inventory exact bytes; retain v1/v2. Then compare camera/foundation references across all three corrected stages before source selection. Do not regenerate completed signage candidates simply to repeat this QA.
