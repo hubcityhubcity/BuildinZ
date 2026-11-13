@@ -48,3 +48,11 @@ These are recorded issues, not newly completed visual checks:
 ## Status
 
 Standard established. Full retrospective visual audit and corrections remain unfinished. This document does not certify any image, website, metadata package or collection as launch-ready.
+
+## Production export policy — delegated decision, November 12, 2026
+
+This operationalizes the existing standard; it is an agent implementation decision, not a historical owner approval. New final candidate exports use portrait 2:3 framing. Keep every architectural extremity (including antenna tips, roof overhangs and foundation) at least 3% of the respective image dimension inside the frame; landscaping may extend beyond this architectural safe area. Use versioned derivatives and background extension/reframing that preserves the building, never crop away structure to satisfy the margin. Existing images are not certified by adopting this rule.
+
+Compare evolution within each identity using the same camera azimuth/elevation and a documented common foundation reference. Keep that reference within 5% display-width variation across the three-stage review, or record why a genuine expanded footprint requires an exception. Do not claim physical height measurements from image pixels. Stage growth must remain clear with preserved stage-exclusive program; equal canvas dimensions alone are insufficient.
+
+Mounted signs use one uppercase geometric sans-serif techno-luxury treatment with consistent letter spacing, stroke weight and architectural mounting. Crimson accents remain warm gold on burgundy/charcoal backing. Preserve exact stage names; type and stage labels remain separate interface/metadata fields. Replace observed serif lettering only in versioned derivatives, preserving approved architecture. Review native resolution and 360px full-frame rendering for legibility before final certification. No edition finish expansion until corrected base lineage framing, signs and architecture pass actual visual review.
