@@ -219,6 +219,13 @@ async function run() {
     const keyboardPage = await browser.newPage({ viewport:{width:1280,height:900} });
     keyboardPage.on('pageerror', e => browserErrors.push(e.message));
     await keyboardPage.goto(url,{waitUntil:'networkidle'});
+    await keyboardPage.keyboard.press('Tab');
+    assert.equal(await keyboardPage.evaluate(()=>document.activeElement.className),'skip-link');
+    const skipBounds=await keyboardPage.locator('.skip-link').boundingBox();
+    assert(skipBounds && skipBounds.y>=0,'Focused skip link must be visible');
+    await keyboardPage.keyboard.press('Enter');
+    assert.equal(await keyboardPage.evaluate(()=>document.activeElement.id),'collection-main');
+    assert.equal(new URL(keyboardPage.url()).hash,'#collection-main');
     const searchControl = keyboardPage.getByLabel('Search token, name or ID',{exact:true});
     await searchControl.focus();
     await keyboardPage.keyboard.type('BZ-0001');
