@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 196,
+    "asset_files": 197,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3809,6 +3809,25 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "v3 full-frame comparison against v2 completed Nov13: antenna clearance improved, but zoom-out changes apparent foundation scale and generative window/landscape details; held nonselected pending aligned geometry comparison. Source CI43386419651 and browser43386419631 passed. Not final certified. Selected for reversible lineage preview Nov13 following signage/aligned structural review; common camera/export/final certification remain open."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-commons-market-stage-1-v2.png",
+      "bytes": 2447679,
+      "sha256": "095e246d327f605b08465ef7496b3044da7adf45d27a13130528d8baa7bb317c",
+      "git_blob_sha": "719c96dc50917b446c7cf323a843a65e284bded4",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "camera-correction-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Commons Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual v2 viewed: stronger right-wing depth, correct COMMONS MARKET, two occupied retail floors/stepped roofs retained. Side clearance still tight; native/mobile/lineage gates pending; v1 selected."
     }
   ]
 }
