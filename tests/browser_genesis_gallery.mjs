@@ -225,6 +225,15 @@ async function run() {
 
     await mkdir(path.join(ROOT, 'browser-evidence'), { recursive: true });
     await desktop.locator('#search').fill('Crimson Coliseum');
+    // Ensure screenshots capture filtered lazy-loaded artwork, not empty media frames.
+    await desktop.waitForFunction(() => document.querySelectorAll('#cards article.card').length === 20);
+    for (const img of await desktop.locator('#cards article img').all()) {
+      await img.scrollIntoViewIfNeeded();
+      await img.evaluate(el => el.decode());
+      assert(await img.evaluate(el => el.naturalWidth > 0), 'Desktop screenshot image unavailable');
+    }
+    await desktop.evaluate(() => scrollTo(0,0));
+
     await desktop.screenshot({ path: path.join(ROOT, 'browser-evidence', 'desktop-gallery.png'), fullPage: true });
     await mobile.screenshot({ path: path.join(ROOT, 'browser-evidence', 'mobile-gallery.png'), fullPage: true });
     assert.deepEqual(browserErrors, [], 'Unexpected browser JavaScript exceptions');
