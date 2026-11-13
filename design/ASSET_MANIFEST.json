@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 195,
+    "asset_files": 196,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3790,6 +3790,25 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual v2 viewed: exact geometric sans-serif CRIMSON ARCOLOGY; crown/bridges/elevated resort pools visibly retained. Framing and native/mobile review pending; v1 stays selected."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-crimson-arcology-stage-3-v3.png",
+      "bytes": 3073401,
+      "sha256": "4a2f43bfd71bb80abadd1a4f992e6ccdb963cf12649396aebba7d9536d9c7a2d",
+      "git_blob_sha": "b12c373b98578af7066a5554bef905e2a17fe322",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "framing-correction-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual v3 viewed: expanded sky, full antenna/crown/three towers/bridges and four pools retained visibly; correct name. Camera/fine-detail and native/mobile margin verification pending; not selected."
     }
   ]
 }
