@@ -215,6 +215,26 @@ async function run() {
     assert.equal(await unavailable.locator('#values').innerText(),'');
     note('Arcology alignment: actual image decode, controls/reset, mobile overflow and failed-image state');
 
+
+    const keyboardPage = await browser.newPage({ viewport:{width:1280,height:900} });
+    keyboardPage.on('pageerror', e => browserErrors.push(e.message));
+    await keyboardPage.goto(url,{waitUntil:'networkidle'});
+    const searchControl = keyboardPage.getByLabel('Search token, name or ID',{exact:true});
+    await searchControl.focus();
+    await keyboardPage.keyboard.type('BZ-0001');
+    assert.match(await keyboardPage.locator('#result-count').innerText(),/1 planned editions match/);
+    const order=['neighborhood','type','rarity','stage'];
+    for(const id of order){
+      await keyboardPage.keyboard.press('Tab');
+      assert.equal(await keyboardPage.evaluate(()=>document.activeElement.id),id,'Keyboard filter order');
+    }
+    await keyboardPage.keyboard.press('End');
+    await keyboardPage.keyboard.press('Enter');
+    assert.equal(await keyboardPage.locator('#stage').inputValue(),'3');
+    assert.equal(await keyboardPage.locator('#cards article h3').innerText(),'Aurora Arcology');
+    assert.equal(await keyboardPage.locator('#result-count').getAttribute('aria-live'),'polite');
+    note('Keyboard: labelled search, filter tab order, native stage selector and live result status');
+
     const broken = await browser.newPage();
     await broken.route('**/metadata/genesis-token-registry.json', route =>
       route.fulfill({ status: 503, contentType: 'text/plain', body: 'Unavailable' }));
