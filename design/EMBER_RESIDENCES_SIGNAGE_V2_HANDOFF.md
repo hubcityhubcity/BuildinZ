@@ -1,0 +1,9 @@
+# Ember Residences signage v2 production checkpoint — November 12, 2026
+
+Generated one minimal typography-edit candidate from the actual stage1v1 original using built-in image editing. Exact prompt: Change ONLY gold mounted lettering on existing burgundy entrance sign to EMBER RESIDENCES in uppercase geometric sans-serif techno-luxury letters, medium stroke, even spacing, perspective aligned, warm gold; remove serifs, preserve backing and all architecture, floor count, balconies, roof lounge, pool, furniture, trees, windows, lighting, camera and full2:3 composition; no added words or border.
+
+Actual output visually inspected: correct EMBER RESIDENCES sans-serif lettering; roof pool/lounge, balcony structure, entrance steps and overall composition visibly retained. Generative detail variation remains possible; no pixel-equivalence claim. Candidate still needs side-by-side native and360px checks and the architectural margin gate.
+
+Output: generated_images/exec-7a6fae37-a8f9-4bca-a995-41ddaf2ed6f9.png; copied non-destructively to workspace buildinz-art/assets/candidates/crimson-commons-ember-residences-stage-1-v2.png. PNG1024x1536,2822906bytes,SHA2568ccfb4a37313f1ab138b9c53e6897291014812a6218a7f1cf84587cabc789a91. Generated output is retained by image generation's automatic persistent saving; no Library ID was returned and none is invented.
+
+IMPORTANT: image binary is NOT yet uploaded to GitHub. This commit saves production provenance only. Manifest remains192; v1 stays selected; no site references point at the absent repository v2. Next upload the exact v2 bytes to repository, verify Git blob/hash/decode, add candidate inventory record, compare native/mobile and only then consider source selection. Do not regenerate this completed candidate. Continue Scarlet Habitat and Crimson Arcology signage afterwards. No final certification or owner approval asserted.
