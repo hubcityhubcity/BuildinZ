@@ -6,6 +6,7 @@ on:
       - "preview-genesis-gallery.html"
       - "review-crimson-burgundy.html"
       - "review-crimson-sources.html"
+      - "review-arcology-alignment.html"
       - "assets/editions/**"
       - "index.html"
       - "tests/browser_genesis_gallery.mjs"

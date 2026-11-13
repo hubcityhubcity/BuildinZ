@@ -187,6 +187,34 @@ async function run() {
     await sources.screenshot({ path: path.join(ROOT, 'browser-evidence', 'crimson-sources-mobile.png'), fullPage: true });
     note('Crimson sources: 15 canonical names, image links, hashes and decodes; 1440/768/360px overflow checks');
 
+
+    const alignment = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    alignment.on('pageerror', e => browserErrors.push(e.message));
+    await alignment.goto(url.replace('preview-genesis-gallery.html', 'review-arcology-alignment.html'), { waitUntil: 'networkidle' });
+    await alignment.locator('#status').getByText(/Both actual images decoded/).waitFor();
+    assert.equal(await alignment.locator('canvas').getAttribute('width'), '1024');
+    assert.equal(await alignment.locator('canvas').getAttribute('height'), '1536');
+    await alignment.locator('#x').fill('25');
+    await alignment.locator('#y').fill('-30');
+    await alignment.locator('#scale').evaluate(el => { el.value='1.1'; el.dispatchEvent(new Event('input')); });
+    await alignment.locator('#opacity').evaluate(el => { el.value='.75'; el.dispatchEvent(new Event('input')); });
+    const transform = JSON.parse(await alignment.locator('#values').innerText());
+    assert.equal(transform.x,25); assert.equal(transform.y,-30);
+    assert.equal(transform.scale,1.1); assert.equal(transform.opacity,.75);
+    await alignment.locator('#reset').click();
+    const reset = JSON.parse(await alignment.locator('#values').innerText());
+    assert.equal(reset.x,0); assert.equal(reset.y,0);
+    assert.equal(reset.scale,1); assert.equal(reset.opacity,.5);
+    await alignment.setViewportSize({ width:360,height:780 });
+    assert(await alignment.evaluate(() => document.documentElement.scrollWidth <= innerWidth+1), 'Alignment mobile overflow');
+    await alignment.screenshot({ path:path.join(ROOT,'browser-evidence','arcology-alignment-mobile.png'),fullPage:true });
+    const unavailable = await browser.newPage();
+    await unavailable.route('**/crimson-commons-crimson-arcology-stage-3-v3.png', route => route.fulfill({status:503,body:'Unavailable'}));
+    await unavailable.goto(url.replace('preview-genesis-gallery.html','review-arcology-alignment.html'),{waitUntil:'networkidle'});
+    await unavailable.locator('#status').getByText(/Image loading failed/).waitFor();
+    assert.equal(await unavailable.locator('#values').innerText(),'');
+    note('Arcology alignment: actual image decode, controls/reset, mobile overflow and failed-image state');
+
     const broken = await browser.newPage();
     await broken.route('**/metadata/genesis-token-registry.json', route =>
       route.fulfill({ status: 503, contentType: 'text/plain', body: 'Unavailable' }));
