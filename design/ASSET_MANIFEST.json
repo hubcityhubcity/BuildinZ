@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 192,
+    "asset_files": 193,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3733,6 +3733,25 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual PNG verified; built-in image edit from selected original; candidate visual inspection only."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-ember-residences-stage-1-v2.png",
+      "bytes": 2822906,
+      "sha256": "8ccfb4a37313f1ab138b9c53e6897291014812a6218a7f1cf84587cabc789a91",
+      "git_blob_sha": "d7daa7a749e057207e22a573fb627356016b0736",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "signage-correction-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual generated v2 visually inspected: exact geometric sans-serif EMBER RESIDENCES lettering; main architecture and roof pool retained. Native/mobile and safe-margin gates pending. v1 remains selected."
     }
   ]
 }
