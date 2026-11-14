@@ -253,7 +253,7 @@ async function run() {
     assert.equal(await exportReview.locator('.offset').count(),3);
     for(const [i,offset] of [35,22,-18].entries()){
       await exportReview.locator('.offset').nth(i).fill(String(offset));
-      const percent=await exportReview.locator('figure img').nth(i).evaluate(el=>parseFloat(el.style.transform.match(/translateY\\(([-.0-9]+)/)[1]));
+      const percent=await exportReview.locator('figure img').nth(i).evaluate(el=>parseFloat(el.style.transform.slice('translateY('.length)));
       assert(Math.abs(percent-offset/1536*100)<.0001,'Native offset scale');
       await exportReview.locator('.offset').nth(i).fill('0');
       assert.equal(await exportReview.locator('figure img').nth(i).evaluate(el=>el.style.transform),'translateY(0%)');
