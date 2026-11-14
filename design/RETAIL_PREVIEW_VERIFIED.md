@@ -1,0 +1,5 @@
+# Retail preview integration verified
+
+November14,2026. Integration41c1785 source43604379974/browser43604379984/Pages43604379391 all passed. Existing browser suite verifies150selected decodes and Crimson exact names/image links/SHA text from manifest, with desktop/tablet/mobile checks. Reconciled Market comparison captions to selectedv3/supersededv1; no artwork changes. Historical QA handoffs retain their dated decisions and are superseded by RETAIL_PREVIEW_SELECTION.md.
+
+Current Retail preview:CommonsMarketv3,RubyGalleriav2,CardinalExchangev2. Inventory200,selected150,final0. No prior owner approval inferred. Next production batch should inspect native architecture edges and common foundation/export references for corrected trio, then move to remaining Crimson final-art/edition gates recorded in canonical checklist. Do not spend runs regenerating or re-ingesting these same candidates. Permanent metadata, edition imagery, utility settlement, wallet/testnet acceptance and final release audit remain open.
