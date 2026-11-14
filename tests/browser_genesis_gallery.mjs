@@ -220,7 +220,7 @@ async function run() {
     const market = await browser.newPage({viewport:{width:1280,height:900}});
     market.on('pageerror',e=>browserErrors.push(e.message));
     await market.goto(url.replace('preview-genesis-gallery.html','review-commons-market.html'),{waitUntil:'networkidle'});
-    assert.equal(await market.locator('figure img').count(),2);
+    assert.equal(await market.locator('figure img').count(),3);
     for(const img of await market.locator('figure img').all()){
       await img.evaluate(el=>el.decode());
       assert.deepEqual(await img.evaluate(el=>[el.naturalWidth,el.naturalHeight]),[1024,1536]);
@@ -238,7 +238,7 @@ async function run() {
       assert(await market.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Market comparison overflow at '+width);
     }
     await market.screenshot({path:path.join(ROOT,'browser-evidence','commons-market-mobile.png'),fullPage:true});
-    note('Commons Market: two real PNG decodes, keyboard safety-guide toggle and responsive overflow checks');
+    note('Commons Market: three real PNG decodes, keyboard safety-guide toggle and responsive overflow checks');
 
     const keyboardPage = await browser.newPage({ viewport:{width:1280,height:900} });
     keyboardPage.on('pageerror', e => browserErrors.push(e.message));

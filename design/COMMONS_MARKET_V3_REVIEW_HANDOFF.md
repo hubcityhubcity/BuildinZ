@@ -1,0 +1,3 @@
+# Commons Market v3 review checkpoint
+
+November14,2026. Repaired upload passed source CI43561579282, browser43561579293 and Pages43561575761. All198 inventoried raster assets validated by source workflow; no visual certification inferred. Extended comparative page to versions1/2/3 and regression to decode all three1024×1536 originals, retain keyboard guide assertions and responsive overflow checks. These new page/test changes need fresh CI. V1 remains selected; V3 unselected. Next inspect native3% guide and360px screenshot then compare Ruby Galleria/Cardinal Exchange together before selection. No new art generation, token/metadata changes or final certification.
