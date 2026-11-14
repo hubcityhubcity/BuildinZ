@@ -1,0 +1,7 @@
+# Ruby Galleria v2 mobile and Retail review
+
+November14,2026. Actual Commons Market v3, Ruby Galleria v2, Cardinal Exchange v1 inspected side-by-side at360×540 each with3% inset guides. Source CI43580821092/browser43580821207/Pages43580820525 passed following199-entry ingestion.
+
+Ruby v2 retains readable exact RUBY GALLERIA at360px, three occupied retail levels, visible supported atrium galleries/escalators, stepped burgundy roofs and pale/gold columns. Modest right-wing emphasis now agrees better with Commons Market v3. Roof and building plinth visibly clear guide; this mobile observation is not native segmented measurement. Escalating two/three/four-level identity is readable across the trio, but physical height is not certified by pixels.
+
+Cardinal Exchange v1 remains nearly symmetric and its outer roof tips meet/cross the3% side guide. Agent decision: correct Cardinal camera/framing next from actual original; preserve its four occupied retail levels, atrium/escalator arrangement, exact CARDINAL EXCHANGE sign, stepped burgundy roof/pale columns/gold banners and central entrance. Request modest three-quarter right-wing depth and wider side space. Inspect generated output before ingestion. Keep current selected originals until corrected trio passes common camera/foundation/native-margin review. No additional Market/Ruby generation needed now. Final0,selected150,inventory199 unchanged.
