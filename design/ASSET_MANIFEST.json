@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 197,
+    "asset_files": 198,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3828,6 +3828,25 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual v2 viewed: stronger right-wing depth, correct COMMONS MARKET, two occupied retail floors/stepped roofs retained. Side clearance still tight; native/mobile/lineage gates pending; v1 selected."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-commons-market-stage-1-v3.png",
+      "bytes": 2390877,
+      "sha256": "af40962ebe35880290573fd7748c076d5b421f158c9c6bf1e2e4b75462bf1420",
+      "git_blob_sha": "df66d697c1d84b03fa8f6308376b5f94139c7ce7",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "camera-correction-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Commons Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Wider-framed v3 visually inspected at generation; two retail floors and exact name retained. PNG integrity verified. Native margins/mobile and shared Retail lineage review remain pending. Agent candidate, not owner approval."
     }
   ]
 }
