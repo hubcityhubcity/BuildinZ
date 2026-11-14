@@ -1,0 +1,3 @@
+# Ruby Galleria v2 integrity checkpoint
+
+November14,2026. Local original Pillow verify passed,1024×1536,2476853bytes,SHA256 927bada9656600d123f4287a4ffab81d7814795e6330367f86067ba9acfd5841. Independently computed Git blob5adb2c7a4cd7582cee64c097809b6246f5748c91 matches current repository tree. Added unselected manifest entry;inventory199,selected150,final0. CI full raster verification remains required after ingestion. Next inspect360px/mobile and native3% margins with Commons Market v3 and Cardinal Exchange v1; correct Cardinal only after comparison. No new artwork generation or preview selection.
