@@ -3340,13 +3340,13 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "lineage-selected-candidate",
+      "classification": "superseded-lineage-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Commons Market",
       "stage": 1,
       "building_type": "Retail",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
+      "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact COMMONS MARKET; clothing/produce/books/housewares shops, two-level sheltered arcade, supported galleries and dry steps. Crimson/burgundy/bone/charcoal/brass. Tight side clearance and near-symmetric camera require final export/style check. Candidate only."
     },
@@ -3359,13 +3359,13 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "lineage-selected-candidate",
+      "classification": "superseded-lineage-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Ruby Galleria",
       "stage": 2,
       "building_type": "Retail",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
+      "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact RUBY GALLERIA, increased retail tiers versus source, atrium escalators, supported shopping galleries, clothing/produce/books/housewares, dry steps; retained crimson/burgundy/bone/charcoal/brass. Near-symmetric camera and tight side clearance keep final camera/framing gate open. Candidate only; no four-floor claim."
     },
@@ -3378,13 +3378,13 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "lineage-selected-candidate",
+      "classification": "superseded-lineage-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Cardinal Exchange",
       "stage": 3,
       "building_type": "Retail",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": true,
+      "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: exact CARDINAL EXCHANGE; taller stacked shopping galleries/atria and escalators, visible side braces and broad layered attached roof crown; retained palette, merchandise and dry civic steps. Near-symmetric camera and tight side clearance remain final correction gates. Prompt requested six tiers; no exact floor-count certification."
     },
@@ -3838,15 +3838,15 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "camera-correction-candidate",
+      "classification": "lineage-selected-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Commons Market",
       "stage": 1,
       "building_type": "Retail",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": false,
+      "selected_for_lineage_review": true,
       "final_nft_certification": false,
-      "evidence": "Wider-framed v3 visually inspected at generation; two retail floors and exact name retained. PNG integrity verified. Native margins/mobile and shared Retail lineage review remain pending. Agent candidate, not owner approval."
+      "evidence": "Wider-framed v3 visually inspected at generation; two retail floors and exact name retained. PNG integrity verified. Native margins/mobile and shared Retail lineage review remain pending. Agent candidate, not owner approval. Selected for preview only November14 after corrected-trio mobile review; native/export/edition gates remain open."
     },
     {
       "path": "assets/candidates/crimson-commons-ruby-galleria-stage-2-v2.png",
@@ -3857,15 +3857,15 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "camera-correction-candidate",
+      "classification": "lineage-selected-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Ruby Galleria",
       "stage": 2,
       "building_type": "Retail",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": false,
+      "selected_for_lineage_review": true,
       "final_nft_certification": false,
-      "evidence": "Actual v2 viewed: wider framing/stronger right wing, exact name, three occupied retail levels and atrium/escalators retained. Agent candidate; native/mobile/lineage gates pending; v1 selected."
+      "evidence": "Actual v2 viewed: wider framing/stronger right wing, exact name, three occupied retail levels and atrium/escalators retained. Agent candidate; native/mobile/lineage gates pending; v1 selected. Selected for preview only November14 after corrected-trio mobile review; native/export/edition gates remain open."
     },
     {
       "path": "assets/candidates/crimson-commons-cardinal-exchange-stage-3-v2.png",
@@ -3876,15 +3876,15 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "camera-correction-candidate",
+      "classification": "lineage-selected-candidate",
       "neighborhood": "Crimson Commons",
       "identity_name": "Cardinal Exchange",
       "stage": 3,
       "building_type": "Retail",
       "selected_for_prototype": false,
-      "selected_for_lineage_review": false,
+      "selected_for_lineage_review": true,
       "final_nft_certification": false,
-      "evidence": "Actual generated v2 inspected: wider framing/right-wing depth, exact name, four retail levels, atrium/escalators and braces retained. Agent candidate; native/mobile/common camera review pending;v1 selected."
+      "evidence": "Actual generated v2 inspected: wider framing/right-wing depth, exact name, four retail levels, atrium/escalators and braces retained. Agent candidate; native/mobile/common camera review pending;v1 selected. Selected for preview only November14 after corrected-trio mobile review; native/export/edition gates remain open."
     }
   ]
 }
