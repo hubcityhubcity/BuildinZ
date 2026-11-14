@@ -240,6 +240,33 @@ async function run() {
     await market.screenshot({path:path.join(ROOT,'browser-evidence','commons-market-mobile.png'),fullPage:true});
     note('Commons Market: three real PNG decodes, keyboard safety-guide toggle and responsive overflow checks');
 
+
+    const exportReview=await browser.newPage({viewport:{width:1280,height:900}});
+    exportReview.on('pageerror',e=>browserErrors.push(e.message));
+    await exportReview.goto(url.replace('preview-genesis-gallery.html','review-retail-export.html'),{waitUntil:'networkidle'});
+    assert.equal(await exportReview.locator('figure img').count(),3);
+    for(const img of await exportReview.locator('figure img').all()){
+      await img.evaluate(el=>el.decode());
+      assert.deepEqual(await img.evaluate(el=>[el.naturalWidth,el.naturalHeight]),[1024,1536]);
+    }
+    await exportReview.locator('#y').fill('1080');
+    assert.equal(await exportReview.locator('#value').innerText(),'1080');
+    for(const line of await exportReview.locator('.baseline').all()){
+      assert.equal(await line.evaluate(el=>el.style.top),'70.3125%');
+    }
+    await exportReview.locator('#native').focus();
+    await exportReview.keyboard.press('Enter');
+    assert.equal(await exportReview.locator('#native').getAttribute('aria-pressed'),'true');
+    assert.equal(Math.round((await exportReview.locator('figure').first().boundingBox()).width),1024);
+    await exportReview.keyboard.press('Enter');
+    assert.equal(await exportReview.locator('#native').getAttribute('aria-pressed'),'false');
+    for(const width of [1280,768,360]){
+      await exportReview.setViewportSize({width,height:900});
+      assert(await exportReview.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Export review fit overflow at '+width);
+    }
+    await exportReview.screenshot({path:path.join(ROOT,'browser-evidence','retail-export-mobile.png'),fullPage:true});
+    note('Retail export review: real PNGs, reference input, keyboard native mode and responsive fit');
+
     const keyboardPage = await browser.newPage({ viewport:{width:1280,height:900} });
     keyboardPage.on('pageerror', e => browserErrors.push(e.message));
     await keyboardPage.goto(url,{waitUntil:'networkidle'});
