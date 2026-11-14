@@ -1,0 +1,3 @@
+# Full-frame Retail review deliverable
+
+November14,2026. Added review-retail-export.html from actual selected manifest paths/hashes:Marketv3/Rubyv2/Cardinalv2. Includes responsive full frames, original PNG links, native1024px mode,3% safety guides and shared adjustable native Y reference. Default1100 is an exploratory guide, not certified foundation. This page has not yet had browser execution or full native visual acceptance. Next run meaningful browser control/decode/overflow checks, inspect native full roof/plinth, record manual foundation coordinates. No art generation/selection/final certification changes. Inventory200,selected150,final0. Preserve source images; avoid inferring physical height from screen pixels.
