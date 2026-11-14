@@ -1,0 +1,3 @@
+# V3 repository-byte repair
+
+November13,2026. Source CI43556389475 caught truncated uploaded v3 bytes: decode/length/SHA failures. Local original verified previously was intact; repository upload was not. Re-uploaded original via bounded300000byte base64 chunks to avoid output truncation. Replacement Git blob7f9fc16ea7291e01b30ed5348652d53e4fdbca12; expected2390877bytes/SHA af40962ebe35880290573fd7748c076d5b421f158c9c6bf1e2e4b75462bf1420 unchanged. Manifest blob reference corrected. Prior corrupted blob retained in Git history. Require fresh source CI before claiming repository integrity. Comparison page extension deferred until bytes pass. V3 unselected; final0. Next native/mobile/three-stage Retail visual QA.
