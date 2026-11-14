@@ -1,0 +1,5 @@
+# Commons Market v3 framing candidate
+
+November 13, 2026. Browser correction run43546212140 and Pages43546210657 passed. Created one reference edit from actual v2 to zoom out about12% without intentional redesign. Actual generated output inspected: visibly wider side plaza/roof clearance, exact COMMONS MARKET sign, two occupied retail levels and stepped burgundy roofs retained. Fine generative detail varies. No exact segmented margin measurement or geometry certification claimed.
+
+Saved assets/candidates/crimson-commons-commons-market-stage-1-v3.png non-destructively. Unselected pending native-margin and360px review plus Retail three-stage comparison. Manifest ingestion/hash verification remains next; do not count this newly saved candidate in the197-entry manifest until added and validated. V1 remains selected, final-certified0. Generated original exec-4887e2b4-0d39-45c7-b0cf-6f91d07ab250.png retained. Next: calculate PNG integrity/hash, add unselected manifest record, extend comparison page/test for v3, inspect all three Retail stages before selecting preview.
