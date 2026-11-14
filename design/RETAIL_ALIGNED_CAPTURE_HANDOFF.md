@@ -1,0 +1,3 @@
+# Retail aligned capture checkpoint
+
+November14,2026. Parser correction4a67054 browser43647697921 and Pages43647697653 passed; offset calculations/reset and native mode now executed successfully. Added desktop1280px full-page aligned screenshot with proposed35/22/−18native-pixel shifts, then restored0. Fresh CI must produce artifact before visual inspection; no aligned visual acceptance claimed yet. Next download actual browser evidence, inspect aligned foundation/silhouette once, then complete export or record concrete failure and move production forward. No artwork/manifest/token changes;200assets,150selected,final0.

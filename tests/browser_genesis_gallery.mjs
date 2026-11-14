@@ -274,6 +274,13 @@ async function run() {
       assert(await exportReview.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Export review fit overflow at '+width);
     }
     await exportReview.screenshot({path:path.join(ROOT,'browser-evidence','retail-export-mobile.png'),fullPage:true});
+    await exportReview.setViewportSize({width:1280,height:1000});
+    for(const [i,offset] of [35,22,-18].entries()){
+      await exportReview.locator('.offset').nth(i).fill(String(offset));
+    }
+    await exportReview.screenshot({path:path.join(ROOT,'browser-evidence','retail-export-aligned-desktop.png'),fullPage:true});
+    for(const input of await exportReview.locator('.offset').all()) await input.fill('0');
+
     note('Retail export review: real PNGs, reference input, keyboard native mode and responsive fit');
 
     const keyboardPage = await browser.newPage({ viewport:{width:1280,height:900} });
