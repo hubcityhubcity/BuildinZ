@@ -1,0 +1,3 @@
+# Cardinal Exchange v2 integrity handoff
+
+November14,2026. Actual original Pillow verify passed:1024×1536,2576439bytes,SHA256 7194813fe1b909388617a46d4ad76376dab8dff1c5e824470f560c740ba6172a. Independently computed Git blob9fcce50c80ee7f40399d85a2a7c183421e16d202 matches current remote tree. Added unselected manifest entry;inventory200,selected150,final0. Next full source CI, inspect corrected CommonsMarketv3/RubyGalleriav2/CardinalExchangev2 at360px/native inset and common foundation reference. Only then decide preview trio selection; no new generation unless concrete failure. Preserve originals and candidate labels. No release metadata or wallet changes.

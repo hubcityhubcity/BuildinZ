@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 199,
+    "asset_files": 200,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3866,6 +3866,25 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual v2 viewed: wider framing/stronger right wing, exact name, three occupied retail levels and atrium/escalators retained. Agent candidate; native/mobile/lineage gates pending; v1 selected."
+    },
+    {
+      "path": "assets/candidates/crimson-commons-cardinal-exchange-stage-3-v2.png",
+      "bytes": 2576439,
+      "sha256": "7194813fe1b909388617a46d4ad76376dab8dff1c5e824470f560c740ba6172a",
+      "git_blob_sha": "9fcce50c80ee7f40399d85a2a7c183421e16d202",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "camera-correction-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual generated v2 inspected: wider framing/right-wing depth, exact name, four retail levels, atrium/escalators and braces retained. Agent candidate; native/mobile/common camera review pending;v1 selected."
     }
   ]
 }
