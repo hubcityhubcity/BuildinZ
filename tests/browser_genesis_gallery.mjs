@@ -216,6 +216,30 @@ async function run() {
     note('Arcology alignment: actual image decode, controls/reset, mobile overflow and failed-image state');
 
 
+
+    const market = await browser.newPage({viewport:{width:1280,height:900}});
+    market.on('pageerror',e=>browserErrors.push(e.message));
+    await market.goto(url.replace('preview-genesis-gallery.html','review-commons-market.html'),{waitUntil:'networkidle'});
+    assert.equal(await market.locator('figure img').count(),2);
+    for(const img of await market.locator('figure img').all()){
+      await img.evaluate(el=>el.decode());
+      assert.deepEqual(await img.evaluate(el=>[el.naturalWidth,el.naturalHeight]),[1024,1536]);
+    }
+    const toggle=market.getByRole('button',{name:'Hide safety guides'});
+    await toggle.focus();
+    await market.keyboard.press('Enter');
+    assert.equal(await toggle.getAttribute('aria-pressed'),'false');
+    assert(await market.locator('.guide').first().isHidden());
+    await market.keyboard.press('Space');
+    assert.equal(await toggle.getAttribute('aria-pressed'),'true');
+    assert(await market.locator('.guide').first().isVisible());
+    for(const width of [1280,768,360]){
+      await market.setViewportSize({width,height:900});
+      assert(await market.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Market comparison overflow at '+width);
+    }
+    await market.screenshot({path:path.join(ROOT,'browser-evidence','commons-market-mobile.png'),fullPage:true});
+    note('Commons Market: two real PNG decodes, keyboard safety-guide toggle and responsive overflow checks');
+
     const keyboardPage = await browser.newPage({ viewport:{width:1280,height:900} });
     keyboardPage.on('pageerror', e => browserErrors.push(e.message));
     await keyboardPage.goto(url,{waitUntil:'networkidle'});
