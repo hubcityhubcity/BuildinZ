@@ -1,0 +1,3 @@
+# Commons Market browser regression correction
+
+November 13, 2026. Browser run43540053094 failed after the keyboard successfully changed the guide button label. The test used a live role locator bound to its old accessible name, so the subsequent attribute read timed out. Changed the locator to the stable #toggle identity; keyboard actions, pressed-state checks and visible/hidden assertions remain intact. This is a test locator correction, not evidence of a product toggle failure. Eleven earlier checks passed in that run, including150 selected PNG decodes. New CI must pass before claiming complete verification. Next production action remains framing correction described in COMMONS_MARKET_V2_QA.md. No art selection or final certification changes.

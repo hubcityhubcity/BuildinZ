@@ -225,7 +225,7 @@ async function run() {
       await img.evaluate(el=>el.decode());
       assert.deepEqual(await img.evaluate(el=>[el.naturalWidth,el.naturalHeight]),[1024,1536]);
     }
-    const toggle=market.getByRole('button',{name:'Hide safety guides'});
+    const toggle=market.locator('#toggle');
     await toggle.focus();
     await market.keyboard.press('Enter');
     assert.equal(await toggle.getAttribute('aria-pressed'),'false');
