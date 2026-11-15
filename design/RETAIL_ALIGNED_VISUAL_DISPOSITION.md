@@ -1,0 +1,7 @@
+# Retail aligned visual disposition — review tooling complete
+
+November14,2026. Actual corrected retail-export-aligned-desktop.png downloaded from successful browser43663028005 and visually inspected. Rendered proportions correct, entire buildings visible, three exact names readable; proposed35/22/−18 translations place central front steps close to sharedY1080yellow line. Side roof/plinth remain within cyan3% inset. Top/bottom blank strips arise from QA translations; screenshot is not final art and must not be minted.
+
+Agent decision: accept alignment proposal as composition direction. Review tooling now sufficient: stop adding review controls/tests. No final raster was exported; final art0 remains honest. Next actual artwork production: reference-edit Marketv3 to shift composition downward about35native pixels preserving all architecture and fill sky/plaza naturally, then Ruby+22 and Cardinal−18 only if full lineage export requires. Inspect exact names and geometry after each, hash/ingest non-destructively in same production batch where possible. Do not conflate browser CSS alignment with saved final imagery. Keep current preview selections until final candidates pass. Edition/finish artwork remains required after base export.
+
+Evidence browserhttps://github.com/hubcityhubcity/BuildinZ/actions/runs/43663028005;Pages43663027316passed. Inventory200,selected150,final0. No contract/release metadata changes.
