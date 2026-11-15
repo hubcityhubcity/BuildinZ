@@ -1,0 +1,3 @@
+# Scarlet Palace Burgundy candidate
+
+November15,2026. Viewed actual selectedScarletPalacev2 and produced material-onlyCC-F02. Actual output inspected:burgundy satin panels,bone trim,warm windows,exact SCARLET PALACE,twin concert stages/audiences/stacked balconies/central stair atrium/sloped roof/supports/framing retained visually. Candidate;fine pairedQA pending. Saved assets/editions/crimson-commons-scarlet-palace-stage-2-cc-f02-v1.png;original exec-7636e15b-2653-4c1c-9ec7-bb9bd5dddc7f.png retained. Next checksum/manifest then CrimsonColiseumCC-F02and jointEntertainment review. Manifest207until ingestion;12actualfinish candidates,final0. No token/URI changes.
