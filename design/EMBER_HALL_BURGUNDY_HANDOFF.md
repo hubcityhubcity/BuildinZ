@@ -1,0 +1,3 @@
+# Ember Hall Burgundy candidate
+
+November15,2026. Read current Retail handoff,viewed actual selectedEmberHallv1,produced material-onlyCC-F02. Actual output inspected:deep burgundy satin panels,bone trim,warm windows,exact EMBER HALL,sloped roof/diagonal supports/glass concert stage/piano/drums/audience and framing retained visually. Candidate;pairedQA pending. Saved assets/editions/crimson-commons-ember-hall-stage-1-cc-f02-v1.png;original exec-31453e66-2b34-4f9f-bf57-0810a6e7b1c4.png retained. Next checksum/manifest/source comparison then ScarletPalaceCC-F02fromselectedv2. Manifest206until ingestion;11actualfinish candidates,final0. No token/URI changes.
