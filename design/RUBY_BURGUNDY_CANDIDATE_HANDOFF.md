@@ -1,0 +1,3 @@
+# Ruby Galleria Burgundy candidate
+
+November15,2026. Viewed actual selectedRubyv2; generated material-onlyCC-F02. Output inspected:deep burgundy satin fascia/roof,bone trim,warm windows,exact RUBY GALLERIA,three occupied retail floors/atrium/escalators and framing retained visually. Candidate;paired QA pending. Saved assets/editions/crimson-commons-ruby-galleria-stage-2-cc-f02-v1.png;original exec-1189740d-5059-4369-a1f1-3c4b20a50311.png retained. Next hash/integrity+manifest then CardinalCC-F02 and jointRetail review. Manifest204until ingestion;9actualfinish candidates,final0. No token/URI changes.
