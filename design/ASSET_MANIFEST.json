@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 207,
+    "asset_files": 208,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4032,6 +4032,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected;burgundy satin,exact EMBER HALL,sloped roof/supports/glass concert stage/audience retained visually. Candidate;paired lineage QA pending."
+    },
+    {
+      "path": "assets/editions/crimson-commons-scarlet-palace-stage-2-cc-f02-v1.png",
+      "bytes": 2647408,
+      "sha256": "93dc91dfee0e9df386d5647337391f837ad7fc5a09f64f4ecc3965d2d2e3f45c",
+      "git_blob_sha": "61d614d5e58342dac05ff29a7165b2a9bd51174f",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected;burgundy satin,exact sign,twin stages/audiences/balconies/stair atrium/sloped roof retained visually. Candidate;paired lineage QA pending."
     }
   ]
 }
