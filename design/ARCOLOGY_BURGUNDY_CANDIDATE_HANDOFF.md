@@ -1,0 +1,3 @@
+# Crimson Arcology Burgundy candidate
+
+November15,2026. Viewed actual selectedv3, produced material-onlyCC-F02 edit. Actual output inspected: deeper satin burgundy panels,bone trim,warm windows,exact CRIMSON ARCOLOGY,crown/spires,three towers,bridges/supports and elevated pools/resort amenities retained visually. Fine-detail paired review pending;not certified geometry or completed edition. Saved assets/editions/crimson-commons-crimson-arcology-stage-3-cc-f02-v1.png non-destructively. Original exec-0a506679-9308-4c82-9f21-1ca83e11ea91.png retained. Next hash/integrity+manifest ingestion and compare all3Residential CC-F02 together. Manifest202 until ingestion;7actualfinish candidates,final0. No token/rarity/URI changes.
