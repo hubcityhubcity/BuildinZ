@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 200,
+    "asset_files": 201,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3885,6 +3885,27 @@
       "selected_for_lineage_review": true,
       "final_nft_certification": false,
       "evidence": "Actual generated v2 inspected: wider framing/right-wing depth, exact name, four retail levels, atrium/escalators and braces retained. Agent candidate; native/mobile/common camera review pending;v1 selected. Selected for preview only November14 after corrected-trio mobile review; native/export/edition gates remain open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-residences-stage-1-cc-f02-v1.png",
+      "bytes": 2662389,
+      "sha256": "6785941a6c3398fe1dea2d9f3c9b53d14ad3c607fd5584adbded8316f885a128",
+      "git_blob_sha": "2362bfb769e3324fddd6c89ba2a5594b0c0b9fec",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Source/finish compared360px: deeper satin burgundy distinct, exact name/pool/architecture visibly retained. Candidate; geometry/final gates open."
     }
   ]
 }

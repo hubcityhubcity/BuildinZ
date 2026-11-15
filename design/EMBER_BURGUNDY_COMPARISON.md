@@ -1,0 +1,3 @@
+# Ember Burgundy comparison
+
+November15,2026. Actual sourcev2 and CC-F02 compared side-by-side360×540. Deep satin burgundy visibly distinct; exact mounted name, pool/lounge, floor arrangement and framing retained visually. Fine details not pixel-certified. Pillow verify passed2662389bytes,1024×1536,SHA2566785941a6c3398fe1dea2d9f3c9b53d14ad3c607fd5584adbded8316f885a128. Added unselected manifest record;201inventory,150selected,final0. Full repository CI must confirm remote bytes. Next Scarlet HabitatCC-F02 using selectedv2 and exact same recipe; do not repeat Ember generation. All prior sources preserved.
