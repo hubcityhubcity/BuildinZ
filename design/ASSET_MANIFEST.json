@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 203,
+    "asset_files": 204,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3948,6 +3948,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual generated output inspected; burgundy satin, exact name, crown/bridges/elevated pools retained visually. Candidate;paired lineage/final QA pending."
+    },
+    {
+      "path": "assets/editions/crimson-commons-commons-market-stage-1-cc-f02-v1.png",
+      "bytes": 2262211,
+      "sha256": "b8d20e559849c352292cc2921558b6f2d70d7e0073f3a4ebb3d07c3eeecd9a3f",
+      "git_blob_sha": "52a25dee14415dcfc9ab5276e6c28eda7508378b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Commons Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected:burgundy satin finish,exact name,two retail floors and corrected framing retained visually. Candidate;paired lineage QA pending."
     }
   ]
 }
