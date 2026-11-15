@@ -1,0 +1,3 @@
+# Scarlet Habitat Burgundy candidate
+
+November15,2026. Read Ember comparison, viewed actual Scarlet selectedv2 and produced one material-only CC-F02 reference edit. Output inspected:deeper burgundy satin surfaces,bone trim/warm windows,exact SCARLET HABITAT sign,twin towers/bridge lounge/roof pool/diagonal supports retained visually. Candidate only; fine-detail paired QA pending. Saved assets/editions/crimson-commons-scarlet-habitat-stage-2-cc-f02-v1.png non-destructively. Original exec-556a4bb4-70a9-454b-be77-252952655c18.png retained. Next integrity/hash+manifest ingestion, source/mobile comparison then CrimsonArcologyCC-F02. Manifest201 until ingestion;6actual finish candidates,final0. No token/rarity/URI changes.
