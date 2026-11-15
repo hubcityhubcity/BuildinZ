@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 201,
+    "asset_files": 202,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3906,6 +3906,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Source/finish compared360px: deeper satin burgundy distinct, exact name/pool/architecture visibly retained. Candidate; geometry/final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-scarlet-habitat-stage-2-cc-f02-v1.png",
+      "bytes": 2939254,
+      "sha256": "5d2ad6f701a129b00767a5c9e59f14786d81d5a2b7a7a772acf72e0c61f3e2ad",
+      "git_blob_sha": "975ee0a9b70858ed96f4262e426b9f41beb7039f",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual generated output inspected;deep burgundy satin,bone trim,exact name,twin towers/bridge lounge/roof pool retained visually. Candidate;paired/mobile final QA pending."
     }
   ]
 }
