@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 206,
+    "asset_files": 207,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4011,6 +4011,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected;burgundy satin,exact name,four retail levels/atrium/escalators/braces retained visually. Candidate;paired lineage QA pending."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-hall-stage-1-cc-f02-v1.png",
+      "bytes": 2572323,
+      "sha256": "acb41f10edb43deefbfc6624ee729f5c7f5350cbde59bff192d193f1b5de59c4",
+      "git_blob_sha": "0481f4b83aab20b187c2c1f1f9ddd83a5ca4e634",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected;burgundy satin,exact EMBER HALL,sloped roof/supports/glass concert stage/audience retained visually. Candidate;paired lineage QA pending."
     }
   ]
 }
