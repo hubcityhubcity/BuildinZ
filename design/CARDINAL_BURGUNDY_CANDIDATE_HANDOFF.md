@@ -1,0 +1,3 @@
+# Cardinal Burgundy candidate
+
+November15,2026. Viewed actual selectedCardinalv2 and produced material-onlyCC-F02. Actual output inspected:deep burgundy satin surfaces,bone trim,warm windows,exact CARDINAL EXCHANGE,four retail levels/atrium/escalators/side braces and framing retained visually. Candidate;fine paired review pending. Saved assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f02-v1.png;original exec-398162a3-cd63-40c1-84d3-7b0565a1a360.png retained. Next hash/manifest/sourceCI then jointRetail source/finish review. Manifest205until ingestion;10actualfinish candidates,final0. No token/URI/rarity changes.
