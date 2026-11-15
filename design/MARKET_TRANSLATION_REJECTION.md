@@ -1,0 +1,5 @@
+# Market translation attempt rejected
+
+November14,2026. Used actual selected Marketv3 as reference for minimal+35px composition shift targeting foundationY1080. Actual generated exec-7e1211e0-0e5d-4870-8ae1-9df3138ba1c0.png inspected: building moved much farther downward (front steps roughlyY1220), altered skyline/cloud composition. Exact name/two floors remain but target alignment clearly missed. REJECTED for export/selection. Generated original retained automatically; no manifest entry or repository artwork replacement. Current v3 selected unchanged;final0.
+
+Decision: do not repeatedly generate other stages from failed positional prompt. Image generation cannot presently guarantee this exact translation. Keep existing base candidates and open final alignment gate. Next unblocked production should resume edition/finish artwork from actual approved lineage/recipe sources, or use a deterministic export method only if explicitly authorized by user (image-editing instructions require imagegen by default). No owner action required yet; plenty of other artwork remains. Do not call rejected output completed art. Inventory200 unchanged.
