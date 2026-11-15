@@ -272,6 +272,11 @@ async function run() {
     for(const width of [1280,768,360]){
       await exportReview.setViewportSize({width,height:900});
       assert(await exportReview.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Export review fit overflow at '+width);
+      for(const img of await exportReview.locator('figure img').all()){
+        const rect=await img.boundingBox();
+        assert(Math.abs(rect.height/rect.width-1.5)<.002,'Export image stretched at '+width);
+      }
+
     }
     await exportReview.screenshot({path:path.join(ROOT,'browser-evidence','retail-export-mobile.png'),fullPage:true});
     await exportReview.setViewportSize({width:1280,height:1000});
