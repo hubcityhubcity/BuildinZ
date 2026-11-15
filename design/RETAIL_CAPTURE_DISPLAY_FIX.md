@@ -1,0 +1,3 @@
+# Retail capture display correction
+
+November14,2026. Downloaded actual browser artifact14137225173 from successful run43652851597 and inspected retail-export-aligned-desktop.png. Discovered image CSS width100% retained explicit height1536, stretching images at fit width and clipping foundations inside aspect-ratio frame. Thus prior passing controls/overflow tests did not establish visual correctness. Added height:auto to image CSS; source artwork unchanged. Prior aligned screenshot invalid for foundation acceptance. New browser capture must be inspected before export decision. Next add actual rendered2:3 ratio regression to prevent recurrence, inspect corrected aligned screenshot, then advance artwork export. Inventory200,selected150,final0.
