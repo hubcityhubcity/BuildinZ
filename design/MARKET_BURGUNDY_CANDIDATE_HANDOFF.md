@@ -1,0 +1,3 @@
+# Commons Market Burgundy candidate
+
+November15,2026. Viewed actual selectedMarketv3 then material-onlyCC-F02 edit. Actual output inspected:deeper satin burgundy fascia/roof surfaces,bone columns,warm windows,exact COMMONS MARKET,two occupied retail levels and shops,corrected framing retained visually. Fine generative details need paired QA. Saved assets/editions/crimson-commons-commons-market-stage-1-cc-f02-v1.png;original exec-c5788605-0be3-4a26-afb7-7797eaa7a354.png retained. Next checksum/manifest/source comparison, then RubyGalleriaCC-F02 from selectedv2. Inventory203until ingestion;8actualfinish candidates,final0. No URI/token/rarity changes. Candidate only.
