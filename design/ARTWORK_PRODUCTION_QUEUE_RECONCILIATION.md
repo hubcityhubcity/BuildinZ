@@ -1,0 +1,5 @@
+# Artwork production queue reconciliation
+
+November14,2026. Re-read actual Crimson finish spec and edition plan. Their November9 statements that all renders are unproduced and six Residential/Retail originals missing are historical: originals were restored and four finish candidates already exist (Redline CC-F01 and TechnologyCC-F02 three stages). They remain candidates, not final-certified completed editions. Preserve historical files; this checkpoint supersedes stale next-action text.
+
+Next unproduced bounded batch: Crimson Residential CC-F02 Burgundy Panel, beginning Ember Residences from selectedv2 signage source, then ScarletHabitatv2/CrimsonArcologyv3 after first visual acceptance. Read exact finish_specifications.CC-F02 from plan before generation, retain geometry/camera/signs and apply material-only variation. Inspect output, hash/inventory/store in same batch. Do not regenerate TechnologyCC-F02 or RedlineCC-F01. Retail exact translation failed and remains open but does not prevent material finish production on other lineages. No token/image URI changes or new final completion claimed.200assets,150selected,final0.
