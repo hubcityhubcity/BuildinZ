@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 202,
+    "asset_files": 203,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -3927,6 +3927,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual generated output inspected;deep burgundy satin,bone trim,exact name,twin towers/bridge lounge/roof pool retained visually. Candidate;paired/mobile final QA pending."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crimson-arcology-stage-3-cc-f02-v1.png",
+      "bytes": 2955594,
+      "sha256": "35c4def3791f2984daf07872cdac36dbbaa4f8e5bf7123b1a9cc1e3f4575cae9",
+      "git_blob_sha": "e354aa1cb6d3619f4cb9f43703259ce2e133ba37",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual generated output inspected; burgundy satin, exact name, crown/bridges/elevated pools retained visually. Candidate;paired lineage/final QA pending."
     }
   ]
 }
