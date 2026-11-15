@@ -1,0 +1,3 @@
+# Crimson Coliseum Burgundy candidate
+
+November15,2026. Viewed actual selectedColiseumv2 and produced material-onlyCC-F02. Actual output inspected:burgundy satin panels,bone trim,warm windows,exact CRIMSON COLISEUM,multiple concert stages/audiences/stacked balconies/central stair atrium/tiered roof/supports/framing retained visually. Candidate;pairedQA pending. Saved assets/editions/crimson-commons-crimson-coliseum-stage-3-cc-f02-v1.png;original exec-dfb85e99-ef1c-4f1c-9959-8479b2f2c266.png retained. Next checksum/manifest/fullsourceCI and jointEntertainment review. Manifest208until ingestion;13actualfinish candidates,final0. No token/URI changes.
