@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 209,
+    "asset_files": 210,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4074,6 +4074,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected;burgundy satin,exact sign,multiple stages/audiences/balconies/stair atrium/tiered roof retained visually. Candidate;paired lineage QA pending."
+    },
+    {
+      "path": "assets/editions/crimson-commons-bloodmoon-beacon-stage-1-cc-f02-v1.png",
+      "bytes": 2187119,
+      "sha256": "93db201ee0275b5d97bfc65243c789fcb6ce63187d0d74b32870c5cad0e24a95",
+      "git_blob_sha": "7c1490505a5d37c4307ce9221178132365595a54",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Bloodmoon Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected;burgundy satin,exact name,tapered tower/ribs/observation ring/lantern crown/spire retained visually. Candidate;paired lineage QA pending."
     }
   ]
 }

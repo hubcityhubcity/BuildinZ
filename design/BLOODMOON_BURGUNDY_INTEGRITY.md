@@ -1,0 +1,3 @@
+# Bloodmoon Burgundy integrity
+
+November15,2026. Pillow verify passed2187119byte1024×1536PNG,SHA25693db201ee0275b5d97bfc65243c789fcb6ce63187d0d74b32870c5cad0e24a95. Computed Git blob7c1490505a5d37c4307ce9221178132365595a54 matches remote tree. Added unselected candidate;inventory210,selected150,final0. Next CardinalApexCC-F02fromselectedv1 thenCrownOfFlameCC-F02andjointLandmark review. SourceCI pending;no duplicateBeacon generation/token/URI changes.
