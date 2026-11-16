@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 213,
+    "asset_files": 214,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4158,6 +4158,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: matte red brick facade with fine mortar, exact EMBER RESIDENCES, balconies and single rooftop pool retained. Amber sunset illumination remains; fine geometry/final gates open. Agent delegated decision."
+    },
+    {
+      "path": "assets/editions/crimson-commons-scarlet-habitat-stage-2-cc-f01-v1.png",
+      "bytes": 3040640,
+      "sha256": "1032cf4cff256918c5cd4632ea11abbcebcae6778be530a7c78c22ed3358dbb5",
+      "git_blob_sha": "76cd277ddb8e54a5fcf75f8de037a3627ab4592a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual generated output inspected: red brick and fine mortar on towers/bridge fascia; exact name, twin towers, private glazed sky lounge, elevated pool and dry entrance retained visually. Fine geometry and final certification open. Agent delegated decision."
     }
   ]
 }
