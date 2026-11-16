@@ -3663,8 +3663,8 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "edition-render-candidate",
-      "neighborhood": "crimson-commons",
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
       "identity_name": "Redline Labs",
       "stage": 1,
       "building_type": "Technology",
@@ -3672,7 +3672,8 @@
       "selected_for_prototype": false,
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
-      "evidence": "Actual local PNG verified with Pillow; SHA256 and Git blob hash computed and matched repository tree. Visual candidate review in CRIMSON_FIRST_EDITION_RENDER_QA.md; not owner-approved or final certified."
+      "evidence": "Actual local PNG verified with Pillow; SHA256 and Git blob hash computed and matched repository tree. Visual candidate review in CRIMSON_FIRST_EDITION_RENDER_QA.md; not owner-approved or final certified.",
+      "finish_name": "Ember Brick"
     },
     {
       "path": "assets/editions/crimson-commons-redline-labs-stage-1-cc-f02-v1.png",
@@ -3683,8 +3684,8 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "edition-render-candidate",
-      "neighborhood": "crimson-commons",
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
       "identity_name": "Redline Labs",
       "stage": 1,
       "building_type": "Technology",
@@ -3692,7 +3693,8 @@
       "selected_for_prototype": false,
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
-      "evidence": "Pillow PNG verification; computed SHA256/Git blob and length matched repository. Candidate visual review in CRIMSON_SECOND_EDITION_RENDER_QA.md."
+      "evidence": "Pillow PNG verification; computed SHA256/Git blob and length matched repository. Candidate visual review in CRIMSON_SECOND_EDITION_RENDER_QA.md.",
+      "finish_name": "Burgundy Panel"
     },
     {
       "path": "assets/editions/crimson-commons-vermilion-spire-stage-2-cc-f02-v1.png",
@@ -3703,8 +3705,8 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "edition-render-candidate",
-      "neighborhood": "crimson-commons",
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
       "identity_name": "Vermilion Spire",
       "stage": 2,
       "building_type": "Technology",
@@ -3712,7 +3714,8 @@
       "selected_for_prototype": false,
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
-      "evidence": "Actual PNG decoded with Pillow; SHA256 and Git blob calculated; blob/length matched repository tree. Candidate only."
+      "evidence": "Actual PNG decoded with Pillow; SHA256 and Git blob calculated; blob/length matched repository tree. Candidate only.",
+      "finish_name": "Burgundy Panel"
     },
     {
       "path": "assets/editions/crimson-commons-phoenix-nexus-stage-3-cc-f02-v1.png",
@@ -3723,8 +3726,8 @@
         "height": 1536
       },
       "git_blob_sha": "d23faa395267a693392b66b0f04fdfc7b5c491d4",
-      "classification": "edition-render-candidate",
-      "neighborhood": "crimson-commons",
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
       "identity_name": "Phoenix Nexus",
       "stage": 3,
       "building_type": "Technology",
@@ -3732,7 +3735,8 @@
       "selected_for_prototype": false,
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
-      "evidence": "Actual PNG verified; built-in image edit from selected original; candidate visual inspection only."
+      "evidence": "Actual PNG verified; built-in image edit from selected original; candidate visual inspection only.",
+      "finish_name": "Burgundy Panel"
     },
     {
       "path": "assets/candidates/crimson-commons-ember-residences-stage-1-v2.png",
