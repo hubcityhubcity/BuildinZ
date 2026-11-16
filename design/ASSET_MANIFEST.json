@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 218,
+    "asset_files": 219,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4263,6 +4263,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: brick fascia/parapets; exact CARDINAL EXCHANGE; five retail floors, atrium/escalators/exterior bracing and dry steps retained. Brick also appeared behind lettering; sign-background material invariance needs correction/review. Candidate only."
+    },
+    {
+      "path": "assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f01-v2.png",
+      "bytes": 2324280,
+      "sha256": "4d132b2add45eebdd358fcc5b17fa609dc6d86600051ab4834f9efdd999d14df",
+      "git_blob_sha": "f0713c6368c8ba8db8ea726bd482703ac9acc188",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual v2 inspected: smooth burgundy enamel behind exact CARDINAL EXCHANGE; surrounding brick retained; major floors/atrium/escalators/bracing intact visually. v1 preserved. Fine geometry/export/final gates open."
     }
   ]
 }
