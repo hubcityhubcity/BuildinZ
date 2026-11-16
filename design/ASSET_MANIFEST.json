@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 211,
+    "asset_files": 212,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4116,6 +4116,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected;burgundy satin,exact name,tapered tower/ribs/two observation pods/crown/spire retained visually. Candidate;paired lineage QA pending."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crown-of-flame-stage-3-cc-f02-v1.png",
+      "bytes": 2345227,
+      "sha256": "98aa7768a9f84f63678ebbc2c5cc5db410eda39781275e8e6c8b380aa509d3aa",
+      "git_blob_sha": "47c775245e616ff2718396ff4e92e4c3f872684b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crown of Flame",
+      "stage": 3,
+      "building_type": "Landmark",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual generated output visually inspected: burgundy opaque panels, bone ribs, exact CROWN OF FLAME sign, three glazed observation decks, lantern crown, spire and full foundation retained. Fine geometry equivalence and joint lineage QA pending. Agent delegated finish decision; not prior owner approval."
     }
   ]
 }
