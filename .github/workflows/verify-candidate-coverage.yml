@@ -1,0 +1,19 @@
+name: Verify Crimson candidate coverage snapshot
+on:
+  push:
+    branches: [main]
+    paths:
+      - "design/CRIMSON_CANDIDATE_COVERAGE.json"
+      - "scripts/verify_candidate_coverage.py"
+      - ".github/workflows/verify-candidate-coverage.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: python3 scripts/verify_candidate_coverage.py
