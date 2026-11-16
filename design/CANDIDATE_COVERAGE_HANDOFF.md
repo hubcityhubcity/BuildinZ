@@ -1,0 +1,7 @@
+# Candidate coverage reconciliation and handoff
+
+2026-11-16. Checked actual main 460f46736240d8e544fefdd9a4520bce774f3a4e recursive Git tree against all220 manifest entries: zero missing paths, zero Git blob SHA mismatches, zero byte-size mismatches. This verifies repository objects, not fresh PNG decoding or visual certification. No executor available; no local tools/tests/image editing claimed.
+
+Generated CRIMSON_CANDIDATE_COVERAGE.json from all100 edition-plan records ×3 stages using exact stage-specific names and finish IDs. 23 of300 slots have repository candidates; 277 have no candidate. Multiple revisions count once per slot. Every slot remains final_certified=false. Plan render_status=not_produced remains appropriate for final renders, but must not trigger duplicate candidate generation; consult this coverage file and fresh manifest first.
+
+Next artwork: Scarlet Palace StageII CC-F01 from selectedv2, then Crimson Coliseum StageIII CC-F01 from selectedv2. Existing Ember Hall F01v1 preserved. Restore reference-image access and visual inspection before generating; do not generate from text alone or claim a PNG audit. If executor remains unavailable, use connectors for source/manifest consistency fixes and CI evidence. All final artwork/export/geometry/illumination, metadata/URI and launch gates remain open. No approvals, selections, wallet actions or public messages occurred.

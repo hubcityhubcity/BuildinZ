@@ -1,0 +1,3058 @@
+{
+  "schema_version": "1.0.0",
+  "evidence_commit": "460f46736240d8e544fefdd9a4520bce774f3a4e",
+  "checked_date": "2026-11-16",
+  "scope": "Repository candidate coverage only; not completed art or release metadata",
+  "required_slots": 300,
+  "candidate_covered_slots": 23,
+  "missing_slots": 277,
+  "rows": [
+    {
+      "token_id": 901,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F01",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-ember-residences-stage-1-cc-f01-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 901,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F01",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-scarlet-habitat-stage-2-cc-f01-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 901,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F01",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-crimson-arcology-stage-3-cc-f01-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 902,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-ember-residences-stage-1-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 902,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-scarlet-habitat-stage-2-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 902,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-crimson-arcology-stage-3-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 903,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 903,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 903,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 904,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 904,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 904,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 905,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 905,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 905,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 906,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 906,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 906,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 907,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 907,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 907,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 908,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 908,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 908,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 909,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 909,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 909,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 910,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 910,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 910,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 911,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 911,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 911,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 912,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 912,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 912,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 913,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 913,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 913,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 914,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 914,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 914,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 915,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 915,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 915,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 916,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 916,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 916,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 917,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 917,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 917,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 918,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 918,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 918,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 919,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 919,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 919,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 920,
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 920,
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 920,
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 921,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F01",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-commons-market-stage-1-cc-f01-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 921,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F01",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-ruby-galleria-stage-2-cc-f01-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 921,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F01",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f01-v1.png",
+        "assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f01-v2.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 922,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-commons-market-stage-1-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 922,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-ruby-galleria-stage-2-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 922,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 923,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 923,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 923,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 924,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 924,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 924,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 925,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 925,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 925,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 926,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 926,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 926,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 927,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 927,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 927,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 928,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 928,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 928,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 929,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 929,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 929,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 930,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 930,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 930,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 931,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 931,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 931,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 932,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 932,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 932,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 933,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 933,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 933,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 934,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 934,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 934,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 935,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 935,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 935,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 936,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 936,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 936,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 937,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 937,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 937,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 938,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 938,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 938,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 939,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 939,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 939,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 940,
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 940,
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 940,
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 941,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F01",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-redline-labs-stage-1-cc-f01-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 941,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F01",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 941,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F01",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 942,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-redline-labs-stage-1-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 942,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-vermilion-spire-stage-2-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 942,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-phoenix-nexus-stage-3-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 943,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 943,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 943,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 944,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 944,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 944,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 945,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 945,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 945,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 946,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 946,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 946,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 947,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 947,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 947,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 948,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 948,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 948,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 949,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 949,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 949,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 950,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 950,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 950,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 951,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 951,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 951,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 952,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 952,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 952,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 953,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 953,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 953,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 954,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 954,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 954,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 955,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 955,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 955,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 956,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 956,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 956,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 957,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 957,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 957,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 958,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 958,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 958,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 959,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 959,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 959,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 960,
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 960,
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 960,
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 961,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F01",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-ember-hall-stage-1-cc-f01-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 961,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F01",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 961,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F01",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 962,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-ember-hall-stage-1-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 962,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-scarlet-palace-stage-2-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 962,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-crimson-coliseum-stage-3-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 963,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 963,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 963,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 964,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 964,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 964,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 965,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 965,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 965,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 966,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 966,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 966,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 967,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 967,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 967,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 968,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 968,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 968,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 969,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 969,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 969,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 970,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 970,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 970,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 971,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 971,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 971,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 972,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 972,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 972,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 973,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 973,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 973,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 974,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 974,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 974,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 975,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 975,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 975,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 976,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 976,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 976,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 977,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 977,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 977,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 978,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 978,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 978,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 979,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 979,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 979,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 980,
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 980,
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 980,
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 981,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F01",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 981,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F01",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 981,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F01",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 982,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-bloodmoon-beacon-stage-1-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 982,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-cardinal-apex-stage-2-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 982,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F02",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-crown-of-flame-stage-3-cc-f02-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
+      "final_certified": false
+    },
+    {
+      "token_id": 983,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 983,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 983,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F03",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 984,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 984,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 984,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F04",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 985,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 985,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 985,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F05",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 986,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 986,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 986,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F06",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 987,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 987,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 987,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F07",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 988,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 988,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 988,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F08",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 989,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 989,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 989,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F09",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 990,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 990,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 990,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F10",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 991,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 991,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 991,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F11",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 992,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 992,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 992,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F12",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 993,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 993,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 993,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F13",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 994,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 994,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 994,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F14",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 995,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 995,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 995,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F15",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 996,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 996,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 996,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F16",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 997,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 997,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 997,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F17",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 998,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 998,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 998,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F18",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 999,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 999,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 999,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F19",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 1000,
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 1000,
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    },
+    {
+      "token_id": 1000,
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "finish_id": "CC-F20",
+      "candidate_paths": [],
+      "status": "missing",
+      "final_certified": false
+    }
+  ]
+}
