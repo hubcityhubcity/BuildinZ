@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 210,
+    "asset_files": 211,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4095,6 +4095,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected;burgundy satin,exact name,tapered tower/ribs/observation ring/lantern crown/spire retained visually. Candidate;paired lineage QA pending."
+    },
+    {
+      "path": "assets/editions/crimson-commons-cardinal-apex-stage-2-cc-f02-v1.png",
+      "bytes": 2310858,
+      "sha256": "9252f4dc94b2d7afc93f2c8888e7634eae3e3ade71bb952a524523309fbff399",
+      "git_blob_sha": "f4e6c8c84e7216d385613707d27367fef0479948",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Apex",
+      "stage": 2,
+      "building_type": "Landmark",
+      "finish_id": "CC-F02",
+      "finish_name": "Burgundy Panel",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected;burgundy satin,exact name,tapered tower/ribs/two observation pods/crown/spire retained visually. Candidate;paired lineage QA pending."
     }
   ]
 }
