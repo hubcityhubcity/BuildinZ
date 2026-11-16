@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 215,
+    "asset_files": 216,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4200,6 +4200,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: ember-red brick facade, exact name, three towers/crown/top arms, two resort tiers and four elevated pools retained visually. Fine geometry and final gates open. Agent delegated finish decision."
+    },
+    {
+      "path": "assets/editions/crimson-commons-commons-market-stage-1-cc-f01-v1.png",
+      "bytes": 2226463,
+      "sha256": "7a0d380a3091cb847c7ad3470eb0ca9a63669f1caf7a5e4d3771503efb32b68e",
+      "git_blob_sha": "6cbbcdf8aa9935bf353285ee4e840cf5b3b07245",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Commons Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: brick vertical facade/fascia, red metal roof/fabric banners, exact COMMONS MARKET, two shop floors, shoppers, open entrance and dry steps retained visually. Fine geometry/export/final gates open. Agent delegated decision."
     }
   ]
 }
