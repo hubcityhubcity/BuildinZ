@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 216,
+    "asset_files": 217,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4221,6 +4221,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: brick vertical facade/fascia, red metal roof/fabric banners, exact COMMONS MARKET, two shop floors, shoppers, open entrance and dry steps retained visually. Fine geometry/export/final gates open. Agent delegated decision."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ruby-galleria-stage-2-cc-f01-v1.png",
+      "bytes": 2334821,
+      "sha256": "23be40449fc8a2edf56a033cca1912b3e2801f55f8cb7e27d250a4553600546d",
+      "git_blob_sha": "7b2ca739c521ed424e89ebdfece4435e0354e099",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ruby Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: brick fascia/parapets, exact RUBY GALLERIA, three retail floors/open atrium/two escalator flights and dry entrance retained. Roof stays red metal; fine geometry/export/final gates open. Agent decision."
     }
   ]
 }
