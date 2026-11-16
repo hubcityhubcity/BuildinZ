@@ -1,0 +1,3 @@
+# Bloodmoon Burgundy candidate
+
+November15,2026. Viewed actual selectedBeaconv2;produced material-onlyCC-F02. Actual output inspected:deep burgundy satin panels,bone trim,warm illumination,exact BLOODMOON BEACON,tapered silhouette/diagonal ribs/observation ring/lantern crown/spire/framing retained visually. Candidate;pairedQA pending. Saved assets/editions/crimson-commons-bloodmoon-beacon-stage-1-cc-f02-v1.png;original exec-403ab115-25b0-4126-a823-cad77305130f.png retained. Next checksum/manifest then CardinalApexCC-F02fromselectedv1. Manifest209until ingestion;14actualfinish candidates,final0. No token/URI changes.
