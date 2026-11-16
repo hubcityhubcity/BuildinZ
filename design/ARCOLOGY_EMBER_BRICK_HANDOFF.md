@@ -1,0 +1,7 @@
+# Crimson Arcology Ember Brick handoff
+
+2026-11-16. Current manifest and Scarlet handoff read. Produced missing CC-F01 Stage III from selected v3 with built-in image editing; source preserved. Actual output inspected: brick surfaces distinct from smooth panels, exact CRIMSON ARCOLOGY name, three towers, crown and upper arms, two resort levels, four elevated pools, braces, balconies and dry stepped entrance retained visually. Amber sunset lighting remains; fine geometry equivalence is not certified. Agent decision, not previous owner approval.
+
+Saved assets/editions/crimson-commons-crimson-arcology-stage-3-cc-f01-v1.png; original exec-f30c786c-b85c-4b6a-99a1-f6bbb86d1d19.png retained. Pillow PNG verification passed:1024x1536. Integrity {"bytes":3021165,"sha256":"670badada91ffca1763a46bf7fef07880d76f5e8b716c5f19a9ee4811662588b","git_blob_sha":"c2308b982b5849b4f900a34c9b8e4373a2c124c3"}. Uploaded Git blob matches independent local hash. Manifest215 files; zero final-certified assets. Residential Ember Brick three-stage candidates now populated; no website/token/URI selection changed.
+
+Next: compare the three Residential Ember Brick candidates jointly against selected masters, including native signage/pool/brick crops and 360px card views; retain open framing, illumination and fine geometry gates. Then produce next missing finish path from the plan, avoiding duplicate F01/F02 candidates. All final release gates remain open.

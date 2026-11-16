@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 214,
+    "asset_files": 215,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4179,6 +4179,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual generated output inspected: red brick and fine mortar on towers/bridge fascia; exact name, twin towers, private glazed sky lounge, elevated pool and dry entrance retained visually. Fine geometry and final certification open. Agent delegated decision."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crimson-arcology-stage-3-cc-f01-v1.png",
+      "bytes": 3021165,
+      "sha256": "670badada91ffca1763a46bf7fef07880d76f5e8b716c5f19a9ee4811662588b",
+      "git_blob_sha": "c2308b982b5849b4f900a34c9b8e4373a2c124c3",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: ember-red brick facade, exact name, three towers/crown/top arms, two resort tiers and four elevated pools retained visually. Fine geometry and final gates open. Agent delegated finish decision."
     }
   ]
 }
