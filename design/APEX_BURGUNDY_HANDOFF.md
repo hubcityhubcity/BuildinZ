@@ -1,0 +1,3 @@
+# Cardinal Apex Burgundy candidate
+
+November15,2026. Viewed actualselectedApexv1;produced material-onlyCC-F02. Actual output inspected:deep burgundy satin,bone trim,warm illumination,exact CARDINAL APEX,tapered tower/diagonal ribs/two observation pods/lantern crown/spire/framing retained visually. Candidate;pairedQA pending. Saved assets/editions/crimson-commons-cardinal-apex-stage-2-cc-f02-v1.png;original exec-93b2e8f9-5701-453c-a296-371b1645c648.png retained. Next checksum/manifest thenCrownOfFlameCC-F02fromselectedv2. Manifest210until ingestion;15actualfinish candidates,final0. No token/URI changes.
