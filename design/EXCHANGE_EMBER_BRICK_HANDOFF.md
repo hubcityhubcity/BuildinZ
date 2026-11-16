@@ -1,0 +1,7 @@
+# Cardinal Exchange Ember Brick handoff
+
+2026-11-16. Fresh manifest/Ruby handoff read. Generated missing CC-F01 from selected Cardinal Exchange v2 using built-in editor. Actual output inspected: five retail floors, escalators/open atrium, diagonal bracing, shoppers/displays, dry steps, exact CARDINAL EXCHANGE retained visually. Brick facade and parapet faces distinct, roof planes remain metal. Defect: brick texture also appears behind mounted lettering despite request to preserve smooth sign background; retain as candidate pending targeted correction or consistent documented sign-material decision. Do not certify final.
+
+Saved assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f01-v1.png; original exec-a2fdfc27-d1b1-4403-bdfb-18c2b5263fd6.png retained. Pillow verify passed1024x1536. Integrity {"bytes":2481370,"sha256":"6cbbf7f7e43bd92241fddaada5800f4ed172aa36c7e8fe730dfbcdbc81806991","git_blob_sha":"7a63003847942bc48f22ae08b171a24f15fb5492"}. Uploaded blob equals independently calculated local hash. Manifest218 files, final0. No source, token/URI or website selections changed. Agent decision, not previous owner approval.
+
+Next: compare Retail Ember Brick three-stage candidates against selected masters at card/native signage scale. Resolve Exchange sign background inconsistency with targeted material-only edit if confirmed; preserve originals and avoid positional regeneration. Final framing/geometry/illumination gates remain open.
