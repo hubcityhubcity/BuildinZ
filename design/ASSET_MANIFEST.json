@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 222,
+    "asset_files": 223,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4351,6 +4351,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: brick opaque walls, exact CRIMSON COLISEUM, roof crown/braces/glazed circulation, concert stages/audiences/galleries and dry entrance retained visually. Fine geometry/final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-bloodmoon-beacon-stage-1-cc-f01-v1.png",
+      "bytes": 2289653,
+      "sha256": "4609a082d2f0fe408a6455b77c9d746293702612c21bf1fee3d03c6223d38e34",
+      "git_blob_sha": "1e801636727eabcb4a0bff1ebcedb64c50371c93",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Bloodmoon Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: brick tower/foundation panels, exact BLOODMOON BEACON on smooth sign; ribs/observation deck/lantern/spire/fabric banners retained visually. Fine lattice geometry and final gates open."
     }
   ]
 }
