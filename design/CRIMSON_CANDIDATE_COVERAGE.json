@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "evidence_commit": "dd742e90b8e73c96ed145a974e6eaae8954b308f",
+  "evidence_commit": "fec1b1606e2074b99216609da5e47c5fd96e97b4",
   "checked_date": "2026-11-17",
   "scope": "Repository candidate coverage only; not completed art or release metadata",
   "required_slots": 300,
-  "candidate_covered_slots": 36,
-  "missing_slots": 264,
+  "candidate_covered_slots": 39,
+  "missing_slots": 261,
   "rows": [
     {
       "token_id": 901,
@@ -1934,8 +1934,10 @@
       "stage": 1,
       "stage_name": "Ember Hall",
       "finish_id": "CC-F03",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-ember-hall-stage-1-cc-f03-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -1944,8 +1946,10 @@
       "stage": 2,
       "stage_name": "Scarlet Palace",
       "finish_id": "CC-F03",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-scarlet-palace-stage-2-cc-f03-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -1954,8 +1958,10 @@
       "stage": 3,
       "stage_name": "Crimson Coliseum",
       "finish_id": "CC-F03",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-crimson-coliseum-stage-3-cc-f03-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
