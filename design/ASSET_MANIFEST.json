@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 225,
+    "asset_files": 226,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4414,6 +4414,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: brick tower/foundation panels, smooth exact CROWN OF FLAME sign; all three glazed decks/ribs/lantern/spire retained visually. Fine gold lattice geometry and final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-vermilion-spire-stage-2-cc-f01-v1.png",
+      "bytes": 2576122,
+      "sha256": "443dcf1045880acd0f3456d2952b8d55a1963f7182d8d593a7fd388514694b26",
+      "git_blob_sha": "8b940aa0fc3385f30bb1cec31208fba8d3205c37",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Vermilion Spire",
+      "stage": 2,
+      "building_type": "Technology",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: brick opaque tower/wing facades, exact VERMILION SPIRE smooth sign, glazed labs/robot arms/scientists/antenna/braces/fenced dry campus retained visually. Fine equipment geometry/final gates open."
     }
   ]
 }
