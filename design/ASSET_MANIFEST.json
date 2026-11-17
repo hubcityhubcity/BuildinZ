@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 227,
+    "asset_files": 228,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4456,6 +4456,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: brick opaque tower/wing facades, exact PHOENIX NEXUS smooth sign, two glazed bridges/labs/robot arms/blue display/antenna campus retained visually. Fine equipment geometry/final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-residences-stage-1-cc-f03-v1.png",
+      "bytes": 2678302,
+      "sha256": "0940510a53fd0e494ef049ee58a6e272d50f9e333180119f07c77fbef7e71b6e",
+      "git_blob_sha": "90701e8af1c484ef92e0a760c81f9172cb085645",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal frame/piers, crimson insets/amber accents, exact EMBER RESIDENCES, domestic balconies/private roof pool/lounge/dry steps retained visually. Fine geometry/final gates open."
     }
   ]
 }
