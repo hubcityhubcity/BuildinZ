@@ -1,0 +1,7 @@
+# Residential Charcoal Frame lineage review
+
+2026-11-17. Fresh Arcology handoff read. Six actual repository PNGs decoded and compared as paired360x540 cards: selected Emberv2/Habitatv2/Arcologyv3 and CC-F03v1 finishes. Consistent dark charcoal piers/frames and crimson insets; source bone piers visibly replaced without obvious major silhouette change. Exact three stage names remain readable. Domestic balconies, StageI private roof pool, StageII glazed sky lounge/pool bridge, StageIII two resort tiers/four pools/crown preserved visually. No ground public pool or clipped crown observed. Fine interior/rail geometry, native typography and common export alignment remain open. Amber/gold accents remain visually strong; strict low-light recipe fidelity needs final lighting review. Agent review, not owner approval/final certification.
+
+Coverage refreshed at bd7ece2300ee69e3652387bebc7a4cade0461f73:33/300 candidate slots,267 missing; all finalfalse. Manifest230; certified0. No source/site/token/URI selections changed.
+
+Next: Retail CC-F03 Commons Market selectedv3, Ruby Galleria selectedv2, Cardinal Exchange selectedv2. Apply charcoal anodized existing frame/piers, crimson insets, restrained amber frame accents; preserve metal roof/fabric banners/smooth exact signs, retail floors/escalators and dry entrance. Check inventory before each edit; compare complete trio and refresh coverage. Validate coverage CI. Final release gates remain open.
