@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 232,
+    "asset_files": 233,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4561,6 +4561,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal piers/frame, crimson insets/amber accents, exact RUBY GALLERIA, three retail floors/atrium/two escalator flights/displays/dry steps retained visually. Fine geometry/final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f03-v1.png",
+      "bytes": 2390552,
+      "sha256": "1f7146a1aa38b4edf552d53c80370e88080d1dd082cf8b89fba911304e6ece98",
+      "git_blob_sha": "71dbd6697f19a8a6c6d7a9a7ca1acc55c273557c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal piers/frame/exterior braces, crimson insets/amber accents, exact CARDINAL EXCHANGE, five retail floors/atrium/escalators/displays/dry steps retained visually. Fine geometry/final gates open."
     }
   ]
 }
