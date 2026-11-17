@@ -1,0 +1,7 @@
+# Phoenix Nexus Ember Brick handoff
+
+2026-11-17. Fresh manifest/Spire handoff read. Missing StageIII CC-F01 produced from selected Nexusv1 using built-in image editor. Actual output inspected: brick tower and laboratory wing facades, bone braces, charcoal frames/roofs/plant, gold trim, fabric banners, exact PHOENIX NEXUS smooth sign, two glazed bridges, labs/scientists/robot arms, blue data display, antenna/dishes/radome and fenced dry campus retained visually. Fine equipment/geometry equivalence and final framing/illumination gates open. Agent decision, not owner approval.
+
+Saved assets/editions/crimson-commons-phoenix-nexus-stage-3-cc-f01-v1.png; original exec-cd9de743-6d83-4bdb-8ac1-fc9f2bf964ce.png retained. Pillow verify passed1024x1536. Integrity {"bytes":2755632,"sha256":"ad2a54938b6655cc9eab681ec2147980cd30e31c9193c7c9841c8648ec7cd54b","git_blob_sha":"d372dbc5afe7014242481612d31075d2163f38ec"}. Uploaded blob matches local hash. Manifest227; final0; current candidate slots30. Historical coverage28 until refresh. No source/website/token/URI selections changed.
+
+Next: compare Technology Ember Brick trio including existing Redline LabsF01, SpireF01 and NexusF01; refresh300-row coverage. All five Crimson identities now have F01/F02 candidate paths, not final artwork. Continue next missing recipe after comparison, avoiding duplicate F01/F02 generation. Final release gates remain open.

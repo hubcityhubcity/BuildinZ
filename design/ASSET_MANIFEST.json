@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 226,
+    "asset_files": 227,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4435,6 +4435,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: brick opaque tower/wing facades, exact VERMILION SPIRE smooth sign, glazed labs/robot arms/scientists/antenna/braces/fenced dry campus retained visually. Fine equipment geometry/final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-phoenix-nexus-stage-3-cc-f01-v1.png",
+      "bytes": 2755632,
+      "sha256": "ad2a54938b6655cc9eab681ec2147980cd30e31c9193c7c9841c8648ec7cd54b",
+      "git_blob_sha": "d372dbc5afe7014242481612d31075d2163f38ec",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Phoenix Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: brick opaque tower/wing facades, exact PHOENIX NEXUS smooth sign, two glazed bridges/labs/robot arms/blue display/antenna campus retained visually. Fine equipment geometry/final gates open."
     }
   ]
 }
