@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 236,
+    "asset_files": 237,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4645,6 +4645,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal piers/braces, crimson insets, exact CRIMSON COLISEUM, concert venues, glazed crown and central escalator atrium retained visually. Fine geometry/export/illumination gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-bloodmoon-beacon-stage-1-cc-f03-v1.png",
+      "bytes": 2152240,
+      "sha256": "2308c063f7dc4ea0af693e685d19d4a60000cd74917ecc29272211f4416bba9a",
+      "git_blob_sha": "8205b836438e0ccca446a346300b1950f06404a0",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Bloodmoon Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal tower piers/braces and entrance frame, crimson insets, exact BLOODMOON BEACON, observation deck/telescopes and lantern crown retained visually. Fine geometry/export/illumination gates open."
     }
   ]
 }
