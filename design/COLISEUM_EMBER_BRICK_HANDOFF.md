@@ -1,0 +1,7 @@
+# Crimson Coliseum Ember Brick handoff
+
+2026-11-16. Fresh manifest and Palace handoff read. Produced missing StageIII CC-F01 from selected Coliseumv2 using built-in image edit. Actual output inspected: brick on opaque walls, charcoal roof/canopy, bone structural braces, fabric banners/curtains, exact CRIMSON COLISEUM, multiple concert stages/audiences/galleries and glazed circulation retained visually. Dry entrance and crown intact. Fine geometry/pixel equivalence, illumination/export and final certification remain open. Agent decision, not previous owner approval.
+
+Saved assets/editions/crimson-commons-crimson-coliseum-stage-3-cc-f01-v1.png; original exec-7ec31222-27f0-46b0-886f-0b48c849c3d5.png preserved. Pillow verify passed1024x1536. Integrity {"bytes":2800164,"sha256":"d15d84358a2f656867f4552714cc7266ec0bcf8f87061a530f88dcde5b136a7d","git_blob_sha":"0853d884603bee8ce370cbab765805bd49d39763"}. Uploaded blob equals independent local hash. Manifest222; certified0. No source/website/token/URI selections changed. Entertainment Ember Brick candidate path populated. Historical coverage23 is now stale relative to current25 candidate slots.
+
+Next: joint Entertainment Ember Brick comparison using Hallv1/Palacev1/Coliseumv1 against selected Hallv1/Palacev2/Coliseumv2; refresh300-row candidate coverage using new evidence commit after ingestion. Then next missing finish path, avoiding duplicates. Final release gates remain open.

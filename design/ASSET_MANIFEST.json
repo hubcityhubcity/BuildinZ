@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 221,
+    "asset_files": 222,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4330,6 +4330,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: brick opaque exterior walls, exact SCARLET PALACE on charcoal canopy, both performance stages/audiences, galleries, central glazed circulation and dry steps retained visually. Fine geometry/final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crimson-coliseum-stage-3-cc-f01-v1.png",
+      "bytes": 2800164,
+      "sha256": "d15d84358a2f656867f4552714cc7266ec0bcf8f87061a530f88dcde5b136a7d",
+      "git_blob_sha": "0853d884603bee8ce370cbab765805bd49d39763",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Coliseum",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: brick opaque walls, exact CRIMSON COLISEUM, roof crown/braces/glazed circulation, concert stages/audiences/galleries and dry entrance retained visually. Fine geometry/final gates open."
     }
   ]
 }
