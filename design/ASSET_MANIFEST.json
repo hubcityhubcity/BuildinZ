@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 220,
+    "asset_files": 221,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4309,6 +4309,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: brick exterior opaque walls; exact EMBER HALL, bone braces, charcoal roof/canopy, fabric banners/curtains, concert stage/audience and dry steps retained visually. Fine geometry/final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-scarlet-palace-stage-2-cc-f01-v1.png",
+      "bytes": 2712094,
+      "sha256": "9e0c59ca35293d571afe019222f572215d751590fbcb09e4b7772871d4154829",
+      "git_blob_sha": "b530e045421184d775ba5dde1d4c82b2713cf67b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: brick opaque exterior walls, exact SCARLET PALACE on charcoal canopy, both performance stages/audiences, galleries, central glazed circulation and dry steps retained visually. Fine geometry/final gates open."
     }
   ]
 }
