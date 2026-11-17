@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 224,
+    "asset_files": 225,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4393,6 +4393,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: brick tower/foundation panels, exact CARDINAL APEX smooth sign; two staggered observation decks/ribs/lantern/spire retained visually. Fine lattice/rail geometry and final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crown-of-flame-stage-3-cc-f01-v1.png",
+      "bytes": 2381296,
+      "sha256": "af6c769b402f209ca1f5106662464c7e503aa33c601c2e9eb374ff38dc140e29",
+      "git_blob_sha": "95810840127d5bfd6be643f2f5a4c0672db5c997",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crown of Flame",
+      "stage": 3,
+      "building_type": "Landmark",
+      "finish_id": "CC-F01",
+      "finish_name": "Ember Brick",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: brick tower/foundation panels, smooth exact CROWN OF FLAME sign; all three glazed decks/ribs/lantern/spire retained visually. Fine gold lattice geometry and final gates open."
     }
   ]
 }
