@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 235,
+    "asset_files": 236,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4624,6 +4624,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal piers/braces, crimson insets, exact SCARLET PALACE, twin concert venues and central escalator atrium retained visually. Fine geometry/export/illumination gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crimson-coliseum-stage-3-cc-f03-v1.png",
+      "bytes": 2707517,
+      "sha256": "67fb7fcebc7804b621a77112fcbc4f6ab95b24b4ef089fd55ca125cff5a3d69b",
+      "git_blob_sha": "7f1d0f17043d7cf0da9e4ff946d645000393126e",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Coliseum",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal piers/braces, crimson insets, exact CRIMSON COLISEUM, concert venues, glazed crown and central escalator atrium retained visually. Fine geometry/export/illumination gates open."
     }
   ]
 }
