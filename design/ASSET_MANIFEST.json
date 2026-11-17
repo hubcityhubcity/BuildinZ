@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 233,
+    "asset_files": 234,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4582,6 +4582,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal piers/frame/exterior braces, crimson insets/amber accents, exact CARDINAL EXCHANGE, five retail floors/atrium/escalators/displays/dry steps retained visually. Fine geometry/final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-hall-stage-1-cc-f03-v1.png",
+      "bytes": 2608220,
+      "sha256": "f042faf4fe9b0aca5c9434080c68fbdab20eed4f9e6b8056088c0f9874e791f5",
+      "git_blob_sha": "456f22c324e0533a52c5e8db5cd757fc8f162a27",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal piers/braces, crimson insets, exact EMBER HALL, concert auditorium and dry entrance retained visually. Fine geometry/export/illumination gates open."
     }
   ]
 }
