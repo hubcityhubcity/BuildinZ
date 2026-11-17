@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 231,
+    "asset_files": 232,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4540,6 +4540,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal piers/frame, crimson insets/amber accents, exact COMMONS MARKET, two retail floors/displays/shoppers/open entrance/dry steps retained visually. Fine geometry/final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ruby-galleria-stage-2-cc-f03-v1.png",
+      "bytes": 2245012,
+      "sha256": "cad0c7c8edfa32c28b51aac5a712461c01b70ec885886b67ac53c7c903cd1ce6",
+      "git_blob_sha": "807933bc91a9a360cad5ad127831e7c0514c3f1c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ruby Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal piers/frame, crimson insets/amber accents, exact RUBY GALLERIA, three retail floors/atrium/two escalator flights/displays/dry steps retained visually. Fine geometry/final gates open."
     }
   ]
 }
