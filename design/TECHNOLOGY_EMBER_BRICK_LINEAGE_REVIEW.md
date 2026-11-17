@@ -1,0 +1,7 @@
+# Technology Ember Brick lineage review
+
+2026-11-17. Read fresh Nexus handoff. Six actual repository PNGs decoded; paired360x540 card views inspected: selected Redlinev2/Spirev1/Nexusv1 and CC-F01v1 finishes. Coherent brick treatment; exact REDLINE LABS, VERMILION SPIRE, PHOENIX NEXUS visible. Growth from low labs to tall spire to twin towers/two glazed bridges retained, as are robotics/glazed laboratories, rooftop plant/antenna, fenced dry campus and Nexus blue display. No obvious major stage anchor loss found at card scale. Fine equipment/people/rail geometry and native lettering not certified; export alignment and amber illumination remain open. Agent review, not owner approval/final certification.
+
+Refreshed coverage against 858371ca4dac8403fdd239ca59342aa9eefd2b0c:30/300 unique Crimson candidate slots,270 missing. F01/F02 now cover all15 identity-stage combinations; none final-certified. Manifest227 files,certified0. No sources/site/token/URI selections changed.
+
+Next missing recipe CC-F03 Charcoal Frame: charcoal anodized frame, crimson inset facade panels, low amber frame lighting, no geometry changes. Start Residential Ember Residences selectedv2 then Scarlet Habitatv2 and Crimson Arcologyv3; preserve domestic balconies, elevated pools and exact stage names. Inspect actual selected source before each edit, check fresh inventory, compare trio. Validate refreshed coverage CI next run. Final artwork/export/geometry/metadata/launch gates remain open.

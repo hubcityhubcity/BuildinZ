@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "evidence_commit": "4fba6446bf1d1b9da3b26aa112d5c253a4e05b84",
+  "evidence_commit": "858371ca4dac8403fdd239ca59342aa9eefd2b0c",
   "checked_date": "2026-11-17",
   "scope": "Repository candidate coverage only; not completed art or release metadata",
   "required_slots": 300,
-  "candidate_covered_slots": 28,
-  "missing_slots": 272,
+  "candidate_covered_slots": 30,
+  "missing_slots": 270,
   "rows": [
     {
       "token_id": 901,
@@ -1250,8 +1250,10 @@
       "stage": 2,
       "stage_name": "Vermilion Spire",
       "finish_id": "CC-F01",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-vermilion-spire-stage-2-cc-f01-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -1260,8 +1262,10 @@
       "stage": 3,
       "stage_name": "Phoenix Nexus",
       "finish_id": "CC-F01",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-phoenix-nexus-stage-3-cc-f01-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
