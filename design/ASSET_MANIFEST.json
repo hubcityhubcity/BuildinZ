@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 229,
+    "asset_files": 230,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4498,6 +4498,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal piers/bridge braces, crimson insets/amber accents, exact SCARLET HABITAT, twin towers/private glazed sky lounge/elevated pool/dry steps retained visually. Fine geometry/final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crimson-arcology-stage-3-cc-f03-v1.png",
+      "bytes": 2913645,
+      "sha256": "4c3391c183b4ea6ab3f783caad8b782d6075e65b5d93e88367f62d12489fc5d3",
+      "git_blob_sha": "a61796d88e98db30fc9d2dbd0e27333cf88de064",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal piers/resort braces, crimson insets/amber accents, exact CRIMSON ARCOLOGY, three towers/two resort tiers/four elevated pools/crown/dry steps retained visually. Fine geometry/final gates open."
     }
   ]
 }
