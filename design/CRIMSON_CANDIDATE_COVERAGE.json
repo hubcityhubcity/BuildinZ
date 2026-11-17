@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "evidence_commit": "460f46736240d8e544fefdd9a4520bce774f3a4e",
+  "evidence_commit": "961b2492c9b9e3ae06b4d7d4a482ef2a75e4ade8",
   "checked_date": "2026-11-16",
   "scope": "Repository candidate coverage only; not completed art or release metadata",
   "required_slots": 300,
-  "candidate_covered_slots": 23,
-  "missing_slots": 277,
+  "candidate_covered_slots": 25,
+  "missing_slots": 275,
   "rows": [
     {
       "token_id": 901,
@@ -1858,8 +1858,10 @@
       "stage": 2,
       "stage_name": "Scarlet Palace",
       "finish_id": "CC-F01",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-scarlet-palace-stage-2-cc-f01-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -1868,8 +1870,10 @@
       "stage": 3,
       "stage_name": "Crimson Coliseum",
       "finish_id": "CC-F01",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-crimson-coliseum-stage-3-cc-f01-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {

@@ -1,0 +1,7 @@
+# Entertainment Ember Brick lineage review
+
+2026-11-16. Fresh Coliseum handoff read. Six actual repository PNGs decoded and compared as paired360x540 cards: selected Hallv1/Palacev2/Coliseumv2 versus CC-F01v1 finishes. Exact EMBER HALL, SCARLET PALACE, CRIMSON COLISEUM remain readable; charcoal roofs/canopies, bone braces, fabric banners/curtains, glass performance spaces and dry steps retained visually. Brick walls coherent across stages. Major growth from single hall to expanded galleries to tall crowned venue remains. No missing major roof or stage anchor observed at card scale. Fine interior/people/rail geometry and native typography certification not established; common camera/export alignment and amber lighting remain open.
+
+Refreshed CRIMSON_CANDIDATE_COVERAGE.json against evidence commit 961b2492c9b9e3ae06b4d7d4a482ef2a75e4ade8:25/300 unique candidate slots,275 missing, all final_certified=false. Revisions count once; manifest222 files, certified0. No source selections or release metadata changed.
+
+Next production: Landmark Ember Brick path, Bloodmoon Beacon StageIv2 then Cardinal Apex StageIIv1 then Crown of Flame StageIIIv2. Check fresh manifest to avoid duplicates; preserve tapered ribs, observation decks and exact names. Keep gold metal, glass and sign backgrounds distinct from brick. Validate refreshed coverage CI next run. Agent review, not owner approval or final certification.
