@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 228,
+    "asset_files": 229,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4477,6 +4477,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal frame/piers, crimson insets/amber accents, exact EMBER RESIDENCES, domestic balconies/private roof pool/lounge/dry steps retained visually. Fine geometry/final gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-scarlet-habitat-stage-2-cc-f03-v1.png",
+      "bytes": 2865240,
+      "sha256": "1d36cdbda5cfc62f2311d13437534bc02351c3d0789ea3e451a791c562535f59",
+      "git_blob_sha": "32b59d7deec30111346aa720eda54bd8dec39d73",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal piers/bridge braces, crimson insets/amber accents, exact SCARLET HABITAT, twin towers/private glazed sky lounge/elevated pool/dry steps retained visually. Fine geometry/final gates open."
     }
   ]
 }
