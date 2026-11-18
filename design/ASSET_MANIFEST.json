@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 243,
+    "asset_files": 244,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4792,6 +4792,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: bone mineral piers, burgundy recessed panels, softer warm-white interiors, exact EMBER RESIDENCES, rooftop pool/lounge retained visually. Fine geometry/export gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-scarlet-habitat-stage-2-cc-f04-v1.png",
+      "bytes": 2988279,
+      "sha256": "8ad6f37c80d9adb6524d9ec012464b783f77fd58f548c4afee3d77c971c5c010",
+      "git_blob_sha": "89e7d68e102ea27dc12d65e145c28e4a9e453749",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: bone piers, burgundy panels, warm-white interiors, exact SCARLET HABITAT, twin towers/elevated pool/private sky lounge retained visually. Fine geometry/export gates open."
     }
   ]
 }
