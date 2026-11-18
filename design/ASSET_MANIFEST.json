@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 252,
+    "asset_files": 254,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4981,6 +4981,48 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected v2. Ivory piers and braces, dark burgundy panels, warm-white deck lighting. Exact name, single observation deck, telescopes and amber lantern visible."
+    },
+    {
+      "path": "assets/editions/crimson-commons-cardinal-apex-stage-2-cc-f04-v1.png",
+      "bytes": 2341412,
+      "sha256": "c7d218de92414fe50fed7b781204ed27e08a0284a221e62bff80bfc41be4c282",
+      "git_blob_sha": "2d81b337edc10ad5322144862dabd607df170a5a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Apex",
+      "stage": 2,
+      "building_type": "Landmark",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, 2 observation decks, amber crown, ivory piers and burgundy panels visible. Final geometry and framing review open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crown-of-flame-stage-3-cc-f04-v1.png",
+      "bytes": 2355088,
+      "sha256": "4251ec1cb2754a58ad03b14ce68e83c2af2ad5ba955035647e2051751b060ed6",
+      "git_blob_sha": "e1d301a508b4a8151796eaa254bac9eec6f6c631",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crown of Flame",
+      "stage": 3,
+      "building_type": "Landmark",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, 3 observation decks, amber crown, ivory piers and burgundy panels visible. Final geometry and framing review open."
     }
   ]
 }
