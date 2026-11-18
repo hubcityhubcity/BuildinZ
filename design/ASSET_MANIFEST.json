@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 239,
+    "asset_files": 240,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4708,6 +4708,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal tower piers/braces and entrance frame, crimson insets, exact CROWN OF FLAME, three observation decks and lantern crown retained visually. Fine geometry/export/illumination gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-redline-labs-stage-1-cc-f03-v1.png",
+      "bytes": 2581682,
+      "sha256": "8d2feaa994b35df9882d5953e221bc6517f6409bf5bec6e5b0bc55ff8c6daa01",
+      "git_blob_sha": "a504e42c5e7186eba9f22d72da044e1ced832c99",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Redline Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal piers/braces, crimson insets, exact REDLINE LABS, visible robotics laboratory and rooftop equipment retained visually. Fine equipment geometry/export/illumination gates open."
     }
   ]
 }
