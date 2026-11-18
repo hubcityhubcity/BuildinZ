@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 238,
+    "asset_files": 239,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4687,6 +4687,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal tower piers/braces and entrance frame, crimson insets, exact CARDINAL APEX, two offset observation decks/telescopes and lantern crown retained visually. Fine geometry/export/illumination gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crown-of-flame-stage-3-cc-f03-v1.png",
+      "bytes": 2272876,
+      "sha256": "e7f640cd8fce9906697ec6a845f34f0069d78fea5ef53cd41e4a4832b6da8a9b",
+      "git_blob_sha": "d6a9d0e2f2b9419ed94f81280de90761793350d5",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crown of Flame",
+      "stage": 3,
+      "building_type": "Landmark",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal tower piers/braces and entrance frame, crimson insets, exact CROWN OF FLAME, three observation decks and lantern crown retained visually. Fine geometry/export/illumination gates open."
     }
   ]
 }
