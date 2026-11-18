@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 251,
+    "asset_files": 252,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4960,6 +4960,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected source. Exact name, expanded venues, central atrium and glazed crown visible. Ivory piers, burgundy panels and warm-white interiors."
+    },
+    {
+      "path": "assets/editions/crimson-commons-bloodmoon-beacon-stage-1-cc-f04-v1.png",
+      "bytes": 2195243,
+      "sha256": "b7abe2f52276b9849b47b7648ba8b1533e2d93d0375a7f20ab927817de1ad00e",
+      "git_blob_sha": "e300ea519615e1e894715cc0dbf433c409540d01",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Bloodmoon Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected v2. Ivory piers and braces, dark burgundy panels, warm-white deck lighting. Exact name, single observation deck, telescopes and amber lantern visible."
     }
   ]
 }
