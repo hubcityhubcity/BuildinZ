@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 237,
+    "asset_files": 238,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4666,6 +4666,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal tower piers/braces and entrance frame, crimson insets, exact BLOODMOON BEACON, observation deck/telescopes and lantern crown retained visually. Fine geometry/export/illumination gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-cardinal-apex-stage-2-cc-f03-v1.png",
+      "bytes": 2224225,
+      "sha256": "d7d41f38d4afae963caa7ec13df23ef090c795d84a1ebfa1f5ffe0af7705159c",
+      "git_blob_sha": "c4872bc0073c57c5b03ce45e4cda8575416f21cc",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Apex",
+      "stage": 2,
+      "building_type": "Landmark",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal tower piers/braces and entrance frame, crimson insets, exact CARDINAL APEX, two offset observation decks/telescopes and lantern crown retained visually. Fine geometry/export/illumination gates open."
     }
   ]
 }
