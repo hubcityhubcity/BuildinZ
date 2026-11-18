@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 241,
+    "asset_files": 242,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4750,6 +4750,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal piers/braces, crimson insets, exact VERMILION SPIRE, stacked robotics labs and rooftop communications equipment retained visually. Fine equipment geometry/export/illumination gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-phoenix-nexus-stage-3-cc-f03-v1.png",
+      "bytes": 2703159,
+      "sha256": "2be665633be8fc84fa1344821e807425499df71721c9e35844ee39c3ad6e60d1",
+      "git_blob_sha": "becead0e9898de9dd349b63f0f81bc5836e7a1bd",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Phoenix Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal piers/braces, crimson insets, exact PHOENIX NEXUS, twin towers/two skybridges, labs and rooftop equipment retained visually. Fine equipment geometry/export/illumination gates open."
     }
   ]
 }
