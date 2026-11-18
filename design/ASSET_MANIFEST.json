@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 242,
+    "asset_files": 243,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4771,6 +4771,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal piers/braces, crimson insets, exact PHOENIX NEXUS, twin towers/two skybridges, labs and rooftop equipment retained visually. Fine equipment geometry/export/illumination gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-residences-stage-1-cc-f04-v1.png",
+      "bytes": 2742557,
+      "sha256": "f0deda920feb4a8f8f0fdb58db8bc95211fa25287c5bfac5c9f42b2d4dfcb9d5",
+      "git_blob_sha": "354ddbf82aaf2a732bec860d62bd37b4bac05b79",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: bone mineral piers, burgundy recessed panels, softer warm-white interiors, exact EMBER RESIDENCES, rooftop pool/lounge retained visually. Fine geometry/export gates open."
     }
   ]
 }
