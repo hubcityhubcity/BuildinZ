@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 269,
+    "asset_files": 272,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5338,6 +5338,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected source. Exact name, 3 observation decks and lantern crown visible. Matte crimson and brass-tone trim present. Check brushed texture, fine geometry and lighting at release."
+    },
+    {
+      "path": "assets/editions/crimson-commons-redline-labs-stage-1-cc-f05-v1.png",
+      "bytes": 2554479,
+      "sha256": "a54a429bceda529aa351d120cdc58a20bafa2dbf763c71d9c0887f9f0f8c4727",
+      "git_blob_sha": "74c648a9d53bed81afa5865be9d2f00fd4ce409b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Redline Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, gray roofing and visible robotics equipment retained. Matte crimson and brass-tone trim present. Check fine equipment geometry, trim and lighting at release."
+    },
+    {
+      "path": "assets/editions/crimson-commons-vermilion-spire-stage-2-cc-f05-v1.png",
+      "bytes": 2547800,
+      "sha256": "ceed8a71ae7507125993e31a7cdad825866c461151ddf8dc6da1b0066716be61",
+      "git_blob_sha": "7bea5ac713aabc558c5da01302530811d13f3943",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Vermilion Spire",
+      "stage": 2,
+      "building_type": "Technology",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, gray roofing and visible robotics equipment retained. Matte crimson and brass-tone trim present. Check fine equipment geometry, trim and lighting at release."
+    },
+    {
+      "path": "assets/editions/crimson-commons-phoenix-nexus-stage-3-cc-f05-v1.png",
+      "bytes": 2716399,
+      "sha256": "ccc600a38613bb115b5b71b9fa1f50ef71d6ffd6123e84b38882561f75829093",
+      "git_blob_sha": "bc4fcc4ce079b5f3a3bf25c18de70c8fce1f1f9f",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Phoenix Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, gray roofing and visible robotics equipment retained. Matte crimson and brass-tone trim present. Check fine equipment geometry, trim and lighting at release."
     }
   ]
 }
