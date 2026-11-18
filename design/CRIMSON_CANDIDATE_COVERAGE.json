@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "evidence_commit": "fcd38b8c94c47a27439b6628c3b20d1e5d598273",
+  "evidence_commit": "5795b88a0b27e2b018de4d992b11c999638aff2b",
   "checked_date": "2026-11-18",
   "scope": "Repository candidate coverage only; not completed art or release metadata",
   "required_slots": 300,
-  "candidate_covered_slots": 48,
-  "missing_slots": 252,
+  "candidate_covered_slots": 51,
+  "missing_slots": 249,
   "rows": [
     {
       "token_id": 901,
@@ -746,8 +746,10 @@
       "stage": 1,
       "stage_name": "Commons Market",
       "finish_id": "CC-F04",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-commons-market-stage-1-cc-f04-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -756,8 +758,10 @@
       "stage": 2,
       "stage_name": "Ruby Galleria",
       "finish_id": "CC-F04",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-ruby-galleria-stage-2-cc-f04-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -766,8 +770,10 @@
       "stage": 3,
       "stage_name": "Cardinal Exchange",
       "finish_id": "CC-F04",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f04-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
