@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 266,
+    "asset_files": 269,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5275,6 +5275,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected source. Exact mounted name and visible auditorium layout retained. Matte crimson and brass-tone trim present. Interior amber and fine trim, geometry and export remain open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-bloodmoon-beacon-stage-1-cc-f05-v1.png",
+      "bytes": 2219091,
+      "sha256": "f623a5667fa511efe327c232fdcc66aea5792e3c86de3e9b9539f0ec269a78fe",
+      "git_blob_sha": "69cdad2a51c0ffd77430047f895265b26cb4beb0",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Bloodmoon Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, 1 observation decks and lantern crown visible. Matte crimson and brass-tone trim present. Check brushed texture, fine geometry and lighting at release."
+    },
+    {
+      "path": "assets/editions/crimson-commons-cardinal-apex-stage-2-cc-f05-v1.png",
+      "bytes": 2281513,
+      "sha256": "83a390f5f05e1a60d6ff46276ff445d5885e4de632aa1496e0032fcbdd5d2cc0",
+      "git_blob_sha": "567d2cc8b3e76672a4282618782da2f411b8a946",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Apex",
+      "stage": 2,
+      "building_type": "Landmark",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, 2 observation decks and lantern crown visible. Matte crimson and brass-tone trim present. Check brushed texture, fine geometry and lighting at release."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crown-of-flame-stage-3-cc-f05-v1.png",
+      "bytes": 2335427,
+      "sha256": "134eb05d448aa355f1d0deaa72bfc8d8711a85e57bbe6bbbabb99529d14710e2",
+      "git_blob_sha": "49e94183e9a08b154d4f06015335d37bc823c65a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crown of Flame",
+      "stage": 3,
+      "building_type": "Landmark",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, 3 observation decks and lantern crown visible. Matte crimson and brass-tone trim present. Check brushed texture, fine geometry and lighting at release."
     }
   ]
 }
