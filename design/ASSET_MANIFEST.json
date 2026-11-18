@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 246,
+    "asset_files": 248,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4855,6 +4855,48 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Visually compared with selected Commons Market v3. Bone mineral piers, burgundy recessed panels and softer shop lighting. Exact sign, two retail floors, roof, banners and dry steps visible."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ruby-galleria-stage-2-cc-f04-v1.png",
+      "bytes": 2348058,
+      "sha256": "ceab8c3d7f82c472389c7f2d9118c17012cf85c3f8b17e4eca2604927b77ec8b",
+      "git_blob_sha": "d61a04bfb5f7c86cb5467abfa6021bb8a492a64c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ruby Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected v2. Exact name, 3 retail levels, atrium escalators, stepped roof and banners visible. Ivory piers, burgundy panels and warm-white interiors. Final framing and fine geometry review pending."
+    },
+    {
+      "path": "assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f04-v1.png",
+      "bytes": 2515091,
+      "sha256": "196ed0a71605ae0e40def455cd6ed4cce20bfb75cbf29ca4e87133a52527baf6",
+      "git_blob_sha": "3b1fb6a2a080154cfde38f76688e8b4da1437457",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected v2. Exact name, 5 retail levels, atrium escalators, stepped roof and banners visible. Ivory piers, burgundy panels and warm-white interiors. Final framing and fine geometry review pending."
     }
   ]
 }
