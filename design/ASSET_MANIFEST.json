@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 244,
+    "asset_files": 245,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4813,6 +4813,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: bone piers, burgundy panels, warm-white interiors, exact SCARLET HABITAT, twin towers/elevated pool/private sky lounge retained visually. Fine geometry/export gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crimson-arcology-stage-3-cc-f04-v1.png",
+      "bytes": 2999283,
+      "sha256": "71421a0cf5d7ae11c997de00d99aedbce61eaf7d28debc03198c05518e18d2c0",
+      "git_blob_sha": "4895fb825bd15f8db889d40c5c4972382caff1c8",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: bone piers, burgundy panels, warm-white interiors, exact CRIMSON ARCOLOGY, three towers/crown/skybridges and multi-pool elevated resort retained visually. Fine geometry/export gates open."
     }
   ]
 }
