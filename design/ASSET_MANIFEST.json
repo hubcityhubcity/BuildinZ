@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 254,
+    "asset_files": 257,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5023,6 +5023,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected source. Exact name, 3 observation decks, amber crown, ivory piers and burgundy panels visible. Final geometry and framing review open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-redline-labs-stage-1-cc-f04-v1.png",
+      "bytes": 2522340,
+      "sha256": "e50df5943bed6fb0a3c08b50160ff44d3e8d94c9a3a74a3934746688d4a96cab",
+      "git_blob_sha": "ffc0ae3c83f4e86eccdcc0309386239df83d8dc9",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Redline Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact mounted name and visible robotics labs and roof equipment retained. Ivory piers and burgundy panels present. Lighting, roof material fidelity and final framing need review."
+    },
+    {
+      "path": "assets/editions/crimson-commons-vermilion-spire-stage-2-cc-f04-v1.png",
+      "bytes": 2506863,
+      "sha256": "415ad7f9385ef4e2615d43d61c663b623bfc21ea983e0d604568fe88bfe82cf8",
+      "git_blob_sha": "911f890ac1048c9010bd033c255a923b41a6df46",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Vermilion Spire",
+      "stage": 2,
+      "building_type": "Technology",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact mounted name and visible robotics labs and roof equipment retained. Ivory piers and burgundy panels present. Lighting, roof material fidelity and final framing need review."
+    },
+    {
+      "path": "assets/editions/crimson-commons-phoenix-nexus-stage-3-cc-f04-v1.png",
+      "bytes": 2732417,
+      "sha256": "0c2cf93f0aa545653e7d9f96f3b64c9bd34e96fedd8b056995c3bbb6a956a674",
+      "git_blob_sha": "cb211e34ead6bb872b264b6f3f150805309abece",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Phoenix Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact mounted name and visible robotics labs and roof equipment retained. Ivory piers and burgundy panels present. Lighting, roof material fidelity and final framing need review."
     }
   ]
 }
