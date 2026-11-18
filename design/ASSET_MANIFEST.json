@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 263,
+    "asset_files": 266,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5212,6 +5212,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected source. Exact name, stepped roof and retail stage layout visible. Matte crimson and brass-tone trim present. Roof panel seams and finish fidelity need release review."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-hall-stage-1-cc-f05-v1.png",
+      "bytes": 2559196,
+      "sha256": "f5867e0f11ebd08cb80327c28bea02b750d9e0c76e6c3e7860c0053893d3c6a3",
+      "git_blob_sha": "e0313995baba2692bd14f30f9927f06b22346811",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact mounted name and visible auditorium layout retained. Matte crimson and brass-tone trim present. Interior amber and fine trim, geometry and export remain open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-scarlet-palace-stage-2-cc-f05-v1.png",
+      "bytes": 2658087,
+      "sha256": "fa3decc5d8e2ed51a97a91e51cd5212876f237859de69c3bce439164b7fa50c6",
+      "git_blob_sha": "2a34593ad3235118091888044f09ed52b1f77f98",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact mounted name and visible auditorium layout retained. Matte crimson and brass-tone trim present. Interior amber and fine trim, geometry and export remain open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crimson-coliseum-stage-3-cc-f05-v1.png",
+      "bytes": 2705711,
+      "sha256": "fab3175eaff601077ccf48e4fe6602cda37cc476cda9e7406775e2a57ebe2528",
+      "git_blob_sha": "e8d5f53d4effeeccd5ae527bad45fe1d99f63fb5",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Coliseum",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact mounted name and visible auditorium layout retained. Matte crimson and brass-tone trim present. Interior amber and fine trim, geometry and export remain open."
     }
   ]
 }
