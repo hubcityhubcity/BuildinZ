@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 240,
+    "asset_files": 241,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4729,6 +4729,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: charcoal piers/braces, crimson insets, exact REDLINE LABS, visible robotics laboratory and rooftop equipment retained visually. Fine equipment geometry/export/illumination gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-vermilion-spire-stage-2-cc-f03-v1.png",
+      "bytes": 2507824,
+      "sha256": "5ed1e2b1573cfef4537ee2eb4f2605273326b564efc7344699517c6cbc7bcba9",
+      "git_blob_sha": "56036ffd927f3181c303e9c260a38d198fb8ebd2",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Vermilion Spire",
+      "stage": 2,
+      "building_type": "Technology",
+      "finish_id": "CC-F03",
+      "finish_name": "Charcoal Frame",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Actual output inspected: charcoal piers/braces, crimson insets, exact VERMILION SPIRE, stacked robotics labs and rooftop communications equipment retained visually. Fine equipment geometry/export/illumination gates open."
     }
   ]
 }
