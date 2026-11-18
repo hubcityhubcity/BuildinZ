@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 245,
+    "asset_files": 246,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4834,6 +4834,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Actual output inspected: bone piers, burgundy panels, warm-white interiors, exact CRIMSON ARCOLOGY, three towers/crown/skybridges and multi-pool elevated resort retained visually. Fine geometry/export gates open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-commons-market-stage-1-cc-f04-v1.png",
+      "bytes": 2279796,
+      "sha256": "7abc8fc2e411dc26e9818ff2dc1fcf1e2ec3f92d8a758fcfc48087985ec1318f",
+      "git_blob_sha": "34403775cfebf19f057f7442e657d8c613f7de6d",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Commons Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Visually compared with selected Commons Market v3. Bone mineral piers, burgundy recessed panels and softer shop lighting. Exact sign, two retail floors, roof, banners and dry steps visible."
     }
   ]
 }
