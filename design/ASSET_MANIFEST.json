@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 248,
+    "asset_files": 251,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -4897,6 +4897,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected v2. Exact name, 5 retail levels, atrium escalators, stepped roof and banners visible. Ivory piers, burgundy panels and warm-white interiors. Final framing and fine geometry review pending."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-hall-stage-1-cc-f04-v1.png",
+      "bytes": 2636364,
+      "sha256": "f98b347cdb2b95b77778468987263fced3f0358e69f13adb924dddb76ea63adc",
+      "git_blob_sha": "f330810e0721b907aa11eec78ec0f5cc3b53d5f4",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, principal auditorium visible. Ivory piers, burgundy panels and warm-white interiors."
+    },
+    {
+      "path": "assets/editions/crimson-commons-scarlet-palace-stage-2-cc-f04-v1.png",
+      "bytes": 2750555,
+      "sha256": "3899cca72043e06f4b01b8403f9e0bf6ac4d917c5f0c63b816d5a0fe3faf1c1f",
+      "git_blob_sha": "95d9e55b07fcaa38ac7cde196758aadbce6a248b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, twin venues and escalator atrium visible. Ivory piers, burgundy panels and warm-white interiors."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crimson-coliseum-stage-3-cc-f04-v1.png",
+      "bytes": 2842461,
+      "sha256": "2195cc165d968b9a3a0ed6bc8f4da3f6fbeec99972fc99e60d19472cbbe586e3",
+      "git_blob_sha": "396bc30e8179d171fb16cade93b5fa71e752f90f",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Coliseum",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F04",
+      "finish_name": "Bone Pier",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, expanded venues, central atrium and glazed crown visible. Ivory piers, burgundy panels and warm-white interiors."
     }
   ]
 }
