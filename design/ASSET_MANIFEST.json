@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 272,
+    "asset_files": 273,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5401,6 +5401,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected source. Exact name, gray roofing and visible robotics equipment retained. Matte crimson and brass-tone trim present. Check fine equipment geometry, trim and lighting at release."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-residences-stage-1-cc-f06-v1.png",
+      "bytes": 2748073,
+      "sha256": "aedd18d5c7d2b8f0bd23a2f84d377c97a67d9a80c5bbc366627263d7c3c88244",
+      "git_blob_sha": "53c2acdd1ea96f5d1d9c2d63892193ba146075b4",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected v2. Charcoal facade and woven crimson banners visible. Exact lettering, rooftop pool and lounge preserved visually. Sign backplate and background buildings shifted to charcoal and windows remain amber. Material fidelity and export review open."
     }
   ]
 }
