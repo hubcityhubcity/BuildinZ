@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "evidence_commit": "3aa069c98392f59ae88bdfa4ffa9005af4e7f63a",
+  "evidence_commit": "89b211bf20f616df799f02ebfbb518067993fb14",
   "checked_date": "2026-11-18",
   "scope": "Repository candidate coverage only; not completed art or release metadata",
   "required_slots": 300,
-  "candidate_covered_slots": 57,
-  "missing_slots": 243,
+  "candidate_covered_slots": 60,
+  "missing_slots": 240,
   "rows": [
     {
       "token_id": 901,
@@ -1370,8 +1370,10 @@
       "stage": 1,
       "stage_name": "Redline Labs",
       "finish_id": "CC-F04",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-redline-labs-stage-1-cc-f04-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -1380,8 +1382,10 @@
       "stage": 2,
       "stage_name": "Vermilion Spire",
       "finish_id": "CC-F04",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-vermilion-spire-stage-2-cc-f04-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -1390,8 +1394,10 @@
       "stage": 3,
       "stage_name": "Phoenix Nexus",
       "finish_id": "CC-F04",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-phoenix-nexus-stage-3-cc-f04-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {

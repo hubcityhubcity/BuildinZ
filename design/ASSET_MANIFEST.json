@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 257,
+    "asset_files": 258,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5086,6 +5086,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected source. Exact mounted name and visible robotics labs and roof equipment retained. Ivory piers and burgundy panels present. Lighting, roof material fidelity and final framing need review."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-residences-stage-1-cc-f05-v1.png",
+      "bytes": 2659814,
+      "sha256": "f28d26a68e9b29e283548710a6816a76a6a22cd56343040d27a6b085750faee4",
+      "git_blob_sha": "98d06141be8b1273fb3040d962e3472509b1a3a5",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected v2. Matte crimson panels and thin brass-tone edges visible. Exact name, pool and lounge retained visually. Bright cornice needs review for restrained lighting."
     }
   ]
 }
