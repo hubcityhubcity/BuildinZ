@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 273,
+    "asset_files": 275,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5422,6 +5422,48 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected v2. Charcoal facade and woven crimson banners visible. Exact lettering, rooftop pool and lounge preserved visually. Sign backplate and background buildings shifted to charcoal and windows remain amber. Material fidelity and export review open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-scarlet-habitat-stage-2-cc-f06-v1.png",
+      "bytes": 2984969,
+      "sha256": "f81fa6ff56d1ef5cf9cb142e7c7bff73a2ea567f242c5416a9543f5ccd59fe17",
+      "git_blob_sha": "103ff08fe6cd9d4d56103a3c33031829db53b5f1",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Habitat",
+      "stage": 2,
+      "building_type": "Residential",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Charcoal walls, crimson banners, warm-white interiors, exact red-backed name, pool decks and lounges visible. Fine geometry and framing remain open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crimson-arcology-stage-3-cc-f06-v1.png",
+      "bytes": 2972559,
+      "sha256": "564c5802ea766e7414aff03f384b7dba4e21fec5a8675c50aca7a2a8d6f6cc47",
+      "git_blob_sha": "af669d11a1cfa5d642b736d7268a8ef6378b09d1",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Charcoal walls, crimson banners, warm-white interiors, exact red-backed name, pool decks and lounges visible. Fine geometry and framing remain open."
     }
   ]
 }
