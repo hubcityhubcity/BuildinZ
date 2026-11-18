@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "evidence_commit": "89b211bf20f616df799f02ebfbb518067993fb14",
+  "evidence_commit": "01a1cd869c31efdac0fcf7a108b2f88eed26f11d",
   "checked_date": "2026-11-18",
   "scope": "Repository candidate coverage only; not completed art or release metadata",
   "required_slots": 300,
-  "candidate_covered_slots": 60,
-  "missing_slots": 240,
+  "candidate_covered_slots": 63,
+  "missing_slots": 237,
   "rows": [
     {
       "token_id": 901,
@@ -157,8 +157,10 @@
       "stage": 1,
       "stage_name": "Ember Residences",
       "finish_id": "CC-F05",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-ember-residences-stage-1-cc-f05-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -167,8 +169,10 @@
       "stage": 2,
       "stage_name": "Scarlet Habitat",
       "finish_id": "CC-F05",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-scarlet-habitat-stage-2-cc-f05-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -177,8 +181,10 @@
       "stage": 3,
       "stage_name": "Crimson Arcology",
       "finish_id": "CC-F05",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-crimson-arcology-stage-3-cc-f05-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {

@@ -5,7 +5,7 @@
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 260,
+    "asset_files": 263,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5149,6 +5149,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected source. Exact mounted name, pool decks, glazed lounges and tower silhouette retained visually. Satin brass fidelity and lighting need release review."
+    },
+    {
+      "path": "assets/editions/crimson-commons-commons-market-stage-1-cc-f05-v1.png",
+      "bytes": 2246078,
+      "sha256": "cbee2c30ba17f05ac691045c8157e602bcaabdb2783e2c93f888594c71192b4b",
+      "git_blob_sha": "824282698681645a14916bb070b7fa61aa4fb264",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Commons Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, stepped roof and retail stage layout visible. Matte crimson and brass-tone trim present. Roof panel seams and finish fidelity need release review."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ruby-galleria-stage-2-cc-f05-v1.png",
+      "bytes": 2300352,
+      "sha256": "9645a788838f905a3b657e94c7747b14574cea9a2594a2167e692d1bfcebe228",
+      "git_blob_sha": "295f13008a1fd109ad9d65585929cd8f6cf9f090",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ruby Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, stepped roof and retail stage layout visible. Matte crimson and brass-tone trim present. Roof panel seams and finish fidelity need release review."
+    },
+    {
+      "path": "assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f05-v1.png",
+      "bytes": 2430299,
+      "sha256": "b6c40ca6c18117e854af25d40add571b66cb76f685810382353bd3f3cc997e06",
+      "git_blob_sha": "5c908dcddb0f3188817e8487ebd42567b9f7db6c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "finish_id": "CC-F05",
+      "finish_name": "Brass Edge",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source. Exact name, stepped roof and retail stage layout visible. Matte crimson and brass-tone trim present. Roof panel seams and finish fidelity need release review."
     }
   ]
 }
