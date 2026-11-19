@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-19",
-  "repository_commit": "43f9e8526447db64e772ab1a5de1f2780e26b86a",
+  "repository_commit": "24389a82ca48c6da912a7084b2cbeb1c546f67f1",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 293,
+    "asset_files": 294,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5842,6 +5842,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Side-by-side comparison with v2 shows charcoal restored to subject wall bands while burgundy name surround, red neighbors, banners, ivory piers, warm-white windows and rooftop pool remain visible."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crimson-coliseum-stage-3-cc-f06-v2.png",
+      "bytes": 2668649,
+      "sha256": "edc09ae9436f03e1c4456d727bf563952426517649e6298b5433cf456f95fbf2",
+      "git_blob_sha": "85be8f897859ef1b7ecd16ab161f0ffeb6a101b9",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Coliseum",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Native roof crops show amber-orange under both exterior roof wings, with warm-white galleries, charcoal infill and pale braces retained. Full composition preserves the venue massing and red performance accents."
     }
   ]
 }
