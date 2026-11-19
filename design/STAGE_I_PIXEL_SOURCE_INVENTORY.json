@@ -624,22 +624,24 @@
     {
       "identity_id": "N02-I01",
       "stage_name": "Aureate Residences",
-      "path": "assets/pixel-stage-i/aureate-residences-v1.png",
+      "path": "assets/pixel-stage-i/aureate-residences-v2.png",
       "dimensions": "1024x1536",
-      "bytes": 2891296,
-      "sha256": "cbec73243022468e738f38117fed62493b28d7d3a282486220b786f0d80110b9",
-      "git_blob_sha": "75294ce22598efd24eea73aa8eec5ef07732f35e",
-      "review_status": "revision_required"
+      "bytes": 2945189,
+      "sha256": "204b93333a78f66d814d97ad2e06481d654e95eee2c143ca968828b166940871",
+      "git_blob_sha": "f50bb44f7370d83265ae6345f2debe3ca343ab6f",
+      "review_status": "framing_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/aureate-residences-v1.png"
     },
     {
       "identity_id": "N02-I02",
       "stage_name": "Meridian Market",
-      "path": "assets/pixel-stage-i/meridian-market-v1.png",
+      "path": "assets/pixel-stage-i/meridian-market-v2.png",
       "dimensions": "1024x1536",
-      "bytes": 2932882,
-      "sha256": "a714ffed91be5060ccb808b9523b1da9912c34a0625141ab480e677371d8f7bb",
-      "git_blob_sha": "dcbf8ce913b99648758aa51b70f220f103f41d65",
-      "review_status": "revision_required"
+      "bytes": 2751398,
+      "sha256": "1cb16d7ea42078e595bf71a0f6050b766064fd0d6424f032ea50f71428f4e1d1",
+      "git_blob_sha": "ccc6f8a272097f282fc7f56b3e2386cf0b7c36df",
+      "review_status": "framing_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/meridian-market-v1.png"
     },
     {
       "identity_id": "N02-I03",
