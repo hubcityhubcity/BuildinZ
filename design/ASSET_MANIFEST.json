@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-19",
-  "repository_commit": "203465e90c28c84acf7690302eb4b6275a2b7a0a",
+  "repository_commit": "43f9e8526447db64e772ab1a5de1f2780e26b86a",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 292,
+    "asset_files": 293,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5821,6 +5821,27 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Red-and-gold shaft tracery and burgundy pediment restored beside charcoal infill. Pale ribs, warm-white entry, observation decks and exact gold name remain legible. The pediment motif differs slightly from the selected original."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-residences-stage-1-cc-f06-v3.png",
+      "bytes": 2643149,
+      "sha256": "51264dfd432454c47e7c1c798e653c9e609fcc01126c58d0c2ec7621bb3462b3",
+      "git_blob_sha": "53f5e2ebd18024a679f115d632727e013725a86a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Side-by-side comparison with v2 shows charcoal restored to subject wall bands while burgundy name surround, red neighbors, banners, ivory piers, warm-white windows and rooftop pool remain visible."
     }
   ]
 }
