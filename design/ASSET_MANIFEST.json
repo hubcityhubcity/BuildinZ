@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "recorded_date": "2026-11-08",
-  "repository_commit": "92a7e0684c13f6bae459629fe9d3c3fac3e43012",
+  "recorded_date": "2026-11-18",
+  "repository_commit": "ac7bf090b4d10679167f2bfdee15087f00277fcc",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 275,
+    "asset_files": 278,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5464,6 +5464,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected source. Charcoal walls, crimson banners, warm-white interiors, exact red-backed name, pool decks and lounges visible. Fine geometry and framing remain open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-commons-market-stage-1-cc-f06-v1.png",
+      "bytes": 2262925,
+      "sha256": "d91bc53de9a57244c1573e12e1e4bb4c18dcefb286562519174d617664ad5cf9",
+      "git_blob_sha": "c8c304602143c0a37748ff924ea35846b5c5e767",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Commons Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source v3. Exact storefront name, stepped red roof and 2-storey massing visible. Warm-white windows and crimson banners visible. Charcoal extends across structural piers that should remain bone. Fine geometry and framing remain open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ruby-galleria-stage-2-cc-f06-v1.png",
+      "bytes": 2366732,
+      "sha256": "d35581e94b72f453a1c6ca088e5ad1b755a101cbf4b66e72e1cfe5a74da9364a",
+      "git_blob_sha": "15530d5e6f8b2656cbf004b5346f4dd16a17166c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ruby Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source v2. Exact storefront name, stepped red roof and 3-storey massing visible. Atrium and escalators remain visible. Warm-white windows and crimson banners visible. Charcoal extends across structural piers that should remain bone. Fine geometry and framing remain open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f06-v1.png",
+      "bytes": 2470003,
+      "sha256": "20d482508887361f0575dac911a3b9682e3d73c6530f596858599a785d5338aa",
+      "git_blob_sha": "343ac94b5b98f42504b439b2dbc8c279badd1fcc",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected source v2. Exact storefront name, stepped red roof and 5-storey massing visible. Atrium and escalators remain visible. Warm-white windows and crimson banners visible. Charcoal extends across structural piers that should remain bone. Fine geometry and framing remain open."
     }
   ]
 }
