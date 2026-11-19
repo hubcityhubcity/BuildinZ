@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "evidence_commit": "ede0bd9599537d505d69664a2d41c64967f1e2f5",
+  "evidence_commit": "c89d8ab0d0a0016a60f0c8b1dd08c47c6b539d1a",
   "checked_date": "2026-11-18",
   "scope": "Repository candidate coverage only; not completed art or release metadata",
   "required_slots": 300,
-  "candidate_covered_slots": 87,
-  "missing_slots": 213,
+  "candidate_covered_slots": 90,
+  "missing_slots": 210,
   "rows": [
     {
       "token_id": 901,
@@ -2738,8 +2738,10 @@
       "stage": 1,
       "stage_name": "Bloodmoon Beacon",
       "finish_id": "CC-F06",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-bloodmoon-beacon-stage-1-cc-f06-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -2748,8 +2750,10 @@
       "stage": 2,
       "stage_name": "Cardinal Apex",
       "finish_id": "CC-F06",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-cardinal-apex-stage-2-cc-f06-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
@@ -2758,8 +2762,10 @@
       "stage": 3,
       "stage_name": "Crown of Flame",
       "finish_id": "CC-F06",
-      "candidate_paths": [],
-      "status": "missing",
+      "candidate_paths": [
+        "assets/editions/crimson-commons-crown-of-flame-stage-3-cc-f06-v1.png"
+      ],
+      "status": "candidate_present_not_certified",
       "final_certified": false
     },
     {
