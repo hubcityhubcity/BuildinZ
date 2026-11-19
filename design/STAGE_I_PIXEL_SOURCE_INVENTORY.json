@@ -580,6 +580,43 @@
       "bytes": 2347218,
       "sha256": "0980d2c4b544e9b5fba91f3c948857e21c79530b01a292f43bb7258412d0df22",
       "git_blob_sha": "e41e19defd4f1cab32c159b3f599bcaedf7483e3"
+    },
+    {
+      "identity_id": "N01-I02",
+      "stage_name": "Pulse Plaza",
+      "path": "assets/pixel-stage-i/pulse-plaza-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2488208,
+      "sha256": "58db21bbf4a26c5423a960ee7c04098112fe13788a1f5eaa61e99a4b81455226",
+      "git_blob_sha": "22508309dcd2f0eca34322ad1dc7af5f064fd11b"
+    },
+    {
+      "identity_id": "N01-I03",
+      "stage_name": "HoloTech Tower",
+      "path": "assets/pixel-stage-i/holotech-tower-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2144246,
+      "sha256": "4ef12bba16fc8ea28bc5e9f6a43df05a57e21c67871dd078fa9debcc3a0e9973",
+      "git_blob_sha": "71c1bd5d3cee10446e374a8388248421b1402331"
+    },
+    {
+      "identity_id": "N01-I05",
+      "stage_name": "Crown Spire",
+      "path": "assets/pixel-stage-i/crown-spire-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2285534,
+      "sha256": "50e495495ea89641ce837af632245610027aa6076ceb6578eef902528e93d0b9",
+      "git_blob_sha": "187f6a8c1f24c3c2421c0a1006b3e1d87c087d9f"
+    }
+  ],
+  "additional_source_archives": [
+    {
+      "library_file_id": "libfile_a283fbaf422c8191b46fb6408083ad7c",
+      "name": "BuildinZ_Base_Art.zip",
+      "stage_i_square_entries": 50,
+      "stage_ii_iii_png_entries": 100,
+      "evolution_webp_entries": 50,
+      "classification": "reference archive"
     }
   ]
 }
