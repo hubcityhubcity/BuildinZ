@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-18",
-  "repository_commit": "ede0bd9599537d505d69664a2d41c64967f1e2f5",
+  "repository_commit": "2d3a820976ff7fcca3c7038490dcc47e50b623a6",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 287,
+    "asset_files": 290,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5716,6 +5716,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with assets/candidates/crimson-commons-crown-of-flame-stage-3-v2.png. Pale ribs and charcoal infill read clearly. Crown and stacked decks retained. Central shaft appears to lack the crimson banners visible on the earlier stages. Compare the selected source at full size before deciding whether to restore any existing fabric."
+    },
+    {
+      "path": "assets/editions/crimson-commons-commons-market-stage-1-cc-f06-v2.png",
+      "bytes": 2134845,
+      "sha256": "93c467a92970c20ece972e67ad0d3704366e62f78ebc022bee972c310bd320b3",
+      "git_blob_sha": "1da19a178d208dac62290afdcda13c65ffcbaa7a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Commons Market",
+      "stage": 1,
+      "building_type": "Retail",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Native crop comparison confirms pale entry and visible side piers, exact gold sign on burgundy, red roof, crimson banners and warm-white retail lighting. Market arch and two-storey massing retained."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ruby-galleria-stage-2-cc-f06-v2.png",
+      "bytes": 2259938,
+      "sha256": "df166c060907bdce16e83aff7b86c17d4896cebf4bc1a1d2073d4b7be53682b0",
+      "git_blob_sha": "c6b13276939d52bd4db04a75bba9bc03c862354b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ruby Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Native crop comparison confirms pale entry and visible side piers, exact gold sign on burgundy, red roof, crimson banners and warm-white retail lighting. Both central escalator flights and three-storey massing retained."
+    },
+    {
+      "path": "assets/editions/crimson-commons-cardinal-exchange-stage-3-cc-f06-v2.png",
+      "bytes": 2392087,
+      "sha256": "c5033a8553c1890778ba9bed5d3844c972fb9d61c73869b7a989fe2d30cfc5b6",
+      "git_blob_sha": "f480218c5b33091891fc0fc8c3b5217bd16356f2",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Native crop comparison confirms pale entry and visible side piers, exact gold sign on burgundy, red roof, crimson banners and warm-white retail lighting. Stacked escalators and five-storey massing retained."
     }
   ]
 }
