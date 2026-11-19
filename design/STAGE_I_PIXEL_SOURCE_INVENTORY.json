@@ -1,0 +1,567 @@
+{
+  "archive_library_id": "libfile_1799e1382584819180eabf9877d7ff5c",
+  "source_commit": "2ee2edddec6db137aea8a2fd83578f47cf5885b6",
+  "entries": [
+    {
+      "entry": "01 Neon Heights/01 Neon Residences.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "233a85585f83bc49cf11b85fb7fb10cd499caa4689a80ae28fd2a2316e679806",
+      "identity_id": "N01-I01",
+      "stage_name": "Neon Residences",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "01 Neon Heights/02 Pulse Plaza.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "05db027d4902e9b91976d40de6140724cddfbdbb649bb484d57e4ef672879250",
+      "identity_id": "N01-I02",
+      "stage_name": "Pulse Plaza",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "01 Neon Heights/03 HoloTech Tower.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "6ecff19c36bc8c0e985b20ca4b693d9b19a91fe6bb86fc1842def45037425d92",
+      "identity_id": "N01-I03",
+      "stage_name": "HoloTech Tower",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "01 Neon Heights/04 Midnight Lounge.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "62118f93ee6aa32f566e9015106c916fae89cde2d12b850d2c411c30ab6b949e",
+      "identity_id": "N01-I04",
+      "stage_name": "Midnight Lounge",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "01 Neon Heights/05 Crown Spire.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "3c7121085c6f7bda53d732a2f32c2dce1d92dc55d419f7954836301c92764e03",
+      "identity_id": "N01-I05",
+      "stage_name": "Crown Spire",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "02 Golden Crest/01 mansion apartments.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "3de17d9bfc82523787740a23918fce50ce31d6b96d6edbc088f1c322aafafc93",
+      "identity_id": "N02-I01",
+      "stage_name": "Aureate Residences",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "02 Golden Crest/02 vaulted luxury arcade.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "e80285a57fa5efb4b122888cb05b647e4c11c8e5cbae2fe3f056134ad5b5236f",
+      "identity_id": "N02-I02",
+      "stage_name": "Meridian Market",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "02 Golden Crest/03 guild bank.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "aaf810757cb3f6684dc02a136bcca1bbfd63c429911efeb7a3049d3ee93f1574",
+      "identity_id": "N02-I03",
+      "stage_name": "Solara Labs",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "02 Golden Crest/04 gilded opera house.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "690846f224ccdb77f43c3c156a86277e39e35892091633ad8a32ec0b66935c1f",
+      "identity_id": "N02-I04",
+      "stage_name": "Velvet Hall",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "02 Golden Crest/05 marble clocktower.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "63408893d1d338f253561ab1a5633beaeee1ef31afe939b1387c34a92cdb9504",
+      "identity_id": "N02-I05",
+      "stage_name": "Golden Obelisk",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "03 Shadow Market/01 tenements.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "1f5d0053d17acca2c30366ba4a907ab98c205d9d37bb9b2411bd44b56ddd3c29",
+      "identity_id": "N03-I01",
+      "stage_name": "Gloomstep Flats",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "03 Shadow Market/02 underground bazaar entrance.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "46c5307b638f0bb72c2f5aaa2c83d19bd112062d34c45c524db04ee99eea96a1",
+      "identity_id": "N03-I02",
+      "stage_name": "Lantern Row",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "03 Shadow Market/03 surveillance exchange.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "e5da2a2d02a1adaf47c5f821f47f0d58e71d21444652dc3633f652d7264ea246",
+      "identity_id": "N03-I03",
+      "stage_name": "Cipher Works",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "03 Shadow Market/04 basement jazz hall.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "17f20e11ffc06d7edb6debd64bfc91819fb36c3efb12335939520186434ed921",
+      "identity_id": "N03-I04",
+      "stage_name": "Backroom Stage",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "03 Shadow Market/05 signal watchtower.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "2f169f2c68dc81b539bec156599e9f90c3dbfa030f4de7bfe7653b13cf597a79",
+      "identity_id": "N03-I05",
+      "stage_name": "Veil Beacon",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "04 Skygarden District/01 terraced garden homes.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "8d905fe673becb98da598115641c8414c47916d79dda3381c48619616fd29908",
+      "identity_id": "N04-I01",
+      "stage_name": "Canopy Residences",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "04 Skygarden District/02 glass flower market.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "f9471e48155c1f472ec8de2a6d2820384b5b9bd7c3220b5e90abdd048a36cddb",
+      "identity_id": "N04-I02",
+      "stage_name": "Bloom Market",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "04 Skygarden District/03 botanical lab.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "7592cb2f71b9cc188a9cb83668635a492fc15ddb2206cec0f3b80f747523a019",
+      "identity_id": "N04-I03",
+      "stage_name": "Seedlight Labs",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "04 Skygarden District/04 outdoor amphitheater.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "4c51355f97de9aedc722eb0d21366bc20a8b05475efeca29b91c930aa02407dd",
+      "identity_id": "N04-I04",
+      "stage_name": "Terrace Hall",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "04 Skygarden District/05 arboretum conservatory.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "922267f0ab93f2352dbad8e03270c73a9072bfb706912776106dd3e8cd258f3a",
+      "identity_id": "N04-I05",
+      "stage_name": "Garden Beacon",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "05 Velocity Row/01 railworker flats.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "c1cb610d4c62b54936688b746df62ec63a1a38bde088508376a5ab39d5b51e36",
+      "identity_id": "N05-I01",
+      "stage_name": "Draftline Lofts",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "05 Velocity Row/02 parts emporium.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "c04f09e16a8179ee9e211170bf956f7c6dafb4a4b0c59d44970dd2b497724c20",
+      "identity_id": "N05-I02",
+      "stage_name": "Pitlane Plaza",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "05 Velocity Row/03 turbine workshop.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "8882dab5c210cf39df876ec50c390d82e8ac7efb492018d3f2cf03b53e71f623",
+      "identity_id": "N05-I03",
+      "stage_name": "Vector Works",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "05 Velocity Row/04 velodrome pavilion.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "65d6aa66a0bf86473632a7d732f99a015d8d39d8524db84015d60197c112dc2a",
+      "identity_id": "N05-I04",
+      "stage_name": "Rush Arena",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "05 Velocity Row/05 streamlined train terminus.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "0a1354413a9dda9bb1fc996a99d60292acc78a9261467a856b4d85c131792382",
+      "identity_id": "N05-I05",
+      "stage_name": "Pole Beacon",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "06 Royal Mirage/01 courtyard apartments.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "063f48d3c32a27c08d64cc9511a578f42d1208861a03c87f5da29d416ea65791",
+      "identity_id": "N06-I01",
+      "stage_name": "Oasis Residences",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "06 Royal Mirage/02 shaded souk.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "96401781df933e78d15489093de47015c38e62807eb693692eedbec7a0194414",
+      "identity_id": "N06-I02",
+      "stage_name": "Souk Plaza",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "06 Royal Mirage/03 astronomical academy.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "d836038202da6500e73f7cd5271ea692cebb2edddeb1c1fc9699749858dc5488",
+      "identity_id": "N06-I03",
+      "stage_name": "Prism Works",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "06 Royal Mirage/04 domed music hall.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "e92e8e4658c54940638e6e5c7dbc7e172706515c392653beaebb051dc5a3a47a",
+      "identity_id": "N06-I04",
+      "stage_name": "Mooncourt Lounge",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "06 Royal Mirage/05 oasis water tower.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "b0fd3fcc02dce3cc62ba62177ec612632acbc8960c1418722642e1f641edfc69",
+      "identity_id": "N06-I05",
+      "stage_name": "Royal Minaret",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "07 Old World Steel/01 mill lofts.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "6f16757fcd56917fc28aed7ca78b939947fd8e7b0eb13b4814e44a8b22a11dad",
+      "identity_id": "N07-I01",
+      "stage_name": "Foundry Flats",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "07 Old World Steel/02 covered provisions hall.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "f3bf0509d361148a5963976db7900a16f29490e615078da28003d20b7ffcafe5",
+      "identity_id": "N07-I02",
+      "stage_name": "Forge Market",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "07 Old World Steel/03 sawtooth foundry workshop.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "8e6e7f71e01d9006b1948cac7e78468f192a85deecc5c01ebd9251c67275fc7b",
+      "identity_id": "N07-I03",
+      "stage_name": "Gearhouse Labs",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "07 Old World Steel/04 converted boiler theater.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "f0f4db510d9c1492c3561959bb8c98b52c90b8e21e6d7a7d79968c21641343ff",
+      "identity_id": "N07-I04",
+      "stage_name": "Boiler Hall",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "07 Old World Steel/05 brick pumping station chimney.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "da594dd215fa47625a7fbc7c8db0d4bf7b71c22a5a478cd0c0019751cf8ae664",
+      "identity_id": "N07-I05",
+      "stage_name": "Rivet Monument",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "08 Moonline Harbor/01 quayside flats.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "25ca75fbf7eab2d3534ad9db38c66d40c9621092c82b7a4801062898b11130c6",
+      "identity_id": "N08-I01",
+      "stage_name": "Tidelight Residences",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "08 Moonline Harbor/02 fish market.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "1eeeb07a2fc9fc55663b3aa8adba2b2569a5e22edda7f91a2a8fefcde2699517",
+      "identity_id": "N08-I02",
+      "stage_name": "Dockside Market",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "08 Moonline Harbor/03 marine research lab.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "37e81335bcc4b93e0af4b5a4e380e0b1b63fe06711efa98a19ab30cd841c9e7f",
+      "identity_id": "N08-I03",
+      "stage_name": "Beacon Labs",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "08 Moonline Harbor/04 floating supper club.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "669ead319af338891c0edd3118c3168a01b553c4d4b3fbf72cc1b123cd416e87",
+      "identity_id": "N08-I04",
+      "stage_name": "Harbor Lounge",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "08 Moonline Harbor/05 lighthouse.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "31ff3062e6e20d23120861e7de0a834b5aaed13700f70b5e1ba46f45e4abf0b4",
+      "identity_id": "N08-I05",
+      "stage_name": "Tide Beacon",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "09 Arcadia Prime/01 modular terrace homes.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "906c321513456ab940217004b0ad6ec42cab503bef4c916c54880946f8c10a8b",
+      "identity_id": "N09-I01",
+      "stage_name": "Arcadian Residences",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "09 Arcadia Prime/02 circular market rotunda.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "7c009486ad6033ceae580e31ec59019cb71479913e614a11b8700e641422c707",
+      "identity_id": "N09-I02",
+      "stage_name": "Agora Plaza",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "09 Arcadia Prime/03 geometric science institute.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "f68669673eba4e6d6f3f733ed5702182b7f8acdeb17e58cb9cd5f9b0483d4853",
+      "identity_id": "N09-I03",
+      "stage_name": "Axiom Labs",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "09 Arcadia Prime/04 shell concert pavilion.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "90984706d692b557449e23977429851bac73b6a0c1544841157cfbeb2c89c2ca",
+      "identity_id": "N09-I04",
+      "stage_name": "Muse Hall",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "09 Arcadia Prime/05 solar obelisk.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "24f93c849244401caebe6aa9df85682090e283e09eda93fc4bc43ed2dcabd3fe",
+      "identity_id": "N09-I05",
+      "stage_name": "Arcadia Beacon",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "10 Crimson Commons/01 stepped housing block.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "07a0a9b8779a1f577f453a08065bf3725fecf257ca5ff106929938dbc9d1c452",
+      "identity_id": "N10-I01",
+      "stage_name": "Ember Residences",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "10 Crimson Commons/02 covered exchange.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "ade8217f27b3005fa67c5e98c7344c2468ca37809bd3db76eb7133d66ecca1b5",
+      "identity_id": "N10-I02",
+      "stage_name": "Commons Market",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "10 Crimson Commons/03 angular broadcasting center.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "c303868c6756f7912c0f97a924f2969ba521877290a000465c02fd04239fc6bd",
+      "identity_id": "N10-I03",
+      "stage_name": "Redline Labs",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "10 Crimson Commons/04 boxing arena.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "d303438694e2be19d6ac1092287c05f236307f509cffd52850ee003844982bb5",
+      "identity_id": "N10-I04",
+      "stage_name": "Ember Hall",
+      "status": "isolated_sprite_reference_pending_scene_and_lineage_review"
+    },
+    {
+      "entry": "10 Crimson Commons/05 monumental civic gate.png",
+      "dimensions": [
+        470,
+        940
+      ],
+      "sha256": "9ec9118911cbda3686ebd3fb70ad2958677b73b7a1ac55471d2f22deb2dc977a",
+      "identity_id": "N10-I05",
+      "stage_name": "Bloodmoon Beacon",
+      "status": "contact_sheet_misfile"
+    }
+  ],
+  "portrait_candidates": [
+    {
+      "identity_id": "N10-I05",
+      "stage_name": "Bloodmoon Beacon",
+      "path": "assets/pixel-stage-i/bloodmoon-beacon-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2235228,
+      "sha256": "8f9a2df8b94f1fc81b7f6eb36d6256729f163ec9b5ca54655b9e2ff21bead0b8",
+      "git_blob_sha": "bc3a4aae4538d654e50f2ef77f7546698b1b20c6"
+    }
+  ]
+}
