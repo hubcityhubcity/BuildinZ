@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-18",
-  "repository_commit": "bc8b5b19b7e53c3cc88d13e25ec2ef4b64619543",
+  "repository_commit": "da3f3f2ba2b44cf46999b9375048b05f0271fd32",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 281,
+    "asset_files": 284,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5590,6 +5590,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected v2. Gold stage name, pale braces, red banners, charcoal infill and warm-white glazing visible. Crown, tiered wings and central atrium remain legible. Review the shift from red structural accents to pale roof trim."
+    },
+    {
+      "path": "assets/editions/crimson-commons-redline-labs-stage-1-cc-f06-v1.png",
+      "bytes": 2578379,
+      "sha256": "d6d33c932bc4ad44d7f9f23b384c48072d3428dceaa324db52a3d5bcc7cc9dbb",
+      "git_blob_sha": "e380444b8d8a5e95d1f5057057577dbbc8ebe382",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Redline Labs",
+      "stage": 1,
+      "building_type": "Technology",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with assets/candidates/crimson-commons-redline-labs-stage-1-v2.png. Pale braces, gold name and warmer-white glazing are visible. Low lab and plaza remain legible. Check red trim continuity and lab interior details."
+    },
+    {
+      "path": "assets/editions/crimson-commons-vermilion-spire-stage-2-cc-f06-v1.png",
+      "bytes": 2608439,
+      "sha256": "6b17279bb7a2d1148ec12729b1758411d901ae58b136d3f6acf22a497b6781ac",
+      "git_blob_sha": "a8ea528a26071bff21d397f0ddc3e52c8b158220",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Vermilion Spire",
+      "stage": 2,
+      "building_type": "Technology",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with assets/candidates/crimson-commons-vermilion-spire-stage-2-v1.png. Pale braces, gold name and warmer-white glazing are visible. Single mast and stacked lab bays remain legible. Check sign letterforms and interior details at full size."
+    },
+    {
+      "path": "assets/editions/crimson-commons-phoenix-nexus-stage-3-cc-f06-v1.png",
+      "bytes": 2783478,
+      "sha256": "5b4c500e3dd6d58c5376bd36c0d81ccf5f77c3ea716bbc2e08f049a0021a04ae",
+      "git_blob_sha": "a63a9e610195ea004d125f978cf175e9c44047e6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Phoenix Nexus",
+      "stage": 3,
+      "building_type": "Technology",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with assets/candidates/crimson-commons-phoenix-nexus-stage-3-v1.png. Pale braces, gold name and warmer-white glazing are visible. Twin towers, two skybridges and blue screen remain legible. Check bridge glazing and roof trim continuity."
     }
   ]
 }
