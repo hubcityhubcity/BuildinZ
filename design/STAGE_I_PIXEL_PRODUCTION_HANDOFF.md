@@ -14,6 +14,16 @@ Added [Pulse Plaza](../assets/pixel-stage-i/pulse-plaza-v1.png), [HoloTech Tower
 
 Reframed [Neon Residences](../assets/pixel-stage-i/neon-residences-v2.png), [Pulse Plaza](../assets/pixel-stage-i/pulse-plaza-v2.png), [Midnight Lounge](../assets/pixel-stage-i/midnight-lounge-v2.png) to give their platforms visibly more room. The v2 candidates retain the rooftop pool, retail escalator and nightclub screen respectively, plus the exact mounted names in composition review. HoloTech Tower and Crown Spire already show clear side margins at composition scale. All five v1s matched their manifest digests and decoded. The three v2 PNGs decoded and matched uploaded Git hashes. Earlier revisions remain in Git.
 
-Next confirm the exact lettering and platform extrema at native size on the three v2s and the two retained v1s. Compare any generative geometry changes with the source artwork. Then proceed to Golden Crest Stage I and use the registry names. Six identities remain represented across the collection.
+Neon Heights five-file Stage I visual review completed against the Stage I design references and preceding portrait revisions. Each file decoded and matched SHA-256. Native crops confirm exact mounted name spelling. Full-frame visual estimates clear the 31 px side and 47 px vertical minimum for the building and platform. The v1s and v2s remain available. These five are selected for the Stage I base-art set under delegated review. Collection release verification remains open.
+
+| Stage I selected portrait | Estimated clearance lower bounds L/R/T/B in px | Architecture |
+|---|---|---|
+| [Neon Residences](../assets/pixel-stage-i/neon-residences-v2.png) | 85 / 90 / 315 / 340 | Private roof pool and residential balconies retained. Street level is dry. |
+| [Pulse Plaza](../assets/pixel-stage-i/pulse-plaza-v2.png) | 57 / 57 / 430 / 300 | Terraced glazed retail and exterior escalator retained. |
+| [HoloTech Tower](../assets/pixel-stage-i/holotech-tower-v1.png) | 90 / 77 / 270 / 275 | Angular structural frame and blue digital display retained. |
+| [Midnight Lounge](../assets/pixel-stage-i/midnight-lounge-v2.png) | 70 / 70 / 265 / 280 | Terraced lounge and tall exterior screen retained. |
+| [Crown Spire](../assets/pixel-stage-i/crown-spire-v1.png) | 52 / 46 / 290 / 295 | Central crystal and radiating ribs retained. |
+
+Next produce Golden Crest Stage I. Use the selected architectural originals and compare each archive sprite before using it as a rendering reference. Exact registry sequence: Aureate Residences, Meridian Market, Solara Labs, Velvet Hall, Golden Obelisk. Bloodmoon Beacon remains a standalone candidate awaiting its own native review.
 
 Save for later trait design. Sky and distance ideas include a UFO, a blimp and a distant burning building. Street ideas include people shooting dice, an original arcade beat-em-up homage and four distinct color-striped turtles beside glowing ooze and a sewer grate. Frequencies and edition assignments are undecided.

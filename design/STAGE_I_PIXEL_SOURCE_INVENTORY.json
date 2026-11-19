@@ -571,7 +571,9 @@
       "bytes": 2053270,
       "sha256": "aa5bf9538119f7783dd5504b9bd8ee7936e8bd383f6cf5cabbdb7015645eaca2",
       "git_blob_sha": "b42c8657effb354875d89e3b4cf45b7041323f67",
-      "previous_candidate_path": "assets/pixel-stage-i/neon-residences-v1.png"
+      "previous_candidate_path": "assets/pixel-stage-i/neon-residences-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "20e677c8d905da4ee7ceeaff826942994a8830be"
     },
     {
       "identity_id": "N01-I04",
@@ -581,7 +583,9 @@
       "bytes": 2152689,
       "sha256": "aa322c3ab72afe755cdb5ea845fe3aee303a252557686262b9b464336566965a",
       "git_blob_sha": "10e2f9dea94ef11f596aa349233e41bb82fb6297",
-      "previous_candidate_path": "assets/pixel-stage-i/midnight-lounge-v1.png"
+      "previous_candidate_path": "assets/pixel-stage-i/midnight-lounge-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "20e677c8d905da4ee7ceeaff826942994a8830be"
     },
     {
       "identity_id": "N01-I02",
@@ -591,7 +595,9 @@
       "bytes": 2280121,
       "sha256": "02e133dec29288de66f7290c35afb9dc75b6a1826f96dade38f5df9abddd7669",
       "git_blob_sha": "3177675a7e1f0da623158f88a59ccf7887e554ed",
-      "previous_candidate_path": "assets/pixel-stage-i/pulse-plaza-v1.png"
+      "previous_candidate_path": "assets/pixel-stage-i/pulse-plaza-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "20e677c8d905da4ee7ceeaff826942994a8830be"
     },
     {
       "identity_id": "N01-I03",
@@ -600,7 +606,9 @@
       "dimensions": "1024x1536",
       "bytes": 2144246,
       "sha256": "4ef12bba16fc8ea28bc5e9f6a43df05a57e21c67871dd078fa9debcc3a0e9973",
-      "git_blob_sha": "71c1bd5d3cee10446e374a8388248421b1402331"
+      "git_blob_sha": "71c1bd5d3cee10446e374a8388248421b1402331",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "20e677c8d905da4ee7ceeaff826942994a8830be"
     },
     {
       "identity_id": "N01-I05",
@@ -609,7 +617,9 @@
       "dimensions": "1024x1536",
       "bytes": 2285534,
       "sha256": "50e495495ea89641ce837af632245610027aa6076ceb6578eef902528e93d0b9",
-      "git_blob_sha": "187f6a8c1f24c3c2421c0a1006b3e1d87c087d9f"
+      "git_blob_sha": "187f6a8c1f24c3c2421c0a1006b3e1d87c087d9f",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "20e677c8d905da4ee7ceeaff826942994a8830be"
     }
   ],
   "additional_source_archives": [
