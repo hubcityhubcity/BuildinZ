@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "recorded_date": "2026-11-18",
-  "repository_commit": "2d3a820976ff7fcca3c7038490dcc47e50b623a6",
+  "recorded_date": "2026-11-19",
+  "repository_commit": "203465e90c28c84acf7690302eb4b6275a2b7a0a",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 290,
+    "asset_files": 292,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5779,6 +5779,48 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Native crop comparison confirms pale entry and visible side piers, exact gold sign on burgundy, red roof, crimson banners and warm-white retail lighting. Stacked escalators and five-storey massing retained."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-residences-stage-1-cc-f06-v2.png",
+      "bytes": 2734799,
+      "sha256": "d110a8412a8661a9c29be5f27c13fd1f10ab5d987a672614fc9a807c0cf97738",
+      "git_blob_sha": "f92b846c9db32debc72c827d3700b78aafff23c0",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Residences",
+      "stage": 1,
+      "building_type": "Residential",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Burgundy surround, gold name, red neighboring facades and warmer exterior sconces restored. Interiors read warm white. Red bands also returned to portions of the subject facade. Recheck charcoal coverage against v1 before selection."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crown-of-flame-stage-3-cc-f06-v2.png",
+      "bytes": 2298633,
+      "sha256": "36777c9a5b4306f214687bf36ea4084c5fbd8bb68de24f08cdccc46ffe8f889f",
+      "git_blob_sha": "d78b9aea0053441920e83dc6be7110314bd64fb0",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crown of Flame",
+      "stage": 3,
+      "building_type": "Landmark",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Red-and-gold shaft tracery and burgundy pediment restored beside charcoal infill. Pale ribs, warm-white entry, observation decks and exact gold name remain legible. The pediment motif differs slightly from the selected original."
     }
   ]
 }
