@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-18",
-  "repository_commit": "ac7bf090b4d10679167f2bfdee15087f00277fcc",
+  "repository_commit": "bc8b5b19b7e53c3cc88d13e25ec2ef4b64619543",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 278,
+    "asset_files": 281,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5527,6 +5527,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with selected source v2. Exact storefront name, stepped red roof and 5-storey massing visible. Atrium and escalators remain visible. Warm-white windows and crimson banners visible. Charcoal extends across structural piers that should remain bone. Fine geometry and framing remain open."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-hall-stage-1-cc-f06-v1.png",
+      "bytes": 2660703,
+      "sha256": "5af5c8002670c7dae40fed5c9ebcc839f3b379ebfec93ae52ef24d4ef21cc808",
+      "git_blob_sha": "02dee42b262bd8b0fa1c6f748af31089f0dba59b",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected v1. Gold stage name, pale braces, red banners, charcoal infill and warm-white glazing visible. Single performance hall reads clearly. Verify revised stage lighting and props at full resolution."
+    },
+    {
+      "path": "assets/editions/crimson-commons-scarlet-palace-stage-2-cc-f06-v1.png",
+      "bytes": 2749830,
+      "sha256": "2028c9ac6669555a093dbf3b9ae202d20e22311d36758ac6f2fd69e4abac48ac",
+      "git_blob_sha": "e436722a40ca36a7b32f59608f2e66b7d15fbd4e",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected v2. Gold stage name, pale braces, red banners, charcoal infill and warm-white glazing visible. Twin red performance spaces and central glazed circulation remain legible. Verify gallery detail and framing."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crimson-coliseum-stage-3-cc-f06-v1.png",
+      "bytes": 2832970,
+      "sha256": "85741395f42402456ed729d43e6744492597fa131dfedcf4bfcdb888f0437a82",
+      "git_blob_sha": "d486e318aafb0f26b247aa02a11ded2587a20320",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Coliseum",
+      "stage": 3,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with selected v2. Gold stage name, pale braces, red banners, charcoal infill and warm-white glazing visible. Crown, tiered wings and central atrium remain legible. Review the shift from red structural accents to pale roof trim."
     }
   ]
 }
