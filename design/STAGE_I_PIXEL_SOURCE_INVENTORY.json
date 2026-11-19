@@ -566,29 +566,32 @@
     {
       "identity_id": "N01-I01",
       "stage_name": "Neon Residences",
-      "path": "assets/pixel-stage-i/neon-residences-v1.png",
+      "path": "assets/pixel-stage-i/neon-residences-v2.png",
       "dimensions": "1024x1536",
-      "bytes": 2390807,
-      "sha256": "8389b9acdc5826379aecc9fc741def48dc557ffc9fc4d759d59910c89d8799c8",
-      "git_blob_sha": "b4a5396439724d53e9499f001acf9a96439d53c3"
+      "bytes": 2053270,
+      "sha256": "aa5bf9538119f7783dd5504b9bd8ee7936e8bd383f6cf5cabbdb7015645eaca2",
+      "git_blob_sha": "b42c8657effb354875d89e3b4cf45b7041323f67",
+      "previous_candidate_path": "assets/pixel-stage-i/neon-residences-v1.png"
     },
     {
       "identity_id": "N01-I04",
       "stage_name": "Midnight Lounge",
-      "path": "assets/pixel-stage-i/midnight-lounge-v1.png",
+      "path": "assets/pixel-stage-i/midnight-lounge-v2.png",
       "dimensions": "1024x1536",
-      "bytes": 2347218,
-      "sha256": "0980d2c4b544e9b5fba91f3c948857e21c79530b01a292f43bb7258412d0df22",
-      "git_blob_sha": "e41e19defd4f1cab32c159b3f599bcaedf7483e3"
+      "bytes": 2152689,
+      "sha256": "aa322c3ab72afe755cdb5ea845fe3aee303a252557686262b9b464336566965a",
+      "git_blob_sha": "10e2f9dea94ef11f596aa349233e41bb82fb6297",
+      "previous_candidate_path": "assets/pixel-stage-i/midnight-lounge-v1.png"
     },
     {
       "identity_id": "N01-I02",
       "stage_name": "Pulse Plaza",
-      "path": "assets/pixel-stage-i/pulse-plaza-v1.png",
+      "path": "assets/pixel-stage-i/pulse-plaza-v2.png",
       "dimensions": "1024x1536",
-      "bytes": 2488208,
-      "sha256": "58db21bbf4a26c5423a960ee7c04098112fe13788a1f5eaa61e99a4b81455226",
-      "git_blob_sha": "22508309dcd2f0eca34322ad1dc7af5f064fd11b"
+      "bytes": 2280121,
+      "sha256": "02e133dec29288de66f7290c35afb9dc75b6a1826f96dade38f5df9abddd7669",
+      "git_blob_sha": "3177675a7e1f0da623158f88a59ccf7887e554ed",
+      "previous_candidate_path": "assets/pixel-stage-i/pulse-plaza-v1.png"
     },
     {
       "identity_id": "N01-I03",
