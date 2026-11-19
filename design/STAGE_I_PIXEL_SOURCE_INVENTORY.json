@@ -562,6 +562,24 @@
       "bytes": 2235228,
       "sha256": "8f9a2df8b94f1fc81b7f6eb36d6256729f163ec9b5ca54655b9e2ff21bead0b8",
       "git_blob_sha": "bc3a4aae4538d654e50f2ef77f7546698b1b20c6"
+    },
+    {
+      "identity_id": "N01-I01",
+      "stage_name": "Neon Residences",
+      "path": "assets/pixel-stage-i/neon-residences-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2390807,
+      "sha256": "8389b9acdc5826379aecc9fc741def48dc557ffc9fc4d759d59910c89d8799c8",
+      "git_blob_sha": "b4a5396439724d53e9499f001acf9a96439d53c3"
+    },
+    {
+      "identity_id": "N01-I04",
+      "stage_name": "Midnight Lounge",
+      "path": "assets/pixel-stage-i/midnight-lounge-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2347218,
+      "sha256": "0980d2c4b544e9b5fba91f3c948857e21c79530b01a292f43bb7258412d0df22",
+      "git_blob_sha": "e41e19defd4f1cab32c159b3f599bcaedf7483e3"
     }
   ]
 }
