@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-18",
-  "repository_commit": "da3f3f2ba2b44cf46999b9375048b05f0271fd32",
+  "repository_commit": "ede0bd9599537d505d69664a2d41c64967f1e2f5",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 284,
+    "asset_files": 287,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5653,6 +5653,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Compared with assets/candidates/crimson-commons-phoenix-nexus-stage-3-v1.png. Pale braces, gold name and warmer-white glazing are visible. Twin towers, two skybridges and blue screen remain legible. Check bridge glazing and roof trim continuity."
+    },
+    {
+      "path": "assets/editions/crimson-commons-bloodmoon-beacon-stage-1-cc-f06-v1.png",
+      "bytes": 2226501,
+      "sha256": "58110426e16dd366c06b1fb3ea70c09f87593e170c988b3d3d9c62e707536fb2",
+      "git_blob_sha": "9869bc7629112d9686efbcae3ec369f3db0a7d74",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Bloodmoon Beacon",
+      "stage": 1,
+      "building_type": "Landmark",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with assets/candidates/crimson-commons-bloodmoon-beacon-stage-1-v2.png. Pale ribs and charcoal infill read clearly. Single observation deck and lit beacon retained. Verify entrance sign at full size."
+    },
+    {
+      "path": "assets/editions/crimson-commons-cardinal-apex-stage-2-cc-f06-v1.png",
+      "bytes": 2351277,
+      "sha256": "ca351aa440133b68f18c124c476c92c9c34744a906c7d056bb6fcf91535acad5",
+      "git_blob_sha": "c118c31724c9fe945649517d99f9562b69b27f28",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Cardinal Apex",
+      "stage": 2,
+      "building_type": "Landmark",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with assets/candidates/crimson-commons-cardinal-apex-stage-2-v1.png. Pale ribs and charcoal infill read clearly. Offset observation decks and tower silhouette retained. Review trim and entrance sign at full size."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crown-of-flame-stage-3-cc-f06-v1.png",
+      "bytes": 2331484,
+      "sha256": "70d415b978c269dab4b702e78eb79fcd8f5cae1201738d40dba01359bc5b75ac",
+      "git_blob_sha": "6ad1929f6b670ba0bacba9fce235f95826677883",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crown of Flame",
+      "stage": 3,
+      "building_type": "Landmark",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Compared with assets/candidates/crimson-commons-crown-of-flame-stage-3-v2.png. Pale ribs and charcoal infill read clearly. Crown and stacked decks retained. Central shaft appears to lack the crimson banners visible on the earlier stages. Compare the selected source at full size before deciding whether to restore any existing fabric."
     }
   ]
 }
