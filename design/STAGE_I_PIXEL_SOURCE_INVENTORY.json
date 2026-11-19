@@ -620,6 +620,56 @@
       "git_blob_sha": "187f6a8c1f24c3c2421c0a1006b3e1d87c087d9f",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "20e677c8d905da4ee7ceeaff826942994a8830be"
+    },
+    {
+      "identity_id": "N02-I01",
+      "stage_name": "Aureate Residences",
+      "path": "assets/pixel-stage-i/aureate-residences-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2891296,
+      "sha256": "cbec73243022468e738f38117fed62493b28d7d3a282486220b786f0d80110b9",
+      "git_blob_sha": "75294ce22598efd24eea73aa8eec5ef07732f35e",
+      "review_status": "revision_required"
+    },
+    {
+      "identity_id": "N02-I02",
+      "stage_name": "Meridian Market",
+      "path": "assets/pixel-stage-i/meridian-market-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2932882,
+      "sha256": "a714ffed91be5060ccb808b9523b1da9912c34a0625141ab480e677371d8f7bb",
+      "git_blob_sha": "dcbf8ce913b99648758aa51b70f220f103f41d65",
+      "review_status": "revision_required"
+    },
+    {
+      "identity_id": "N02-I03",
+      "stage_name": "Solara Labs",
+      "path": "assets/pixel-stage-i/solara-labs-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2926622,
+      "sha256": "4a289ea16d1c6c4f805ac19ea7693d14d240262d690fe94dfb593d42a3f02801",
+      "git_blob_sha": "0c850ecca48b6d8afd37013442fe99034f3f7fee",
+      "review_status": "revision_required"
+    },
+    {
+      "identity_id": "N02-I04",
+      "stage_name": "Velvet Hall",
+      "path": "assets/pixel-stage-i/velvet-hall-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2439159,
+      "sha256": "aaa8bfc4744e48b71f1c04ddcfe4cc833896f2e5833eb6d998f4cd8883532c5b",
+      "git_blob_sha": "5427c1558626a4b0dde4655dc4aa0320044ed863",
+      "review_status": "revision_required"
+    },
+    {
+      "identity_id": "N02-I05",
+      "stage_name": "Golden Obelisk",
+      "path": "assets/pixel-stage-i/golden-obelisk-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2415658,
+      "sha256": "afbecca1c2d72340c7b430797d8962477f5124ea6cd5817a8f4fff5242624ee4",
+      "git_blob_sha": "5062ce83315274294b2c12062a8fc072be05f190",
+      "review_status": "revision_required"
     }
   ],
   "additional_source_archives": [

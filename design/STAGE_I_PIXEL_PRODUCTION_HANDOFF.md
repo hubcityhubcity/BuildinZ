@@ -24,6 +24,14 @@ Neon Heights five-file Stage I visual review completed against the Stage I desig
 | [Midnight Lounge](../assets/pixel-stage-i/midnight-lounge-v2.png) | 70 / 70 / 265 / 280 | Terraced lounge and tall exterior screen retained. |
 | [Crown Spire](../assets/pixel-stage-i/crown-spire-v1.png) | 52 / 46 / 290 / 295 | Central crystal and radiating ribs retained. |
 
-Next produce Golden Crest Stage I. Use the selected architectural originals and compare each archive sprite before using it as a rendering reference. Exact registry sequence: Aureate Residences, Meridian Market, Solara Labs, Velvet Hall, Golden Obelisk. Bloodmoon Beacon remains a standalone candidate awaiting its own native review.
+Golden Crest has five Stage I first-pass portraits. The archive sprites use different building forms, so the selected repository architecture guided the silhouettes. The images decoded at 1024×1536 and matched their uploaded Git blob hashes.
+
+- [Aureate Residences](../assets/pixel-stage-i/aureate-residences-v1.png). Stepped balconies and rooftop pool retained. Site edges are tight.
+- [Meridian Market](../assets/pixel-stage-i/meridian-market-v1.png). Axial retail court and glazed dome retained. Architectural margin and pixel treatment need review.
+- [Solara Labs](../assets/pixel-stage-i/solara-labs-v1.png). Blue structural ribs and solar array retained. Side plinth approaches frame edges.
+- [Velvet Hall](../assets/pixel-stage-i/velvet-hall-v1.png). Art Deco canopy and setback roof lounge retained. Side edges need more room.
+- [Golden Obelisk](../assets/pixel-stage-i/golden-obelisk-v1.png). Tapered obelisk and flared base retained. Spire headroom and site edges are tight.
+
+All five need a stronger pixel-art pass. The material shading reads too close to the cinematic reference at composition scale. Next revise Aureate Residences and Meridian Market using the selected Neon Heights pixel portraits as style references and the Golden Crest v1s for geometry. Target full architecture and platform with comfortable sky and street space. Verify mounted names at native size and keep Golden Crest selection open until all five pass.
 
 Save for later trait design. Sky and distance ideas include a UFO, a blimp and a distant burning building. Street ideas include people shooting dice, an original arcade beat-em-up homage and four distinct color-striped turtles beside glowing ooze and a sewer grate. Frequencies and edition assignments are undecided.
