@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "recorded_date": "2026-11-19",
-  "repository_commit": "24389a82ca48c6da912a7084b2cbeb1c546f67f1",
+  "repository_commit": "f39707ff5e5acaf0d8107e2c68e1a4163a7b13b8",
   "scope_note": "Git tree inventory of every file under assets/. Selected means prototype-selected only, never final NFT certification.",
   "integrity_note": "Git blob SHA and byte length were read from the repository tree for all assets. SHA-256/dimensions are included only when already evidenced by a source audit or identity handoff; null is not treated as verified.",
   "summary": {
-    "asset_files": 294,
+    "asset_files": 297,
     "prototype_selected_stage_assets": 15,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
@@ -5863,6 +5863,69 @@
       "selected_for_lineage_review": false,
       "final_nft_certification": false,
       "evidence": "Native roof crops show amber-orange under both exterior roof wings, with warm-white galleries, charcoal infill and pale braces retained. Full composition preserves the venue massing and red performance accents."
+    },
+    {
+      "path": "assets/editions/crimson-commons-ember-hall-stage-1-cc-f06-v2.png",
+      "bytes": 2757299,
+      "sha256": "0c9bcf6a3c0586c51df8dbf5e4fdb721178baed0c30fc5780dd256f37c68573f",
+      "git_blob_sha": "b2d94696fe107f7c2370b74c1720e2115b3a05bb",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Ember Hall",
+      "stage": 1,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Wider framing retains roof wings, braces and hall. Conservative side clearance exceeds 80 px. Bounds estimated visually. Exact gold name verified in native crop."
+    },
+    {
+      "path": "assets/editions/crimson-commons-scarlet-palace-stage-2-cc-f06-v2.png",
+      "bytes": 2722316,
+      "sha256": "0c242efb4851680777eece8bc7de780ffb759d926284a548122ef5ba52bd0bc4",
+      "git_blob_sha": "76c0c933247b79d020250cede2db7dbf1cc78a64",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Scarlet Palace",
+      "stage": 2,
+      "building_type": "Entertainment",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Wider framing retains paired venue wings and central atrium. Conservative side clearance exceeds 80 px. Bounds estimated visually. Exact gold name verified in native crop."
+    },
+    {
+      "path": "assets/editions/crimson-commons-crown-of-flame-stage-3-cc-f06-v3.png",
+      "bytes": 2457745,
+      "sha256": "34904e55dd3b03f930366d0a28a0b3b14d62a70a0cd18a919c356f200cff6ab1",
+      "git_blob_sha": "e8a68596832c0c55226b1b8b5f7bdf238588bbce",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "edition-finish-candidate",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crown of Flame",
+      "stage": 3,
+      "building_type": "Landmark",
+      "finish_id": "CC-F06",
+      "finish_name": "Crimson Banner",
+      "selected_for_prototype": false,
+      "selected_for_lineage_review": false,
+      "final_nft_certification": false,
+      "evidence": "Wider framing retains beacon, stacked observation decks and burgundy pediment. Conservative spire headroom exceeds 180 px. Bounds estimated visually. Exact gold name verified in native crop."
     }
   ]
 }
