@@ -62,7 +62,15 @@ Reframed all five Shadow Market portraits: [Gloomstep Flats](../assets/pixel-sta
 
 Selected all five Shadow Market v2 portraits for Stage I. Exact mounted names passed native crop review. Native 31 px side strips contain no building or foundation, and composition review shows more than 47 px of vertical clearance. The housing wings, market passage, tech stack, recessed theater entrance and flared beacon tower remain legible. All PNGs decoded and matched recorded SHA-256. Collection release verification remains open.
 
-Next produce Skygarden District Stage I in registry order: Canopy Residences, Bloom Market, Seedlight Labs, Terrace Hall, Garden Beacon. Compare the established architecture and archive references before rendering.
+Skygarden District has five first-pass Stage I portraits. The selected architectural references guided the pergola housing, glass market arches, seed-shaped lab atrium, petal theater canopy and flared beacon. All five 1024×1536 PNGs decoded and matched their uploaded Git hashes.
+
+- [Canopy Residences](../assets/pixel-stage-i/canopy-residences-v1.png)
+- [Bloom Market](../assets/pixel-stage-i/bloom-market-v1.png)
+- [Seedlight Labs](../assets/pixel-stage-i/seedlight-labs-v1.png)
+- [Terrace Hall](../assets/pixel-stage-i/terrace-hall-v1.png)
+- [Garden Beacon](../assets/pixel-stage-i/garden-beacon-v1.png)
+
+Next refine the Skygarden set with stronger discrete pixel shapes and less smooth rendering. Pull back modestly to expose full foundations and leave room above the beacon crown. Verify exact mounted names in native crops and apply the 31 px side and 47 px vertical framing checks. All five remain revision candidates.
 
 Save for later trait design. Sky and distance ideas include a UFO, a blimp and a distant burning building. Street ideas include people shooting dice, an original arcade beat-em-up homage and four distinct color-striped turtles beside glowing ooze and a sewer grate. Frequencies and edition assignments are undecided.
 
