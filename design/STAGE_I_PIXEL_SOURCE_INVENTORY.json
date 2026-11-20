@@ -765,8 +765,10 @@
       "bytes": 2720693,
       "sha256": "cc1de8b82fc471ec517ee18832d8cd3ca4bae9a0d4a1b71e8de4112f240fddac",
       "git_blob_sha": "a5000fdf60491ae17cc473622821c63c35c76e73",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/canopy-residences-v1.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/canopy-residences-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "b171d3069fe1587bda957e1e9a0f2422350bbfc1"
     },
     {
       "identity_id": "N04-I02",
@@ -777,8 +779,10 @@
       "bytes": 2556107,
       "sha256": "2987360d8c4d61e62fbbc9d9c5efdc88f5b4fed90453b28e2d4038895e3d5849",
       "git_blob_sha": "f8aa1607eabf8080e37739609be5da6262dee961",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/bloom-market-v1.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/bloom-market-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "b171d3069fe1587bda957e1e9a0f2422350bbfc1"
     },
     {
       "identity_id": "N04-I03",
@@ -789,8 +793,10 @@
       "bytes": 2572413,
       "sha256": "a45adc27dd501b0c364954b99918163a7796a4d79a79a6b95c0521b8094a4f73",
       "git_blob_sha": "aa8b5b2dba0bc498b0fee6f3b3deadc5e3b1a443",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/seedlight-labs-v1.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/seedlight-labs-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "b171d3069fe1587bda957e1e9a0f2422350bbfc1"
     },
     {
       "identity_id": "N04-I04",
@@ -801,8 +807,10 @@
       "bytes": 2514716,
       "sha256": "08f9580a0193d0ea9bfe319d9bed6cf8377d0d90f82f6310754011094afb45de",
       "git_blob_sha": "a8a0961244807503dd2e712f2bdee00bc30d23b2",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/terrace-hall-v1.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/terrace-hall-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "b171d3069fe1587bda957e1e9a0f2422350bbfc1"
     },
     {
       "identity_id": "N04-I05",
@@ -813,8 +821,10 @@
       "bytes": 2586954,
       "sha256": "d8b6c1b9be31e5a648128d8e469a5dd7bfefb1ed72a39de10a64ff964354a7f7",
       "git_blob_sha": "0e882b644f46576962fece04f9a14e0947023280",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/garden-beacon-v1.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/garden-beacon-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "b171d3069fe1587bda957e1e9a0f2422350bbfc1"
     }
   ],
   "additional_source_archives": [

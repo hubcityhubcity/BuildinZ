@@ -78,7 +78,9 @@ Refined all five Skygarden portraits with sharper pixel clusters in the façade,
 - [Terrace Hall v2](../assets/pixel-stage-i/terrace-hall-v2.png)
 - [Garden Beacon v2](../assets/pixel-stage-i/garden-beacon-v2.png)
 
-Next inspect exact signs and the 31 px side/47 px vertical framing minimum in native crops. Compare the stepped lab wings and theater canopy against their sources. Canopy Residences and Terrace Hall still appear tight at the sides. Correct any failures before selecting the Skygarden set.
+Selected all five Skygarden v2 portraits under delegated Stage I review. Native crops confirmed the exact mounted names. The 31 px side strips show sky, landscaping, street and distant structures. The primary buildings and foundations stay inside the side strips. The solid roofs and crowns clear the 47 px vertical minimum in the full-frame review. Garden Beacon's light beam extends upward beyond the solid crown. Each PNG decoded and matched recorded SHA-256. The pergola, market arches, seed atrium, theater petals and flared beacon read consistently with the established architecture.
+
+Next produce Velocity Row Stage I in registry order: Draftline Lofts, Pitlane Plaza, Vector Works, Rush Arena, Pole Beacon. Compare the selected architectural originals and archive sprites before generating. Preserve quiet sky and foreground space. Bloodmoon Beacon remains pending native review.
 
 Save for later trait design. Sky and distance ideas include a UFO, a blimp and a distant burning building. Street ideas include people shooting dice, an original arcade beat-em-up homage and four distinct color-striped turtles beside glowing ooze and a sewer grate. Frequencies and edition assignments are undecided.
 
