@@ -686,5 +686,29 @@
       "evolution_webp_entries": 50,
       "classification": "reference archive"
     }
+  ],
+  "portrait_studies": [
+    {
+      "identity_id": "N02-I01",
+      "stage_name": "Aureate Residences",
+      "path": "assets/pixel-stage-i/aureate-residences-wide-study-v1.png",
+      "source_path": "assets/pixel-stage-i/aureate-residences-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2119599,
+      "sha256": "54db40a107a445d405ad56fdb47cc0350ccc748f4ad7857f323d01b9602cbb2c",
+      "git_blob_sha": "976c1d5fc3951fb1bfbea1933f02cb91c5ac9465",
+      "status": "framing_study"
+    },
+    {
+      "identity_id": "N02-I02",
+      "stage_name": "Meridian Market",
+      "path": "assets/pixel-stage-i/meridian-market-wide-study-v1.png",
+      "source_path": "assets/pixel-stage-i/meridian-market-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2224972,
+      "sha256": "13021a141814b7dfc3ba53b03e5d81e2b6e1fb9edf68074e96bc0ff205882b44",
+      "git_blob_sha": "54cc41123734d3095171a30251ac1bf1af923841",
+      "status": "framing_study"
+    }
   ]
 }
