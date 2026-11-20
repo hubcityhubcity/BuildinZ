@@ -909,6 +909,17 @@
       "git_blob_sha": "dc29f11a5ab38c267cccf5ae72168bc8fb505906",
       "review_status": "repository_lineage_review_required",
       "previous_candidate_path": "assets/pixel-stage-i/ember-residences-v1.png"
+    },
+    {
+      "identity_id": "N06-I01",
+      "stage_name": "Oasis Residences",
+      "path": "assets/pixel-stage-i/oasis-residences-v1.png",
+      "architecture_reference": "assets/candidates/royal-mirage-oasis-residences-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3267016,
+      "sha256": "8756c63b5ac2465f0a0710068056b0217b400cbb007e028b34d74072a238012d",
+      "git_blob_sha": "c01f0384a444694c6fbf9a04b4933cf082b74f44",
+      "review_status": "side_margin_revision_required"
     }
   ],
   "additional_source_archives": [
