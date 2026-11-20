@@ -891,13 +891,14 @@
     {
       "identity_id": "N10-I01",
       "stage_name": "Ember Residences",
-      "path": "assets/pixel-stage-i/ember-residences-v1.png",
+      "path": "assets/pixel-stage-i/ember-residences-v2.png",
       "architecture_reference": "BuildinZ_Base_Art.zip / Crimson Commons/CC-01 Terraced Residence/CC-01_Stage_I.png",
       "dimensions": "1024x1536",
-      "bytes": 2279791,
-      "sha256": "fc2de1ba28ac262aa8d2da3f0c832b959452d0e105e342ed9aedeadf7abdf760",
-      "git_blob_sha": "6574bca2ae5f6de038bc0a123032f3c5809c7e02",
-      "review_status": "framing_and_repository_lineage_review_required"
+      "bytes": 2360270,
+      "sha256": "748273afe86c4bb6344e3d0152580f5b3ed03681a3bc47bbb2eaa1c4b1e741fe",
+      "git_blob_sha": "dc29f11a5ab38c267cccf5ae72168bc8fb505906",
+      "review_status": "repository_lineage_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/ember-residences-v1.png"
     }
   ],
   "additional_source_archives": [
