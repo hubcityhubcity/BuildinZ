@@ -759,57 +759,62 @@
     {
       "identity_id": "N04-I01",
       "stage_name": "Canopy Residences",
-      "path": "assets/pixel-stage-i/canopy-residences-v1.png",
+      "path": "assets/pixel-stage-i/canopy-residences-v2.png",
       "architecture_reference": "assets/candidates/skygarden-district-canopy-residences-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 3038456,
-      "sha256": "60815529dbec9a7c306d23becdd4b76b17d7903232135b8f4a4ab72671f268bd",
-      "git_blob_sha": "4f3f0967890c7a820e93d2092117ffefc4d69914",
-      "review_status": "revision_required"
+      "bytes": 2720693,
+      "sha256": "cc1de8b82fc471ec517ee18832d8cd3ca4bae9a0d4a1b71e8de4112f240fddac",
+      "git_blob_sha": "a5000fdf60491ae17cc473622821c63c35c76e73",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/canopy-residences-v1.png"
     },
     {
       "identity_id": "N04-I02",
       "stage_name": "Bloom Market",
-      "path": "assets/pixel-stage-i/bloom-market-v1.png",
+      "path": "assets/pixel-stage-i/bloom-market-v2.png",
       "architecture_reference": "assets/candidates/skygarden-district-bloom-market-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2835797,
-      "sha256": "53584828dd9d31ce84782d5e5488bb3e496402e6a3762947763e12976b11d430",
-      "git_blob_sha": "8a8cc0b80f098019a1123a08e94d66bc0125ad3b",
-      "review_status": "revision_required"
+      "bytes": 2556107,
+      "sha256": "2987360d8c4d61e62fbbc9d9c5efdc88f5b4fed90453b28e2d4038895e3d5849",
+      "git_blob_sha": "f8aa1607eabf8080e37739609be5da6262dee961",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/bloom-market-v1.png"
     },
     {
       "identity_id": "N04-I03",
       "stage_name": "Seedlight Labs",
-      "path": "assets/pixel-stage-i/seedlight-labs-v1.png",
+      "path": "assets/pixel-stage-i/seedlight-labs-v2.png",
       "architecture_reference": "assets/candidates/skygarden-district-seedlight-labs-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2998083,
-      "sha256": "2baa51b963541945b6b24a6aad4ae42cfea52cde38e31040d568c59f63e5277a",
-      "git_blob_sha": "e0c43845169d74d0bb814b547a0c7bf66de7f1b0",
-      "review_status": "revision_required"
+      "bytes": 2572413,
+      "sha256": "a45adc27dd501b0c364954b99918163a7796a4d79a79a6b95c0521b8094a4f73",
+      "git_blob_sha": "aa8b5b2dba0bc498b0fee6f3b3deadc5e3b1a443",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/seedlight-labs-v1.png"
     },
     {
       "identity_id": "N04-I04",
       "stage_name": "Terrace Hall",
-      "path": "assets/pixel-stage-i/terrace-hall-v1.png",
+      "path": "assets/pixel-stage-i/terrace-hall-v2.png",
       "architecture_reference": "assets/candidates/skygarden-district-terrace-hall-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 3037100,
-      "sha256": "22c89cde3d516ca84c06f5250eacbdc70670c91ae8f3e98129a8b8f83c0ae841",
-      "git_blob_sha": "12913cc3cfdf66649be92fff5867ba7682cabcd6",
-      "review_status": "revision_required"
+      "bytes": 2514716,
+      "sha256": "08f9580a0193d0ea9bfe319d9bed6cf8377d0d90f82f6310754011094afb45de",
+      "git_blob_sha": "a8a0961244807503dd2e712f2bdee00bc30d23b2",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/terrace-hall-v1.png"
     },
     {
       "identity_id": "N04-I05",
       "stage_name": "Garden Beacon",
-      "path": "assets/pixel-stage-i/garden-beacon-v1.png",
+      "path": "assets/pixel-stage-i/garden-beacon-v2.png",
       "architecture_reference": "assets/candidates/skygarden-district-garden-beacon-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2691405,
-      "sha256": "50d3bb87c11b9c44ba3e5af0e4dca13a5813e07e0522ea203683949328ea866e",
-      "git_blob_sha": "b2d89faac3d48a0eded6ba92fbb3f84ac7664c18",
-      "review_status": "revision_required"
+      "bytes": 2586954,
+      "sha256": "d8b6c1b9be31e5a648128d8e469a5dd7bfefb1ed72a39de10a64ff964354a7f7",
+      "git_blob_sha": "0e882b644f46576962fece04f9a14e0947023280",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/garden-beacon-v1.png"
     }
   ],
   "additional_source_archives": [

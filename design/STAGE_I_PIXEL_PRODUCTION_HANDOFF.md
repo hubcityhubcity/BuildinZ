@@ -70,7 +70,15 @@ Skygarden District has five first-pass Stage I portraits. The selected architect
 - [Terrace Hall](../assets/pixel-stage-i/terrace-hall-v1.png)
 - [Garden Beacon](../assets/pixel-stage-i/garden-beacon-v1.png)
 
-Next refine the Skygarden set with stronger discrete pixel shapes and less smooth rendering. Pull back modestly to expose full foundations and leave room above the beacon crown. Verify exact mounted names in native crops and apply the 31 px side and 47 px vertical framing checks. All five remain revision candidates.
+Refined all five Skygarden portraits with sharper pixel clusters in the façade, foliage and plaza. The compositions retain botanical daylight and the signature architecture. Garden Beacon's solid crown is visible and its light beam extends to the top. All five PNGs decoded at 1024×1536 and matched uploaded Git hashes. The prior versions remain available.
+
+- [Canopy Residences v2](../assets/pixel-stage-i/canopy-residences-v2.png)
+- [Bloom Market v2](../assets/pixel-stage-i/bloom-market-v2.png)
+- [Seedlight Labs v2](../assets/pixel-stage-i/seedlight-labs-v2.png)
+- [Terrace Hall v2](../assets/pixel-stage-i/terrace-hall-v2.png)
+- [Garden Beacon v2](../assets/pixel-stage-i/garden-beacon-v2.png)
+
+Next inspect exact signs and the 31 px side/47 px vertical framing minimum in native crops. Compare the stepped lab wings and theater canopy against their sources. Canopy Residences and Terrace Hall still appear tight at the sides. Correct any failures before selecting the Skygarden set.
 
 Save for later trait design. Sky and distance ideas include a UFO, a blimp and a distant burning building. Street ideas include people shooting dice, an original arcade beat-em-up homage and four distinct color-striped turtles beside glowing ooze and a sewer grate. Frequencies and edition assignments are undecided.
 
