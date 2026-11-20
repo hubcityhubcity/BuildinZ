@@ -887,6 +887,17 @@
       "git_blob_sha": "5362d9bd107bae21e00f6ae02594f57a8ce21955",
       "review_status": "native_review_required",
       "previous_candidate_path": "assets/pixel-stage-i/pole-beacon-v1.png"
+    },
+    {
+      "identity_id": "N10-I01",
+      "stage_name": "Ember Residences",
+      "path": "assets/pixel-stage-i/ember-residences-v1.png",
+      "architecture_reference": "BuildinZ_Base_Art.zip / Crimson Commons/CC-01 Terraced Residence/CC-01_Stage_I.png",
+      "dimensions": "1024x1536",
+      "bytes": 2279791,
+      "sha256": "fc2de1ba28ac262aa8d2da3f0c832b959452d0e105e342ed9aedeadf7abdf760",
+      "git_blob_sha": "6574bca2ae5f6de038bc0a123032f3c5809c7e02",
+      "review_status": "framing_and_repository_lineage_review_required"
     }
   ],
   "additional_source_archives": [
