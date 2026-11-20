@@ -685,6 +685,61 @@
       "previous_candidate_path": "assets/pixel-stage-i/golden-obelisk-v2.png",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "71b695fc7f090b876551734c737e31eecf50c64e"
+    },
+    {
+      "identity_id": "N03-I01",
+      "stage_name": "Gloomstep Flats",
+      "path": "assets/pixel-stage-i/gloomstep-flats-v1.png",
+      "architecture_reference": "assets/candidates/shadow-market-gloomstep-flats-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2817551,
+      "sha256": "cdb8e17249e0220072db5bec3d22d9891a40055ac8546977c3af877d059161b9",
+      "git_blob_sha": "371361273d0a195044efef4eb5de80dcde408d7c",
+      "review_status": "native_review_required"
+    },
+    {
+      "identity_id": "N03-I02",
+      "stage_name": "Lantern Row",
+      "path": "assets/pixel-stage-i/lantern-row-v1.png",
+      "architecture_reference": "assets/candidates/shadow-market-lantern-row-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2917684,
+      "sha256": "8d0ec6015667b712067d6e5ed81d43e0d6203dcdec7456bd31ed648aca612f32",
+      "git_blob_sha": "eeb46c459427485ba80a65ea1af81a976eac2380",
+      "review_status": "native_review_required"
+    },
+    {
+      "identity_id": "N03-I03",
+      "stage_name": "Cipher Works",
+      "path": "assets/pixel-stage-i/cipher-works-v1.png",
+      "architecture_reference": "assets/candidates/shadow-market-cipher-works-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2689974,
+      "sha256": "53d0168906678c09d9e1deb539a238fbbc6385617e0349d8ebad001a51d024bd",
+      "git_blob_sha": "f3d1112cbc62525fc9d23e1ae09383f627117390",
+      "review_status": "native_review_required"
+    },
+    {
+      "identity_id": "N03-I04",
+      "stage_name": "Backroom Stage",
+      "path": "assets/pixel-stage-i/backroom-stage-v1.png",
+      "architecture_reference": "assets/candidates/shadow-market-backroom-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2691819,
+      "sha256": "3db149289ccd927604036ad2217e1d49999e4979b96c0ec5e2cd640bc56fa134",
+      "git_blob_sha": "0a3e2b2ce6ace24c6514f5865e7045fc8da918d0",
+      "review_status": "native_review_required"
+    },
+    {
+      "identity_id": "N03-I05",
+      "stage_name": "Veil Beacon",
+      "path": "assets/pixel-stage-i/veil-beacon-v1.png",
+      "architecture_reference": "assets/candidates/shadow-market-veil-beacon-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2447287,
+      "sha256": "7da79f3bbede894b531afad2e6526977188c1cee22e46a2cb15d3a1b925cb5b1",
+      "git_blob_sha": "96ca0af09f95fcc006c04e03bc4bccd116102ef1",
+      "review_status": "native_review_required"
     }
   ],
   "additional_source_archives": [

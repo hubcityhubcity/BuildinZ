@@ -50,7 +50,15 @@ Selected all five Golden Crest v3 portraits for Stage I under delegated review. 
 - [Velvet Hall](../assets/pixel-stage-i/velvet-hall-v3.png)
 - [Golden Obelisk](../assets/pixel-stage-i/golden-obelisk-v3.png)
 
-Next produce Shadow Market Stage I in registry order: Gloomstep Flats, Lantern Row, Cipher Works, Backroom Stage, Veil Beacon. Compare the isolated archive sprites against the selected architectural originals before rendering. Use the selected Golden Crest and Neon Heights portraits for framing and intentional pixel treatment. Preserve the Shadow Market palette and leave open sky and street space.
+Shadow Market has five first-pass Stage I portraits with the charcoal, amber and indigo neighborhood palette. The archive sprites differ from the established building silhouettes, so the selected repository architecture governed the render. Composition review confirmed the exact mounted names and the characteristic silhouettes. The five 1024×1536 PNGs decoded and matched their Git hashes.
+
+- [Gloomstep Flats](../assets/pixel-stage-i/gloomstep-flats-v1.png)
+- [Lantern Row](../assets/pixel-stage-i/lantern-row-v1.png)
+- [Cipher Works](../assets/pixel-stage-i/cipher-works-v1.png)
+- [Backroom Stage](../assets/pixel-stage-i/backroom-stage-v1.png)
+- [Veil Beacon](../assets/pixel-stage-i/veil-beacon-v1.png)
+
+Next inspect native sign crops and full platform clearance. The near-edge foundations on Gloomstep Flats, Lantern Row and Cipher Works need attention, along with the Veil Beacon tip and base. Verify against the 31 px side and 47 px vertical gate. Keep the quieter sky and street foreground for later layers. Select passing files after review before moving to the next neighborhood.
 
 Save for later trait design. Sky and distance ideas include a UFO, a blimp and a distant burning building. Street ideas include people shooting dice, an original arcade beat-em-up homage and four distinct color-striped turtles beside glowing ooze and a sewer grate. Frequencies and edition assignments are undecided.
 
