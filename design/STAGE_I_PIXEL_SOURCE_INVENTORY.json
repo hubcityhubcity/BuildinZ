@@ -873,14 +873,16 @@
     {
       "identity_id": "N05-I04",
       "stage_name": "Rush Arena",
-      "path": "assets/pixel-stage-i/rush-arena-v2.png",
+      "path": "assets/pixel-stage-i/rush-arena-v3.png",
       "architecture_reference": "assets/candidates/velocity-row-rush-arena-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2494910,
-      "sha256": "e2d6c40befebb6d2782bc93d109caacd6fccd4603c01fc9e572a870c45392795",
-      "git_blob_sha": "b6ee2fe47f473c6cc697ad5c31fb0a29577319ff",
-      "review_status": "pixel_treatment_revision_required",
-      "previous_candidate_path": "assets/pixel-stage-i/rush-arena-v1.png"
+      "bytes": 2512976,
+      "sha256": "914143c80611b92e7c65e1bece4ca50b9ed1bd92834949fee8755b408927b914",
+      "git_blob_sha": "5d08ea1d1a4569fbfb56b72d643eb8d2022367f8",
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/rush-arena-v2.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "170a02d95ed423095a8f3da410c83e00020d8588"
     },
     {
       "identity_id": "N05-I05",

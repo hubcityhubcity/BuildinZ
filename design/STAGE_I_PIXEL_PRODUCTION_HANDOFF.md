@@ -145,3 +145,13 @@ Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The sele
 [Pole Beacon v3](../assets/pixel-stage-i/pole-beacon-v3.png) passed delegated base review. Its centered tower camera, raised deck and shallow platform angle agree with the existing circular landmarks, particularly Veil Beacon and Golden Obelisk. The sign is exact at full resolution, the spire and platform clear the framing minima, and the PNG decoded and matched both recorded hashes.
 
 [Vector Works v3](../assets/pixel-stage-i/vector-works-v3.png) passed delegated base review. The exact sign, silver braces, stepped lab, blue test display and fenced arrival remain visible. Stepped cloud edges and broken pavement reflections match the pixel direction. The foundation clears both 31 px side margins and the antenna and base clear 47 px vertically. It decoded at 1024×1536 and matched its uploaded blob hash. The selected Stage I set contains 25 identities. Continue with Rush Arena's pixel-style pass.
+
+[Rush Arena v3](../assets/pixel-stage-i/rush-arena-v3.png) passed delegated Stage I review. The exact mounted name, oval roof opening, red seating bowl and curved glazed façade carry through. Stepped roof contours, clouds and broken street reflections match the selected Velocity Row portraits. The foundation clears both 31 px side strips by visual review and the roof and base clear the 47 px vertical strips. Sky and foreground street remain open. The PNG decoded at 1024×1536 and matched its uploaded blob hash. Velocity Row has 5 of 5 selected Stage I bases. The collection has 26 of 50.
+
+For Royal Mirage, the asset manifest identifies the following source PNGs. Obtain and verify the full-resolution bytes before the pixel pass.
+
+- [Mooncourt Lounge](../assets/candidates/royal-mirage-mooncourt-lounge-stage-1-v1.png)
+- [Oasis Residences](../assets/candidates/royal-mirage-oasis-residences-stage-1-v1.png)
+- [Prism Works](../assets/candidates/royal-mirage-prism-works-stage-1-v1.png)
+- [Royal Minaret](../assets/candidates/royal-mirage-royal-minaret-stage-1-v1.png)
+- [Souk Plaza](../assets/candidates/royal-mirage-souk-plaza-stage-1-v1.png)
