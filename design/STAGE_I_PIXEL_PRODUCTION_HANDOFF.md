@@ -127,3 +127,9 @@ The asset manifest and Git tree agree on the path, blob SHA and byte length of a
 | Bloodmoon Beacon | [PNG](../assets/candidates/crimson-commons-bloodmoon-beacon-stage-1-v2.png) | Keep the already selected Stage I pixel portrait. The repository reference remains available for lineage comparison. |
 
 Use the four unselected identities’ repository PNGs as inputs once their bytes are available. Verify each against its recorded blob SHA before image generation. Crimson Commons square archive artwork remains reference material. Velocity Row native review can proceed independently.
+
+## Velocity Row Stage I review
+
+[Draftline Lofts v3](../assets/pixel-stage-i/draftline-lofts-v3.png) passed delegated base selection. The stepped pixel contours and street reflections are visible at full resolution. The unequal rounded residential blocks, swept roof profiles, balconies, red bands and exact mounted sign carry through. The foundation visibly clears 31 px at both sides and the solid roof and base clear 47 px vertically. Sky and street remain open.
+
+[Pitlane Plaza v4](../assets/pixel-stage-i/pitlane-plaza-v4.png) keeps the mounted sign, rounded canopy, supports, paired retail wings and open lane in a three-quarter view. The foundation enters both 31 px side margins. Next, pull back while keeping v4's camera and architecture, then repeat the native margin check. Vector Works, Rush Arena and Pole Beacon still need their pixel-style passes. Both new PNGs decoded at 1024×1536 and their uploaded hashes matched. The selected base set contains 22 identities.

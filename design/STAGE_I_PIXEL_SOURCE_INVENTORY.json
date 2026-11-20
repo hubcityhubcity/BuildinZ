@@ -831,26 +831,28 @@
     {
       "identity_id": "N05-I01",
       "stage_name": "Draftline Lofts",
-      "path": "assets/pixel-stage-i/draftline-lofts-v2.png",
+      "path": "assets/pixel-stage-i/draftline-lofts-v3.png",
       "architecture_reference": "assets/candidates/velocity-row-draftline-lofts-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2509451,
-      "sha256": "af5acd2d63b8126faf52675053bc6be861920e666fd7969a186e9612e6d39d07",
-      "git_blob_sha": "b4a078ad56492f61fba0b5224f631f54a73aed09",
-      "review_status": "pixel_treatment_revision_required",
-      "previous_candidate_path": "assets/pixel-stage-i/draftline-lofts-v1.png"
+      "bytes": 2981176,
+      "sha256": "b745a36283ed242c24a4f430e1b9e01b659703267df7f4a3efd377252f442bbf",
+      "git_blob_sha": "47463a61781d205493a9f6430774efa220bb26cb",
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/draftline-lofts-v2.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "ba7d3b3628dcfccdfd9dd15a38cd121c9a524139"
     },
     {
       "identity_id": "N05-I02",
       "stage_name": "Pitlane Plaza",
-      "path": "assets/pixel-stage-i/pitlane-plaza-v3.png",
+      "path": "assets/pixel-stage-i/pitlane-plaza-v4.png",
       "architecture_reference": "assets/candidates/velocity-row-pitlane-plaza-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2380928,
-      "sha256": "ea635289964536becd256587ca159770cd9bb3fe62028901feec0c6cc07335ec",
-      "git_blob_sha": "836cefa5a267d1e32e61066e5149a7047f322661",
-      "review_status": "camera_alignment_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/pitlane-plaza-v2.png"
+      "bytes": 2584345,
+      "sha256": "cd4edb40a68705caaf1461ca87a78df013580551f04f01c94f0dc89ea4ff8438",
+      "git_blob_sha": "41c72380e28ebed17d9517139082676b659f8a1d",
+      "review_status": "side_margin_revision_required",
+      "previous_candidate_path": "assets/pixel-stage-i/pitlane-plaza-v3.png"
     },
     {
       "identity_id": "N05-I03",
