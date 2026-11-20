@@ -695,8 +695,10 @@
       "bytes": 2576049,
       "sha256": "aac0f1d5a7e0b63efbdf1b89965cb0c8e9969af230a15a2a7e5a4945dd13c61e",
       "git_blob_sha": "e1ccf1d53638de317774c114b414b9a8e0b409ce",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/gloomstep-flats-v1.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/gloomstep-flats-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "f79f6dbfadf5cd8db9f8a4045c2137f02b6934a2"
     },
     {
       "identity_id": "N03-I02",
@@ -707,8 +709,10 @@
       "bytes": 2650076,
       "sha256": "56724ee53ea137c844d68acf334fbc72f53dfde00442ba6e1a4ddd24c46cb38a",
       "git_blob_sha": "26eecfe82e7fc9a1682cb41008a7fcf72a7d6d10",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/lantern-row-v1.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/lantern-row-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "f79f6dbfadf5cd8db9f8a4045c2137f02b6934a2"
     },
     {
       "identity_id": "N03-I03",
@@ -719,8 +723,10 @@
       "bytes": 2533682,
       "sha256": "b7c6f19d8074baf3442f801df7c02362e722ed46927033d91bb26eadc2a17612",
       "git_blob_sha": "fc76d373942f20a9325e610aa32e124df09dccca",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/cipher-works-v1.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/cipher-works-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "f79f6dbfadf5cd8db9f8a4045c2137f02b6934a2"
     },
     {
       "identity_id": "N03-I04",
@@ -731,8 +737,10 @@
       "bytes": 2561911,
       "sha256": "c11663f10df1a638b7983b6e7587e45921de7149f8872a23a5ab2ba3ca5aa12a",
       "git_blob_sha": "db518a0ef27c1ccbf6a91f2d52b9719f8c61f4ef",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/backroom-stage-v1.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/backroom-stage-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "f79f6dbfadf5cd8db9f8a4045c2137f02b6934a2"
     },
     {
       "identity_id": "N03-I05",
@@ -743,8 +751,10 @@
       "bytes": 2348116,
       "sha256": "860ac703c762fe616b655acbb5cd814e3d040fc1471c420c9aa099dbe5be9c85",
       "git_blob_sha": "7f4031869b93cf3226c5586b4d1777de513ba1a5",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/veil-beacon-v1.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/veil-beacon-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "f79f6dbfadf5cd8db9f8a4045c2137f02b6934a2"
     }
   ],
   "additional_source_archives": [
