@@ -657,24 +657,24 @@
     {
       "identity_id": "N02-I04",
       "stage_name": "Velvet Hall",
-      "path": "assets/pixel-stage-i/velvet-hall-v2.png",
+      "path": "assets/pixel-stage-i/velvet-hall-v3.png",
       "dimensions": "1024x1536",
-      "bytes": 1998639,
-      "sha256": "7784540ba64ce01a10c0b216fe43356b4f5254a51fc9ee387fd8c4a35955a5bd",
-      "git_blob_sha": "2ae90af55f13c5919ad89dea18756b77b186324d",
-      "review_status": "framing_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/velvet-hall-v1.png"
+      "bytes": 2046647,
+      "sha256": "c3def55cc3a62f83c014697354156995b7317cb8b7ec496cbb7a557a6a0ea5fc",
+      "git_blob_sha": "c8acb45c988a6baa9ef57d40f4e5f20c35717183",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/velvet-hall-v2.png"
     },
     {
       "identity_id": "N02-I05",
       "stage_name": "Golden Obelisk",
-      "path": "assets/pixel-stage-i/golden-obelisk-v2.png",
+      "path": "assets/pixel-stage-i/golden-obelisk-v3.png",
       "dimensions": "1024x1536",
-      "bytes": 2076769,
-      "sha256": "0701bcf9115634774355157fe539cea1ffcd2a6ee00a46b76be0f5c77369c2f0",
-      "git_blob_sha": "9be8f766a7f3359635d62effd089e2dc5cfd929c",
-      "review_status": "framing_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/golden-obelisk-v1.png"
+      "bytes": 2024332,
+      "sha256": "78a3149953576af6421ef585f4c1464ffd6b75c0e0e0153830a3e52d56387767",
+      "git_blob_sha": "c5abac5ee8db87869120a929f383f9c4a008bbc1",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/golden-obelisk-v2.png"
     }
   ],
   "additional_source_archives": [
