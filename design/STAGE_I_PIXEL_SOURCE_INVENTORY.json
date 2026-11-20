@@ -829,57 +829,62 @@
     {
       "identity_id": "N05-I01",
       "stage_name": "Draftline Lofts",
-      "path": "assets/pixel-stage-i/draftline-lofts-v1.png",
+      "path": "assets/pixel-stage-i/draftline-lofts-v2.png",
       "architecture_reference": "assets/candidates/velocity-row-draftline-lofts-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2607464,
-      "sha256": "67b83b5fc3c47e0550ef265ae5a500617da9bb7d73c71d19c7252238ae5c36bc",
-      "git_blob_sha": "8ca537305bb68006829cf09cdac361d484c0d78d",
-      "review_status": "native_review_required"
+      "bytes": 2509451,
+      "sha256": "af5acd2d63b8126faf52675053bc6be861920e666fd7969a186e9612e6d39d07",
+      "git_blob_sha": "b4a078ad56492f61fba0b5224f631f54a73aed09",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/draftline-lofts-v1.png"
     },
     {
       "identity_id": "N05-I02",
       "stage_name": "Pitlane Plaza",
-      "path": "assets/pixel-stage-i/pitlane-plaza-v1.png",
+      "path": "assets/pixel-stage-i/pitlane-plaza-v2.png",
       "architecture_reference": "assets/candidates/velocity-row-pitlane-plaza-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2494469,
-      "sha256": "29e3b4da6f34959b702f1c05b428c7bcb0ca4eff83ab65bff65c2cd51fd1f1f6",
-      "git_blob_sha": "bf60966cfa1849406cb071b7cac41b12ffd52d72",
-      "review_status": "native_review_required"
+      "bytes": 2327190,
+      "sha256": "21759c7b2a2a3ffef75829ecf08a45deb767b4e6cb9f4d74128031b1679033ee",
+      "git_blob_sha": "391e91fed5c7d6b0e68ff5fbf3124b629c9b792d",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/pitlane-plaza-v1.png"
     },
     {
       "identity_id": "N05-I03",
       "stage_name": "Vector Works",
-      "path": "assets/pixel-stage-i/vector-works-v1.png",
+      "path": "assets/pixel-stage-i/vector-works-v2.png",
       "architecture_reference": "assets/candidates/velocity-row-vector-works-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2760829,
-      "sha256": "bf5537edfd56a8213ea7017eb9c437f005bc2a1047a899daae0a5b828bbdfc0e",
-      "git_blob_sha": "17f322237e32749ff1a005bc0dbb5b750ec874aa",
-      "review_status": "native_review_required"
+      "bytes": 2580034,
+      "sha256": "b0b0d7ab623f42f8a0422cc6b25510ff818504f03f1bd1d4663037585f49867e",
+      "git_blob_sha": "8e0f82db650731a3a016de7f0df0ff6f6335b76e",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/vector-works-v1.png"
     },
     {
       "identity_id": "N05-I04",
       "stage_name": "Rush Arena",
-      "path": "assets/pixel-stage-i/rush-arena-v1.png",
+      "path": "assets/pixel-stage-i/rush-arena-v2.png",
       "architecture_reference": "assets/candidates/velocity-row-rush-arena-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2705208,
-      "sha256": "4d2b93d86720479c51effc0b0a0bb1684023e347e3b3f0556757557d80060d41",
-      "git_blob_sha": "9e7b2a24f21542d566ae995747cc7145d08eedeb",
-      "review_status": "native_review_required"
+      "bytes": 2494910,
+      "sha256": "e2d6c40befebb6d2782bc93d109caacd6fccd4603c01fc9e572a870c45392795",
+      "git_blob_sha": "b6ee2fe47f473c6cc697ad5c31fb0a29577319ff",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/rush-arena-v1.png"
     },
     {
       "identity_id": "N05-I05",
       "stage_name": "Pole Beacon",
-      "path": "assets/pixel-stage-i/pole-beacon-v1.png",
+      "path": "assets/pixel-stage-i/pole-beacon-v2.png",
       "architecture_reference": "assets/candidates/velocity-row-pole-beacon-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2403288,
-      "sha256": "3e3eb6ee677e832ea0c3511a84a37209d96a7eab08e5278f1d7a1c323b89793f",
-      "git_blob_sha": "a63be1eea193bc6638ca88af5ccd5d6dfbeb977a",
-      "review_status": "native_review_required"
+      "bytes": 2343165,
+      "sha256": "cb4cd3087deb1d197125989fd1486f4ec5e93d0eb7486fbed0b8e4cab4479b30",
+      "git_blob_sha": "5362d9bd107bae21e00f6ae02594f57a8ce21955",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/pole-beacon-v1.png"
     }
   ],
   "additional_source_archives": [

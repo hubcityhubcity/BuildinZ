@@ -88,7 +88,15 @@ Velocity Row has five standalone Stage I candidates. The selected originals gove
 - [Rush Arena](../assets/pixel-stage-i/rush-arena-v1.png)
 - [Pole Beacon](../assets/pixel-stage-i/pole-beacon-v1.png)
 
-Next inspect native signage, geometry and the 31 px side and 47 px vertical margins before selecting. Vector Works and Rush Arena foundations are close to the frame. Pole Beacon has a tight spire tip and side platform. Reframe confirmed failures while preserving the established forms. Bloodmoon Beacon remains pending native review.
+The v2 reframes below preserve the five silhouettes and show more sky and street. All five PNGs decoded at 1024×1536, their Git blob hashes matched and native-scale sign crops showed the exact mounted names. The smooth curves and highlights still read as rendered in the sign crops. Keep these as candidates while checking pixel treatment against the Neon Heights references.
+
+- [Draftline Lofts v2](../assets/pixel-stage-i/draftline-lofts-v2.png)
+- [Pitlane Plaza v2](../assets/pixel-stage-i/pitlane-plaza-v2.png)
+- [Vector Works v2](../assets/pixel-stage-i/vector-works-v2.png)
+- [Rush Arena v2](../assets/pixel-stage-i/rush-arena-v2.png)
+- [Pole Beacon v2](../assets/pixel-stage-i/pole-beacon-v2.png)
+
+Next compare v2 native crops from the façade, glazing, sky and street to the selected Neon Heights pixel artwork. Check the 31 px side and 47 px vertical strips on all five, with particular attention to foundations and the solid spire. Preserve v1 and v2 as references if a stronger pixel-art pass is needed. Bloodmoon Beacon remains pending native review.
 
 Save for later trait design. Sky and distance ideas include a UFO, a blimp and a distant burning building. Street ideas include people shooting dice, an original arcade beat-em-up homage and four distinct color-striped turtles beside glowing ooze and a sewer grate. Frequencies and edition assignments are undecided.
 
