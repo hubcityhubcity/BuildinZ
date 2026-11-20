@@ -561,7 +561,9 @@
       "dimensions": "1024x1536",
       "bytes": 2235228,
       "sha256": "8f9a2df8b94f1fc81b7f6eb36d6256729f163ec9b5ca54655b9e2ff21bead0b8",
-      "git_blob_sha": "bc3a4aae4538d654e50f2ef77f7546698b1b20c6"
+      "git_blob_sha": "bc3a4aae4538d654e50f2ef77f7546698b1b20c6",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "4aa26bb83df463595f79b686464fb67cce49628b"
     },
     {
       "identity_id": "N01-I01",
