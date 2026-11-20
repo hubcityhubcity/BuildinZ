@@ -80,7 +80,15 @@ Refined all five Skygarden portraits with sharper pixel clusters in the façade,
 
 Selected all five Skygarden v2 portraits under delegated Stage I review. Native crops confirmed the exact mounted names. The 31 px side strips show sky, landscaping, street and distant structures. The primary buildings and foundations stay inside the side strips. The solid roofs and crowns clear the 47 px vertical minimum in the full-frame review. Garden Beacon's light beam extends upward beyond the solid crown. Each PNG decoded and matched recorded SHA-256. The pergola, market arches, seed atrium, theater petals and flared beacon read consistently with the established architecture.
 
-Next produce Velocity Row Stage I in registry order: Draftline Lofts, Pitlane Plaza, Vector Works, Rush Arena, Pole Beacon. Compare the selected architectural originals and archive sprites before generating. Preserve quiet sky and foreground space. Bloodmoon Beacon remains pending native review.
+Velocity Row has five standalone Stage I candidates. The selected originals governed the rounded lofts, retail canopy, tech display, oval arena and observation tower. The square archive sprites use different silhouettes. All five PNGs decoded at 1024×1536 and matched their uploaded Git blob hashes.
+
+- [Draftline Lofts](../assets/pixel-stage-i/draftline-lofts-v1.png)
+- [Pitlane Plaza](../assets/pixel-stage-i/pitlane-plaza-v1.png)
+- [Vector Works](../assets/pixel-stage-i/vector-works-v1.png)
+- [Rush Arena](../assets/pixel-stage-i/rush-arena-v1.png)
+- [Pole Beacon](../assets/pixel-stage-i/pole-beacon-v1.png)
+
+Next inspect native signage, geometry and the 31 px side and 47 px vertical margins before selecting. Vector Works and Rush Arena foundations are close to the frame. Pole Beacon has a tight spire tip and side platform. Reframe confirmed failures while preserving the established forms. Bloodmoon Beacon remains pending native review.
 
 Save for later trait design. Sky and distance ideas include a UFO, a blimp and a distant burning building. Street ideas include people shooting dice, an original arcade beat-em-up homage and four distinct color-striped turtles beside glowing ooze and a sewer grate. Frequencies and edition assignments are undecided.
 
