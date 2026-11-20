@@ -629,8 +629,10 @@
       "bytes": 2792530,
       "sha256": "087c7d4caecef87157cf9179ffe5dc2201075f6161fc0d7d23b6b9840ee3971e",
       "git_blob_sha": "2fa7eb6955cd464fc0b89fbeaa33d8daea718fa1",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/aureate-residences-v2.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/aureate-residences-v2.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "71b695fc7f090b876551734c737e31eecf50c64e"
     },
     {
       "identity_id": "N02-I02",
@@ -640,8 +642,10 @@
       "bytes": 2584401,
       "sha256": "d1c4db4998613f32fedad52f57e72300d3de3e1635b69975f702e5878c74a6c7",
       "git_blob_sha": "c3919282d100c3b42fd37847b451d390864308fe",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/meridian-market-v2.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/meridian-market-v2.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "71b695fc7f090b876551734c737e31eecf50c64e"
     },
     {
       "identity_id": "N02-I03",
@@ -651,8 +655,10 @@
       "bytes": 2330207,
       "sha256": "4b88f6fbf2bfee0bc867bf0599e0b74356885d738def18de2ed719f0e53f2a06",
       "git_blob_sha": "6ff01331ef01520199545d5d310e163058a879dd",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/solara-labs-v2.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/solara-labs-v2.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "71b695fc7f090b876551734c737e31eecf50c64e"
     },
     {
       "identity_id": "N02-I04",
@@ -662,8 +668,10 @@
       "bytes": 2046647,
       "sha256": "c3def55cc3a62f83c014697354156995b7317cb8b7ec496cbb7a557a6a0ea5fc",
       "git_blob_sha": "c8acb45c988a6baa9ef57d40f4e5f20c35717183",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/velvet-hall-v2.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/velvet-hall-v2.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "71b695fc7f090b876551734c737e31eecf50c64e"
     },
     {
       "identity_id": "N02-I05",
@@ -673,8 +681,10 @@
       "bytes": 2024332,
       "sha256": "78a3149953576af6421ef585f4c1464ffd6b75c0e0e0153830a3e52d56387767",
       "git_blob_sha": "c5abac5ee8db87869120a929f383f9c4a008bbc1",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/golden-obelisk-v2.png"
+      "review_status": "stage_i_visual_review_passed",
+      "previous_candidate_path": "assets/pixel-stage-i/golden-obelisk-v2.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "71b695fc7f090b876551734c737e31eecf50c64e"
     }
   ],
   "additional_source_archives": [

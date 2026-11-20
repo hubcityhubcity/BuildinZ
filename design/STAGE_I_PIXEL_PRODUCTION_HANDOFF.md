@@ -42,7 +42,15 @@ Reframed [Velvet Hall](../assets/pixel-stage-i/velvet-hall-v3.png) and [Golden O
 
 Reframed [Aureate Residences](../assets/pixel-stage-i/aureate-residences-v3.png), [Meridian Market](../assets/pixel-stage-i/meridian-market-v3.png), [Solara Labs](../assets/pixel-stage-i/solara-labs-v3.png). Composition comparison shows wider side clearance while keeping the rooftop pool, domed market court and blue photovoltaic wings. Each 1024×1536 PNG decoded and matched its Git blob hash. Aureate still has the tightest platform tips. Earlier versions remain available.
 
-Next verify native signage, platform margins and structural fidelity across all five Golden Crest v3s. Correct any failures and select passing bases before moving to Shadow Market.
+Selected all five Golden Crest v3 portraits for Stage I under delegated review. Each PNG decoded and matched its recorded SHA-256. Native sign crops matched the registry, and native 31 px side strips showed no architecture or foundation intrusion. Full-frame comparison showed more than 47 px top and bottom clearance, with sky and foreground retained. The stepped residential wings, axial market court, photovoltaic canopy, fan marquee and obelisk spire retain their previous architectural forms. This is base artwork selection. Collection release verification remains open.
+
+- [Aureate Residences](../assets/pixel-stage-i/aureate-residences-v3.png)
+- [Meridian Market](../assets/pixel-stage-i/meridian-market-v3.png)
+- [Solara Labs](../assets/pixel-stage-i/solara-labs-v3.png)
+- [Velvet Hall](../assets/pixel-stage-i/velvet-hall-v3.png)
+- [Golden Obelisk](../assets/pixel-stage-i/golden-obelisk-v3.png)
+
+Next produce Shadow Market Stage I in registry order: Gloomstep Flats, Lantern Row, Cipher Works, Backroom Stage, Veil Beacon. Compare the isolated archive sprites against the selected architectural originals before rendering. Use the selected Golden Crest and Neon Heights portraits for framing and intentional pixel treatment. Preserve the Shadow Market palette and leave open sky and street space.
 
 Save for later trait design. Sky and distance ideas include a UFO, a blimp and a distant burning building. Street ideas include people shooting dice, an original arcade beat-em-up homage and four distinct color-striped turtles beside glowing ooze and a sewer grate. Frequencies and edition assignments are undecided.
 
