@@ -40,6 +40,10 @@ The five Golden Crest v2 portraits decoded and matched their recorded hashes. Co
 
 Reframed [Velvet Hall](../assets/pixel-stage-i/velvet-hall-v3.png) and [Golden Obelisk](../assets/pixel-stage-i/golden-obelisk-v3.png). The portraits retain the fan canopy and flared spire respectively. Composition review shows more clearance around both platforms and above the spire, with the gold mounted names readable. Both 1024×1536 PNGs decoded and matched their Git blob hashes. Earlier versions remain available.
 
-Next apply the same modest camera pullback to Aureate Residences, Meridian Market and Solara Labs. Then inspect all five exact signs and platform extrema at native size, compare architecture against the v2s, and select passing bases before moving to Shadow Market.
+Reframed [Aureate Residences](../assets/pixel-stage-i/aureate-residences-v3.png), [Meridian Market](../assets/pixel-stage-i/meridian-market-v3.png), [Solara Labs](../assets/pixel-stage-i/solara-labs-v3.png). Composition comparison shows wider side clearance while keeping the rooftop pool, domed market court and blue photovoltaic wings. Each 1024×1536 PNG decoded and matched its Git blob hash. Aureate still has the tightest platform tips. Earlier versions remain available.
+
+Next verify native signage, platform margins and structural fidelity across all five Golden Crest v3s. Correct any failures and select passing bases before moving to Shadow Market.
 
 Save for later trait design. Sky and distance ideas include a UFO, a blimp and a distant burning building. Street ideas include people shooting dice, an original arcade beat-em-up homage and four distinct color-striped turtles beside glowing ooze and a sewer grate. Frequencies and edition assignments are undecided.
+
+William's November 19 rarity preview feedback keeps refined pixel art as the quality bar for skies, backgrounds, characters and street events. The prior edition previews are unsuitable for release. Preserve them as historical studies. Record UFO abduction as a later concept alongside the earlier sky and street ideas. Develop original characters and compositions for arcade and animation homages. Scene layers, frequencies and assignments are deferred until the 50 Stage I bases are complete.

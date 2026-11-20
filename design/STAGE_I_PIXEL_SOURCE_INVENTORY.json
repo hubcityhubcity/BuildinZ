@@ -624,35 +624,35 @@
     {
       "identity_id": "N02-I01",
       "stage_name": "Aureate Residences",
-      "path": "assets/pixel-stage-i/aureate-residences-v2.png",
+      "path": "assets/pixel-stage-i/aureate-residences-v3.png",
       "dimensions": "1024x1536",
-      "bytes": 2945189,
-      "sha256": "204b93333a78f66d814d97ad2e06481d654e95eee2c143ca968828b166940871",
-      "git_blob_sha": "f50bb44f7370d83265ae6345f2debe3ca343ab6f",
-      "review_status": "framing_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/aureate-residences-v1.png"
+      "bytes": 2792530,
+      "sha256": "087c7d4caecef87157cf9179ffe5dc2201075f6161fc0d7d23b6b9840ee3971e",
+      "git_blob_sha": "2fa7eb6955cd464fc0b89fbeaa33d8daea718fa1",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/aureate-residences-v2.png"
     },
     {
       "identity_id": "N02-I02",
       "stage_name": "Meridian Market",
-      "path": "assets/pixel-stage-i/meridian-market-v2.png",
+      "path": "assets/pixel-stage-i/meridian-market-v3.png",
       "dimensions": "1024x1536",
-      "bytes": 2751398,
-      "sha256": "1cb16d7ea42078e595bf71a0f6050b766064fd0d6424f032ea50f71428f4e1d1",
-      "git_blob_sha": "ccc6f8a272097f282fc7f56b3e2386cf0b7c36df",
-      "review_status": "framing_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/meridian-market-v1.png"
+      "bytes": 2584401,
+      "sha256": "d1c4db4998613f32fedad52f57e72300d3de3e1635b69975f702e5878c74a6c7",
+      "git_blob_sha": "c3919282d100c3b42fd37847b451d390864308fe",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/meridian-market-v2.png"
     },
     {
       "identity_id": "N02-I03",
       "stage_name": "Solara Labs",
-      "path": "assets/pixel-stage-i/solara-labs-v2.png",
+      "path": "assets/pixel-stage-i/solara-labs-v3.png",
       "dimensions": "1024x1536",
-      "bytes": 2332139,
-      "sha256": "b96b53e4389ee349e6214b2fa7896a763efbe0e4f83270358f0f64083f220abd",
-      "git_blob_sha": "450d29c3a5072a073240087688e76450027a8312",
-      "review_status": "framing_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/solara-labs-v1.png"
+      "bytes": 2330207,
+      "sha256": "4b88f6fbf2bfee0bc867bf0599e0b74356885d738def18de2ed719f0e53f2a06",
+      "git_blob_sha": "6ff01331ef01520199545d5d310e163058a879dd",
+      "review_status": "native_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/solara-labs-v2.png"
     },
     {
       "identity_id": "N02-I04",
