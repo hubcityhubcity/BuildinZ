@@ -109,3 +109,17 @@ For later scene layers, William's November 20 composition feedback calls for pre
 [Ember Residences v1](../assets/pixel-stage-i/ember-residences-v1.png) is a standalone Crimson Commons portrait candidate. The Library base archive supplied the stepped red masonry housing, central stair, awnings and twin chimneys. Bloodmoon Beacon guided the dusk composition. Full-frame review confirms the sign and visible pixel treatment. The right foundation extends into the 31 px margin. Check architectural lineage against the repository candidate, then reframe with more side clearance before selecting. The three remaining archive references depict a vaulted market, a wedge-shaped broadcast center with a dish and an open boxing arena. Cross-check each against the corresponding repository architecture before rendering Commons Market, Redline Labs and Ember Hall.
 
 [Ember Residences v2](../assets/pixel-stage-i/ember-residences-v2.png) preserves the archive-based stair, planted terraces, masonry and exact sign. The reframed foundation clears both 31 px side strips, and the skyline and foreground clear the 47 px vertical minimum around the structure. The 1024×1536 PNG decoded and matched its Git blob hash. Keep the archive-based v1 and v2 as studies. The [repository asset manifest](ASSET_MANIFEST.json) records furnished balconies and a private roof pool for the earlier lineage candidate. This archive-based version has no roof pool. Before selecting a base, retrieve the original repository v1 and v2 PNGs, compare their full-resolution silhouettes, and use the established repository architecture for the next pixel pass. Check the repository sources for Commons Market, Redline Labs and Ember Hall before using their archive studies.
+
+## Crimson Commons repository references
+
+The asset manifest and Git tree agree on the path, blob SHA and byte length of all five Stage I lineage candidates. The architecture notes below come from the manifest’s recorded inspections. The binary reads available for these repository PNGs have yet to return image bytes for fresh comparison.
+
+| Identity | Repository reference | Architecture to check |
+| --- | --- | --- |
+| Ember Residences | [PNG](../assets/candidates/crimson-commons-ember-residences-stage-1-v2.png) | Retain furnished apartment balconies and the private rooftop pool. |
+| Commons Market | [PNG](../assets/candidates/crimson-commons-commons-market-stage-1-v3.png) | Retain the two retail floors and the wider framing developed for v3. |
+| Redline Labs | [PNG](../assets/candidates/crimson-commons-redline-labs-stage-1-v2.png) | Retain the restored right wing, bone braces, secured entry and visible robotics and test benches. |
+| Ember Hall | [PNG](../assets/candidates/crimson-commons-ember-hall-stage-1-v1.png) | Retain the concert stage, audience seating and supported side gallery. The square archive depicts a boxing arena. |
+| Bloodmoon Beacon | [PNG](../assets/candidates/crimson-commons-bloodmoon-beacon-stage-1-v2.png) | Keep the already selected Stage I pixel portrait. The repository reference remains available for lineage comparison. |
+
+Use the four unselected identities’ repository PNGs as inputs once their bytes are available. Verify each against its recorded blob SHA before image generation. Crimson Commons square archive artwork remains reference material. Velocity Row native review can proceed independently.
