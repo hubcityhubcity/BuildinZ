@@ -155,3 +155,9 @@ For Royal Mirage, the asset manifest identifies the following source PNGs. Obtai
 - [Prism Works](../assets/candidates/royal-mirage-prism-works-stage-1-v1.png)
 - [Royal Minaret](../assets/candidates/royal-mirage-royal-minaret-stage-1-v1.png)
 - [Souk Plaza](../assets/candidates/royal-mirage-souk-plaza-stage-1-v1.png)
+
+## Royal Mirage source comparison
+
+Inspected the Library’s [five-building sheet](https://chatgpt.com/library?file_id=libfile_cbd7b983af5081918a463a59f5874c32) and pages 1, 21, 41, 61 and 81 of the [100-page edition preview](https://chatgpt.com/library?file_id=libfile_644c08cf64b48191b9970ecc07a2fa73). Both depict historical architecture and can inform the jewel palette and pixel texture. The preview uses working labels such as Observatory, Music Hall and Water Tower. Prism Works requires the established secured optics lab, and Royal Minaret requires the established minaret. The sheet’s courtyard residence also does not show the private rooftop pool noted for Oasis Residences.
+
+The five repository file sizes and Git blob hashes were verified against the manifest on the pinned source commit. Retrieve the full-resolution source PNGs via an authorized repository checkout or equivalent binary download, verify hashes, then use each PNG for its silhouette and the sheet for pixel style only. These historical images did not change the selected Stage I set.
