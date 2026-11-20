@@ -859,14 +859,16 @@
     {
       "identity_id": "N05-I03",
       "stage_name": "Vector Works",
-      "path": "assets/pixel-stage-i/vector-works-v2.png",
+      "path": "assets/pixel-stage-i/vector-works-v3.png",
       "architecture_reference": "assets/candidates/velocity-row-vector-works-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2580034,
-      "sha256": "b0b0d7ab623f42f8a0422cc6b25510ff818504f03f1bd1d4663037585f49867e",
-      "git_blob_sha": "8e0f82db650731a3a016de7f0df0ff6f6335b76e",
-      "review_status": "pixel_treatment_revision_required",
-      "previous_candidate_path": "assets/pixel-stage-i/vector-works-v1.png"
+      "bytes": 3064146,
+      "sha256": "c8c7d85b067d24543fdf9b8c4492c7595b785590fb48ecce6f7137b6f13074b4",
+      "git_blob_sha": "4f7417c55159367120bc13b76817ed0043738ae8",
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/vector-works-v2.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "f456056f5cfd776774d0d3757ada7daa5cfc1b63"
     },
     {
       "identity_id": "N05-I04",
@@ -889,8 +891,10 @@
       "bytes": 2582334,
       "sha256": "d703298996876e71c0d11c77dfd214ccbf94fe5b5efd4f8e11dbb459591ad4c8",
       "git_blob_sha": "03214bcc688d0434f4f10628e67a5d3c80228e26",
-      "review_status": "camera_alignment_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/pole-beacon-v2.png"
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/pole-beacon-v2.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "f456056f5cfd776774d0d3757ada7daa5cfc1b63"
     },
     {
       "identity_id": "N10-I01",
