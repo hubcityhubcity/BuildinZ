@@ -845,14 +845,16 @@
     {
       "identity_id": "N05-I02",
       "stage_name": "Pitlane Plaza",
-      "path": "assets/pixel-stage-i/pitlane-plaza-v4.png",
+      "path": "assets/pixel-stage-i/pitlane-plaza-v5.png",
       "architecture_reference": "assets/candidates/velocity-row-pitlane-plaza-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2584345,
-      "sha256": "cd4edb40a68705caaf1461ca87a78df013580551f04f01c94f0dc89ea4ff8438",
-      "git_blob_sha": "41c72380e28ebed17d9517139082676b659f8a1d",
-      "review_status": "side_margin_revision_required",
-      "previous_candidate_path": "assets/pixel-stage-i/pitlane-plaza-v3.png"
+      "bytes": 2416344,
+      "sha256": "5d02a48e2b0fd8fc4096e9416f42fd8065117e64e7902b49a64db1c860f8e4a3",
+      "git_blob_sha": "280e3d268a3451066db9a380c190bf35f50e7dfd",
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/pitlane-plaza-v4.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "f8cb7b5c59fa8b8a0174e221e0116c6aa12a4239"
     },
     {
       "identity_id": "N05-I03",
@@ -881,14 +883,14 @@
     {
       "identity_id": "N05-I05",
       "stage_name": "Pole Beacon",
-      "path": "assets/pixel-stage-i/pole-beacon-v2.png",
+      "path": "assets/pixel-stage-i/pole-beacon-v3.png",
       "architecture_reference": "assets/candidates/velocity-row-pole-beacon-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2343165,
-      "sha256": "cb4cd3087deb1d197125989fd1486f4ec5e93d0eb7486fbed0b8e4cab4479b30",
-      "git_blob_sha": "5362d9bd107bae21e00f6ae02594f57a8ce21955",
-      "review_status": "pixel_treatment_revision_required",
-      "previous_candidate_path": "assets/pixel-stage-i/pole-beacon-v1.png"
+      "bytes": 2582334,
+      "sha256": "d703298996876e71c0d11c77dfd214ccbf94fe5b5efd4f8e11dbb459591ad4c8",
+      "git_blob_sha": "03214bcc688d0434f4f10628e67a5d3c80228e26",
+      "review_status": "camera_alignment_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/pole-beacon-v2.png"
     },
     {
       "identity_id": "N10-I01",

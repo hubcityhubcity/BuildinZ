@@ -133,3 +133,11 @@ Use the four unselected identities’ repository PNGs as inputs once their bytes
 [Draftline Lofts v3](../assets/pixel-stage-i/draftline-lofts-v3.png) passed delegated base selection. The stepped pixel contours and street reflections are visible at full resolution. The unequal rounded residential blocks, swept roof profiles, balconies, red bands and exact mounted sign carry through. The foundation visibly clears 31 px at both sides and the solid roof and base clear 47 px vertically. Sky and street remain open.
 
 [Pitlane Plaza v4](../assets/pixel-stage-i/pitlane-plaza-v4.png) keeps the mounted sign, rounded canopy, supports, paired retail wings and open lane in a three-quarter view. The foundation enters both 31 px side margins. Next, pull back while keeping v4's camera and architecture, then repeat the native margin check. Vector Works, Rush Arena and Pole Beacon still need their pixel-style passes. Both new PNGs decoded at 1024×1536 and their uploaded hashes matched. The selected base set contains 22 identities.
+
+## Velocity Row framing and landmark pass
+
+[pitlane-plaza-v5](../assets/pixel-stage-i/pitlane-plaza-v5.png) passed delegated Stage I selection. The three-quarter camera, exact mounted sign, silver curved canopy, Y supports and twin retail wings remain clear. The platform clears both 31 px side margins and the architecture clears 47 px vertically, with open sky and street.
+
+[pole-beacon-v3](../assets/pixel-stage-i/pole-beacon-v3.png) preserves the red and silver tower, fins, glazed observation ring, lantern crown and exact sign. The spire and platform clear the framing margins. The near-frontal view needs alignment with the collection’s high-angle camera before selection.
+
+Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I base set contains 23 identities. Check Pole Beacon’s camera against the selected landmarks, then continue with Vector Works and Rush Arena pixel-style passes, using the selected Draftline Lofts treatment as reference.
