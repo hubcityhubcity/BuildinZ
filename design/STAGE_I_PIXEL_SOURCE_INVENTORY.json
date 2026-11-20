@@ -837,20 +837,20 @@
       "bytes": 2509451,
       "sha256": "af5acd2d63b8126faf52675053bc6be861920e666fd7969a186e9612e6d39d07",
       "git_blob_sha": "b4a078ad56492f61fba0b5224f631f54a73aed09",
-      "review_status": "native_review_required",
+      "review_status": "pixel_treatment_revision_required",
       "previous_candidate_path": "assets/pixel-stage-i/draftline-lofts-v1.png"
     },
     {
       "identity_id": "N05-I02",
       "stage_name": "Pitlane Plaza",
-      "path": "assets/pixel-stage-i/pitlane-plaza-v2.png",
+      "path": "assets/pixel-stage-i/pitlane-plaza-v3.png",
       "architecture_reference": "assets/candidates/velocity-row-pitlane-plaza-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2327190,
-      "sha256": "21759c7b2a2a3ffef75829ecf08a45deb767b4e6cb9f4d74128031b1679033ee",
-      "git_blob_sha": "391e91fed5c7d6b0e68ff5fbf3124b629c9b792d",
-      "review_status": "native_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/pitlane-plaza-v1.png"
+      "bytes": 2380928,
+      "sha256": "ea635289964536becd256587ca159770cd9bb3fe62028901feec0c6cc07335ec",
+      "git_blob_sha": "836cefa5a267d1e32e61066e5149a7047f322661",
+      "review_status": "camera_alignment_review_required",
+      "previous_candidate_path": "assets/pixel-stage-i/pitlane-plaza-v2.png"
     },
     {
       "identity_id": "N05-I03",
@@ -861,7 +861,7 @@
       "bytes": 2580034,
       "sha256": "b0b0d7ab623f42f8a0422cc6b25510ff818504f03f1bd1d4663037585f49867e",
       "git_blob_sha": "8e0f82db650731a3a016de7f0df0ff6f6335b76e",
-      "review_status": "native_review_required",
+      "review_status": "pixel_treatment_revision_required",
       "previous_candidate_path": "assets/pixel-stage-i/vector-works-v1.png"
     },
     {
@@ -873,7 +873,7 @@
       "bytes": 2494910,
       "sha256": "e2d6c40befebb6d2782bc93d109caacd6fccd4603c01fc9e572a870c45392795",
       "git_blob_sha": "b6ee2fe47f473c6cc697ad5c31fb0a29577319ff",
-      "review_status": "native_review_required",
+      "review_status": "pixel_treatment_revision_required",
       "previous_candidate_path": "assets/pixel-stage-i/rush-arena-v1.png"
     },
     {
@@ -885,7 +885,7 @@
       "bytes": 2343165,
       "sha256": "cb4cd3087deb1d197125989fd1486f4ec5e93d0eb7486fbed0b8e4cab4479b30",
       "git_blob_sha": "5362d9bd107bae21e00f6ae02594f57a8ce21955",
-      "review_status": "native_review_required",
+      "review_status": "pixel_treatment_revision_required",
       "previous_candidate_path": "assets/pixel-stage-i/pole-beacon-v1.png"
     },
     {
