@@ -58,7 +58,9 @@ Shadow Market has five first-pass Stage I portraits with the charcoal, amber and
 - [Backroom Stage](../assets/pixel-stage-i/backroom-stage-v1.png)
 - [Veil Beacon](../assets/pixel-stage-i/veil-beacon-v1.png)
 
-Next inspect native sign crops and full platform clearance. The near-edge foundations on Gloomstep Flats, Lantern Row and Cipher Works need attention, along with the Veil Beacon tip and base. Verify against the 31 px side and 47 px vertical gate. Keep the quieter sky and street foreground for later layers. Select passing files after review before moving to the next neighborhood.
+Reframed all five Shadow Market portraits: [Gloomstep Flats](../assets/pixel-stage-i/gloomstep-flats-v2.png), [Lantern Row](../assets/pixel-stage-i/lantern-row-v2.png), [Cipher Works](../assets/pixel-stage-i/cipher-works-v2.png), [Backroom Stage](../assets/pixel-stage-i/backroom-stage-v2.png), [Veil Beacon](../assets/pixel-stage-i/veil-beacon-v2.png). The v2 set has visibly clearer foundations and Veil Beacon has additional headroom. The established multiwing housing, market passage, angular tech stack, theater and tower forms remain legible. The five 1024×1536 PNGs decoded and matched uploaded Git hashes. Original candidates remain available.
+
+Next review v2 signs at native size, check for shifts in architectural details against the v1s and confirm the 31 px side and 47 px vertical framing gate. Select passing bases before advancing to the next neighborhood.
 
 Save for later trait design. Sky and distance ideas include a UFO, a blimp and a distant burning building. Street ideas include people shooting dice, an original arcade beat-em-up homage and four distinct color-striped turtles beside glowing ooze and a sewer grate. Frequencies and edition assignments are undecided.
 
