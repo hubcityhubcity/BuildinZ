@@ -1137,6 +1137,19 @@
       "review_status": "stage_i_base_selected",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "40e9110e4d86d32aa684dbab6668ac23dee27fb9"
+    },
+    {
+      "identity_id": "N08-I05",
+      "stage_name": "Tide Beacon",
+      "architecture_reference": "assets/candidates/moonline-harbor-tide-beacon-stage-1-v1.png",
+      "path": "assets/pixel-stage-i/tide-beacon-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2791563,
+      "sha256": "3cb8964e3e08bc2fa0e52be33ae16772c764eaa40bdd2376f4822718106f6470",
+      "git_blob_sha": "766f4004a81ae5554fdf03e8886eaedb7df6c64a",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "d82f48c944ce860a36ac867715b4581b599bfd1a"
     }
   ],
   "additional_source_archives": [
