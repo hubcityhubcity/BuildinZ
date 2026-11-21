@@ -263,3 +263,11 @@ Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The sele
 [Rivet Monument](../assets/pixel-stage-i/rivet-monument-v1.png) passed delegated Stage I review. It preserves the slender iron truss, enclosed observation deck, copper beacon, brick pedestal and exact name. The complete spire and foundation clear the framing minima, with open sky and cobbled foreground.
 
 The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 40 identities. The next group without portraits includes Tidelight Residences, Dockside Market, Beacon Labs, Harbor Lounge, Tide Beacon. Retrieve its established lineage PNGs and verify the recorded hashes before rendering.
+
+## Moonline Harbor residential and market portraits
+
+[Tidelight Residences](../assets/pixel-stage-i/tidelight-residences-v1.png) passed delegated Stage I review. Pearl balconies, navy fins, one private rooftop pool and exact signage remain. The pier, supports and full bridge connection fit inside the framing minima. The continuous shoreline and road extend to the canvas edges, with open foreground and sky.
+
+[Dockside Market](../assets/pixel-stage-i/dockside-market-v1.png) passed delegated Stage I review. The pearl wave canopy, retail levels, storefronts and exact mounted name carry through. The complete pile-supported pier and bridge landing sit within the framing minima. Shoreline pavement continues through the edge of the scene.
+
+Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The Stage I base set contains 42 selected identities. Continue with Beacon Labs and Harbor Lounge using the selected lineage PNGs in the asset manifest.

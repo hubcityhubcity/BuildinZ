@@ -1085,6 +1085,32 @@
       "review_status": "stage_i_base_selected",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "b35d58c98c5780cb15b21870ead26976f9f067ad"
+    },
+    {
+      "identity_id": "N08-I02",
+      "stage_name": "Dockside Market",
+      "path": "assets/pixel-stage-i/dockside-market-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-dockside-market-stage-1-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2901814,
+      "sha256": "6018910ee2513986e603ef9dbe96c4fd87be21ab8f01eaaa5c18676044ccd48a",
+      "git_blob_sha": "28e578622733af0fc9ebebc2443cfd6b4a9273f3",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "2f456e263b2e909ed919b0ded774e27bb58ca19f"
+    },
+    {
+      "identity_id": "N08-I01",
+      "stage_name": "Tidelight Residences",
+      "path": "assets/pixel-stage-i/tidelight-residences-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-tidelight-residences-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3151442,
+      "sha256": "5b05bcbdead115123d2dc3c925b8924acae5f75f09c4c5f99828dca368b95d0c",
+      "git_blob_sha": "8fc6d93bc46188e4c66e3a1914b5e188d63e3b8b",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "2f456e263b2e909ed919b0ded774e27bb58ca19f"
     }
   ],
   "additional_source_archives": [
