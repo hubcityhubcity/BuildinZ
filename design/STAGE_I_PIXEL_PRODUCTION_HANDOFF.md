@@ -239,3 +239,11 @@ At source commit `51231ba8cf347177cf9662d56e70a899c97471a8`, the Git tree matche
 First pull back Redline Labs v1 and recheck the full compound against the 31 px side and 47 px vertical margins. In the next Old World Steel batch, retrieve Foundry Flats and Forge Market from pinned raw repository URLs, verify SHA-256 and Git blob SHA, and use those PNGs as architecture inputs. Retain brick, iron and copper as the neighborhood palette. There are 34 selected Stage I bases, including four in Crimson Commons.
 
 [Redline Labs v2](../assets/pixel-stage-i/redline-labs-v2.png) passed delegated Stage I review. The entire fence, secured gate, approach and two lab wings fit inside the side margins, and the roof and base clear the vertical margins. The three-quarter view preserves the exact sign, bone braces and visible robotics. The stepped sky and open paved foreground leave space for later layers. The 1024×1536 PNG fully decoded and matched its uploaded Git blob. Crimson Commons has 5 of 5 selected Stage I bases. The collection has 35 of 50. Next, use the pinned Old World Steel PNGs for Foundry Flats and Forge Market, with particular attention to private roof pool and iron canopy lineage.
+
+## Old World Steel residential and retail art
+
+[Foundry Flats](../assets/pixel-stage-i/foundry-flats-v1.png) passed delegated Stage I review. The brick apartment block, riveted side trusses, copper sawtooth roof and private rooftop pool match the established design. Exact mounted lettering, the complete foundation and clear pixel-rendered sky and street passed visual review. The foundation clears both 31 px side strips.
+
+[Forge Market](../assets/pixel-stage-i/forge-market-v1.png) retains the exact sign, lit shops, dry market entry, sawtooth roof, intact chimney and iron canopies. The tile platform reaches the frame edges. Pull back and retain the roof, storefronts and camera angle before selection.
+
+Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 36 identities. Pull back Forge Market while retaining the sawtooth roof, chimney and canopies. Continue with Gearhouse Labs and Boiler Hall using their pinned Old World Steel source PNGs.

@@ -1019,6 +1019,30 @@
       "review_status": "stage_i_base_selected",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "be198a046019651e6cc25f943fd7f9dc26cd99b2"
+    },
+    {
+      "identity_id": "N07-I02",
+      "stage_name": "Forge Market",
+      "path": "assets/pixel-stage-i/forge-market-v1.png",
+      "architecture_reference": "assets/candidates/old-world-steel-forge-market-stage-1-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2800759,
+      "sha256": "5cb8a8b2a70900936d4ba20ca82c98d70a3e9ed7e5f75f5a806f05d21bf734d3",
+      "git_blob_sha": "41cbcc904d9caf189ae0a1adbd3567651fb6fc95",
+      "review_status": "visual_revision_required"
+    },
+    {
+      "identity_id": "N07-I01",
+      "stage_name": "Foundry Flats",
+      "path": "assets/pixel-stage-i/foundry-flats-v1.png",
+      "architecture_reference": "assets/candidates/old-world-steel-foundry-flats-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3082272,
+      "sha256": "1eee74825fb5c5cc592413fb0f4b58faa30af3f8cac8de7c136a0f62b49a18f3",
+      "git_blob_sha": "d2efbe622d15a85da5824b9b97342c2517627ff3",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "d04cbbf5d966470efaa8e435d8dc029bd326fc26"
     }
   ],
   "additional_source_archives": [
