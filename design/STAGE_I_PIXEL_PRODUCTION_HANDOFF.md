@@ -271,3 +271,11 @@ The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The s
 [Dockside Market](../assets/pixel-stage-i/dockside-market-v1.png) passed delegated Stage I review. The pearl wave canopy, retail levels, storefronts and exact mounted name carry through. The complete pile-supported pier and bridge landing sit within the framing minima. Shoreline pavement continues through the edge of the scene.
 
 Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The Stage I base set contains 42 selected identities. Continue with Beacon Labs and Harbor Lounge using the selected lineage PNGs in the asset manifest.
+
+## Moonline Harbor technology and venue portraits
+
+[Beacon Labs](../assets/pixel-stage-i/beacon-labs-v1.png) passed delegated Stage I review. The exact sign, controlled entrance, rooftop sensors, robotics and sealed testing tanks carry through. The supported pier and bridge clear the framing minima and terminate at the shore. Continuous shoreline paving and road extend to the edges.
+
+[Harbor Lounge](../assets/pixel-stage-i/harbor-lounge-v1.png) passed delegated Stage I review. The centered waterfront approach follows the established venue and Dockside Market compositions. The exact sign, pearl canopy, visible music stage and seated audience, upper gallery, complete pier and bridge remain legible. The architecture clears side and vertical margins, with unobstructed sky and street.
+
+Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The Stage I base set contains 44 selected identities. Continue with Tide Beacon using its selected lineage PNG, preserving the supported waterfront footprint.

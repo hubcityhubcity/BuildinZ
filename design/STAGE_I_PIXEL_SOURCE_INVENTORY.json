@@ -1111,6 +1111,32 @@
       "review_status": "stage_i_base_selected",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "2f456e263b2e909ed919b0ded774e27bb58ca19f"
+    },
+    {
+      "identity_id": "N08-I04",
+      "stage_name": "Harbor Lounge",
+      "path": "assets/pixel-stage-i/harbor-lounge-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-harbor-lounge-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2904411,
+      "sha256": "6660e6ccb39fd0cde9ac9babfd13e3888033d3933ee4f2f8b7c4f7b691957e01",
+      "git_blob_sha": "a5136b516d57b38da879fe11e095c6405a7b44c1",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "40e9110e4d86d32aa684dbab6668ac23dee27fb9"
+    },
+    {
+      "identity_id": "N08-I03",
+      "stage_name": "Beacon Labs",
+      "path": "assets/pixel-stage-i/beacon-labs-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-beacon-labs-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3005965,
+      "sha256": "dddc13838a220c4e484689b8cc4db917bd7b7c79a611fc14025b5df09a3c8e3a",
+      "git_blob_sha": "cc2e788acc801bba27623f7296c6a038335e4564",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "40e9110e4d86d32aa684dbab6668ac23dee27fb9"
     }
   ],
   "additional_source_archives": [
