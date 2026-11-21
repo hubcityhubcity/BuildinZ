@@ -253,3 +253,7 @@ Actual equal-width originals review completed. Names/function/palette/supports a
 ## Final-art queue checkpoint — November 8, 2026
 
 Verified15 unique Crimson type/stage slots against actual repository blobs/sizes; no count advancement. Consolidated actionable correction gates in CRIMSON_COMMONS_FINAL_ART_QUEUE.md. Full15-source visual review not completed: six Residential/Retail originals are not in current workspace; restore exact originals. Available Bloodmoon framing correction is unblocked. Correct Bloodmoon Beacon framing from available v1, preserve original and inspect v2 before changing selected entry. Then restore six Residential/Retail originals for full15-source visual review and follow CRIMSON_COMMONS_FINAL_ART_QUEUE.md.150 selected base slots;zero certified.
+
+## Stage I artwork gate
+
+- [x] Complete the November 19 standalone pixel-art base set. On November 21, 2026, all 50 standalone Stage I bases passed delegated selection. The Stage I inventory matches the registry’s exact names and IDs across 10 neighborhoods, with unique paths and hashes. The 49 earlier selections matched the pinned Git tree’s blob hashes and byte sizes. Arcadia Beacon decoded at 1024×1536 and matched its uploaded blob hash. Stage II and III production and final edition export certification remain open. See the [source inventory](STAGE_I_PIXEL_SOURCE_INVENTORY.json) and [handoff](STAGE_I_PIXEL_PRODUCTION_HANDOFF.md).

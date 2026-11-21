@@ -305,3 +305,11 @@ Both new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The 
 [Muse Hall](../assets/pixel-stage-i/muse-hall-v1.png) passed visual review. The ribbed dome, open performance bay and gallery wings remain, with exact signage and a fully framed foundation. Both portraits leave open sky and street for future scene layers.
 
 The uploaded PNGs fully decoded at 1024×1536 and matched their Git blob hashes. The Stage I base set has 49 of 50 selected identities. Render Arcadia Beacon using its pinned Stage I lineage PNG, then reconcile the full inventory after all 50 pass.
+
+## Stage I base set complete
+
+[Arcadia Beacon](../assets/pixel-stage-i/arcadia-beacon-v1.png) retains the tapered shaft, ribbed cobalt dome, glazed telescope gallery, exact sign and fully framed stepped foundation. The open sky and road leave room for future scene layers.
+
+On November 21, 2026, all 50 standalone Stage I bases passed delegated selection. The Stage I inventory matches the registry’s exact names and IDs across 10 neighborhoods, with unique paths and hashes. The 49 earlier selections matched the pinned Git tree’s blob hashes and byte sizes. Arcadia Beacon decoded at 1024×1536 and matched its uploaded blob hash. Stage II and III production and final edition export certification remain open.
+
+Start with the Neon Residences → Skyline Habitat → Aurora Arcology family. Compare the approved evolution references against the selected pixel base, then render and visually verify Stages II and III before continuing with the other Neon Heights families.

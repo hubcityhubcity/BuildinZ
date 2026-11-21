@@ -1204,6 +1204,19 @@
       "review_status": "stage_i_base_selected",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "5bb59fa0d010b1a299f78e8a1e761e5134eb7be0"
+    },
+    {
+      "identity_id": "N09-I05",
+      "stage_name": "Arcadia Beacon",
+      "path": "assets/pixel-stage-i/arcadia-beacon-v1.png",
+      "architecture_reference": "assets/candidates/arcadia-prime-arcadia-beacon-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2658121,
+      "sha256": "6fa6daff368bde34313c997ea7c5e679f1febc2550afb9d185481199baa3e01e",
+      "git_blob_sha": "ceaa9e65d03c24b6f4f32dcc595f4841e95f7b97",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "b13ae81a2d4e37edc528915dbdd6b284cfe74b2e"
     }
   ],
   "additional_source_archives": [
