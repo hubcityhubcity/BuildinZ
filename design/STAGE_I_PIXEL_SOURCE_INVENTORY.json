@@ -964,6 +964,19 @@
       "review_status": "stage_i_base_selected",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "798b06d527286db3fe1acb2015c8175ea66050f9"
+    },
+    {
+      "identity_id": "N06-I05",
+      "stage_name": "Royal Minaret",
+      "architecture_reference": "assets/candidates/royal-mirage-royal-minaret-stage-1-v1.png",
+      "path": "assets/pixel-stage-i/royal-minaret-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2227248,
+      "sha256": "2fab1b9fc1282b225f1142eebb52bcccc0fab927abdb2fa19662e741fd9a976f",
+      "git_blob_sha": "c5e894c8c3b7a3b896e9f792e00a3f48964e3b33",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "c5ea6e1b3a0458bb412fefe08ed2674285976779"
     }
   ],
   "additional_source_archives": [
