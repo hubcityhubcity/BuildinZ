@@ -1178,6 +1178,32 @@
       "previous_candidate_path": "assets/pixel-stage-i/agora-plaza-v1.png",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "693f3baf673d775026035278f366675cef96c1e8"
+    },
+    {
+      "identity_id": "N09-I03",
+      "stage_name": "Axiom Labs",
+      "path": "assets/pixel-stage-i/axiom-labs-v1.png",
+      "architecture_reference": "assets/candidates/arcadia-prime-axiom-labs-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2801509,
+      "sha256": "4ba656253e895a607316867631dad71dcaed18ca9dff8059e400ef3e811f0fd1",
+      "git_blob_sha": "325478bfaf5580ad8be75cc832ec95765f72422c",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "5bb59fa0d010b1a299f78e8a1e761e5134eb7be0"
+    },
+    {
+      "identity_id": "N09-I04",
+      "stage_name": "Muse Hall",
+      "path": "assets/pixel-stage-i/muse-hall-v1.png",
+      "architecture_reference": "assets/candidates/arcadia-prime-muse-hall-stage-1-v3.png",
+      "dimensions": "1024x1536",
+      "bytes": 2774753,
+      "sha256": "8924d0d61b580728c937c988eedd1e1f56b06fcf5aa436e1e361f11b2f37f79d",
+      "git_blob_sha": "eba736354a63cec83df8c8021428681ab6bc9d1d",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "5bb59fa0d010b1a299f78e8a1e761e5134eb7be0"
     }
   ],
   "additional_source_archives": [

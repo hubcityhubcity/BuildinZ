@@ -297,3 +297,11 @@ Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The Stag
 [Agora Plaza](../assets/pixel-stage-i/agora-plaza-v2.png) keeps the dome, colonnaded arches and exact signage. The full platform fits with clear sky and road space.
 
 Both new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The Stage I base set contains 47 selected identities. Next render Axiom Labs and Muse Hall using their pinned lineage PNGs.
+
+## Arcadia Prime technology and entertainment portraits
+
+[Axiom Labs](../assets/pixel-stage-i/axiom-labs-v1.png) passed visual review. Its faceted laboratory dome, visible robotics, controlled entrance and exact mounted name carry through. The full foundation clears the minimum side margins.
+
+[Muse Hall](../assets/pixel-stage-i/muse-hall-v1.png) passed visual review. The ribbed dome, open performance bay and gallery wings remain, with exact signage and a fully framed foundation. Both portraits leave open sky and street for future scene layers.
+
+The uploaded PNGs fully decoded at 1024×1536 and matched their Git blob hashes. The Stage I base set has 49 of 50 selected identities. Render Arcadia Beacon using its pinned Stage I lineage PNG, then reconcile the full inventory after all 50 pass.
