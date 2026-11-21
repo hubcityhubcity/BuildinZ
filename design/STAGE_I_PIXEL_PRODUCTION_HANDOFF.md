@@ -289,3 +289,11 @@ Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The Stag
 [Agora Plaza](../assets/pixel-stage-i/agora-plaza-v1.png) keeps the sheltered shopping arcade, distinct storefronts, cobalt dome and exact name. The platform enters both 31 px side strips. The camera needs a wider frame.
 
 Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The Stage I set contains 45 selected identities. Pull back both candidate portraits to obtain full foundation clearances while keeping their camera and exact signage. Next render Axiom Labs and Muse Hall using their verified lineage PNGs.
+
+## Arcadia Prime framing corrections
+
+[Arcadian Residences](../assets/pixel-stage-i/arcadian-residences-v2.png) keeps the cobalt-domed lounge, private cyan rooftop pool, balconies and entry colonnade. The full foundation fits with clear sky and street space.
+
+[Agora Plaza](../assets/pixel-stage-i/agora-plaza-v2.png) keeps the dome, colonnaded arches and exact signage. The full platform fits with clear sky and road space.
+
+Both new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The Stage I base set contains 47 selected identities. Next render Axiom Labs and Muse Hall using their pinned lineage PNGs.

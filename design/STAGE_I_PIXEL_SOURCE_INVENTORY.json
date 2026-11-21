@@ -1154,24 +1154,30 @@
     {
       "identity_id": "N09-I01",
       "stage_name": "Arcadian Residences",
-      "path": "assets/pixel-stage-i/arcadian-residences-v1.png",
+      "path": "assets/pixel-stage-i/arcadian-residences-v2.png",
       "architecture_reference": "assets/candidates/arcadia-prime-arcadian-residences-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 3025026,
-      "sha256": "726e707ed99202e2e44f287de6dfb473aff7ad16f96ebb9737cf5c5cadac94f1",
-      "git_blob_sha": "b972f73fff162831213ea54d3bfd0a22b226b808",
-      "review_status": "visual_revision_required"
+      "bytes": 2508783,
+      "sha256": "793f971f700216c52343d3e3c9f6544d51637d5f3e1f0424152439b37440622e",
+      "git_blob_sha": "6d43bba96a9bb09fac5144e22ce140ef7ed79068",
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/arcadian-residences-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "693f3baf673d775026035278f366675cef96c1e8"
     },
     {
       "identity_id": "N09-I02",
       "stage_name": "Agora Plaza",
-      "path": "assets/pixel-stage-i/agora-plaza-v1.png",
+      "path": "assets/pixel-stage-i/agora-plaza-v2.png",
       "architecture_reference": "assets/candidates/arcadia-prime-agora-plaza-stage-1-v2.png",
       "dimensions": "1024x1536",
-      "bytes": 3124668,
-      "sha256": "175290910c89ec0418f9dee5440384de955aa6eab94b7f926b7d9ae810d74f19",
-      "git_blob_sha": "b65b08c68e9c46379e6fee1e2b150e71dae1355e",
-      "review_status": "visual_revision_required"
+      "bytes": 2545784,
+      "sha256": "fba568c92473e8f82caad413c708bbe478e6bb6826792e1c7af850005bf40743",
+      "git_blob_sha": "e69031c7c7864c029da3188e90711c643adfaf9e",
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/agora-plaza-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "693f3baf673d775026035278f366675cef96c1e8"
     }
   ],
   "additional_source_archives": [
