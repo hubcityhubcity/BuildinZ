@@ -1023,13 +1023,16 @@
     {
       "identity_id": "N07-I02",
       "stage_name": "Forge Market",
-      "path": "assets/pixel-stage-i/forge-market-v1.png",
+      "path": "assets/pixel-stage-i/forge-market-v2.png",
       "architecture_reference": "assets/candidates/old-world-steel-forge-market-stage-1-v2.png",
       "dimensions": "1024x1536",
-      "bytes": 2800759,
-      "sha256": "5cb8a8b2a70900936d4ba20ca82c98d70a3e9ed7e5f75f5a806f05d21bf734d3",
-      "git_blob_sha": "41cbcc904d9caf189ae0a1adbd3567651fb6fc95",
-      "review_status": "visual_revision_required"
+      "bytes": 2557904,
+      "sha256": "b9e13cb1925803dae451f50694c5f0d3f884b2f4806d27fc87f29e011ae0acbf",
+      "git_blob_sha": "1d4718fb91b8b2a3ebbf9cf9375fa2e233ea3bce",
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/forge-market-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "a9f28bec9ab6a3edf9b8208d16dfa9bb1fcb0886"
     },
     {
       "identity_id": "N07-I01",
@@ -1043,6 +1046,19 @@
       "review_status": "stage_i_base_selected",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "d04cbbf5d966470efaa8e435d8dc029bd326fc26"
+    },
+    {
+      "identity_id": "N07-I03",
+      "stage_name": "Gearhouse Labs",
+      "architecture_reference": "assets/candidates/old-world-steel-gearhouse-labs-stage-1-v2.png",
+      "path": "assets/pixel-stage-i/gearhouse-labs-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2931327,
+      "sha256": "0202d34660f0a161aaf1b34db67731d2a1ac193c717738b6e87e4bc52e387829",
+      "git_blob_sha": "988b6e16cdbfaf28a9efc23c1392bb1adb4caff1",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "a9f28bec9ab6a3edf9b8208d16dfa9bb1fcb0886"
     }
   ],
   "additional_source_archives": [

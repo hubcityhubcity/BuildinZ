@@ -247,3 +247,11 @@ First pull back Redline Labs v1 and recheck the full compound against the 31 px 
 [Forge Market](../assets/pixel-stage-i/forge-market-v1.png) retains the exact sign, lit shops, dry market entry, sawtooth roof, intact chimney and iron canopies. The tile platform reaches the frame edges. Pull back and retain the roof, storefronts and camera angle before selection.
 
 Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 36 identities. Pull back Forge Market while retaining the sawtooth roof, chimney and canopies. Continue with Gearhouse Labs and Boiler Hall using their pinned Old World Steel source PNGs.
+
+## Old World Steel market and lab art
+
+[Forge Market](../assets/pixel-stage-i/forge-market-v2.png) passed delegated Stage I review. The full platform and perimeter bollards clear both 31 px side strips, and the complete chimney and foundation clear both 47 px vertical margins. Exact mounted lettering, the sawtooth roof, supported iron canopies and lit retail arcade carry through.
+
+[Gearhouse Labs](../assets/pixel-stage-i/gearhouse-labs-v1.png) passed delegated Stage I review. The exact mounted name, sealed blue glazing, robotics and visible gear rigs, chimney and secure service yard preserve its engineering identity. The full compound clears both 31 px side strips and the architecture clears both 47 px vertical margins. The sky and cobbled foreground remain usable for future layers.
+
+Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 38 identities. Continue with Boiler Hall and Rivet Monument using their pinned source PNGs.
