@@ -928,13 +928,26 @@
       "identity_id": "N06-I02",
       "stage_name": "Souk Plaza",
       "architecture_reference": "assets/candidates/royal-mirage-souk-plaza-stage-1-v1.png",
-      "path": "assets/pixel-stage-i/souk-plaza-v2.png",
+      "path": "assets/pixel-stage-i/souk-plaza-v3.png",
       "dimensions": "1024x1536",
-      "bytes": 2704098,
-      "sha256": "cbd5938ef94b48edc6c52e22e50b2e1fa5df475680752a531b6f1688080aea4e",
-      "git_blob_sha": "ad4572268eb35b1b34be0b2561501271f7b7d36c",
-      "review_status": "visual_revision_required",
-      "previous_candidate_path": "assets/pixel-stage-i/souk-plaza-v1.png"
+      "bytes": 2375761,
+      "sha256": "2366436b311dc6115af736845f4feaa2f7fee785c7903a4e135b68dfc4fb01e0",
+      "git_blob_sha": "4da352c235412435befc94010b9a2efc993cfe7e",
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/souk-plaza-v2.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "10be8f757669abdc0cf2452d7027e7fdd41c4c7a"
+    },
+    {
+      "identity_id": "N06-I03",
+      "stage_name": "Prism Works",
+      "architecture_reference": "assets/candidates/royal-mirage-prism-works-stage-1-v1.png",
+      "path": "assets/pixel-stage-i/prism-works-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3230019,
+      "sha256": "92b99d5851c6c486dc75e465ed7a9e3cc2ed1649fcdf9519fc65eebe1e47a498",
+      "git_blob_sha": "8295169f203a9c5a4323fab670dbd74ef6c37078",
+      "review_status": "visual_revision_required"
     }
   ],
   "additional_source_archives": [

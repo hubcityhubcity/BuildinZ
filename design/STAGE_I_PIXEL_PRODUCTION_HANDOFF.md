@@ -189,3 +189,11 @@ Both new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The 
 [Souk Plaza](../assets/pixel-stage-i/souk-plaza-v2.png) now shows a three-quarter angle, exact sign and unobstructed approach. The foundation still enters both side margins. Pull back while preserving the camera, arch and storefronts.
 
 The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 27 identities. Continue with Prism Works and Mooncourt Lounge using their pinned lineage PNGs.
+
+## Royal Mirage retail and technology art
+
+[Souk Plaza](../assets/pixel-stage-i/souk-plaza-v3.png) passed delegated Stage I review. The exact mounted name, vaulted jewel-glass canopy, dry market arcade and warm storefronts remain readable in the three-quarter view. The foundation clears both 31 px side margins and the building clears the 47 px vertical margins. The open approach, sky and street leave room for scene layers.
+
+[Prism Works](../assets/pixel-stage-i/prism-works-v1.png) preserves the faceted blue laboratory, visible optical rigs, rose-gold conduits, secured entrance and exact mounted name. The compound walls and platform enter both 31 px side strips. A camera pullback is required before selection.
+
+The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 28 identities. Next widen the Prism Works frame while keeping its chamber, gate, sign and angle. Continue with Mooncourt Lounge and Royal Minaret using the pinned lineage PNGs.
