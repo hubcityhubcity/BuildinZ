@@ -281,3 +281,11 @@ Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The Stag
 Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The Stage I base set contains 44 selected identities. Continue with Tide Beacon using its selected lineage PNG, preserving the supported waterfront footprint.
 
 [Tide Beacon v1](../assets/pixel-stage-i/tide-beacon-v1.png) passed delegated Stage I review. The elevated, centered approach follows the Moonline Harbor waterfront portraits. The enclosed aqua observation deck, telescopes, pearl tower, lantern and exact mounted name remain visible. The full pier and supported bridge land on the shoreline and clear the 31 px side and 47 px vertical minima. The road and waterfront paving extend through the frame. The 1024×1536 PNG decoded and matched its uploaded Git blob. The collection has 45 of 50 selected bases. The remaining identities without portraits are Arcadian Residences, Agora Plaza, Axiom Labs, Muse Hall, Arcadia Beacon. Verify their manifest lineage PNGs before starting their Stage I pixel portraits.
+
+## Arcadia Prime residential and retail portraits
+
+[Arcadian Residences](../assets/pixel-stage-i/arcadian-residences-v1.png) keeps the repeated residential balconies, cobalt-domed private lounge, single cyan rooftop pool and exact mounted name. The site foundation is too close to both side edges.
+
+[Agora Plaza](../assets/pixel-stage-i/agora-plaza-v1.png) keeps the sheltered shopping arcade, distinct storefronts, cobalt dome and exact name. The platform enters both 31 px side strips. The camera needs a wider frame.
+
+Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The Stage I set contains 45 selected identities. Pull back both candidate portraits to obtain full foundation clearances while keeping their camera and exact signage. Next render Axiom Labs and Muse Hall using their verified lineage PNGs.
