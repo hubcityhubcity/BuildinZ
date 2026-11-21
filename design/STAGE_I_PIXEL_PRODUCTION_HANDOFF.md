@@ -181,3 +181,11 @@ Downloaded all ten Stage I lineage PNGs indexed above from raw.githubusercontent
 [Souk Plaza](../assets/pixel-stage-i/souk-plaza-v1.png) shows the correct mounted name, central arch, jewel glazing and dry retail arcade. The base extends too close to the sides and the arcade converges into depth. Pull back and rotate to a three-quarter isometric view while keeping the architecture. Leave the entrance and street clear of freestanding figures for later layers.
 
 Both new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 26 identities. Next, correct the two camera angles and Souk Plaza’s side clearance. Prism Works and Mooncourt Lounge can proceed from their pinned lineage PNGs.
+
+## Royal Mirage camera corrections
+
+[Oasis Residences](../assets/pixel-stage-i/oasis-residences-v3.png) passed delegated Stage I review. The three-quarter view preserves the exterior wall, dry courtyard, jewel-glass balconies, rooftop pool and exact sign. The foundation clears both 31 px side margins and the building clears the 47 px vertical margins.
+
+[Souk Plaza](../assets/pixel-stage-i/souk-plaza-v2.png) now shows a three-quarter angle, exact sign and unobstructed approach. The foundation still enters both side margins. Pull back while preserving the camera, arch and storefronts.
+
+The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 27 identities. Continue with Prism Works and Mooncourt Lounge using their pinned lineage PNGs.
