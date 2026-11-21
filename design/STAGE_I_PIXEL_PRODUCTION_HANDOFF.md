@@ -329,3 +329,13 @@ Resolve the documented revision items against Neon Residences v2 and the referen
 [Aurora Arcology v2](../assets/pixel-evolutions/aurora-arcology-v2.png) passes delegated Stage III review. The front curb and crosswalk visually align with Skyline Habitat, correcting the prior roughly 95 px vertical offset. The taller crown clears the top of frame, and the full dry foundation leaves foreground street space. The exact mounted sign, enlarged infinity pool, separate upper pools, glazed resort lounge, restrained low planting, and two prominent screens carry through. The intervening planting-only edit was excluded from selection because it retained the old footprint. The PNG decoded at 1024×1536 and matched the uploaded Git blob hash.
 
 Continue with the Pulse Plaza evolution family. Check exact names in COLLECTION_REGISTRY.json and use the selected Pulse Plaza base plus its source evolution designs.
+
+## Pulse Plaza pixel evolution review
+
+Pulse Plaza v2 guided style and site composition. Both prototype-selected architecture PNGs matched the source manifest SHA-256 values.
+
+[Spectrum Galleria](../assets/pixel-evolutions/spectrum-galleria-v1.png) passes delegated Stage II review. The twin canopies, glazed bridge, tiered shops and escalators carry the reference architecture forward, with exact signage, clear site margins and open foreground.
+
+[Infinity Bazaar](../assets/pixel-evolutions/infinity-bazaar-v1.png) passes delegated Stage III review. Its taller joined crown, two bridges and layered storefronts increase height and program. The exact sign is legible. The full crown clears the top edge, and the curb and road align visually with Stage II.
+
+Both new 1024×1536 PNGs decoded and matched their uploaded Git blob hashes. Next, use the HoloTech Tower selected base and its pinned prototype evolution references.

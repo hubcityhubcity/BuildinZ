@@ -33,6 +33,36 @@
       "review": "passes delegated Stage III review. The front curb and crosswalk visually align with Skyline Habitat, correcting the prior roughly 95 px vertical offset. The taller crown clears the top of frame, and the full dry foundation leaves foreground street space. The exact mounted sign, enlarged infinity pool, separate upper pools, glazed resort lounge, restrained low planting, and two prominent screens carry through. The intervening planting-only edit was excluded from selection because it retained the old footprint.",
       "previous_candidate_path": "assets/pixel-evolutions/aurora-arcology-v1.png",
       "reviewed_source_commit": "9f871dd9c9f87c723f45ded55de274d935643838"
+    },
+    {
+      "identity_id": "N01-I02",
+      "stage": 2,
+      "stage_name": "Spectrum Galleria",
+      "path": "assets/pixel-evolutions/spectrum-galleria-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/pulse-plaza-v2.png",
+      "architecture_reference": "assets/candidates/pulse-stage-2-signage-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2418901,
+      "sha256": "5801bb41e200e93bd835ed08375dafcb2b1ecebce1e315ca2e011f2e1733f96d",
+      "git_blob_sha": "a1b76a565e94d8ad9bad927812a0bac2294003b1",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The twin canopies, glazed bridge, tiered shops and escalators carry the reference architecture forward, with exact signage, clear site margins and open foreground.",
+      "reviewed_source_commit": "a42b914b6af34fe8fcee1e31f46507b7fd5c8514"
+    },
+    {
+      "identity_id": "N01-I02",
+      "stage": 3,
+      "stage_name": "Infinity Bazaar",
+      "path": "assets/pixel-evolutions/infinity-bazaar-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/pulse-plaza-v2.png",
+      "architecture_reference": "assets/candidates/pulse-stage-3-signage-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2520492,
+      "sha256": "a2c6c714e53868e516ea2c03da21841a36075ca86b8d1606de530f022c46bd8d",
+      "git_blob_sha": "e75a32c7617e5063659626b0055a765254909489",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. Its taller joined crown, two bridges and layered storefronts increase height and program. The exact sign is legible. The full crown clears the top edge, and the curb and road align visually with Stage II.",
+      "reviewed_source_commit": "a42b914b6af34fe8fcee1e31f46507b7fd5c8514"
     }
   ],
   "revision_history": [
