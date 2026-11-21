@@ -313,3 +313,13 @@ The uploaded PNGs fully decoded at 1024×1536 and matched their Git blob hashes.
 On November 21, 2026, all 50 standalone Stage I bases passed delegated selection. The Stage I inventory matches the registry’s exact names and IDs across 10 neighborhoods, with unique paths and hashes. The 49 earlier selections matched the pinned Git tree’s blob hashes and byte sizes. Arcadia Beacon decoded at 1024×1536 and matched its uploaded blob hash. Stage II and III production and final edition export certification remain open.
 
 Start with the Neon Residences → Skyline Habitat → Aurora Arcology family. Compare the approved evolution references against the selected pixel base, then render and visually verify Stages II and III before continuing with the other Neon Heights families.
+
+## Neon Residences pixel evolution review
+
+Used the selected Stage I portrait and the residential evolution boards. The boards guided architecture and remain reference assets. Both new PNGs decoded at 1024×1536 and matched their uploaded Git blob hashes.
+
+[Skyline Habitat](../assets/pixel-evolutions/skyline-habitat-v1.png) passes standalone Stage II review. It has the exact sign, a taller residential form, an enclosed private sky lounge beside its longer rooftop infinity pool, a prominent facade screen, and dry street frontage. Its foundation leaves room for street layers.
+
+[Aurora Arcology](../assets/pixel-evolutions/aurora-arcology-v1.png) has exact signage, a taller crown, a multi-zone sky resort with larger and additional pools, dry street frontage, and two displays whose combined visible area exceeds Stage II. Keep this as a revision candidate. The front foundation sits about 95 px below Stage II, and the crown and base leave less scene space. Reframe against the Stage II common site anchor and reduce rooftop planting to small accents while retaining the resort program and screen presence.
+
+Resolve the documented revision items against Neon Residences v2 and the reference boards before selecting this family.

@@ -1,0 +1,36 @@
+{
+  "source_commit": "f785d590d9c27208dff78ec7be1eeccc17aeefe2",
+  "stage_i_path": "assets/pixel-stage-i/neon-residences-v2.png",
+  "library_reference_ids": [
+    "libfile_19cb2b815f3881918737964e49faa3d7",
+    "libfile_9e8c913c2ce48191acf5a465df2bee7b",
+    "libfile_7598d0596c208191aaa246c2c663c479",
+    "libfile_baacd69fea9081918f3cc4f63674fbb7"
+  ],
+  "entries": [
+    {
+      "identity_id": "N01-I01",
+      "stage": 2,
+      "stage_name": "Skyline Habitat",
+      "path": "assets/pixel-evolutions/skyline-habitat-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2339375,
+      "sha256": "6c66825a8de8831b6e4ceb6aca20373b6c95df6217fb7071c85ef931f211b872",
+      "git_blob_sha": "4d516201e93d3f5add7fbd51f4d1902f3f08a5a1",
+      "status": "delegated_visual_selection",
+      "review": "passes standalone Stage II review. It has the exact sign, a taller residential form, an enclosed private sky lounge beside its longer rooftop infinity pool, a prominent facade screen, and dry street frontage. Its foundation leaves room for street layers."
+    },
+    {
+      "identity_id": "N01-I01",
+      "stage": 3,
+      "stage_name": "Aurora Arcology",
+      "path": "assets/pixel-evolutions/aurora-arcology-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2528261,
+      "sha256": "e55c9d0a638d6a82d407d8e29bc61564a39db179196c1cea10e6c915b86e4f23",
+      "git_blob_sha": "b69b74e7c9e40261b8cca7412e9715c54020c3ab",
+      "status": "visual_revision_required",
+      "review": "has exact signage, a taller crown, a multi-zone sky resort with larger and additional pools, dry street frontage, and two displays whose combined visible area exceeds Stage II. Keep this as a revision candidate. The front foundation sits about 95 px below Stage II, and the crown and base leave less scene space. Reframe against the Stage II common site anchor and reduce rooftop planting to small accents while retaining the resort program and screen presence."
+    }
+  ]
+}
