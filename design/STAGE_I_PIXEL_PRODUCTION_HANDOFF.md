@@ -349,3 +349,11 @@ The Stage I base and both prototype lineage PNGs matched their recorded SHA-256 
 [Omninet Nexus](../assets/pixel-evolutions/omninet-nexus-v1.png) retains exact signage, the larger supported halo, two lab wings and layered annexes. The antenna is about 46 px from the top, and the total silhouette reads slightly shorter than Stage II. Reframe both portraits to the same Stage I curb, lower the Stage II tip to about y180, and target about y75 for the Stage III tip to give the family a clear height progression.
 
 Revise the flagged candidate using the selected Stage I base and the sibling evolution portrait to anchor framing.
+
+## HoloTech Tower evolution framing revisions
+
+[Quantum Spire](../assets/pixel-evolutions/quantum-spire-v2.png) passes Stage II review. The lab floors raise the antenna tip to about y160 versus y277 for HoloTech Tower while keeping the front curb near y1260, the supported single wing, orbital display and exact sign.
+
+[Omninet Nexus](../assets/pixel-evolutions/omninet-nexus-v2.png) now clears the 47 px minimum with an antenna tip near y65 and reads taller than Quantum Spire. It keeps the exact sign, large supported halo and twin labs. Its front curb still sits about 100 px below the common Stage I/II curb. For the next edit use the selected Quantum Spire v2 as the first reference and transplant the Omninet architecture onto that exact pavement and street, holding the tip near y65.
+
+The 1024×1536 PNGs decoded and matched their Git blob hashes. Apply the remaining HoloTech Tower corrections above before selecting the family.
