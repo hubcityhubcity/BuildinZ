@@ -913,13 +913,25 @@
     {
       "identity_id": "N06-I01",
       "stage_name": "Oasis Residences",
-      "path": "assets/pixel-stage-i/oasis-residences-v1.png",
+      "path": "assets/pixel-stage-i/oasis-residences-v2.png",
       "architecture_reference": "assets/candidates/royal-mirage-oasis-residences-stage-1-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 3267016,
-      "sha256": "8756c63b5ac2465f0a0710068056b0217b400cbb007e028b34d74072a238012d",
-      "git_blob_sha": "c01f0384a444694c6fbf9a04b4933cf082b74f44",
-      "review_status": "side_margin_revision_required"
+      "bytes": 3182525,
+      "sha256": "340571f7c6cf6f01c356449d3fd71fb366cb29f2e8c0defa2c983470c06fe663",
+      "git_blob_sha": "e98c720a654bde7e2881d1657ac32916f6687f9f",
+      "review_status": "visual_revision_required",
+      "previous_candidate_path": "assets/pixel-stage-i/oasis-residences-v1.png"
+    },
+    {
+      "identity_id": "N06-I02",
+      "stage_name": "Souk Plaza",
+      "architecture_reference": "assets/candidates/royal-mirage-souk-plaza-stage-1-v1.png",
+      "path": "assets/pixel-stage-i/souk-plaza-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3029382,
+      "sha256": "da5a28b7230945231bc248912c4e98126eb8ee4e7b01d11a98adefc7d721acde",
+      "git_blob_sha": "d4e55db282e5785f7687871c778c8927517baaa3",
+      "review_status": "visual_revision_required"
     }
   ],
   "additional_source_archives": [

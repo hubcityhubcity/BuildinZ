@@ -173,3 +173,11 @@ Rechecked the selected Neon Residences and Midnight Lounge v2 portraits against 
 Downloaded all ten Stage I lineage PNGs indexed above from raw.githubusercontent.com using the source commit 72312723e1d85ba70e2fc602855c2e570f332699 and the exact repository path. Every PNG fully decoded and matched the asset manifest’s SHA-256 and Git blob SHA. This resolves the binary access blocker for both neighborhoods. Reuse the same pinned raw URLs and verify against ASSET_MANIFEST.json if the local copies expire.
 
 [Oasis Residences v1](../assets/pixel-stage-i/oasis-residences-v1.png) keeps the exact mounted sign, inset dry courtyard, jewel-glass balconies and rooftop plunge pool from the source. Pixel texture is visible in the clouds, palms and paved surfaces. The broad frontage and foundation enter the side margins, so this remains a candidate. The PNG decoded at 1024×1536 and matched its uploaded blob SHA. The selected base set contains 26 identities. Next, pull the Oasis camera back until its full foundation clears both 31 px side margins. Then use the verified Royal Mirage PNGs for Souk Plaza and Prism Works and retain the historical sheet as a palette reference. For Ember Residences use the verified cinematic lineage PNG to preserve the high-rise form and rooftop pool.
+
+## Royal Mirage residential and retail review
+
+[Oasis Residences](../assets/pixel-stage-i/oasis-residences-v2.png) clears the side and vertical margins and retains the exact sign, dry courtyard, balconies and rooftop pool. The pullback shifted the view toward a centered front elevation. Keep these margins while restoring a three-quarter isometric angle with a visible exterior side.
+
+[Souk Plaza](../assets/pixel-stage-i/souk-plaza-v1.png) shows the correct mounted name, central arch, jewel glazing and dry retail arcade. The base extends too close to the sides and the arcade converges into depth. Pull back and rotate to a three-quarter isometric view while keeping the architecture. Leave the entrance and street clear of freestanding figures for later layers.
+
+Both new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 26 identities. Next, correct the two camera angles and Souk Plaza’s side clearance. Prism Works and Mooncourt Lounge can proceed from their pinned lineage PNGs.
