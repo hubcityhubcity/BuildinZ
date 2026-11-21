@@ -223,3 +223,17 @@ The two new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. T
 [Ember Hall](../assets/pixel-stage-i/ember-hall-v1.png) passed delegated Stage I review. The glass-front concert stage, piano, drum kit, seating, pale supports and exact sign are legible. The solid roof and base clear the framing minima. A decorative paving line reaches into the side strips. Foreground paving and sky remain open.
 
 Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. Crimson Commons has 4 of 5 selected Stage I bases and the collection has 34 of 50. Reframe Redline Labs by pulling back while preserving its gate, wings and lab equipment. The next group without portraits begins with Foundry Flats, Forge Market, Gearhouse Labs, Boiler Hall, Rivet Monument. Retrieve their selected lineage PNGs from the asset manifest and verify source hashes before rendering.
+
+## Old World Steel Stage I references
+
+At source commit `51231ba8cf347177cf9662d56e70a899c97471a8`, the Git tree matched the recorded blob SHA and byte length for all 35 standalone candidates and the five Old World Steel architecture references below. This pass verifies the committed files against the inventory. PNG decoding and visual review of the Old World Steel sources remain pending.
+
+| Stage I identity | Source portrait | Architecture to preserve |
+| --- | --- | --- |
+| Foundry Flats | [PNG](../assets/candidates/old-world-steel-foundry-flats-stage-1-v1.png) | Brick apartments, riveted trusses, copper sawtooth roof and private rooftop plunge pool. |
+| Forge Market | [PNG](../assets/candidates/old-world-steel-forge-market-stage-1-v2.png) | Merchandise and storefronts, iron canopies and full chimney. |
+| Gearhouse Labs | [PNG](../assets/candidates/old-world-steel-gearhouse-labs-stage-1-v2.png) | Secured engineering lab, gear rigs, sealed blue glazing and service yard. |
+| Boiler Hall | [PNG](../assets/candidates/old-world-steel-boiler-hall-stage-1-v1.png) | Concert stage, seating, supported gallery and public foyer. |
+| Rivet Monument | [PNG](../assets/candidates/old-world-steel-rivet-monument-stage-1-v1.png) | Riveted iron tower, enclosed observation deck, copper beacon and brick pedestal. |
+
+First pull back Redline Labs v1 and recheck the full compound against the 31 px side and 47 px vertical margins. In the next Old World Steel batch, retrieve Foundry Flats and Forge Market from pinned raw repository URLs, verify SHA-256 and Git blob SHA, and use those PNGs as architecture inputs. Retain brick, iron and copper as the neighborhood palette. There are 34 selected Stage I bases, including four in Crimson Commons.
