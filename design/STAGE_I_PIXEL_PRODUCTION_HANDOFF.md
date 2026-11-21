@@ -207,3 +207,11 @@ The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The s
 The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 30 identities. Continue with Royal Minaret using its pinned lineage PNG.
 
 [Royal Minaret v1](../assets/pixel-stage-i/royal-minaret-v1.png) passed delegated Stage I review. The sweeping sandstone ribs, single turquoise observation ring, lit crown, complete spire and exact mounted name match the established design. The angled platform fits inside both 31 px side margins, the apex and base clear 47 px vertically, and the pixel-rendered sky and dry foreground remain open. The 1024×1536 PNG fully decoded and matched its uploaded Git blob. Royal Mirage now has 5 of 5 selected Stage I bases. The collection has 31 of 50. Next, use the recovered Crimson Commons full-resolution references to rebuild Ember Residences from the established rooftop-pool design and start Commons Market.
+
+## Crimson Commons residential and market art
+
+[Ember Residences](../assets/pixel-stage-i/ember-residences-v3.png) passed delegated Stage I review against the verified high-rise source. The furnished balconies, single private rooftop pool, dry entrance and exact lettering are visible. The solid foundation and roof clear the framing minima. Decorative paving lines extend beyond the foundation. The archive-based portraits remain in history.
+
+[Commons Market](../assets/pixel-stage-i/commons-market-v1.png) passed delegated Stage I review. The two retail levels, low crimson roof, lit storefronts, corner entry and exact sign match the source. The foundation clears both 31 px side and 47 px vertical minima. The stepped dusk sky and open paved foreground preserve space for future layers.
+
+The two new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 33 identities. Continue with Redline Labs and Ember Hall using the verified Crimson Commons lineage PNGs.

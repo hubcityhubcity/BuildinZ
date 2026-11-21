@@ -901,14 +901,16 @@
     {
       "identity_id": "N10-I01",
       "stage_name": "Ember Residences",
-      "path": "assets/pixel-stage-i/ember-residences-v2.png",
-      "architecture_reference": "BuildinZ_Base_Art.zip / Crimson Commons/CC-01 Terraced Residence/CC-01_Stage_I.png",
+      "path": "assets/pixel-stage-i/ember-residences-v3.png",
+      "architecture_reference": "assets/candidates/crimson-commons-ember-residences-stage-1-v2.png",
       "dimensions": "1024x1536",
-      "bytes": 2360270,
-      "sha256": "748273afe86c4bb6344e3d0152580f5b3ed03681a3bc47bbb2eaa1c4b1e741fe",
-      "git_blob_sha": "dc29f11a5ab38c267cccf5ae72168bc8fb505906",
-      "review_status": "repository_lineage_review_required",
-      "previous_candidate_path": "assets/pixel-stage-i/ember-residences-v1.png"
+      "bytes": 2663893,
+      "sha256": "60791932192ebcaa04a9f60a2012ff5ce26bd65e5885f2d6cc719694c5df4de9",
+      "git_blob_sha": "7882521019834983274af9e1228aa8932b3afdec",
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/ember-residences-v2.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "caca2092f26a17b1fe786aad8d4425ef2066ce02"
     },
     {
       "identity_id": "N06-I01",
@@ -977,6 +979,19 @@
       "review_status": "stage_i_base_selected",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "c5ea6e1b3a0458bb412fefe08ed2674285976779"
+    },
+    {
+      "identity_id": "N10-I02",
+      "stage_name": "Commons Market",
+      "path": "assets/pixel-stage-i/commons-market-v1.png",
+      "architecture_reference": "assets/candidates/crimson-commons-commons-market-stage-1-v3.png",
+      "dimensions": "1024x1536",
+      "bytes": 2520853,
+      "sha256": "872973a4fd7f810eb39ee360b199c0b7e4eed6d39c02ed98995b4807f33bc204",
+      "git_blob_sha": "d0b6531661486061580bb002e3a65991f58251d5",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "caca2092f26a17b1fe786aad8d4425ef2066ce02"
     }
   ],
   "additional_source_archives": [
