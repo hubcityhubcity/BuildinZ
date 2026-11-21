@@ -992,6 +992,30 @@
       "review_status": "stage_i_base_selected",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "caca2092f26a17b1fe786aad8d4425ef2066ce02"
+    },
+    {
+      "identity_id": "N10-I03",
+      "stage_name": "Redline Labs",
+      "path": "assets/pixel-stage-i/redline-labs-v1.png",
+      "architecture_reference": "assets/candidates/crimson-commons-redline-labs-stage-1-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2609231,
+      "sha256": "b4a1f4b02e26fc600794151967b099858fc619bbda577b3d3990778f91bd6b46",
+      "git_blob_sha": "835a8c956876d745aec55ebcf28c015ab6203bc2",
+      "review_status": "visual_revision_required"
+    },
+    {
+      "identity_id": "N10-I04",
+      "stage_name": "Ember Hall",
+      "path": "assets/pixel-stage-i/ember-hall-v1.png",
+      "architecture_reference": "assets/candidates/crimson-commons-ember-hall-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2654046,
+      "sha256": "20398ef30e8b6e7e656607852ced624c888dea533858e96be3136047c20f1668",
+      "git_blob_sha": "83f2cf2848f0d4c739b749a97b1dac43059d5794",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "be198a046019651e6cc25f943fd7f9dc26cd99b2"
     }
   ],
   "additional_source_archives": [

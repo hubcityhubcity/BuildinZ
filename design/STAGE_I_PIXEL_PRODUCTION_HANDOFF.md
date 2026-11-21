@@ -215,3 +215,11 @@ The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The s
 [Commons Market](../assets/pixel-stage-i/commons-market-v1.png) passed delegated Stage I review. The two retail levels, low crimson roof, lit storefronts, corner entry and exact sign match the source. The foundation clears both 31 px side and 47 px vertical minima. The stepped dusk sky and open paved foreground preserve space for future layers.
 
 The two new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 33 identities. Continue with Redline Labs and Ember Hall using the verified Crimson Commons lineage PNGs.
+
+## Crimson Commons technology and entertainment art
+
+[Redline Labs](../assets/pixel-stage-i/redline-labs-v1.png) retains the exact sign, robotics lab, pale braces, lower right wing and gate. The compound's outer corners are too close to both 31 px side strips for a confident framing pass. Pull back slightly without changing the angle.
+
+[Ember Hall](../assets/pixel-stage-i/ember-hall-v1.png) passed delegated Stage I review. The glass-front concert stage, piano, drum kit, seating, pale supports and exact sign are legible. The solid roof and base clear the framing minima. A decorative paving line reaches into the side strips. Foreground paving and sky remain open.
+
+Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. Crimson Commons has 4 of 5 selected Stage I bases and the collection has 34 of 50. Reframe Redline Labs by pulling back while preserving its gate, wings and lab equipment. The next group without portraits begins with Foundry Flats, Forge Market, Gearhouse Labs, Boiler Hall, Rivet Monument. Retrieve their selected lineage PNGs from the asset manifest and verify source hashes before rendering.
