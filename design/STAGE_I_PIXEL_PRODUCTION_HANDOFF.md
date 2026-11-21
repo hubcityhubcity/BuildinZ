@@ -255,3 +255,11 @@ Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The sele
 [Gearhouse Labs](../assets/pixel-stage-i/gearhouse-labs-v1.png) passed delegated Stage I review. The exact mounted name, sealed blue glazing, robotics and visible gear rigs, chimney and secure service yard preserve its engineering identity. The full compound clears both 31 px side strips and the architecture clears both 47 px vertical margins. The sky and cobbled foreground remain usable for future layers.
 
 Both PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 38 identities. Continue with Boiler Hall and Rivet Monument using their pinned source PNGs.
+
+## Old World Steel venue and landmark
+
+[Boiler Hall](../assets/pixel-stage-i/boiler-hall-v1.png) passed delegated Stage I review. The stage, instruments, seating, supported gallery and brick chimney are visible, and the exact mounted name is legible. The complete platform clears the 31 px side and 47 px vertical minima.
+
+[Rivet Monument](../assets/pixel-stage-i/rivet-monument-v1.png) passed delegated Stage I review. It preserves the slender iron truss, enclosed observation deck, copper beacon, brick pedestal and exact name. The complete spire and foundation clear the framing minima, with open sky and cobbled foreground.
+
+The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 40 identities. The next group without portraits includes Tidelight Residences, Dockside Market, Beacon Labs, Harbor Lounge, Tide Beacon. Retrieve its established lineage PNGs and verify the recorded hashes before rendering.

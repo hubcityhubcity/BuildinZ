@@ -1059,6 +1059,32 @@
       "review_status": "stage_i_base_selected",
       "stage_i_base_selection": "delegated_visual_selection",
       "reviewed_source_commit": "a9f28bec9ab6a3edf9b8208d16dfa9bb1fcb0886"
+    },
+    {
+      "identity_id": "N07-I05",
+      "stage_name": "Rivet Monument",
+      "path": "assets/pixel-stage-i/rivet-monument-v1.png",
+      "architecture_reference": "assets/candidates/old-world-steel-rivet-monument-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2550197,
+      "sha256": "2dfee6c68c7472d13e5da5b75dadfde2991f2c94810098b70d376828759fef45",
+      "git_blob_sha": "34aaf7ee13b0852d19f03b0e7d4d43d118a25729",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "b35d58c98c5780cb15b21870ead26976f9f067ad"
+    },
+    {
+      "identity_id": "N07-I04",
+      "stage_name": "Boiler Hall",
+      "path": "assets/pixel-stage-i/boiler-hall-v1.png",
+      "architecture_reference": "assets/candidates/old-world-steel-boiler-hall-stage-1-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2897929,
+      "sha256": "44922bf49169618aa6a1670cc6b58d53e0f4be45417f0ac20e16a1c7ad3aae38",
+      "git_blob_sha": "9339dff97eef8154aee390d95d85da4976e834e4",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "b35d58c98c5780cb15b21870ead26976f9f067ad"
     }
   ],
   "additional_source_archives": [
