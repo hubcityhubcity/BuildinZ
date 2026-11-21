@@ -996,13 +996,16 @@
     {
       "identity_id": "N10-I03",
       "stage_name": "Redline Labs",
-      "path": "assets/pixel-stage-i/redline-labs-v1.png",
+      "path": "assets/pixel-stage-i/redline-labs-v2.png",
       "architecture_reference": "assets/candidates/crimson-commons-redline-labs-stage-1-v2.png",
       "dimensions": "1024x1536",
-      "bytes": 2609231,
-      "sha256": "b4a1f4b02e26fc600794151967b099858fc619bbda577b3d3990778f91bd6b46",
-      "git_blob_sha": "835a8c956876d745aec55ebcf28c015ab6203bc2",
-      "review_status": "visual_revision_required"
+      "bytes": 2400572,
+      "sha256": "07d51a987596b632571dbab5f8331480222be340d3b9a4d18b9c6b73824beea3",
+      "git_blob_sha": "cd850e2e7f119152e711823198ca961ae7b0d011",
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/redline-labs-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "a158dd44acb895349a2ce2ccf0c3213a84650af1"
     },
     {
       "identity_id": "N10-I04",
