@@ -63,6 +63,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. Its taller joined crown, two bridges and layered storefronts increase height and program. The exact sign is legible. The full crown clears the top edge, and the curb and road align visually with Stage II.",
       "reviewed_source_commit": "a42b914b6af34fe8fcee1e31f46507b7fd5c8514"
+    },
+    {
+      "identity_id": "N01-I03",
+      "stage": 2,
+      "stage_name": "Quantum Spire",
+      "path": "assets/pixel-evolutions/quantum-spire-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/holotech-tower-v1.png",
+      "architecture_reference": "assets/candidates/holotech-stage-2-signage-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2229468,
+      "sha256": "34065da7268b7a3f0edcfc13f663efe6916240f273c5cccfdbcedf1ed261ca67",
+      "git_blob_sha": "ab54f72660475e5e1cc3286064c343a7fba669cb",
+      "status": "visual_revision_required",
+      "review": "retains exact signage, the orbital facade display and a visibly supported single laboratory wing. The antenna has about 33 px of sky clearance against the 47 px minimum, and the platform sits lower than the Stage I site. Reframe to the Stage I curb with at least 47 px above the antenna.",
+      "reviewed_source_commit": "61c22fc357a78a9ff405d157e95f0d1964c49366"
+    },
+    {
+      "identity_id": "N01-I03",
+      "stage": 3,
+      "stage_name": "Omninet Nexus",
+      "path": "assets/pixel-evolutions/omninet-nexus-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/holotech-tower-v1.png",
+      "architecture_reference": "assets/candidates/holotech-stage-3-signage-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2367529,
+      "sha256": "7529c126827e6c252d1c288de85891a295eeb564048ca2660231503ff6db1e24",
+      "git_blob_sha": "0c1c3be326afc5290c0182a41034054abf468629",
+      "status": "visual_revision_required",
+      "review": "retains exact signage, the larger supported halo, two lab wings and layered annexes. The antenna is about 46 px from the top, and the total silhouette reads slightly shorter than Stage II. Reframe both portraits to the same Stage I curb, lower the Stage II tip to about y180, and target about y75 for the Stage III tip to give the family a clear height progression.",
+      "reviewed_source_commit": "61c22fc357a78a9ff405d157e95f0d1964c49366"
     }
   ],
   "revision_history": [

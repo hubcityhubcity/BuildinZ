@@ -339,3 +339,13 @@ Pulse Plaza v2 guided style and site composition. Both prototype-selected archit
 [Infinity Bazaar](../assets/pixel-evolutions/infinity-bazaar-v1.png) passes delegated Stage III review. Its taller joined crown, two bridges and layered storefronts increase height and program. The exact sign is legible. The full crown clears the top edge, and the curb and road align visually with Stage II.
 
 Both new 1024×1536 PNGs decoded and matched their uploaded Git blob hashes. Next, use the HoloTech Tower selected base and its pinned prototype evolution references.
+
+## HoloTech Tower pixel evolution review
+
+The Stage I base and both prototype lineage PNGs matched their recorded SHA-256 hashes. The new PNGs decoded at 1024×1536 and matched their uploaded Git blob hashes.
+
+[Quantum Spire](../assets/pixel-evolutions/quantum-spire-v1.png) retains exact signage, the orbital facade display and a visibly supported single laboratory wing. The antenna has about 33 px of sky clearance against the 47 px minimum, and the platform sits lower than the Stage I site. Reframe to the Stage I curb with at least 47 px above the antenna.
+
+[Omninet Nexus](../assets/pixel-evolutions/omninet-nexus-v1.png) retains exact signage, the larger supported halo, two lab wings and layered annexes. The antenna is about 46 px from the top, and the total silhouette reads slightly shorter than Stage II. Reframe both portraits to the same Stage I curb, lower the Stage II tip to about y180, and target about y75 for the Stage III tip to give the family a clear height progression.
+
+Revise the flagged candidate using the selected Stage I base and the sibling evolution portrait to anchor framing.
