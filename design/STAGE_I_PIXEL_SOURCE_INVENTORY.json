@@ -942,12 +942,28 @@
       "identity_id": "N06-I03",
       "stage_name": "Prism Works",
       "architecture_reference": "assets/candidates/royal-mirage-prism-works-stage-1-v1.png",
-      "path": "assets/pixel-stage-i/prism-works-v1.png",
+      "path": "assets/pixel-stage-i/prism-works-v2.png",
       "dimensions": "1024x1536",
-      "bytes": 3230019,
-      "sha256": "92b99d5851c6c486dc75e465ed7a9e3cc2ed1649fcdf9519fc65eebe1e47a498",
-      "git_blob_sha": "8295169f203a9c5a4323fab670dbd74ef6c37078",
-      "review_status": "visual_revision_required"
+      "bytes": 2586149,
+      "sha256": "c000fd42a545b57026b97edf5c8505a55d420ecf58b1c8176cc37409f75134a3",
+      "git_blob_sha": "4fffe313a3702234fc1d6b9cacf62fe93cfff7b9",
+      "review_status": "stage_i_base_selected",
+      "previous_candidate_path": "assets/pixel-stage-i/prism-works-v1.png",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "798b06d527286db3fe1acb2015c8175ea66050f9"
+    },
+    {
+      "identity_id": "N06-I04",
+      "stage_name": "Mooncourt Lounge",
+      "architecture_reference": "assets/candidates/royal-mirage-mooncourt-lounge-stage-1-v1.png",
+      "path": "assets/pixel-stage-i/mooncourt-lounge-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2926024,
+      "sha256": "937db35a51ed2417ec7901bfe24909c506d20963fb54f5db4dec82d156b1042b",
+      "git_blob_sha": "4a45791af8f7a21ecd3e78c652fbfdad2e1b1538",
+      "review_status": "stage_i_base_selected",
+      "stage_i_base_selection": "delegated_visual_selection",
+      "reviewed_source_commit": "798b06d527286db3fe1acb2015c8175ea66050f9"
     }
   ],
   "additional_source_archives": [

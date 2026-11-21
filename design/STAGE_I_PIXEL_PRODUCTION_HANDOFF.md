@@ -197,3 +197,11 @@ The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The s
 [Prism Works](../assets/pixel-stage-i/prism-works-v1.png) preserves the faceted blue laboratory, visible optical rigs, rose-gold conduits, secured entrance and exact mounted name. The compound walls and platform enter both 31 px side strips. A camera pullback is required before selection.
 
 The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 28 identities. Next widen the Prism Works frame while keeping its chamber, gate, sign and angle. Continue with Mooncourt Lounge and Royal Minaret using the pinned lineage PNGs.
+
+## Royal Mirage technology and entertainment art
+
+[Prism Works](../assets/pixel-stage-i/prism-works-v2.png) passed delegated Stage I review. The pullback leaves the compound and gate clear of both 31 px side strips. The solid roof, antennas and base clear the 47 px vertical margins. The sign, sapphire lab chamber, optics rigs and rose-gold conduits carry through.
+
+[Mooncourt Lounge](../assets/pixel-stage-i/mooncourt-lounge-v1.png) passed delegated Stage I review. The high, centered view retains the curved wings and symmetrical dry forecourt, jewel-glass canopy, stage instruments, seating and exact mounted name. The building and foundation clear both 31 px side and 47 px vertical margins. The open sky and paved foreground remain usable for later scenes.
+
+The new PNGs decoded at 1024×1536 and matched their uploaded blob hashes. The selected Stage I set contains 30 identities. Continue with Royal Minaret using its pinned lineage PNG.
