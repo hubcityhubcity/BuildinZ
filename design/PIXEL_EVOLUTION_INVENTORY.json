@@ -24,6 +24,22 @@
       "identity_id": "N01-I01",
       "stage": 3,
       "stage_name": "Aurora Arcology",
+      "path": "assets/pixel-evolutions/aurora-arcology-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2373629,
+      "sha256": "5ef28579ed87e651b6ec23f42f5708a0d3d7b510dc76dfe8a900c97ba4db16dd",
+      "git_blob_sha": "692c9d04b68e6c9f2af9e72a368afcccafec6264",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The front curb and crosswalk visually align with Skyline Habitat, correcting the prior roughly 95 px vertical offset. The taller crown clears the top of frame, and the full dry foundation leaves foreground street space. The exact mounted sign, enlarged infinity pool, separate upper pools, glazed resort lounge, restrained low planting, and two prominent screens carry through. The intervening planting-only edit was excluded from selection because it retained the old footprint.",
+      "previous_candidate_path": "assets/pixel-evolutions/aurora-arcology-v1.png",
+      "reviewed_source_commit": "9f871dd9c9f87c723f45ded55de274d935643838"
+    }
+  ],
+  "revision_history": [
+    {
+      "identity_id": "N01-I01",
+      "stage": 3,
+      "stage_name": "Aurora Arcology",
       "path": "assets/pixel-evolutions/aurora-arcology-v1.png",
       "dimensions": "1024x1536",
       "bytes": 2528261,

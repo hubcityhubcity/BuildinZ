@@ -323,3 +323,9 @@ Used the selected Stage I portrait and the residential evolution boards. The boa
 [Aurora Arcology](../assets/pixel-evolutions/aurora-arcology-v1.png) has exact signage, a taller crown, a multi-zone sky resort with larger and additional pools, dry street frontage, and two displays whose combined visible area exceeds Stage II. Keep this as a revision candidate. The front foundation sits about 95 px below Stage II, and the crown and base leave less scene space. Reframe against the Stage II common site anchor and reduce rooftop planting to small accents while retaining the resort program and screen presence.
 
 Resolve the documented revision items against Neon Residences v2 and the reference boards before selecting this family.
+
+## Aurora Arcology framing review
+
+[Aurora Arcology v2](../assets/pixel-evolutions/aurora-arcology-v2.png) passes delegated Stage III review. The front curb and crosswalk visually align with Skyline Habitat, correcting the prior roughly 95 px vertical offset. The taller crown clears the top of frame, and the full dry foundation leaves foreground street space. The exact mounted sign, enlarged infinity pool, separate upper pools, glazed resort lounge, restrained low planting, and two prominent screens carry through. The intervening planting-only edit was excluded from selection because it retained the old footprint. The PNG decoded at 1024×1536 and matched the uploaded Git blob hash.
+
+Continue with the Pulse Plaza evolution family. Check exact names in COLLECTION_REGISTRY.json and use the selected Pulse Plaza base plus its source evolution designs.
