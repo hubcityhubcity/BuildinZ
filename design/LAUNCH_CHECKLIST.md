@@ -282,4 +282,10 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Golden Crest entertainment evolution selection
 
 - [x] Selected Radiant Opera and Solaris Grand Theatre as N02-I04 Stage II/III production artworks.
-- [ ] Continue with Golden Obelisk → Sunspire Monument → Crown of Dawn.
+- [x] Golden Obelisk → Sunspire Monument → Crown of Dawn passed exact-name, landmark-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Golden Crest landmark evolution selection
+
+- [x] Selected Sunspire Monument and Crown of Dawn as N02-I05 Stage II/III production artworks.
+- [x] All five Golden Crest identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
+- [ ] Continue with Shadow Market: Gloomstep Flats → Veilside Habitat → Noctis Enclave.

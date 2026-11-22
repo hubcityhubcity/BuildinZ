@@ -418,3 +418,14 @@ Selected `assets/pixel-evolutions/radiant-opera-v1.png` and `assets/pixel-evolut
 Visual verification confirmed exact mounted stage names, the shared ivory/gold Art Deco theatre language, retained fan marquees, connected side halls, physically supported glazed foyers, increasing auditorium and balcony levels, complete plot/crown framing, empty streets and a clear height/complexity progression. No scene or edition traits were introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Golden Crest now has four of five evolution families selected. Next, use Golden Obelisk's selected Stage I base and the canonical Sunspire Monument / Crown of Dawn references for N02-I05.
+
+
+## 2026-11-22 Golden Obelisk evolution family selection
+
+Selected `assets/pixel-evolutions/sunspire-monument-v1.png` and `assets/pixel-evolutions/crown-of-dawn-v1.png` as the delegated Stage II and Stage III production artworks for N02-I05. Both are 1024×1536 standalone HD isometric pixel assets derived from `golden-obelisk-v3.png` and the lineage-selected Golden Crest landmark references.
+
+Equal-width visual verification confirmed exact plinth names, the shared ivory/gold civic-monument language, a consistent raised ceremonial square, complete tip/base framing, empty approaches and a clear progression from Golden Obelisk’s slender single observation chamber to Sunspire Monument’s two supported viewing levels and Crown of Dawn’s connected five-spire crown. No scene or edition traits were introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+This completes all five Golden Crest pixel evolution families: 10 selected Stage II/III assets across N02-I01 through N02-I05. It does not certify edition exports or downstream metadata.
+
+Next, begin Shadow Market with Gloomstep Flats → Veilside Habitat → Noctis Enclave, using the selected Stage I base and canonical Shadow Market residential references.
