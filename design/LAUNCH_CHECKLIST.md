@@ -329,4 +329,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Skygarden District technology evolution selection
 
 - [x] Selected Aeroponic Spire and Gaia Cloudworks as N04-I03 Stage II/III production artworks.
-- [ ] Continue with Terrace Hall → Petal Pavilion → Celestial Conservatory.
+- [x] Terrace Hall → Petal Pavilion → Celestial Conservatory passed exact-name, entertainment-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Skygarden District entertainment evolution selection
+
+- [x] Selected Petal Pavilion and Celestial Conservatory as N04-I04 Stage II/III production artworks.
+- [ ] Continue with Garden Beacon → Worldtree Apex → Crown of Eden.

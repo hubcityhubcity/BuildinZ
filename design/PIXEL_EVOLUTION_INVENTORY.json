@@ -553,6 +553,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact mounted name, dominant central seed-light tower, two substantial side research towers, multiple supported research bridges, four cloud-collector zones, sealed aeroponic chambers and integrated luminous crown clearly exceed Aeroponic Spire. Pearl bioframes, emerald research glass, mint service tubes, controlled scientific planting, dry street frontage and complete crown/base framing remain intact.",
       "reviewed_source_commit": "153bb7a5eda1829b1636a49e4e4be05d9d944395"
+    },
+    {
+      "identity_id": "N04-I04",
+      "stage": 2,
+      "stage_name": "Petal Pavilion",
+      "path": "assets/pixel-evolutions/petal-pavilion-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/terrace-hall-v2.png",
+      "architecture_reference": "assets/candidates/skygarden-district-petal-pavilion-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2892061,
+      "sha256": "37db23a798d304f0c1e4e634a7404c16e4abad5c696931bcd824a6d5f043815b",
+      "git_blob_sha": "1c90eb4dc18d3ba0bdc0ed4afebef78107ce8b98",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact mounted name, larger central performance auditorium with visible stage, several physically supported audience balcony terraces, elevated supported sky foyer and layered pearl petal canopy clearly extend Terrace Hall. Warm-wood acoustic fins, emerald/sky-blue glass, mint edge light, controlled flowers, reflective street and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "bfa745f5529da861d1279058f498c74806328d81"
+    },
+    {
+      "identity_id": "N04-I04",
+      "stage": 3,
+      "stage_name": "Celestial Conservatory",
+      "path": "assets/pixel-evolutions/celestial-conservatory-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/terrace-hall-v2.png",
+      "architecture_reference": "assets/candidates/skygarden-district-celestial-conservatory-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3173632,
+      "sha256": "01ee9efa11b5766925c65d97821b08b7a9597558791da8c16f1d1554a91fb726",
+      "git_blob_sha": "2d927e0c4f376cf83d9c6da1155e702599de68bb",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact mounted name, dominant central auditorium with visible stage, two distinct side performance halls, many supported audience balcony zones, elevated garden foyers, short supported glazed bridges and complete luminous flower crown clearly exceed Petal Pavilion. Warm-wood acoustic fins, emerald/sky-blue glass, controlled flowers, reflective street and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "bfa745f5529da861d1279058f498c74806328d81"
     }
   ],
   "revision_history": [

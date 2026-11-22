@@ -503,3 +503,12 @@ Selected `assets/pixel-evolutions/aeroponic-spire-v1.png` and `assets/pixel-evol
 Equal-width visual verification confirmed exact mounted stage names, the shared emerald seed-light core, pearl bioframes, mint service tubes, sky-blue collector sails, warm-wood entry bands, sealed modular plant trays, secure service bays, dry street and open sky. Stage II adds the much taller research spire, two supported collector decks, expanded sealed labs and a supported bridge to a distinct side laboratory; Stage III adds two substantial side research towers, multiple supported bridges, four collector zones and the integrated luminous crown. Planting remains controlled and scientific. No residence, retail, resort, pool, dense jungle, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Skygarden District now has three of five evolution families selected. Next, use Terrace Hall's selected Stage I base and the canonical Petal Pavilion / Celestial Conservatory references for N04-I04.
+
+
+## 2026-11-22 Terrace Hall evolution family selection
+
+Selected `assets/pixel-evolutions/petal-pavilion-v1.png` and `assets/pixel-evolutions/celestial-conservatory-v1.png` as the delegated Stage II and Stage III production artworks for N04-I04. Both are 1024×1536 standalone HD isometric pixel assets derived from `terrace-hall-v2.png` and the lineage-selected Skygarden District entertainment references.
+
+Equal-width visual verification confirmed exact mounted stage names, the shared layered pearl petal roofs, warm-wood acoustic fins, emerald/sky-blue glass, mint edge lights, controlled flowering accents, visible performance stages, reflective street and open sky. Stage II adds the larger central auditorium, several supported audience balcony terraces and elevated supported sky foyer; Stage III adds two distinct side performance halls, many supported audience zones, elevated garden foyers, short supported glazed bridges and the complete luminous flower crown. No residence, retail mall, hotel, laboratory, pool, dense jungle, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Skygarden District now has four of five evolution families selected. Next, use Garden Beacon's selected Stage I base and the canonical Worldtree Apex / Crown of Eden references for N04-I05.
