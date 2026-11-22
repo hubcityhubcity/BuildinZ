@@ -350,4 +350,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Velocity Row retail evolution selection
 
 - [x] Selected Turbo Galleria and Velocity Exchange as N05-I02 Stage II/III production artworks.
-- [ ] Continue with Vector Works → Quantum Garage → Hyperdrive Nexus.
+- [x] Vector Works → Quantum Garage → Hyperdrive Nexus passed exact-name, technology-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Velocity Row technology evolution selection
+
+- [x] Selected Quantum Garage and Hyperdrive Nexus as N05-I03 Stage II/III production artworks.
+- [ ] Continue with Rush Arena → Overtake Pavilion → Redline Coliseum.
