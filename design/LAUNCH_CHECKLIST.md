@@ -345,4 +345,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Velocity Row residential evolution selection
 
 - [x] Selected Slipstream Habitat and Mach Horizon as N05-I01 Stage II/III production artworks.
-- [ ] Continue with Pitlane Plaza → Turbo Galleria → Velocity Exchange.
+- [x] Pitlane Plaza → Turbo Galleria → Velocity Exchange passed exact-name, retail-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Velocity Row retail evolution selection
+
+- [x] Selected Turbo Galleria and Velocity Exchange as N05-I02 Stage II/III production artworks.
+- [ ] Continue with Vector Works → Quantum Garage → Hyperdrive Nexus.

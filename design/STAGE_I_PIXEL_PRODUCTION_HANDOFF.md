@@ -532,3 +532,12 @@ Selected `assets/pixel-evolutions/slipstream-habitat-v1.png` and `assets/pixel-e
 Equal-width visual verification confirmed exact mounted stage names, the shared white aero exoshells, racing-red motion ribbons, cobalt residential glass, gunmetal balcony rails, amber track lights, warm private interiors, reflective dark street and blue-hour sky. Stage II adds taller twin residential towers, stepped aero terraces, tied-back fins and a fully enclosed supported residents-only sky lounge; Stage III adds the dominant central residential tower, two distinct side towers, multiple supported resident connections, several upper private zones and complete supported turbine crown. No hotel, retail, office, laboratory, public or ground pool, literal vehicle, grandstand, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Velocity Row now has one of five evolution families selected. Next, use Pitlane Plaza's selected Stage I base and the canonical Turbo Galleria / Velocity Exchange references for N05-I02.
+
+
+## 2026-11-22 Pitlane Plaza evolution family selection
+
+Selected `assets/pixel-evolutions/turbo-galleria-v1.png` and `assets/pixel-evolutions/velocity-exchange-v1.png` as the delegated Stage II and Stage III production artworks for N05-I02. Both are 1024×1536 standalone HD isometric pixel assets derived from `pitlane-plaza-v5.png` and the lineage-selected Velocity Row retail references.
+
+Equal-width visual verification confirmed exact mounted stage names, the shared white aero shells, racing-red circulation ribbons, cobalt storefront glass, gunmetal supports, amber lane lights, reflective dark street and blue-hour sky. Stage II adds a tall central atrium, active multi-level storefronts, layered shop balconies, multiple escalators and several physically supported crossings; Stage III adds nine-plus visible active shop levels, stacked atria, many short supported retail bridges, express glass lifts, repeated escalators and a complete supported turbine-ring crown. No garage, residence, hotel, office, laboratory, pool, literal vehicle, grandstand, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Velocity Row now has two of five evolution families selected. Next, use Vector Works' selected Stage I base and the canonical Quantum Garage / Hyperdrive Nexus references for N05-I03.

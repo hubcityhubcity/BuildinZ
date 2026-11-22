@@ -643,6 +643,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact mounted name, dominant central residential tower, two distinct side towers, multiple short supported resident connections, several upper private zones, multi-zone private upper deck and complete supported turbine crown clearly exceed Slipstream Habitat. White aero shells, racing-red ribbons, cobalt residential glass, gunmetal rails, amber track lights, warm private interiors, dry street frontage and complete crown/base framing remain intact.",
       "reviewed_source_commit": "40fd848f5416eaff435945608b1b1077aab82389"
+    },
+    {
+      "identity_id": "N05-I02",
+      "stage": 2,
+      "stage_name": "Turbo Galleria",
+      "path": "assets/pixel-evolutions/turbo-galleria-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/pitlane-plaza-v5.png",
+      "architecture_reference": "assets/candidates/velocity-row-turbo-galleria-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2658739,
+      "sha256": "89f1d89552675791d4f2efcc9508e8b6cc916373ecf60113af96318e3e95ad0b",
+      "git_blob_sha": "f8154b1b6f4b9436a6a19284d51e41a5a1d2e8b8",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact mounted name, tall central atrium, clearly active multi-level storefronts, layered shop balconies, multiple escalators, broad pedestrian pitlane and several gunmetal-supported crossings clearly extend Pitlane Plaza. White aero shells, racing-red circulation ribbons, cobalt storefront glass, gunmetal supports, amber lane lights, dry street frontage and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "560617e2e39a3268c8ec782a5edb0de24230dbf6"
+    },
+    {
+      "identity_id": "N05-I02",
+      "stage": 3,
+      "stage_name": "Velocity Exchange",
+      "path": "assets/pixel-evolutions/velocity-exchange-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/pitlane-plaza-v5.png",
+      "architecture_reference": "assets/candidates/velocity-row-velocity-exchange-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2976003,
+      "sha256": "13004ff54e1ecd3e0a449672478eb2de05de09927cbb076bdf579080c22c7e9e",
+      "git_blob_sha": "06891b0fb5f1228c49d79048698f3fcf4305f618",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact mounted name, nine-plus visible active shop levels, stacked atria, many short supported retail bridges, express glass lifts, repeated escalators and complete supported turbine-ring crown clearly exceed Turbo Galleria. White aero shells, racing-red circulation ribbons, cobalt storefront glass, gunmetal supports, amber lane lights, dry street frontage and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "560617e2e39a3268c8ec782a5edb0de24230dbf6"
     }
   ],
   "revision_history": [
