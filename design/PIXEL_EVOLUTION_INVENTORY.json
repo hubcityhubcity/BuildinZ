@@ -163,6 +163,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The larger observation crown, denser spire cluster, brighter central core and additional crossing supports make it visibly more complex than Sovereign Apex. The exact mounted name is legible, the tallest tip retains sky clearance, and the square curb and empty street remain intact.",
       "reviewed_source_commit": "4b0e4933888b33db923f2ce7ac3a15f01a55d89a"
+    },
+    {
+      "identity_id": "N02-I01",
+      "stage": 2,
+      "stage_name": "Gilded Terraces",
+      "path": "assets/pixel-evolutions/gilded-terraces-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/aureate-residences-v3.png",
+      "architecture_reference": "assets/candidates/golden-crest-gilded-terraces-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2892717,
+      "sha256": "e914b2bc82fa10d8bc29bef44c6e0409a97693ab5f298add2759b577ea6e5bf7",
+      "git_blob_sha": "21166b968efcb882db137494176bd9368676f08b",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The stepped residential wings rise around a taller central spine, with expanded private terraces, restrained greenery and an elevated shared amenity court. The exact mounted name is legible, the full plot and fountain remain visible, and the empty street preserves future scene-layer space.",
+      "reviewed_source_commit": "45c88275219c738ab1e9b6d1bea3938ce7cdc2fe"
+    },
+    {
+      "identity_id": "N02-I01",
+      "stage": 3,
+      "stage_name": "Imperial Sunhold",
+      "path": "assets/pixel-evolutions/imperial-sunhold-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/aureate-residences-v3.png",
+      "architecture_reference": "assets/candidates/golden-crest-imperial-sunhold-stage-3-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2782336,
+      "sha256": "b45fe3cf16212f02ae2325c0332fdec26bfcd7b6f029dd0fbb446335139e04cb",
+      "git_blob_sha": "2b3ba0c6c6cb3f40b708482a430b8db958b32fbc",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. A taller central residential tower, structurally supported sun-disc crown, additional stepped wings, private terrace pools and denser gold verticals clearly extend Gilded Terraces. The exact mounted name is legible; the crown, common fountain plot, curb and empty street remain inside frame.",
+      "reviewed_source_commit": "45c88275219c738ab1e9b6d1bea3938ce7cdc2fe"
     }
   ],
   "revision_history": [

@@ -262,4 +262,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 
 - [x] All five Neon Heights architectural identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
 - [x] Crown Spire → Sovereign Apex → Crown of Neon was checked for exact stage naming, architectural continuity, increasing crown/spire complexity, complete 1024×1536 framing and file/blob integrity.
-- [ ] Begin Golden Crest pixel evolutions with Aureate Residences → Gilded Terraces → Imperial Sunhold. Edition traits, rarity assignments, token metadata and final export certification remain deferred until the base/evolution art dependency allows them.
+- [x] Began Golden Crest pixel evolutions by selecting Aureate Residences → Gilded Terraces → Imperial Sunhold. Edition traits, rarity assignments, token metadata and final export certification remain deferred until the base/evolution art dependency allows them.
+
+## 2026-11-21 Golden Crest evolution-family progress
+
+- [x] Aureate Residences → Gilded Terraces → Imperial Sunhold passed exact-name, lineage, height-progression, complete-framing and file/blob-integrity checks.
+- [ ] Continue with Meridian Market → Crown Arcade → Grand Aureum Exchange.

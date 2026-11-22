@@ -385,3 +385,11 @@ Visual verification confirmed exact mounted stage names, intact spire tips, an e
 This completes all five Neon Heights pixel evolution families: 10 selected Stage II/III assets across N01-I01 through N01-I05. It does not certify edition exports or downstream metadata.
 
 Next, begin Golden Crest with Aureate Residences → Gilded Terraces → Imperial Sunhold, using the selected Stage I base and the canonical Golden Crest residential references.
+
+## 2026-11-21 Aureate Residences evolution family selection
+
+Selected `assets/pixel-evolutions/gilded-terraces-v1.png` and `assets/pixel-evolutions/imperial-sunhold-v1.png` as the delegated Stage II and Stage III production artworks for N02-I01. Both are 1024×1536 standalone HD isometric pixel assets derived from `aureate-residences-v3.png` and the lineage-selected Golden Crest residential references.
+
+Visual verification confirmed the exact mounted stage names, the shared ivory/gold stepped-residential language, a consistent corner plot and fountain forecourt, intact roof/crown framing, empty streets and a clear height/complexity progression. Imperial Sunhold's sun disc is structurally supported architecture rather than a floating scene trait. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Golden Crest now has one of five evolution families selected. Next, use Meridian Market's selected Stage I base and the canonical Crown Arcade / Grand Aureum Exchange references for N02-I02.
