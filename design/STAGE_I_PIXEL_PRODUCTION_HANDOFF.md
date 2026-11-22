@@ -357,3 +357,9 @@ Revise the flagged candidate using the selected Stage I base and the sibling evo
 [Omninet Nexus](../assets/pixel-evolutions/omninet-nexus-v2.png) now clears the 47 px minimum with an antenna tip near y65 and reads taller than Quantum Spire. It keeps the exact sign, large supported halo and twin labs. Its front curb still sits about 100 px below the common Stage I/II curb. For the next edit use the selected Quantum Spire v2 as the first reference and transplant the Omninet architecture onto that exact pavement and street, holding the tip near y65.
 
 The 1024×1536 PNGs decoded and matched their Git blob hashes. Apply the remaining HoloTech Tower corrections above before selecting the family.
+
+## Omninet Nexus final framing review
+
+[Omninet Nexus v3](../assets/pixel-evolutions/omninet-nexus-v3.png) passes delegated Stage III review. The front curb, platform and crosswalk align visually with Quantum Spire v2. Its antenna tip sits near y65 versus y160 for Stage II, and the wider supported halo and twin glazed robotics labs clearly extend the Stage II program. The exact mounted name and orbital display remain legible. The PNG decoded at 1024×1536 and matched the uploaded Git blob hash. Earlier candidates remain available in revision history.
+
+Next, verify the Midnight Lounge approved ZIP and all-stages sheet against the registry. Render Stages II and III on the selected Stage I camera and curb.

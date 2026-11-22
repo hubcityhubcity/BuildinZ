@@ -84,17 +84,17 @@
       "identity_id": "N01-I03",
       "stage": 3,
       "stage_name": "Omninet Nexus",
-      "path": "assets/pixel-evolutions/omninet-nexus-v2.png",
+      "path": "assets/pixel-evolutions/omninet-nexus-v3.png",
       "stage_i_path": "assets/pixel-stage-i/holotech-tower-v1.png",
       "architecture_reference": "assets/candidates/holotech-stage-3-signage-v1.png",
       "dimensions": "1024x1536",
-      "bytes": 2257770,
-      "sha256": "824899b2ed8d8409f8c64badd05dc6187a442049d276b3083a9eb964f85e8937",
-      "git_blob_sha": "ec1b83c5f10ccac0e0b0df85cf0a593546ec3433",
-      "status": "visual_revision_required",
-      "review": "now clears the 47 px minimum with an antenna tip near y65 and reads taller than Quantum Spire. It keeps the exact sign, large supported halo and twin labs. Its front curb still sits about 100 px below the common Stage I/II curb. For the next edit use the selected Quantum Spire v2 as the first reference and transplant the Omninet architecture onto that exact pavement and street, holding the tip near y65.",
-      "reviewed_source_commit": "694d57e49b902b49ec2a6f958c3df167bd53d3d3",
-      "previous_candidate_path": "assets/pixel-evolutions/omninet-nexus-v1.png"
+      "bytes": 2187035,
+      "sha256": "da8cc2ca25a8a8bdc28bb75ee2cc602e462a0f3434d49653fae638ccf0f39957",
+      "git_blob_sha": "9fa8a3a7b4213bef063765d2ce2e93b829e6901d",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The front curb, platform and crosswalk align visually with Quantum Spire v2. Its antenna tip sits near y65 versus y160 for Stage II, and the wider supported halo and twin glazed robotics labs clearly extend the Stage II program. The exact mounted name and orbital display remain legible.",
+      "reviewed_source_commit": "a1c0ea36ba7e8c422bc96bb5fd370e325baf0157",
+      "previous_candidate_path": "assets/pixel-evolutions/omninet-nexus-v2.png"
     }
   ],
   "revision_history": [
@@ -139,6 +139,22 @@
       "status": "visual_revision_required",
       "review": "retains exact signage, the larger supported halo, two lab wings and layered annexes. The antenna is about 46 px from the top, and the total silhouette reads slightly shorter than Stage II. Reframe both portraits to the same Stage I curb, lower the Stage II tip to about y180, and target about y75 for the Stage III tip to give the family a clear height progression.",
       "reviewed_source_commit": "61c22fc357a78a9ff405d157e95f0d1964c49366"
+    },
+    {
+      "identity_id": "N01-I03",
+      "stage": 3,
+      "stage_name": "Omninet Nexus",
+      "path": "assets/pixel-evolutions/omninet-nexus-v2.png",
+      "stage_i_path": "assets/pixel-stage-i/holotech-tower-v1.png",
+      "architecture_reference": "assets/candidates/holotech-stage-3-signage-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2257770,
+      "sha256": "824899b2ed8d8409f8c64badd05dc6187a442049d276b3083a9eb964f85e8937",
+      "git_blob_sha": "ec1b83c5f10ccac0e0b0df85cf0a593546ec3433",
+      "status": "visual_revision_required",
+      "review": "now clears the 47 px minimum with an antenna tip near y65 and reads taller than Quantum Spire. It keeps the exact sign, large supported halo and twin labs. Its front curb still sits about 100 px below the common Stage I/II curb. For the next edit use the selected Quantum Spire v2 as the first reference and transplant the Omninet architecture onto that exact pavement and street, holding the tip near y65.",
+      "reviewed_source_commit": "694d57e49b902b49ec2a6f958c3df167bd53d3d3",
+      "previous_candidate_path": "assets/pixel-evolutions/omninet-nexus-v1.png"
     }
   ]
 }
