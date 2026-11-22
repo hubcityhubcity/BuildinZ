@@ -288,4 +288,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 
 - [x] Selected Sunspire Monument and Crown of Dawn as N02-I05 Stage II/III production artworks.
 - [x] All five Golden Crest identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
-- [ ] Continue with Shadow Market: Gloomstep Flats → Veilside Habitat → Noctis Enclave.
+- [x] Shadow Market: Gloomstep Flats → Veilside Habitat → Noctis Enclave passed exact-name, residential-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Shadow Market residential evolution selection
+
+- [x] Selected Veilside Habitat and Noctis Enclave as N03-I01 Stage II/III production artworks.
+- [ ] Continue with Lantern Row → Blackglass Bazaar → Eclipse Exchange.

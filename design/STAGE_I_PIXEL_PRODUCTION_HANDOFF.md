@@ -429,3 +429,12 @@ Equal-width visual verification confirmed exact plinth names, the shared ivory/g
 This completes all five Golden Crest pixel evolution families: 10 selected Stage II/III assets across N02-I01 through N02-I05. It does not certify edition exports or downstream metadata.
 
 Next, begin Shadow Market with Gloomstep Flats → Veilside Habitat → Noctis Enclave, using the selected Stage I base and canonical Shadow Market residential references.
+
+
+## 2026-11-22 Gloomstep Flats evolution family selection
+
+Selected `assets/pixel-evolutions/veilside-habitat-v1.png` and `assets/pixel-evolutions/noctis-enclave-v1.png` as the delegated Stage II and Stage III production artworks for N03-I01. Both are 1024×1536 standalone HD isometric pixel assets derived from `gloomstep-flats-v2.png` and the lineage-selected Shadow Market residential references.
+
+Equal-width visual verification confirmed exact mounted stage names, the shared obsidian/smoked-violet residential language, copper screened passages, acid-green directory lights, the guarded private court, consistent corner plot and empty street. Stage II carries two supported screened bridges and one private sky lounge; Stage III carries three supported passages, two private sky lounges and the tallest attached veiled crown. No pool, public ground-level amenity, scene trait or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Shadow Market now has one of five evolution families selected. Next, use Lantern Row's selected Stage I base and the canonical Blackglass Bazaar / Eclipse Exchange references for N03-I02.

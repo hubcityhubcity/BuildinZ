@@ -313,6 +313,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact plinth name, tallest dominant central spire, four distinct connected supporting spires, enormous supported observatory, separate lower viewing ring, structural arches and the family’s largest attached dawn crown clearly exceed Sunspire Monument. The common podium, expanded square, highest tip and open street remain completely framed.",
       "reviewed_source_commit": "ff2f4eb8da204195124f35deb9f3a360b05af145"
+    },
+    {
+      "identity_id": "N03-I01",
+      "stage": 2,
+      "stage_name": "Veilside Habitat",
+      "path": "assets/pixel-evolutions/veilside-habitat-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/gloomstep-flats-v2.png",
+      "architecture_reference": "assets/candidates/shadow-market-veilside-habitat-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2708071,
+      "sha256": "297cc4c0d71e9756b2ef16fd42529204e58835d02b1e26285a87f93a70eaea0d",
+      "git_blob_sha": "f5a9d9e484c7a58357263333392bc14c9aa8add8",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact mounted name, taller stepped residential wings, multiple private terraces, two supported screened bridges and an enclosed supported sky lounge clearly extend Gloomstep Flats. The guarded court, common corner plot, full roofs and open foreground street remain intact, with no pool or public amenity.",
+      "reviewed_source_commit": "04c3f1e2c06b26a2f878414ab5e8174e59b2889b"
+    },
+    {
+      "identity_id": "N03-I01",
+      "stage": 3,
+      "stage_name": "Noctis Enclave",
+      "path": "assets/pixel-evolutions/noctis-enclave-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/gloomstep-flats-v2.png",
+      "architecture_reference": "assets/candidates/shadow-market-noctis-enclave-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2742463,
+      "sha256": "049c921e3c79f13b349e27001c3e78538c89c97b575cc9f7d9c409f8c9059f4e",
+      "git_blob_sha": "7b6d297fcece30d9e15ba0ab89728ddc9088ba8a",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact mounted name, dominant central residential tower, stepped occupied wings, three supported screened passages, two enclosed private sky lounges, multiple terraces and attached veiled observation crown clearly exceed Veilside Habitat. The guarded court, complete plot/crown and empty street remain framed, with no pool or public amenity.",
+      "reviewed_source_commit": "04c3f1e2c06b26a2f878414ab5e8174e59b2889b"
     }
   ],
   "revision_history": [
