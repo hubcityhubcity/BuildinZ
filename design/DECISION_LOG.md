@@ -68,3 +68,14 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Repository corroboration:** `design/04-midnight-lounge-evolution.md` records owner approval on October 23, 2026, and the canonical registry fixes Midnight Lounge → Nocturne Palace → Eclipse Citadel.
 - **Stale package note:** The ZIP’s embedded README still says “proposed (not approved).” That label conflicts with the newer owner direction and repository record, so it is retained as historical package metadata and does not override approval.
 - **Integrity:** The ZIP passed archive testing. The selected repository Stage II and III reference PNGs matched the asset manifest hashes. Pixel evolutions are separately selected after full-frame visual review.
+
+
+## 2026-11-22 — Royal Mirage pixel evolution activation
+
+- **Delegated decision:** Activate Royal Mirage Stage II/III production in registry order using the five already-selected Stage I pixel bases and the five November lineage handoffs as architecture references.
+- **Medium correction:** Replace the stale generic stylized-3D wording with 1024×1536 refined high-definition isometric pixel art, matching the current standalone architecture program.
+- **Authority boundary:** The canonical registry controls exact names/types; the Stage I source inventory controls selected bases; lineage candidates remain references only; older Library edition/trait maps remain legacy downstream evidence.
+- **Style separation:** Sapphire, turquoise, rose-gold structural trim, sand shells and mirrored-black frames define desert-future luxury without collapsing into Golden Crest classicism or Neon Heights cyberpunk.
+- **Scene boundary:** People, crowds, cameos, sky events and street scenes remain deferred. Water is elevated/private where required; no ground-level public pool.
+- **Evidence:** `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`, five `ROYAL_MIRAGE_*_ART_HANDOFF.md` files, `STAGE_I_PIXEL_SOURCE_INVENTORY.json`, `COLLECTION_REGISTRY.json`.
+- **Exact next action:** Oasis Residences → Mirage Habitat → Sultan's Skyhold.

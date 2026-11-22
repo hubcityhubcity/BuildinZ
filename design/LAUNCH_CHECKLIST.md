@@ -366,4 +366,10 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 
 - [x] Selected Apex Tower and Crown of Speed as N05-I05 Stage II/III production artworks.
 - [x] All five Velocity Row identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
-- [ ] Prepare `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`, then continue with Oasis Residences → Mirage Habitat → Sultan's Skyhold.
+- [x] Audited and activated `ROYAL_MIRAGE_PRODUCTION_BRIEF.md` against the live registry, five selected Stage I bases and all five lineage handoffs; corrected stale generic-3D medium and Old World Steel sequencing.
+
+## 2026-11-22 Royal Mirage pixel production activation
+
+- [x] Recorded authoritative Stage I paths/hashes, Stage II/III reference matrix, exact names, type-specific escalation, physical-support rules, pixel output specification and selection evidence gates.
+- [x] Confirmed Library search found no newer approved Royal Mirage artwork that supersedes repository sources.
+- [ ] Continue with Oasis Residences → Mirage Habitat → Sultan's Skyhold.

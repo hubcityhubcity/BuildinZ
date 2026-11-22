@@ -576,3 +576,12 @@ The Library edition map still contains the older working label `Rail Station` fo
 This completes all five Velocity Row pixel evolution families: 10 selected Stage II/III assets across N05-I01 through N05-I05. It does not certify edition exports or downstream metadata.
 
 Next, prepare `ROYAL_MIRAGE_PRODUCTION_BRIEF.md` from the canonical registry and selected Stage I bases, then begin Oasis Residences → Mirage Habitat → Sultan's Skyhold.
+
+
+## 2026-11-22 Royal Mirage production brief activation
+
+Audited the existing `design/ROYAL_MIRAGE_PRODUCTION_BRIEF.md` against the live collection registry, all five selected Royal Mirage Stage I pixel bases, all five lineage handoffs and current Library search results. The earlier brief's identity specifications were retained, but its generic stylized-3D output wording and next action that skipped directly to Old World Steel were stale under William's November 19 direction.
+
+The activated brief now requires 1024×1536 refined high-definition isometric pixel art, distinguishes selected Stage I production bases from candidate-only architecture references, fixes exact names and punctuation, records source hashes and Git blobs, defers scene/edition layers, and requires equal-width visual review plus byte/hash/blob verification before selection. No newer Library artwork superseded the repository sources.
+
+Next, produce and inspect Oasis Residences → Mirage Habitat → Sultan's Skyhold. Royal Mirage has no selected Stage II/III pixel artwork yet; candidate lineage images are not counted as completed evolutions.
