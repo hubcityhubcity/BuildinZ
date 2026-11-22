@@ -523,6 +523,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact mounted name, eight-plus visible retail levels, stacked active atria, supported hanging-market terraces, glass bridges, escalators and complete planter-grid crown clearly exceed Verdant Galleria. The public retail aisle, visible storefronts, pearl canopy language, warm-wood bands, emerald awnings, modular greenery, dry street frontage and complete crown/base framing remain intact.",
       "reviewed_source_commit": "b54e24e1e3eee33de76641e35f99854e35a06508"
+    },
+    {
+      "identity_id": "N04-I03",
+      "stage": 2,
+      "stage_name": "Aeroponic Spire",
+      "path": "assets/pixel-evolutions/aeroponic-spire-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/seedlight-labs-v2.png",
+      "architecture_reference": "assets/candidates/skygarden-district-aeroponic-spire-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2747211,
+      "sha256": "6a9b614e3defa8fcc85f6244aa85b24e7c4b996df8f742a57b65ff90e29e6416",
+      "git_blob_sha": "c0a7c31c6d53e829b156d6e21deb52b71ebfb764",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact mounted name, much taller emerald seed-light core, expanded sealed research chambers and modular trays, mint service tubes, two supported collector decks with sky-blue sails and a supported analysis bridge to a distinct side laboratory clearly extend Seedlight Labs. Pearl bioframes, secure service bays, controlled scientific planting, dry street frontage and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "153bb7a5eda1829b1636a49e4e4be05d9d944395"
+    },
+    {
+      "identity_id": "N04-I03",
+      "stage": 3,
+      "stage_name": "Gaia Cloudworks",
+      "path": "assets/pixel-evolutions/gaia-cloudworks-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/seedlight-labs-v2.png",
+      "architecture_reference": "assets/candidates/skygarden-district-gaia-cloudworks-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2837965,
+      "sha256": "7a17545a3845d5457498ba17a1d893f351f20a9c6f2ff405ae1040f17412dad5",
+      "git_blob_sha": "28cd427dd80bb35ca43ec641f72931ae54202682",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact mounted name, dominant central seed-light tower, two substantial side research towers, multiple supported research bridges, four cloud-collector zones, sealed aeroponic chambers and integrated luminous crown clearly exceed Aeroponic Spire. Pearl bioframes, emerald research glass, mint service tubes, controlled scientific planting, dry street frontage and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "153bb7a5eda1829b1636a49e4e4be05d9d944395"
     }
   ],
   "revision_history": [

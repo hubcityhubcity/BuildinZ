@@ -494,3 +494,12 @@ Selected `assets/pixel-evolutions/verdant-galleria-v1.png` and `assets/pixel-evo
 Equal-width visual verification confirmed exact mounted stage names, the shared pearl canopy arches, sky-blue gallery glass, warm-wood storefront bands, emerald awnings, mint edge light, controlled modular planters, broad public retail aisle, dry street and open sky. Stage II adds a multi-level active retail atrium, visible escalators and several supported gallery crossings; Stage III adds eight-plus visible retail levels, stacked atria, supported hanging-market terraces, glass bridges, escalators and a complete planter-grid crown. Storefronts remain visible and greenery subordinate. No residential, office, hotel, pool, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Skygarden District now has two of five evolution families selected. Next, use Seedlight Labs' selected Stage I base and the canonical Aeroponic Spire / Gaia Cloudworks references for N04-I03.
+
+
+## 2026-11-22 Seedlight Labs evolution family selection
+
+Selected `assets/pixel-evolutions/aeroponic-spire-v1.png` and `assets/pixel-evolutions/gaia-cloudworks-v1.png` as the delegated Stage II and Stage III production artworks for N04-I03. Both are 1024×1536 standalone HD isometric pixel assets derived from `seedlight-labs-v2.png` and the lineage-selected Skygarden District technology references.
+
+Equal-width visual verification confirmed exact mounted stage names, the shared emerald seed-light core, pearl bioframes, mint service tubes, sky-blue collector sails, warm-wood entry bands, sealed modular plant trays, secure service bays, dry street and open sky. Stage II adds the much taller research spire, two supported collector decks, expanded sealed labs and a supported bridge to a distinct side laboratory; Stage III adds two substantial side research towers, multiple supported bridges, four collector zones and the integrated luminous crown. Planting remains controlled and scientific. No residence, retail, resort, pool, dense jungle, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Skygarden District now has three of five evolution families selected. Next, use Terrace Hall's selected Stage I base and the canonical Petal Pavilion / Celestial Conservatory references for N04-I04.
