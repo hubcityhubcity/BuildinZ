@@ -523,3 +523,12 @@ The first generated pair was rejected because its beacon beams ran through the t
 This completes all five Skygarden District pixel evolution families: 10 selected Stage II/III assets across N04-I01 through N04-I05. It does not certify edition exports or downstream metadata.
 
 Next, begin Velocity Row with Draftline Lofts → Slipstream Habitat → Mach Horizon, using the selected Stage I base and canonical Velocity Row residential references.
+
+
+## 2026-11-22 Draftline Lofts evolution family selection
+
+Selected `assets/pixel-evolutions/slipstream-habitat-v1.png` and `assets/pixel-evolutions/mach-horizon-v1.png` as the delegated Stage II and Stage III production artworks for N05-I01. Both are 1024×1536 standalone HD isometric pixel assets derived from `draftline-lofts-v3.png` and the lineage-selected Velocity Row residential references.
+
+Equal-width visual verification confirmed exact mounted stage names, the shared white aero exoshells, racing-red motion ribbons, cobalt residential glass, gunmetal balcony rails, amber track lights, warm private interiors, reflective dark street and blue-hour sky. Stage II adds taller twin residential towers, stepped aero terraces, tied-back fins and a fully enclosed supported residents-only sky lounge; Stage III adds the dominant central residential tower, two distinct side towers, multiple supported resident connections, several upper private zones and complete supported turbine crown. No hotel, retail, office, laboratory, public or ground pool, literal vehicle, grandstand, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Velocity Row now has one of five evolution families selected. Next, use Pitlane Plaza's selected Stage I base and the canonical Turbo Galleria / Velocity Exchange references for N05-I02.

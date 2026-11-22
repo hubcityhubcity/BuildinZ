@@ -613,6 +613,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review after rejecting the first cropped-beam render. The exact mounted name, skyline-defining multi-trunk civic monument, enormous supported multilevel sky garden, multiple viewing rings, short supported observation bridges, layered sky-blue canopy crown and contained mint crown halo clearly exceed Worldtree Apex. Branching pearl trunks, warm-wood core, emerald seed glass, ceremonial plaza and complete crown/base framing remain intact.",
       "reviewed_source_commit": "a4aa05c85138bc076000f33fe537848e7d5fd70a"
+    },
+    {
+      "identity_id": "N05-I01",
+      "stage": 2,
+      "stage_name": "Slipstream Habitat",
+      "path": "assets/pixel-evolutions/slipstream-habitat-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/draftline-lofts-v3.png",
+      "architecture_reference": "assets/candidates/velocity-row-slipstream-habitat-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2954868,
+      "sha256": "5d6806e5fb8028256efa9f00026e895cb69f7e230ea10c19ff86df77dc522aec",
+      "git_blob_sha": "977f65ae77f82b507e655f7bbcdb730c793d45d3",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact mounted name, clearly taller twin residential towers, private recessed balconies, stepped aero terraces, fully enclosed physically supported residents-only sky lounge and tied-back motion fins clearly extend Draftline Lofts. White aero shells, racing-red ribbons, cobalt residential glass, gunmetal rails, amber track lights, warm private interiors, dry street frontage and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "40fd848f5416eaff435945608b1b1077aab82389"
+    },
+    {
+      "identity_id": "N05-I01",
+      "stage": 3,
+      "stage_name": "Mach Horizon",
+      "path": "assets/pixel-evolutions/mach-horizon-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/draftline-lofts-v3.png",
+      "architecture_reference": "assets/candidates/velocity-row-mach-horizon-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3137396,
+      "sha256": "5725f4cc1037f721ca8f3235180bcdd55f9cbad5d9e3b2e1ed1d7e291b8b9fb4",
+      "git_blob_sha": "36072b95d5e47fe30fb5c0ad39bce3453eccba93",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact mounted name, dominant central residential tower, two distinct side towers, multiple short supported resident connections, several upper private zones, multi-zone private upper deck and complete supported turbine crown clearly exceed Slipstream Habitat. White aero shells, racing-red ribbons, cobalt residential glass, gunmetal rails, amber track lights, warm private interiors, dry street frontage and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "40fd848f5416eaff435945608b1b1077aab82389"
     }
   ],
   "revision_history": [

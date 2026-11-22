@@ -340,4 +340,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 
 - [x] Selected Worldtree Apex and Crown of Eden as N04-I05 Stage II/III production artworks.
 - [x] All five Skygarden District identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
-- [ ] Continue with Velocity Row: Draftline Lofts → Slipstream Habitat → Mach Horizon.
+- [x] Draftline Lofts → Slipstream Habitat → Mach Horizon passed exact-name, residential-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Velocity Row residential evolution selection
+
+- [x] Selected Slipstream Habitat and Mach Horizon as N05-I01 Stage II/III production artworks.
+- [ ] Continue with Pitlane Plaza → Turbo Galleria → Velocity Exchange.
