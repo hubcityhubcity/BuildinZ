@@ -401,3 +401,11 @@ Selected `assets/pixel-evolutions/crown-arcade-v1.png` and `assets/pixel-evoluti
 Visual verification confirmed exact mounted stage names, the shared symmetrical ivory/gold retail language, a consistent corner plot and central shopping axis, increasing retail levels, intact dome framing and empty streets. Grand Aureum Exchange retains the market/arcade function while adding stacked galleries and the family’s highest supported dome. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Golden Crest now has two of five evolution families selected. Next, use Solara Labs' selected Stage I base and the canonical Helios Foundry / Daystar Citadel references for N02-I03.
+
+## 2026-11-21 Solara Labs evolution family selection
+
+Selected `assets/pixel-evolutions/helios-foundry-v1.png` and `assets/pixel-evolutions/daystar-citadel-v1.png` as the delegated Stage II and Stage III production artworks for N02-I03. Both are 1024×1536 standalone HD isometric pixel assets derived from `solara-labs-v3.png` and the lineage-selected Golden Crest technology references.
+
+Visual verification confirmed exact mounted stage names, the shared ivory/gold central energy spine, cobalt photovoltaic arrays, a consistent raised podium and entry stair, physically supported bridges and solar crowns, increasing laboratory/fabrication levels, and clear antenna headroom. No scene or edition traits were introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Golden Crest now has three of five evolution families selected. Next, use Velvet Hall's selected Stage I base and the canonical Radiant Opera / Solaris Grand Theatre references for N02-I04.

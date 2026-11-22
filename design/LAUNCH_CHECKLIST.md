@@ -272,4 +272,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-21 Golden Crest retail evolution selection
 
 - [x] Selected Crown Arcade and Grand Aureum Exchange as N02-I02 Stage II/III production artworks.
-- [ ] Continue with Solara Labs → Helios Foundry → Daystar Citadel.
+- [x] Solara Labs → Helios Foundry → Daystar Citadel passed exact-name, technology-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-21 Golden Crest technology evolution selection
+
+- [x] Selected Helios Foundry and Daystar Citadel as N02-I03 Stage II/III production artworks.
+- [ ] Continue with Velvet Hall → Radiant Opera → Solaris Grand Theatre.

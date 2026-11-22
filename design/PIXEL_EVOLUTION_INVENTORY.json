@@ -223,6 +223,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. Four readable retail tiers, denser connected wings, stacked internal gallery arcades, a luminous central axis and the family's highest attached dome make it clearly taller and more complex than Crown Arcade. The exact mounted name, complete plot and empty street are intact.",
       "reviewed_source_commit": "6bae6459ecd97a8c81756eb2c86960cfd7962766"
+    },
+    {
+      "identity_id": "N02-I03",
+      "stage": 2,
+      "stage_name": "Helios Foundry",
+      "path": "assets/pixel-evolutions/helios-foundry-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/solara-labs-v3.png",
+      "architecture_reference": "assets/candidates/golden-crest-helios-foundry-stage-2-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2672416,
+      "sha256": "65dfa8a5b75ff0b3ed08ae2c215de62a8d9b0ff02b32d7522644439c995b1bb3",
+      "git_blob_sha": "b9b2a459ef4e8b0e4a1f5700681fe53157919ad4",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. Two connected fabrication wings, a supported technical bridge, visible multi-level laboratory floors, a taller central energy spine and expanded radial solar crown clearly extend Solara Labs. The exact mounted name, full podium, entry stair and antenna clearance are intact.",
+      "reviewed_source_commit": "3cc2e554839393863d41ea70e3e9b22160c50118"
+    },
+    {
+      "identity_id": "N02-I03",
+      "stage": 3,
+      "stage_name": "Daystar Citadel",
+      "path": "assets/pixel-evolutions/daystar-citadel-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/solara-labs-v3.png",
+      "architecture_reference": "assets/candidates/golden-crest-daystar-citadel-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2872484,
+      "sha256": "7c5e2f928b92a312e6a799bd4803c783a1c37af40d61b1d8786053c952faa421",
+      "git_blob_sha": "636e9214b0ddfdc1d5e27d612829f10d2f90ad1d",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. Additional laboratory levels, twin research wings, multiple supported bridge galleries, a brighter core, denser photovoltaic arrays and the highest attached antenna make it visibly taller and more complex than Helios Foundry. Exact signage and complete podium framing are preserved.",
+      "reviewed_source_commit": "3cc2e554839393863d41ea70e3e9b22160c50118"
     }
   ],
   "revision_history": [
