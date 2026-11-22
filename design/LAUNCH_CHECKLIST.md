@@ -308,4 +308,10 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Shadow Market entertainment evolution selection
 
 - [x] Selected Phantom Pavilion and Midnight Masquerade as N03-I04 Stage II/III production artworks.
-- [ ] Continue with Veil Beacon → Obsidian Spire → Shadow Sovereign.
+- [x] Veil Beacon → Obsidian Spire → Shadow Sovereign passed exact-name, landmark-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Shadow Market landmark evolution selection
+
+- [x] Selected Obsidian Spire and Shadow Sovereign as N03-I05 Stage II/III production artworks.
+- [x] All five Shadow Market identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
+- [ ] Continue with Skygarden District: Canopy Residences → Cloudterrace Habitat → Eden Skyhold.

@@ -433,6 +433,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact marquee name, monumental central auditorium, two distinct attached performance halls, broad supported elevated foyer, several visible audience zones and the family’s largest layered mask-shaped crown clearly exceed Phantom Pavilion. The expanded shadow plaza, complete crown/base and open rainy street remain intact.",
       "reviewed_source_commit": "35f72bac81b45ff67791fa9f91c98c60fe8dd034"
+    },
+    {
+      "identity_id": "N03-I05",
+      "stage": 2,
+      "stage_name": "Obsidian Spire",
+      "path": "assets/pixel-evolutions/obsidian-spire-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/veil-beacon-v2.png",
+      "architecture_reference": "assets/candidates/shadow-market-obsidian-spire-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2578772,
+      "sha256": "b7a6c4687622769a907992bd642fff1f4e71784172f398dda22139ad3faa8d93",
+      "git_blob_sha": "8dac432a5d9b6cb713cb705394b92d6834bcbffe",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact plinth name, much taller flared obsidian shaft, substantially larger observation ring supported by branching copper trusses, multiple attached shadow fins and stronger screened beacon crown clearly extend Veil Beacon. The single acid-green beacon line, complete ceremonial base and safe crown clearance remain intact.",
+      "reviewed_source_commit": "f11e1a9336a2e47ae53e32b943240a212d1dfee4"
+    },
+    {
+      "identity_id": "N03-I05",
+      "stage": 3,
+      "stage_name": "Shadow Sovereign",
+      "path": "assets/pixel-evolutions/shadow-sovereign-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/veil-beacon-v2.png",
+      "architecture_reference": "assets/candidates/shadow-market-shadow-sovereign-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2971723,
+      "sha256": "90ad0e7a00808ca2734ba6a3ff0c1b7616fbb4556bcf0fa0b9e74fa2d90136b6",
+      "git_blob_sha": "015fdd6a6b693fb67cee6aa3012b1348e6e74863",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact plinth name, dominant central spire, four distinct subordinate spires, enormous observatory supported by branching copper trusses, layered veil crown and expanded ceremonial plaza clearly exceed Obsidian Spire. The central beacon hierarchy, all side spires, complete base and safe crown clearance remain intact.",
+      "reviewed_source_commit": "f11e1a9336a2e47ae53e32b943240a212d1dfee4"
     }
   ],
   "revision_history": [
