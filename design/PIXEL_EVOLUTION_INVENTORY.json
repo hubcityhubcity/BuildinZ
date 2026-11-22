@@ -463,6 +463,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact plinth name, dominant central spire, four distinct subordinate spires, enormous observatory supported by branching copper trusses, layered veil crown and expanded ceremonial plaza clearly exceed Obsidian Spire. The central beacon hierarchy, all side spires, complete base and safe crown clearance remain intact.",
       "reviewed_source_commit": "f11e1a9336a2e47ae53e32b943240a212d1dfee4"
+    },
+    {
+      "identity_id": "N04-I01",
+      "stage": 2,
+      "stage_name": "Cloudterrace Habitat",
+      "path": "assets/pixel-evolutions/cloudterrace-habitat-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/canopy-residences-v2.png",
+      "architecture_reference": "assets/candidates/skygarden-district-cloudterrace-habitat-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3017112,
+      "sha256": "81c87bbcc6527a55b7c4bf2fec0131c0ff694747ce826afae7dd9383b67646a1",
+      "git_blob_sha": "71f458522a45d739ece24a9dbb5c5bc0905f2a2f",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact mounted name, taller twin residential towers, stepped private terraces, supported enclosed residents-only sky lounge and private upper water features clearly extend Canopy Residences. Pearl branching frames, emerald glass, warm-wood balcony bands, mint edge light, restrained planted ribbons, dry street frontage and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "381420b3621ffb3c5d4b6bf243c5b80bac8b9fbd"
+    },
+    {
+      "identity_id": "N04-I01",
+      "stage": 3,
+      "stage_name": "Eden Skyhold",
+      "path": "assets/pixel-evolutions/eden-skyhold-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/canopy-residences-v2.png",
+      "architecture_reference": "assets/candidates/skygarden-district-eden-skyhold-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3205151,
+      "sha256": "d6deea6713f262a12738de4a160f0129f96c20d5bd2aa3cc7f9fc6734dbf2e07",
+      "git_blob_sha": "a3b50167a47306a179b1d48653bca1e9f04731b5",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact mounted name, dominant central tower, two distinct side towers, multiple supported resident zones, private upper water features and complete multi-layer living crown clearly exceed Cloudterrace Habitat. The three-tower hierarchy, pearl branching supports, emerald glass, warm-wood balcony bands, restrained greenery, dry street frontage and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "381420b3621ffb3c5d4b6bf243c5b80bac8b9fbd"
     }
   ],
   "revision_history": [

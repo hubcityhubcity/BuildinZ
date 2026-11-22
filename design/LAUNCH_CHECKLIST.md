@@ -314,4 +314,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 
 - [x] Selected Obsidian Spire and Shadow Sovereign as N03-I05 Stage II/III production artworks.
 - [x] All five Shadow Market identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
-- [ ] Continue with Skygarden District: Canopy Residences → Cloudterrace Habitat → Eden Skyhold.
+- [x] Canopy Residences → Cloudterrace Habitat → Eden Skyhold passed exact-name, residential-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Skygarden District residential evolution selection
+
+- [x] Selected Cloudterrace Habitat and Eden Skyhold as N04-I01 Stage II/III production artworks.
+- [ ] Continue with Bloom Market → Verdant Galleria → Hanging Garden Exchange.

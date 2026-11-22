@@ -476,3 +476,12 @@ Equal-width visual verification confirmed exact plinth names, the shared tapered
 This completes all five Shadow Market pixel evolution families: 10 selected Stage II/III assets across N03-I01 through N03-I05. It does not certify edition exports or downstream metadata.
 
 Next, begin Skygarden District with Canopy Residences → Cloudterrace Habitat → Eden Skyhold, using the selected Stage I base and canonical Skygarden residential references.
+
+
+## 2026-11-22 Canopy Residences evolution family selection
+
+Selected `assets/pixel-evolutions/cloudterrace-habitat-v1.png` and `assets/pixel-evolutions/eden-skyhold-v1.png` as the delegated Stage II and Stage III production artworks for N04-I01. Both are 1024×1536 standalone HD isometric pixel assets derived from `canopy-residences-v2.png` and the lineage-selected Skygarden District residential references.
+
+Equal-width visual verification confirmed exact mounted stage names, the shared pearl branching frames, emerald glass, warm-wood balcony bands, mint edge light, restrained planted ribbons, common residential plot, dry street and open sky. Stage II adds taller twin towers, stepped private terraces, a supported enclosed residents-only sky lounge and private upper water features; Stage III adds a dominant central tower, two distinct side towers, multiple supported resident zones and the complete multi-layer living crown. No ground-level or public pool, public resort deck, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Skygarden District now has one of five evolution families selected. Next, use Bloom Market's selected Stage I base and the canonical Verdant Galleria / Hanging Garden Exchange references for N04-I02.
