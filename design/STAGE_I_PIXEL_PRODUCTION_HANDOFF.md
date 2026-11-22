@@ -363,3 +363,15 @@ The 1024×1536 PNGs decoded and matched their Git blob hashes. Apply the remaini
 [Omninet Nexus v3](../assets/pixel-evolutions/omninet-nexus-v3.png) passes delegated Stage III review. The front curb, platform and crosswalk align visually with Quantum Spire v2. Its antenna tip sits near y65 versus y160 for Stage II, and the wider supported halo and twin glazed robotics labs clearly extend the Stage II program. The exact mounted name and orbital display remain legible. The PNG decoded at 1024×1536 and matched the uploaded Git blob hash. Earlier candidates remain available in revision history.
 
 Next, verify the Midnight Lounge approved ZIP and all-stages sheet against the registry. Render Stages II and III on the selected Stage I camera and curb.
+
+## Midnight Lounge pixel evolution selection
+
+The approved Library ZIP passed integrity testing and contains the three named architecture stages. The all-stages sheet and repository prototype PNGs agree on the established silhouettes. The embedded README’s stale “proposed” label is reconciled in [DECISION_LOG.md](DECISION_LOG.md).
+
+[Nocturne Palace](../assets/pixel-evolutions/nocturne-palace-v1.png) passes delegated Stage II review. It preserves the two offset club towers, physically attached enclosed VIP performance bridge, layered terraces and exact sign. Its tips sit around y230 with the front curb near y1210, making it clearly taller than Midnight Lounge while leaving clear sky.
+
+[Eclipse Citadel](../assets/pixel-evolutions/eclipse-citadel-v1.png) passes delegated Stage III review. The giant supported eclipse canopy, central black-glass tower, twin tapered supports and at least three distinct venue zones make it clearly taller and more complex than Nocturne Palace. Its curb aligns near y1203, and the dry street remains open.
+
+Both 1024×1536 PNGs decoded and matched their uploaded Git blob hashes. Earlier Nocturne framing studies were excluded because they inverted the height progression or changed the common site anchor.
+
+Next, use Crown Spire’s selected Stage I base and its canonical Stage II/III prototype references to complete Neon Heights’ fifth evolution family.

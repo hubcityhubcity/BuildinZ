@@ -95,6 +95,44 @@
       "review": "passes delegated Stage III review. The front curb, platform and crosswalk align visually with Quantum Spire v2. Its antenna tip sits near y65 versus y160 for Stage II, and the wider supported halo and twin glazed robotics labs clearly extend the Stage II program. The exact mounted name and orbital display remain legible.",
       "reviewed_source_commit": "a1c0ea36ba7e8c422bc96bb5fd370e325baf0157",
       "previous_candidate_path": "assets/pixel-evolutions/omninet-nexus-v2.png"
+    },
+    {
+      "identity_id": "N01-I04",
+      "stage": 2,
+      "stage_name": "Nocturne Palace",
+      "path": "assets/pixel-evolutions/nocturne-palace-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/midnight-lounge-v2.png",
+      "architecture_reference": "assets/candidates/midnight-stage-2-signage-v2.png",
+      "library_reference_ids": [
+        "libfile_1e1670b0969c81918e9ee35e15eacef5",
+        "libfile_b6fa69b3e2ec8191a4e6fa5aa0afab33"
+      ],
+      "dimensions": "1024x1536",
+      "bytes": 2229113,
+      "sha256": "e562ea98ef2938e30e8d34bb5c732fc2dda503e3c8cfc0d89e75c9924f540aa8",
+      "git_blob_sha": "977de61af1c226db0a501dea30168c15f6ccbb9c",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. It preserves the two offset club towers, physically attached enclosed VIP performance bridge, layered terraces and exact sign. Its tips sit around y230 with the front curb near y1210, making it clearly taller than Midnight Lounge while leaving clear sky.",
+      "reviewed_source_commit": "e2a6f80d34f35d801a5b8adb5ee11185a6fc55a6"
+    },
+    {
+      "identity_id": "N01-I04",
+      "stage": 3,
+      "stage_name": "Eclipse Citadel",
+      "path": "assets/pixel-evolutions/eclipse-citadel-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/midnight-lounge-v2.png",
+      "architecture_reference": "assets/candidates/midnight-stage-3-signage-v2.png",
+      "library_reference_ids": [
+        "libfile_1e1670b0969c81918e9ee35e15eacef5",
+        "libfile_b6fa69b3e2ec8191a4e6fa5aa0afab33"
+      ],
+      "dimensions": "1024x1536",
+      "bytes": 2535428,
+      "sha256": "c7f3e24d5e42b085a3cda3124bdccb4e6cb6f4eeaaae926e3fc71ca32927b06d",
+      "git_blob_sha": "bf869dec3d4047c8d8a6a4ba0d3c32f1275aec9e",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The giant supported eclipse canopy, central black-glass tower, twin tapered supports and at least three distinct venue zones make it clearly taller and more complex than Nocturne Palace. Its curb aligns near y1203, and the dry street remains open.",
+      "reviewed_source_commit": "e2a6f80d34f35d801a5b8adb5ee11185a6fc55a6"
     }
   ],
   "revision_history": [

@@ -61,3 +61,10 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Residential rule:** Private elevated amenities only; no public or ground-level pool, retail frontage or hotel program.
 - **Authority boundary:** Neighborhood theme derives from the Foundation working set; exact stage names come from the canonical registry, while continuity anchors and acceptance decisions remain delegated production decisions.
 - **Evidence:** `SKYGARDEN_DISTRICT_PRODUCTION_BRIEF.md`, `SKYGARDEN_DISTRICT_RESIDENTIAL_ART_HANDOFF.md`.
+
+## 2026-11-21 — Midnight Lounge approval provenance reconciliation
+
+- **Owner authority:** William’s current production direction explicitly identifies `BuildinZ_Midnight_Lounge_Artwork_APPROVED.zip` and `BuildinZ_Midnight_All_Stages.png` as approved references.
+- **Repository corroboration:** `design/04-midnight-lounge-evolution.md` records owner approval on October 23, 2026, and the canonical registry fixes Midnight Lounge → Nocturne Palace → Eclipse Citadel.
+- **Stale package note:** The ZIP’s embedded README still says “proposed (not approved).” That label conflicts with the newer owner direction and repository record, so it is retained as historical package metadata and does not override approval.
+- **Integrity:** The ZIP passed archive testing. The selected repository Stage II and III reference PNGs matched the asset manifest hashes. Pixel evolutions are separately selected after full-frame visual review.
