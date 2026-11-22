@@ -703,6 +703,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact mounted name, dominant central research tower, two distinct attached side laboratories, five-plus stacked sealed test zones, luminous contained test spine, multiple enclosed supported research bridges, supported test-ring decks and complete mechanically supported turbine crown clearly exceed Quantum Garage. White aero shells, swept vector fins, red enclosed service loops, gunmetal frames, amber diagnostics, secure dry apron and complete crown/base framing remain intact.",
       "reviewed_source_commit": "aa72fa727310248dafd3be8464a6d6948b0f1b72"
+    },
+    {
+      "identity_id": "N05-I04",
+      "stage": 2,
+      "stage_name": "Overtake Pavilion",
+      "path": "assets/pixel-evolutions/overtake-pavilion-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/rush-arena-v3.png",
+      "architecture_reference": "assets/candidates/velocity-row-overtake-pavilion-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2692950,
+      "sha256": "6a45e7ec217318f397ae33a69f412cbc521bcee1496c16403782116b046d8444",
+      "git_blob_sha": "c66da65cc78f78feeed58b6f7192073b0a6247f4",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact mounted name, clearly larger two-tier enclosed event venue, two layered empty red seating bowls, central empty event floor, multiple physically supported spectator terraces, cobalt concourse crossings, expanded banked white canopy, gunmetal roof trusses and complete dry ceremonial forecourt clearly extend Rush Arena.",
+      "reviewed_source_commit": "3059b6305092e1e9aa765912a4dc4e3a84a15cee"
+    },
+    {
+      "identity_id": "N05-I04",
+      "stage": 3,
+      "stage_name": "Redline Coliseum",
+      "path": "assets/pixel-evolutions/redline-coliseum-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/rush-arena-v3.png",
+      "architecture_reference": "assets/candidates/velocity-row-redline-coliseum-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2921189,
+      "sha256": "9d43d9736b8db1f087bd97dac4be30ebdb0a763c638700efd42102f2dc7a6abb",
+      "git_blob_sha": "6e74e2bfd97fdd4414f462fa86dc335408b4849a",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact mounted name, monumental dominant central arena, two integrated side event bowls, extensive empty red seating, multiple empty event floors, supported multi-level cobalt concourses, short supported spectator bridges, enormous gunmetal trusses and complete mechanically supported turbine crown clearly exceed Overtake Pavilion.",
+      "reviewed_source_commit": "3059b6305092e1e9aa765912a4dc4e3a84a15cee"
     }
   ],
   "revision_history": [

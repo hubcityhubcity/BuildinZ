@@ -355,4 +355,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Velocity Row technology evolution selection
 
 - [x] Selected Quantum Garage and Hyperdrive Nexus as N05-I03 Stage II/III production artworks.
-- [ ] Continue with Rush Arena → Overtake Pavilion → Redline Coliseum.
+- [x] Rush Arena → Overtake Pavilion → Redline Coliseum passed exact-name, entertainment-lineage, venue-capacity progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Velocity Row entertainment evolution selection
+
+- [x] Selected Overtake Pavilion and Redline Coliseum as N05-I04 Stage II/III production artworks.
+- [ ] Continue with Pole Beacon → Apex Tower → Crown of Speed.

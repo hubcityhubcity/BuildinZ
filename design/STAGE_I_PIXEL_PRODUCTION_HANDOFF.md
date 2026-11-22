@@ -552,3 +552,14 @@ Equal-width visual verification confirmed exact mounted stage names, the shared 
 The Library edition map still contains the older working label `Turbine Works` for VR-03. It is legacy evidence only; the canonical collection registry and November technology handoff agree on Vector Works → Quantum Garage → Hyperdrive Nexus. Downstream edition-map correction remains deferred under the November 19 art-first production order.
 
 Velocity Row now has three of five evolution families selected. Next, use Rush Arena's selected Stage I base and the canonical Overtake Pavilion / Redline Coliseum references for N05-I04.
+
+
+## 2026-11-22 Rush Arena evolution family selection
+
+Selected `assets/pixel-evolutions/overtake-pavilion-v1.png` and `assets/pixel-evolutions/redline-coliseum-v1.png` as the delegated Stage II and Stage III production artworks for N05-I04. Both are 1024×1536 standalone HD isometric pixel assets derived from `rush-arena-v3.png` and the lineage-selected Velocity Row entertainment references.
+
+Equal-width visual verification confirmed exact mounted stage names, the shared banked white aero shells, racing-red entry and circulation ribbons, empty red seating, cobalt concourse glass, gunmetal roof trusses, amber event lights, dry ceremonial forecourts, reflective dark street and blue-hour sky. Stage II adds a clearly larger two-tier enclosed venue with two layered empty seating bowls, central empty event floor, multiple supported spectator terraces and cobalt concourse crossings; Stage III adds a monumental dominant central arena, two integrated side event bowls, multiple empty event floors, supported multi-level concourses, short supported spectator bridges, enormous trusses and a complete mechanically supported turbine crown. No people, crowd, performer, vehicle, literal racetrack, garage, retail, residence, hotel, office, laboratory, pool, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+The Library edition map still contains the older working label `Velodrome` for VR-04. It is legacy evidence only; the canonical collection registry and November entertainment handoff agree on Rush Arena → Overtake Pavilion → Redline Coliseum. Downstream edition-map correction remains deferred under the November 19 art-first production order.
+
+Velocity Row now has four of five evolution families selected. Next, use Pole Beacon's selected Stage I base and the canonical Apex Tower / Crown of Speed references for N05-I05.
