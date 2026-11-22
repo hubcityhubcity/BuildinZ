@@ -438,3 +438,12 @@ Selected `assets/pixel-evolutions/veilside-habitat-v1.png` and `assets/pixel-evo
 Equal-width visual verification confirmed exact mounted stage names, the shared obsidian/smoked-violet residential language, copper screened passages, acid-green directory lights, the guarded private court, consistent corner plot and empty street. Stage II carries two supported screened bridges and one private sky lounge; Stage III carries three supported passages, two private sky lounges and the tallest attached veiled crown. No pool, public ground-level amenity, scene trait or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Shadow Market now has one of five evolution families selected. Next, use Lantern Row's selected Stage I base and the canonical Blackglass Bazaar / Eclipse Exchange references for N03-I02.
+
+
+## 2026-11-22 Lantern Row evolution family selection
+
+Selected `assets/pixel-evolutions/blackglass-bazaar-v1.png` and `assets/pixel-evolutions/eclipse-exchange-v1.png` as the delegated Stage II and Stage III production artworks for N03-I02. Both are 1024×1536 standalone HD isometric pixel assets derived from `lantern-row-v2.png` and the lineage-selected Shadow Market retail references.
+
+Equal-width visual verification confirmed exact mounted stage names, the shared obsidian/black-glass retail language, copper lantern ribs, narrow acid-green directories, rainy framing, diagonal concealed market lane, common plot and empty street. Stage II adds stacked retail galleries, two supported crossings and its attached market lantern; Stage III adds the vertical exchange, layered supported lanes and the largest integrated eclipse-ring crown. No scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Shadow Market now has two of five evolution families selected. Next, use Cipher Works' selected Stage I base and the canonical Umbra Array / Nightcode Nexus references for N03-I03.

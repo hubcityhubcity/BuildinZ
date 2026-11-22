@@ -293,4 +293,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Shadow Market residential evolution selection
 
 - [x] Selected Veilside Habitat and Noctis Enclave as N03-I01 Stage II/III production artworks.
-- [ ] Continue with Lantern Row → Blackglass Bazaar → Eclipse Exchange.
+- [x] Lantern Row → Blackglass Bazaar → Eclipse Exchange passed exact-name, retail-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Shadow Market retail evolution selection
+
+- [x] Selected Blackglass Bazaar and Eclipse Exchange as N03-I02 Stage II/III production artworks.
+- [ ] Continue with Cipher Works → Umbra Array → Nightcode Nexus.

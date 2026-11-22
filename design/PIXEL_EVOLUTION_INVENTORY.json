@@ -343,6 +343,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact mounted name, dominant central residential tower, stepped occupied wings, three supported screened passages, two enclosed private sky lounges, multiple terraces and attached veiled observation crown clearly exceed Veilside Habitat. The guarded court, complete plot/crown and empty street remain framed, with no pool or public amenity.",
       "reviewed_source_commit": "04c3f1e2c06b26a2f878414ab5e8174e59b2889b"
+    },
+    {
+      "identity_id": "N03-I02",
+      "stage": 2,
+      "stage_name": "Blackglass Bazaar",
+      "path": "assets/pixel-evolutions/blackglass-bazaar-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/lantern-row-v2.png",
+      "architecture_reference": "assets/candidates/shadow-market-blackglass-bazaar-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3236770,
+      "sha256": "41ea94145658516df25b59335a4f9bc1aa7c93addce1065189f5539b518cab7c",
+      "git_blob_sha": "fc85f67bda073b8e897e5348d3949576f0138014",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact mounted name, materially taller stacked shop galleries, two supported enclosed crossings, concealed stairs and lanes, larger copper-framed atrium and structurally attached smoked-glass market lantern clearly extend Lantern Row. The diagonal market passage, common plot, full roof and empty street remain intact.",
+      "reviewed_source_commit": "770f86b97bd5cf29e76aee9b8c829f72464b0a3b"
+    },
+    {
+      "identity_id": "N03-I02",
+      "stage": 3,
+      "stage_name": "Eclipse Exchange",
+      "path": "assets/pixel-evolutions/eclipse-exchange-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/lantern-row-v2.png",
+      "architecture_reference": "assets/candidates/shadow-market-eclipse-exchange-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3392452,
+      "sha256": "b90123a92168481a96cc93736d18b7b4a59f4ea33423c23eb6a4f04f01849e22",
+      "git_blob_sha": "16a89c20e203555344dd944ae8ab523cdd836377",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact mounted name, more than ten visible retail gallery levels, grand shadow atrium, at least three layered supported market crossings and integrated copper eclipse-ring crown around the attached market lantern clearly exceed Blackglass Bazaar. The concealed lane, complete crown/base and open street remain framed.",
+      "reviewed_source_commit": "770f86b97bd5cf29e76aee9b8c829f72464b0a3b"
     }
   ],
   "revision_history": [
