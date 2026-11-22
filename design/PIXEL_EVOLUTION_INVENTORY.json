@@ -253,6 +253,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. Additional laboratory levels, twin research wings, multiple supported bridge galleries, a brighter core, denser photovoltaic arrays and the highest attached antenna make it visibly taller and more complex than Helios Foundry. Exact signage and complete podium framing are preserved.",
       "reviewed_source_commit": "3cc2e554839393863d41ea70e3e9b22160c50118"
+    },
+    {
+      "identity_id": "N02-I04",
+      "stage": 2,
+      "stage_name": "Radiant Opera",
+      "path": "assets/pixel-evolutions/radiant-opera-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/velvet-hall-v3.png",
+      "architecture_reference": "assets/candidates/golden-crest-radiant-opera-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2343985,
+      "sha256": "e2cd56bde2bb613d8bade109acd303a0aaab7f9ba6861f69bfeb35978c2c5845",
+      "git_blob_sha": "8a4c863c91c80e5dbd19991acdfb39ef6046c4ce",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact mounted name, taller central auditorium, stacked curved balcony tiers, attached side halls, supported glazed sky foyer and retained fan marquee clearly extend Velvet Hall. The full plot, entry stair, crown and empty foreground street remain inside frame.",
+      "reviewed_source_commit": "bafcd06abe844fbddaaf51d3afffe793fa378dd3"
+    },
+    {
+      "identity_id": "N02-I04",
+      "stage": 3,
+      "stage_name": "Solaris Grand Theatre",
+      "path": "assets/pixel-evolutions/solaris-grand-theatre-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/velvet-hall-v3.png",
+      "architecture_reference": "assets/candidates/golden-crest-solaris-grand-theatre-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2619386,
+      "sha256": "b9089f28f4c407185a8402f21f935db2583b6f6111ae692f8a800203c13743f5",
+      "git_blob_sha": "46293a336846bf4dd5142eef640f58dfe89670ea",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. A dominant taller auditorium, two connected performance halls, multiple visible balcony levels, supported elevated foyer, expanded ceremonial entry and the family’s largest attached radiant acoustic crown make it clearly taller and more complex than Radiant Opera. Exact signage and complete plot framing are preserved.",
+      "reviewed_source_commit": "bafcd06abe844fbddaaf51d3afffe793fa378dd3"
     }
   ],
   "revision_history": [

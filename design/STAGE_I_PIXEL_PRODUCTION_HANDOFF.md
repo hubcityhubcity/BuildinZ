@@ -409,3 +409,12 @@ Selected `assets/pixel-evolutions/helios-foundry-v1.png` and `assets/pixel-evolu
 Visual verification confirmed exact mounted stage names, the shared ivory/gold central energy spine, cobalt photovoltaic arrays, a consistent raised podium and entry stair, physically supported bridges and solar crowns, increasing laboratory/fabrication levels, and clear antenna headroom. No scene or edition traits were introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Golden Crest now has three of five evolution families selected. Next, use Velvet Hall's selected Stage I base and the canonical Radiant Opera / Solaris Grand Theatre references for N02-I04.
+
+
+## 2026-11-22 Velvet Hall evolution family selection
+
+Selected `assets/pixel-evolutions/radiant-opera-v1.png` and `assets/pixel-evolutions/solaris-grand-theatre-v1.png` as the delegated Stage II and Stage III production artworks for N02-I04. Both are 1024×1536 standalone HD isometric pixel assets derived from `velvet-hall-v3.png` and the lineage-selected Golden Crest entertainment references.
+
+Visual verification confirmed exact mounted stage names, the shared ivory/gold Art Deco theatre language, retained fan marquees, connected side halls, physically supported glazed foyers, increasing auditorium and balcony levels, complete plot/crown framing, empty streets and a clear height/complexity progression. No scene or edition traits were introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Golden Crest now has four of five evolution families selected. Next, use Golden Obelisk's selected Stage I base and the canonical Sunspire Monument / Crown of Dawn references for N02-I05.

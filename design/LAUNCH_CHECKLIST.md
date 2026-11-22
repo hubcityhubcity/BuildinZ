@@ -277,4 +277,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-21 Golden Crest technology evolution selection
 
 - [x] Selected Helios Foundry and Daystar Citadel as N02-I03 Stage II/III production artworks.
-- [ ] Continue with Velvet Hall → Radiant Opera → Solaris Grand Theatre.
+- [x] Velvet Hall → Radiant Opera → Solaris Grand Theatre passed exact-name, entertainment-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Golden Crest entertainment evolution selection
+
+- [x] Selected Radiant Opera and Solaris Grand Theatre as N02-I04 Stage II/III production artworks.
+- [ ] Continue with Golden Obelisk → Sunspire Monument → Crown of Dawn.
