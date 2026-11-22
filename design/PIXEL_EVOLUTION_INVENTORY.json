@@ -403,6 +403,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact vault-mounted name, dominant central computation core, two side research towers, three supported enclosed data bridges, layered dishes/fins, attached sensor crown and dominant antenna clearly exceed Umbra Array. The highest antenna has safe sky clearance; the complete secure base and open rainy street remain intact.",
       "reviewed_source_commit": "4f6ca794b2ec1379c6301b0a3629a881835c06f9"
+    },
+    {
+      "identity_id": "N03-I04",
+      "stage": 2,
+      "stage_name": "Phantom Pavilion",
+      "path": "assets/pixel-evolutions/phantom-pavilion-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/backroom-stage-v2.png",
+      "architecture_reference": "assets/candidates/shadow-market-phantom-pavilion-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2825717,
+      "sha256": "5f5a2e05ddae88d8b4304a24b75d49c141233df08c31ee728b05fba0ed3ddf64",
+      "git_blob_sha": "56b0ac47b06f1fe6bcfcd02ec4b5c63f77b2d700",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact marquee name, materially taller central performance volume, multiple visible balcony tiers, two attached performance wings, broad supported enclosed sky foyer and veiled acoustic fins clearly extend Backroom Stage. The guarded entrance, complete plot/roof and open rainy street remain framed.",
+      "reviewed_source_commit": "35f72bac81b45ff67791fa9f91c98c60fe8dd034"
+    },
+    {
+      "identity_id": "N03-I04",
+      "stage": 3,
+      "stage_name": "Midnight Masquerade",
+      "path": "assets/pixel-evolutions/midnight-masquerade-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/backroom-stage-v2.png",
+      "architecture_reference": "assets/candidates/shadow-market-midnight-masquerade-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3086510,
+      "sha256": "c345b47012140734d218b7fc00dd67651149ab8669ca34761146161a3edf3b91",
+      "git_blob_sha": "520391a78883e42b2b60f5c04854fcbe9390ebae",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact marquee name, monumental central auditorium, two distinct attached performance halls, broad supported elevated foyer, several visible audience zones and the family’s largest layered mask-shaped crown clearly exceed Phantom Pavilion. The expanded shadow plaza, complete crown/base and open rainy street remain intact.",
+      "reviewed_source_commit": "35f72bac81b45ff67791fa9f91c98c60fe8dd034"
     }
   ],
   "revision_history": [

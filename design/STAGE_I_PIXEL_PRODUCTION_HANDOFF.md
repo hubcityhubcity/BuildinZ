@@ -456,3 +456,12 @@ Selected `assets/pixel-evolutions/umbra-array-v1.png` and `assets/pixel-evolutio
 Equal-width visual verification confirmed exact vault-mounted stage names, the shared faceted obsidian data core, copper circuit ribs, smoked-violet sensor glass, restrained acid-green code channels, common secure plot and rainy street. Stage II adds the supported dish, analysis wing, truss bridge and expanded labs; Stage III adds two side research towers, three supported data bridges, layered sensors and the safely cleared dominant antenna. No scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Shadow Market now has three of five evolution families selected. Next, use Backroom Stage's selected Stage I base and the canonical Phantom Pavilion / Midnight Masquerade references for N03-I04.
+
+
+## 2026-11-22 Backroom Stage evolution family selection
+
+Selected `assets/pixel-evolutions/phantom-pavilion-v1.png` and `assets/pixel-evolutions/midnight-masquerade-v1.png` as the delegated Stage II and Stage III production artworks for N03-I04. Both are 1024×1536 standalone HD isometric pixel assets derived from `backroom-stage-v2.png` and the lineage-selected Shadow Market entertainment references.
+
+Equal-width visual verification confirmed exact marquee names, the shared obsidian theatre language, narrow copper trim, mask-split facade, smoked-violet drapery/glass, restrained acid-green guidance, common plot and rainy street. Stage II adds supported sky foyer, performance wings, balcony tiers and acoustic fins; Stage III adds the monumental auditorium, two distinct halls, broad supported foyer and the largest layered mask crown. No retail, residential, technology, scene or edition traits were introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Shadow Market now has four of five evolution families selected. Next, use Veil Beacon's selected Stage I base and the canonical Obsidian Spire / Shadow Sovereign references for N03-I05.

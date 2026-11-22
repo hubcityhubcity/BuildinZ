@@ -303,4 +303,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Shadow Market technology evolution selection
 
 - [x] Selected Umbra Array and Nightcode Nexus as N03-I03 Stage II/III production artworks.
-- [ ] Continue with Backroom Stage → Phantom Pavilion → Midnight Masquerade.
+- [x] Backroom Stage → Phantom Pavilion → Midnight Masquerade passed exact-name, entertainment-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Shadow Market entertainment evolution selection
+
+- [x] Selected Phantom Pavilion and Midnight Masquerade as N03-I04 Stage II/III production artworks.
+- [ ] Continue with Veil Beacon → Obsidian Spire → Shadow Sovereign.
