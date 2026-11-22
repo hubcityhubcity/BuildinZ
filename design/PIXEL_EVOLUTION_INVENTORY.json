@@ -193,6 +193,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. A taller central residential tower, structurally supported sun-disc crown, additional stepped wings, private terrace pools and denser gold verticals clearly extend Gilded Terraces. The exact mounted name is legible; the crown, common fountain plot, curb and empty street remain inside frame.",
       "reviewed_source_commit": "45c88275219c738ab1e9b6d1bea3938ce7cdc2fe"
+    },
+    {
+      "identity_id": "N02-I02",
+      "stage": 2,
+      "stage_name": "Crown Arcade",
+      "path": "assets/pixel-evolutions/crown-arcade-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/meridian-market-v3.png",
+      "architecture_reference": "assets/candidates/golden-crest-crown-arcade-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2736310,
+      "sha256": "087ce40fd011479cb516b4cba9de669ed8a9319061338bd234b889fb397a96bc",
+      "git_blob_sha": "a04eda009e3b2ca8f8dc2a7eff54651cad6cc9f7",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The larger connected retail wings, three-level open shopping axis, internal galleries and structurally attached glass-and-gold dome clearly expand Meridian Market. The exact mounted name is legible, the complete plot remains visible, and the empty street preserves future scene-layer space.",
+      "reviewed_source_commit": "6bae6459ecd97a8c81756eb2c86960cfd7962766"
+    },
+    {
+      "identity_id": "N02-I02",
+      "stage": 3,
+      "stage_name": "Grand Aureum Exchange",
+      "path": "assets/pixel-evolutions/grand-aureum-exchange-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/meridian-market-v3.png",
+      "architecture_reference": "assets/candidates/golden-crest-grand-aureum-exchange-stage-3-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2730730,
+      "sha256": "dda48046708bb050986ed45c66fb4bdccfbfdc81b8272db5ebf09a703eaef126",
+      "git_blob_sha": "0dd6a6fa3f655f9d69d2acf72a8368288cf9fb6c",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. Four readable retail tiers, denser connected wings, stacked internal gallery arcades, a luminous central axis and the family's highest attached dome make it clearly taller and more complex than Crown Arcade. The exact mounted name, complete plot and empty street are intact.",
+      "reviewed_source_commit": "6bae6459ecd97a8c81756eb2c86960cfd7962766"
     }
   ],
   "revision_history": [

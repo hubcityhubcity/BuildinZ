@@ -393,3 +393,11 @@ Selected `assets/pixel-evolutions/gilded-terraces-v1.png` and `assets/pixel-evol
 Visual verification confirmed the exact mounted stage names, the shared ivory/gold stepped-residential language, a consistent corner plot and fountain forecourt, intact roof/crown framing, empty streets and a clear height/complexity progression. Imperial Sunhold's sun disc is structurally supported architecture rather than a floating scene trait. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Golden Crest now has one of five evolution families selected. Next, use Meridian Market's selected Stage I base and the canonical Crown Arcade / Grand Aureum Exchange references for N02-I02.
+
+## 2026-11-21 Meridian Market evolution family selection
+
+Selected `assets/pixel-evolutions/crown-arcade-v1.png` and `assets/pixel-evolutions/grand-aureum-exchange-v1.png` as the delegated Stage II and Stage III production artworks for N02-I02. Both are 1024×1536 standalone HD isometric pixel assets derived from `meridian-market-v3.png` and the lineage-selected Golden Crest retail references.
+
+Visual verification confirmed exact mounted stage names, the shared symmetrical ivory/gold retail language, a consistent corner plot and central shopping axis, increasing retail levels, intact dome framing and empty streets. Grand Aureum Exchange retains the market/arcade function while adding stacked galleries and the family’s highest supported dome. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Golden Crest now has two of five evolution families selected. Next, use Solara Labs' selected Stage I base and the canonical Helios Foundry / Daystar Citadel references for N02-I03.

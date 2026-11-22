@@ -267,4 +267,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-21 Golden Crest evolution-family progress
 
 - [x] Aureate Residences → Gilded Terraces → Imperial Sunhold passed exact-name, lineage, height-progression, complete-framing and file/blob-integrity checks.
-- [ ] Continue with Meridian Market → Crown Arcade → Grand Aureum Exchange.
+- [x] Meridian Market → Crown Arcade → Grand Aureum Exchange passed exact-name, retail-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-21 Golden Crest retail evolution selection
+
+- [x] Selected Crown Arcade and Grand Aureum Exchange as N02-I02 Stage II/III production artworks.
+- [ ] Continue with Solara Labs → Helios Foundry → Daystar Citadel.
