@@ -733,6 +733,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact mounted name, monumental dominant central arena, two integrated side event bowls, extensive empty red seating, multiple empty event floors, supported multi-level cobalt concourses, short supported spectator bridges, enormous gunmetal trusses and complete mechanically supported turbine crown clearly exceed Overtake Pavilion.",
       "reviewed_source_commit": "3059b6305092e1e9aa765912a4dc4e3a84a15cee"
+    },
+    {
+      "identity_id": "N05-I05",
+      "stage": 2,
+      "stage_name": "Apex Tower",
+      "path": "assets/pixel-evolutions/apex-tower-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/pole-beacon-v3.png",
+      "architecture_reference": "assets/candidates/velocity-row-apex-tower-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2692776,
+      "sha256": "48f8059dbe80e31caff8b0b5f6424fa1c95e04e10f68d4c61977e696dda3ba31",
+      "git_blob_sha": "054bab43ba89e44f79be55eaba7d501a4a414472",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact mounted name, clearly taller leaning white/gunmetal mast, continuous racing-red spine, two distinct supported cobalt observation rings, broader attached canopy, more tied-back aero fins, larger anchored amber beacon, complete ceremonial base and crown clearly extend Pole Beacon.",
+      "reviewed_source_commit": "978a1183368d933ccf6dcad916d242e0b47b85b7"
+    },
+    {
+      "identity_id": "N05-I05",
+      "stage": 3,
+      "stage_name": "Crown of Speed",
+      "path": "assets/pixel-evolutions/crown-of-speed-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/pole-beacon-v3.png",
+      "architecture_reference": "assets/candidates/velocity-row-crown-of-speed-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3028343,
+      "sha256": "e7283673f90fac58f22a25a7159d6771b1cbd07fde97bdb8ab8521de3e6f9d7f",
+      "git_blob_sha": "55f10d0b405170caa2324c3475aae64b8058e067",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact mounted name, skyline-defining multi-fin mast, enormous supported multi-level cobalt observation crown, multiple attached observation rings and pods, several short supported bridges, complete mechanically anchored kinetic amber crown and expanded ceremonial base clearly exceed Apex Tower.",
+      "reviewed_source_commit": "978a1183368d933ccf6dcad916d242e0b47b85b7"
     }
   ],
   "revision_history": [

@@ -563,3 +563,16 @@ Equal-width visual verification confirmed exact mounted stage names, the shared 
 The Library edition map still contains the older working label `Velodrome` for VR-04. It is legacy evidence only; the canonical collection registry and November entertainment handoff agree on Rush Arena → Overtake Pavilion → Redline Coliseum. Downstream edition-map correction remains deferred under the November 19 art-first production order.
 
 Velocity Row now has four of five evolution families selected. Next, use Pole Beacon's selected Stage I base and the canonical Apex Tower / Crown of Speed references for N05-I05.
+
+
+## 2026-11-22 Pole Beacon evolution family selection
+
+Selected `assets/pixel-evolutions/apex-tower-v1.png` and `assets/pixel-evolutions/crown-of-speed-v1.png` as the delegated Stage II and Stage III production artworks for N05-I05. Both are 1024×1536 standalone HD isometric pixel assets derived from `pole-beacon-v3.png` and the lineage-selected Velocity Row landmark references.
+
+Equal-width visual verification confirmed exact mounted stage names, the shared white/gunmetal mast, continuous racing-red velocity spine, cobalt observation glass, amber beacon rings, attached aero fins, dry ceremonial plazas, reflective street and blue-hour sky. Stage II adds a clearly taller leaning mast, two distinct supported observation rings, broader attached canopy, more tied-back fins and a larger anchored amber beacon; Stage III adds the skyline-defining multi-fin mast, enormous supported multi-level observation crown, multiple attached observation rings and pods, several short supported bridges, complete mechanically anchored kinetic amber crown and expanded ceremonial base. No people, vehicle, racetrack, arena, garage, retail, residence, office, hotel, laboratory, pool, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+The Library edition map still contains the older working label `Rail Station` for VR-05. It is legacy evidence only; the canonical collection registry and November landmark handoff agree on Pole Beacon → Apex Tower → Crown of Speed. Downstream edition-map correction remains deferred under the November 19 art-first production order.
+
+This completes all five Velocity Row pixel evolution families: 10 selected Stage II/III assets across N05-I01 through N05-I05. It does not certify edition exports or downstream metadata.
+
+Next, prepare `ROYAL_MIRAGE_PRODUCTION_BRIEF.md` from the canonical registry and selected Stage I bases, then begin Oasis Residences → Mirage Habitat → Sultan's Skyhold.

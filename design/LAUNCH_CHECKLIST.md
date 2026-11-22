@@ -360,4 +360,10 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Velocity Row entertainment evolution selection
 
 - [x] Selected Overtake Pavilion and Redline Coliseum as N05-I04 Stage II/III production artworks.
-- [ ] Continue with Pole Beacon → Apex Tower → Crown of Speed.
+- [x] Pole Beacon → Apex Tower → Crown of Speed passed exact-name, landmark-lineage, height/ring progression, physical-support, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Velocity Row landmark evolution selection
+
+- [x] Selected Apex Tower and Crown of Speed as N05-I05 Stage II/III production artworks.
+- [x] All five Velocity Row identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
+- [ ] Prepare `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`, then continue with Oasis Residences → Mirage Habitat → Sultan's Skyhold.
