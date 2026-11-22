@@ -133,6 +133,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The giant supported eclipse canopy, central black-glass tower, twin tapered supports and at least three distinct venue zones make it clearly taller and more complex than Nocturne Palace. Its curb aligns near y1203, and the dry street remains open.",
       "reviewed_source_commit": "e2a6f80d34f35d801a5b8adb5ee11185a6fc55a6"
+    },
+    {
+      "identity_id": "N01-I05",
+      "stage": 2,
+      "stage_name": "Sovereign Apex",
+      "path": "assets/pixel-evolutions/sovereign-apex-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/crown-spire-v1.png",
+      "architecture_reference": "assets/candidates/crown-stage-2-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2236312,
+      "sha256": "748156c2eb536691d8985d3ffeec6cd312a315907d16e6b49bf9edf089cdf848",
+      "git_blob_sha": "e7e33a4c055fd6c96b283039f6e126a789e7fcdb",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The flared landmark shaft grows clearly above Crown Spire into an elevated circular observation crown with a multi-pronged neon spire array. The exact mounted name is legible, all tips remain inside frame, and the common square curb and empty street leave future scene-layer space.",
+      "reviewed_source_commit": "4b0e4933888b33db923f2ce7ac3a15f01a55d89a"
+    },
+    {
+      "identity_id": "N01-I05",
+      "stage": 3,
+      "stage_name": "Crown of Neon",
+      "path": "assets/pixel-evolutions/crown-of-neon-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/crown-spire-v1.png",
+      "architecture_reference": "assets/candidates/crown-stage-3-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2400695,
+      "sha256": "7cfe50bcbf8fbb8d69fbaa4e627cd9d127f51675a07221ae0eab280f1d10728c",
+      "git_blob_sha": "d927c9bb728d990fd44d012b539ab828997d4483",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The larger observation crown, denser spire cluster, brighter central core and additional crossing supports make it visibly more complex than Sovereign Apex. The exact mounted name is legible, the tallest tip retains sky clearance, and the square curb and empty street remain intact.",
+      "reviewed_source_commit": "4b0e4933888b33db923f2ce7ac3a15f01a55d89a"
     }
   ],
   "revision_history": [

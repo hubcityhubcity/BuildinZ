@@ -375,3 +375,13 @@ The approved Library ZIP passed integrity testing and contains the three named a
 Both 1024×1536 PNGs decoded and matched their uploaded Git blob hashes. Earlier Nocturne framing studies were excluded because they inverted the height progression or changed the common site anchor.
 
 Next, use Crown Spire’s selected Stage I base and its canonical Stage II/III prototype references to complete Neon Heights’ fifth evolution family.
+
+## 2026-11-21 Crown Spire evolution family selection
+
+Selected `assets/pixel-evolutions/sovereign-apex-v1.png` and `assets/pixel-evolutions/crown-of-neon-v1.png` as the delegated Stage II and Stage III production artworks for N01-I05. Both are 1024×1536 standalone HD isometric pixel assets derived from the selected Crown Spire base and the canonical `crown-stage-2-v2.png` / `crown-stage-3-v2.png` architecture references.
+
+Visual verification confirmed exact mounted stage names, intact spire tips, an empty common plot and street, and a clear progression from Crown Spire to the elevated observation crown of Sovereign Apex and the larger, denser crown-and-spire complex of Crown of Neon. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+This completes all five Neon Heights pixel evolution families: 10 selected Stage II/III assets across N01-I01 through N01-I05. It does not certify edition exports or downstream metadata.
+
+Next, begin Golden Crest with Aureate Residences → Gilded Terraces → Imperial Sunhold, using the selected Stage I base and the canonical Golden Crest residential references.

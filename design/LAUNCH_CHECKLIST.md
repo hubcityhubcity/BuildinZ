@@ -257,3 +257,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## Stage I artwork gate
 
 - [x] Complete the November 19 standalone pixel-art base set. On November 21, 2026, all 50 standalone Stage I bases passed delegated selection. The Stage I inventory matches the registry’s exact names and IDs across 10 neighborhoods, with unique paths and hashes. The 49 earlier selections matched the pinned Git tree’s blob hashes and byte sizes. Arcadia Beacon decoded at 1024×1536 and matched its uploaded blob hash. Stage II and III production and final edition export certification remain open. See the [source inventory](STAGE_I_PIXEL_SOURCE_INVENTORY.json) and [handoff](STAGE_I_PIXEL_PRODUCTION_HANDOFF.md).
+
+## 2026-11-21 Neon Heights evolution-family milestone
+
+- [x] All five Neon Heights architectural identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
+- [x] Crown Spire → Sovereign Apex → Crown of Neon was checked for exact stage naming, architectural continuity, increasing crown/spire complexity, complete 1024×1536 framing and file/blob integrity.
+- [ ] Begin Golden Crest pixel evolutions with Aureate Residences → Gilded Terraces → Imperial Sunhold. Edition traits, rarity assignments, token metadata and final export certification remain deferred until the base/evolution art dependency allows them.
