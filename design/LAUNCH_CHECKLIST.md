@@ -298,4 +298,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Shadow Market retail evolution selection
 
 - [x] Selected Blackglass Bazaar and Eclipse Exchange as N03-I02 Stage II/III production artworks.
-- [ ] Continue with Cipher Works → Umbra Array → Nightcode Nexus.
+- [x] Cipher Works → Umbra Array → Nightcode Nexus passed exact-name, technology-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Shadow Market technology evolution selection
+
+- [x] Selected Umbra Array and Nightcode Nexus as N03-I03 Stage II/III production artworks.
+- [ ] Continue with Backroom Stage → Phantom Pavilion → Midnight Masquerade.

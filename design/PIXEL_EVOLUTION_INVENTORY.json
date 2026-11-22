@@ -373,6 +373,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact mounted name, more than ten visible retail gallery levels, grand shadow atrium, at least three layered supported market crossings and integrated copper eclipse-ring crown around the attached market lantern clearly exceed Blackglass Bazaar. The concealed lane, complete crown/base and open street remain framed.",
       "reviewed_source_commit": "770f86b97bd5cf29e76aee9b8c829f72464b0a3b"
+    },
+    {
+      "identity_id": "N03-I03",
+      "stage": 2,
+      "stage_name": "Umbra Array",
+      "path": "assets/pixel-evolutions/umbra-array-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/cipher-works-v2.png",
+      "architecture_reference": "assets/candidates/shadow-market-umbra-array-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2931406,
+      "sha256": "8fd9e7329eba4193dbb724ec1f227b31ae507409e0b02de946036c56f7f7ce33",
+      "git_blob_sha": "c39d75f612f4d00a15a2065e8598e78523930300",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact vault-mounted name, taller central research core, multiple secure lab zones, supported upper sensor dish, truss-supported data bridge, independently supported analysis wing and three restrained code channels clearly extend Cipher Works. The armored entrance, full array/base and open rainy street remain framed.",
+      "reviewed_source_commit": "4f6ca794b2ec1379c6301b0a3629a881835c06f9"
+    },
+    {
+      "identity_id": "N03-I03",
+      "stage": 3,
+      "stage_name": "Nightcode Nexus",
+      "path": "assets/pixel-evolutions/nightcode-nexus-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/cipher-works-v2.png",
+      "architecture_reference": "assets/candidates/shadow-market-nightcode-nexus-stage-3-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2893981,
+      "sha256": "a773bc86d6f99f5464ed6e8961f833a14340b02201dcb0d42cb91497a50451cc",
+      "git_blob_sha": "130244ba079e5611e9da9466955c7e93f25f03c0",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact vault-mounted name, dominant central computation core, two side research towers, three supported enclosed data bridges, layered dishes/fins, attached sensor crown and dominant antenna clearly exceed Umbra Array. The highest antenna has safe sky clearance; the complete secure base and open rainy street remain intact.",
+      "reviewed_source_commit": "4f6ca794b2ec1379c6301b0a3629a881835c06f9"
     }
   ],
   "revision_history": [

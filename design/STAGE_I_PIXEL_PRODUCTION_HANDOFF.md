@@ -447,3 +447,12 @@ Selected `assets/pixel-evolutions/blackglass-bazaar-v1.png` and `assets/pixel-ev
 Equal-width visual verification confirmed exact mounted stage names, the shared obsidian/black-glass retail language, copper lantern ribs, narrow acid-green directories, rainy framing, diagonal concealed market lane, common plot and empty street. Stage II adds stacked retail galleries, two supported crossings and its attached market lantern; Stage III adds the vertical exchange, layered supported lanes and the largest integrated eclipse-ring crown. No scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Shadow Market now has two of five evolution families selected. Next, use Cipher Works' selected Stage I base and the canonical Umbra Array / Nightcode Nexus references for N03-I03.
+
+
+## 2026-11-22 Cipher Works evolution family selection
+
+Selected `assets/pixel-evolutions/umbra-array-v1.png` and `assets/pixel-evolutions/nightcode-nexus-v1.png` as the delegated Stage II and Stage III production artworks for N03-I03. Both are 1024×1536 standalone HD isometric pixel assets derived from `cipher-works-v2.png` and the lineage-selected Shadow Market technology references.
+
+Equal-width visual verification confirmed exact vault-mounted stage names, the shared faceted obsidian data core, copper circuit ribs, smoked-violet sensor glass, restrained acid-green code channels, common secure plot and rainy street. Stage II adds the supported dish, analysis wing, truss bridge and expanded labs; Stage III adds two side research towers, three supported data bridges, layered sensors and the safely cleared dominant antenna. No scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Shadow Market now has three of five evolution families selected. Next, use Backroom Stage's selected Stage I base and the canonical Phantom Pavilion / Midnight Masquerade references for N03-I04.
