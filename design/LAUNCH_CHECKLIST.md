@@ -334,4 +334,10 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Skygarden District entertainment evolution selection
 
 - [x] Selected Petal Pavilion and Celestial Conservatory as N04-I04 Stage II/III production artworks.
-- [ ] Continue with Garden Beacon → Worldtree Apex → Crown of Eden.
+- [x] Garden Beacon → Worldtree Apex → Crown of Eden passed exact-name, landmark-lineage, height-progression, contained-crown, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Skygarden District landmark evolution selection
+
+- [x] Selected Worldtree Apex and Crown of Eden as N04-I05 Stage II/III production artworks.
+- [x] All five Skygarden District identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
+- [ ] Continue with Velocity Row: Draftline Lofts → Slipstream Habitat → Mach Horizon.

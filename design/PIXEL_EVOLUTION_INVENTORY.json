@@ -583,6 +583,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact mounted name, dominant central auditorium with visible stage, two distinct side performance halls, many supported audience balcony zones, elevated garden foyers, short supported glazed bridges and complete luminous flower crown clearly exceed Petal Pavilion. Warm-wood acoustic fins, emerald/sky-blue glass, controlled flowers, reflective street and complete crown/base framing remain intact.",
       "reviewed_source_commit": "bfa745f5529da861d1279058f498c74806328d81"
+    },
+    {
+      "identity_id": "N04-I05",
+      "stage": 2,
+      "stage_name": "Worldtree Apex",
+      "path": "assets/pixel-evolutions/worldtree-apex-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/garden-beacon-v2.png",
+      "architecture_reference": "assets/candidates/skygarden-district-worldtree-apex-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2757390,
+      "sha256": "caeec277ad2144d4624444568687ea06d698b27481adee229a181fe99b7e31f9",
+      "git_blob_sha": "feb26f2dde0049c6b376d881e071c4f374e39d04",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review after rejecting the first cropped-beam render. The exact mounted name, taller tree-like civic monument, two physically supported viewing rings, broad supported sky-blue observation canopy, branch fins, visible internal circulation and stronger contained mint crown halo clearly extend Garden Beacon. Branching pearl trunks, warm-wood core, emerald seed glass, ceremonial plaza and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "a4aa05c85138bc076000f33fe537848e7d5fd70a"
+    },
+    {
+      "identity_id": "N04-I05",
+      "stage": 3,
+      "stage_name": "Crown of Eden",
+      "path": "assets/pixel-evolutions/crown-of-eden-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/garden-beacon-v2.png",
+      "architecture_reference": "assets/candidates/skygarden-district-crown-of-eden-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2899756,
+      "sha256": "71c36093ad46e4426bc894bda1d884b002cfee2f699074e9d567b2e8ca90069e",
+      "git_blob_sha": "c9f4814e80c93de77d94b22f30e08af310b08c06",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review after rejecting the first cropped-beam render. The exact mounted name, skyline-defining multi-trunk civic monument, enormous supported multilevel sky garden, multiple viewing rings, short supported observation bridges, layered sky-blue canopy crown and contained mint crown halo clearly exceed Worldtree Apex. Branching pearl trunks, warm-wood core, emerald seed glass, ceremonial plaza and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "a4aa05c85138bc076000f33fe537848e7d5fd70a"
     }
   ],
   "revision_history": [

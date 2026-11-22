@@ -512,3 +512,14 @@ Selected `assets/pixel-evolutions/petal-pavilion-v1.png` and `assets/pixel-evolu
 Equal-width visual verification confirmed exact mounted stage names, the shared layered pearl petal roofs, warm-wood acoustic fins, emerald/sky-blue glass, mint edge lights, controlled flowering accents, visible performance stages, reflective street and open sky. Stage II adds the larger central auditorium, several supported audience balcony terraces and elevated supported sky foyer; Stage III adds two distinct side performance halls, many supported audience zones, elevated garden foyers, short supported glazed bridges and the complete luminous flower crown. No residence, retail mall, hotel, laboratory, pool, dense jungle, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Skygarden District now has four of five evolution families selected. Next, use Garden Beacon's selected Stage I base and the canonical Worldtree Apex / Crown of Eden references for N04-I05.
+
+
+## 2026-11-22 Garden Beacon evolution family selection
+
+Selected `assets/pixel-evolutions/worldtree-apex-v1.png` and `assets/pixel-evolutions/crown-of-eden-v1.png` as the delegated Stage II and Stage III production artworks for N04-I05. Both are 1024×1536 standalone HD isometric pixel assets derived from `garden-beacon-v2.png` and the lineage-selected Skygarden District landmark references.
+
+The first generated pair was rejected because its beacon beams ran through the top edge. The selected revisions replace those beams with compact contained mint crown halos and preserve clear blue sky above every crown. Equal-width visual verification confirmed exact mounted names, branching pearl trunks, warm-wood cores, emerald seed glass, supported observation structures, ceremonial plazas and open sky. Stage II adds two supported viewing rings, broad supported canopy, branch fins and internal circulation; Stage III adds the enormous supported multilevel sky garden, multiple viewing rings, short supported bridges and complete layered sky-blue crown. Both remain civic monuments rather than occupied towers. No residence, retail, venue, laboratory, pool, dense jungle, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+This completes all five Skygarden District pixel evolution families: 10 selected Stage II/III assets across N04-I01 through N04-I05. It does not certify edition exports or downstream metadata.
+
+Next, begin Velocity Row with Draftline Lofts → Slipstream Habitat → Mach Horizon, using the selected Stage I base and canonical Velocity Row residential references.
