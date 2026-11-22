@@ -485,3 +485,12 @@ Selected `assets/pixel-evolutions/cloudterrace-habitat-v1.png` and `assets/pixel
 Equal-width visual verification confirmed exact mounted stage names, the shared pearl branching frames, emerald glass, warm-wood balcony bands, mint edge light, restrained planted ribbons, common residential plot, dry street and open sky. Stage II adds taller twin towers, stepped private terraces, a supported enclosed residents-only sky lounge and private upper water features; Stage III adds a dominant central tower, two distinct side towers, multiple supported resident zones and the complete multi-layer living crown. No ground-level or public pool, public resort deck, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
 
 Skygarden District now has one of five evolution families selected. Next, use Bloom Market's selected Stage I base and the canonical Verdant Galleria / Hanging Garden Exchange references for N04-I02.
+
+
+## 2026-11-22 Bloom Market evolution family selection
+
+Selected `assets/pixel-evolutions/verdant-galleria-v1.png` and `assets/pixel-evolutions/hanging-garden-exchange-v1.png` as the delegated Stage II and Stage III production artworks for N04-I02. Both are 1024×1536 standalone HD isometric pixel assets derived from `bloom-market-v2.png` and the lineage-selected Skygarden District retail references.
+
+Equal-width visual verification confirmed exact mounted stage names, the shared pearl canopy arches, sky-blue gallery glass, warm-wood storefront bands, emerald awnings, mint edge light, controlled modular planters, broad public retail aisle, dry street and open sky. Stage II adds a multi-level active retail atrium, visible escalators and several supported gallery crossings; Stage III adds eight-plus visible retail levels, stacked atria, supported hanging-market terraces, glass bridges, escalators and a complete planter-grid crown. Storefronts remain visible and greenery subordinate. No residential, office, hotel, pool, floating structure, scene or edition trait was introduced. File decoding, dimensions, byte counts, SHA-256 digests and uploaded Git blob hashes were verified before selection.
+
+Skygarden District now has two of five evolution families selected. Next, use Seedlight Labs' selected Stage I base and the canonical Aeroponic Spire / Gaia Cloudworks references for N04-I03.

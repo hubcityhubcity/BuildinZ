@@ -493,6 +493,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact mounted name, dominant central tower, two distinct side towers, multiple supported resident zones, private upper water features and complete multi-layer living crown clearly exceed Cloudterrace Habitat. The three-tower hierarchy, pearl branching supports, emerald glass, warm-wood balcony bands, restrained greenery, dry street frontage and complete crown/base framing remain intact.",
       "reviewed_source_commit": "381420b3621ffb3c5d4b6bf243c5b80bac8b9fbd"
+    },
+    {
+      "identity_id": "N04-I02",
+      "stage": 2,
+      "stage_name": "Verdant Galleria",
+      "path": "assets/pixel-evolutions/verdant-galleria-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/bloom-market-v2.png",
+      "architecture_reference": "assets/candidates/skygarden-district-verdant-galleria-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2808300,
+      "sha256": "d539363118ac0b0c2f139e04c599dca141f36a4404855affb1858eb6d0f54240",
+      "git_blob_sha": "bee646a16623d4e9cac559351b003a80d2e26118",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The exact mounted name, multi-level active retail atrium, visible escalators, several supported gallery crossings and layered pearl canopy clearly extend Bloom Market. Sky-blue gallery glass, warm-wood storefront bands, emerald awnings, mint edge light, modular planters, broad public aisle, dry street frontage and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "b54e24e1e3eee33de76641e35f99854e35a06508"
+    },
+    {
+      "identity_id": "N04-I02",
+      "stage": 3,
+      "stage_name": "Hanging Garden Exchange",
+      "path": "assets/pixel-evolutions/hanging-garden-exchange-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/bloom-market-v2.png",
+      "architecture_reference": "assets/candidates/skygarden-district-hanging-garden-exchange-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3395579,
+      "sha256": "2f955326a7f43d94e79dce7213217f1842b07e39762f4508cc5d7206e5643bc6",
+      "git_blob_sha": "508d326b0df3f9438a621a3031fd604ecd3fe70f",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exact mounted name, eight-plus visible retail levels, stacked active atria, supported hanging-market terraces, glass bridges, escalators and complete planter-grid crown clearly exceed Verdant Galleria. The public retail aisle, visible storefronts, pearl canopy language, warm-wood bands, emerald awnings, modular greenery, dry street frontage and complete crown/base framing remain intact.",
+      "reviewed_source_commit": "b54e24e1e3eee33de76641e35f99854e35a06508"
     }
   ],
   "revision_history": [

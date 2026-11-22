@@ -319,4 +319,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 ## 2026-11-22 Skygarden District residential evolution selection
 
 - [x] Selected Cloudterrace Habitat and Eden Skyhold as N04-I01 Stage II/III production artworks.
-- [ ] Continue with Bloom Market → Verdant Galleria → Hanging Garden Exchange.
+- [x] Bloom Market → Verdant Galleria → Hanging Garden Exchange passed exact-name, retail-lineage, height-progression, complete-framing and file/blob-integrity checks.
+
+## 2026-11-22 Skygarden District retail evolution selection
+
+- [x] Selected Verdant Galleria and Hanging Garden Exchange as N04-I02 Stage II/III production artworks.
+- [ ] Continue with Seedlight Labs → Aeroponic Spire → Gaia Cloudworks.
