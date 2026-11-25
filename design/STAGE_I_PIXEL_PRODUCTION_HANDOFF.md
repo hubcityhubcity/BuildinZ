@@ -1,43 +1,38 @@
-# Royal Mirage Entertainment art handoff
+# Royal Mirage Landmark art handoff
 
 Recorded November 5, 2026 (America/Chicago).
 
-## Canonical evolution and status boundary
+## Scope and provenance
 
-Mooncourt Lounge → Mirage Palace → Celestial Riad. Building type remains **Entertainment** across all stages. These are visually inspected base candidates only—not prototype-integrated, edition variants, permanent-storage assets, release exports or final NFT-certified artwork.
+This checkpoint completes N06-I05 without overwriting approved or earlier sources. Each selected file is a full-resolution generated source visually inspected against `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Generation is delegated production, not prior owner approval and not final NFT certification.
 
-## Integrity evidence
+| Stage | Exact name | Selected file | Dimensions | Bytes | SHA-256 | Git blob SHA |
+|---:|---|---|---:|---:|---|---|
+| I | Royal Minaret | `assets/candidates/royal-mirage-royal-minaret-stage-1-v1.png` | 1024 × 1536 | 2,427,266 | `8effe2ec865fab9801e142e6d832bac1aecded9526c0ab7d1a1133609d3128ec` | `c55accc87e6591191a0f19c125cde5a79a0b08a5` |
+| II | Sovereign Needle | `assets/candidates/royal-mirage-sovereign-needle-stage-2-v1.png` | 1024 × 1536 | 2,711,617 | `ce584915c312d58af67ddac6f604dbfced094e88194a579cbc8da120fb2aac54` | `c30e04bc29d2b5b743306f2e49f5ca40bc8f2bbf` |
+| III | Crown of Sand | `assets/candidates/royal-mirage-crown-of-sand-stage-3-v1.png` | 1024 × 1536 | 3,040,528 | `301b4c97e9d2a2dcd25dd770ac7eb67c30d1071cbf4320d0057c57112a88d7dd` | `df41e1ce0ad460bbe3c380df7404b6bee786c90c` |
 
-| Stage | Canonical name | File | Dimensions | Bytes | SHA-256 | Git blob |
-|---:|---|---|---|---:|---|---|
-| I | Mooncourt Lounge | `assets/candidates/royal-mirage-mooncourt-lounge-stage-1-v1.png` | 1024 × 1536 RGB | 3,365,715 | `df3b1952f8e70e2b4b3559c3d6cb6150baafcbfb1a887f53c3e71adaa167361f` | `3cf8f7a41850dfa8a419c1fd1ad060509a90a769` |
-| II | Mirage Palace | `assets/candidates/royal-mirage-mirage-palace-stage-2-v1.png` | 1024 × 1536 RGB | 3,644,604 | `b3ccae1c7ca6e69e14ea3162f1b5a5db1458a3b2a96e7e3990e4338756764176` | `b1f251cfb2f935c92dd0869d8bbe28b44f2ea6e7` |
-| III | Celestial Riad | `assets/candidates/royal-mirage-celestial-riad-stage-3-v1.png` | 1024 × 1536 RGB | 3,731,081 | `14a0441f60d05decd66c7f1734312fec53b7600c1090cb56a2be2691fbee6ad6` | `0f45c763bc1b30cab2c9b227618e20780297eb05` |
+## Visual acceptance
 
-## Visual inspection
+- Stage I: one supported sapphire observation ring, sand/rose-gold mast, attached swept fins, mirrored-black needle, full plaza base and complete jewel beacon.
+- Stage II: visibly taller faceted monument, two supported rings, expanded ceremonial base, stronger needle/fins and complete larger crown.
+- Stage III: decisive multi-fin skyline monument with several connected kinetic light rings, enormous supported sapphire/turquoise observation crown, attached bridges, expanded base and complete highest crown.
+- Across all stages: exact mounted name appears once; no stray text; Royal Mirage palette and blue-hour setting remain coherent; no floating architecture; no clipping.
 
-- **Mooncourt Lounge:** exact mounted name; intimate public performance venue; visible stage, instruments and audience seating; public foyer; dry moonlit courtyard; complete approach and canopy.
-- **Mirage Palace:** exact mounted name; clearly larger central theatre plus two side performance halls; visible stages and tiered seating; supported rose-gold audience balconies; complete dry courtyard/base and jewel crown; no hotel or residential ambiguity.
-- **Celestial Riad:** exact mounted name; grand central performance court and two visible side courts; several seating tiers and stages; supported audience galleries and attached enclosed bridges; complete ceremonial approach and star-lit crown.
-- Moonlit sand courtyards, sapphire performance glass, turquoise lighting, rose-gold screens and mirrored-black trusses persist across all stages.
+## Boundary
 
-## Provenance and decision class
-
-All three were produced with built-in image generation. Stage II used Stage I as reference; Stage III used Stages I and II. Exact names and neighborhood palette come from the canonical registry. Detailed silhouettes and acceptance decisions are reversible delegated production decisions, not new owner approvals.
-
-## Exact next action
-
-Produce and inspect Royal Minaret / Sovereign Needle / Crown of Sand from the Landmark section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve sand/rose-gold masts, mirrored-black needles, sapphire/turquoise observation glass and attached wind-swept fins; keep observation rings/bridges, complete ceremonial bases and highest crowns physically supported and in frame.
+These files are selected lineage candidates. Edition finishes, 300 Royal Mirage edition-stage renders, permanent storage URIs, release-manifest locking and final export certification remain open.
 
 
-## 2026-11-25 Royal Mirage Entertainment evolution selection
 
-Selected `assets/pixel-evolutions/mirage-palace-v1.png` and `assets/pixel-evolutions/celestial-riad-v1.png` as the Stage II/III evolution artwork for N06-I04 Mooncourt Lounge. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base.
+## 2026-11-25 Royal Mirage Landmark evolution selection
 
-- **Mirage Palace:** one dominant central theatre plus exactly two side performance halls, three visible instrumented stages, empty tiered seating, several supported audience balconies and a complete attached jewel crown; exact single mounted name; dry moonlit court and open street foreground.
-- **Celestial Riad:** grand central performance court plus exactly two side courts, three visible stages, several empty seating tiers, supported audience galleries, two attached enclosed sapphire-glass bridges and the family’s highest layered star-lit crown; exact single mounted name; dry ceremonial approach and open street foreground.
-- **Continuity:** sandstone arches, sapphire performance glass, turquoise show lighting, rose-gold screens and mirrored-black trusses preserve the Mooncourt Lounge lineage without hotel, residential or retail ambiguity.
-- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, performers, sky events, street scenes, rarity traits and editions remain deferred.
-- **Inventory:** Royal Mirage now has 4 of 5 evolution families selected; the canonical evolution inventory contains 58 selected Stage II/III assets across 29 complete families.
+Selected `assets/pixel-evolutions/sovereign-needle-v1.png` and `assets/pixel-evolutions/crown-of-sand-v1.png` as the Stage II/III evolution artwork for N06-I05 Royal Minaret. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base.
 
-Next, produce and inspect Royal Minaret → Sovereign Needle → Crown of Sand. Preserve the civic-landmark function, sand/rose-gold mast, mirrored-black needle, sapphire/turquoise observation glass, supported rings and bridges, exact signage, complete ceremonial base/crown and clear Stage I→II→III escalation.
+- **Sovereign Needle:** taller mirrored-black needle, stronger attached swept fins, exactly two separated brace-supported sapphire observation rings, larger faceted jewel crown and expanded ceremonial base; exact single mounted name and open dry foreground.
+- **Crown of Sand:** skyline-defining multi-fin monument, enormous brace-supported sapphire observation crown, at least three connected kinetic rose-gold rings, several attached enclosed observation bridges, largest complete jewel beacon and expanded civic base; exact single mounted name and open dry foreground.
+- **Continuity:** sandstone and rose-gold mast surfaces, mirrored-black needle, sapphire/turquoise observation glass and wind-swept fins preserve the Royal Minaret lineage without residential, office, retail or entertainment ambiguity.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, sky events, street scenes, rarity traits and editions remain deferred.
+- **Inventory:** Royal Mirage now has all 5 evolution families selected: 10 Stage II/III assets. The canonical evolution inventory contains 60 selected assets across 30 complete families.
+
+Next, audit and activate `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` against the live registry, five selected Old World Steel Stage I bases, lineage handoffs and current pixel-art rules. Its existing generic stylized-3D wording is stale under William’s November 19 direction. After activation, begin Foundry Flats → Riveted Habitat → Ironclad Arcology.

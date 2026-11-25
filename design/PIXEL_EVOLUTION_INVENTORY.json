@@ -883,6 +883,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. A grand central performance court and exactly two visible side courts provide three instrumented stages, several empty seating tiers, supported audience galleries and two attached enclosed sapphire-glass bridges. The exact mounted name, complete layered star-lit crown, dry ceremonial approach, full base and future street reserve are intact; no people, hotel or residential program are baked in.",
       "reviewed_source_commit": "aba0198362a00c29cd943fe5ff0d323a289c3a52"
+    },
+    {
+      "identity_id": "N06-I05",
+      "stage": 2,
+      "stage_name": "Sovereign Needle",
+      "path": "assets/pixel-evolutions/sovereign-needle-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/royal-minaret-v1.png",
+      "architecture_reference": "assets/candidates/royal-mirage-sovereign-needle-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2446139,
+      "sha256": "5fa3fdfb4204c605ec6b3bf10897ed7ccd17e7ec6d36457b94faf5524829c5cb",
+      "git_blob_sha": "cef86de822d78e4edd76b9023d0891c79900d5e4",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The taller faceted civic monument preserves the mirrored-black needle and attached swept fins while adding exactly two separated sapphire observation rings, each visibly supported by radial braces. The exact mounted name, larger attached jewel crown, expanded ceremonial base, complete framing and future foreground reserve are intact; no occupied-building program or scene traits are baked in.",
+      "reviewed_source_commit": "3b9482fc6315dd6443bb1b173ced1f6e87c744c8"
+    },
+    {
+      "identity_id": "N06-I05",
+      "stage": 3,
+      "stage_name": "Crown of Sand",
+      "path": "assets/pixel-evolutions/crown-of-sand-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/royal-minaret-v1.png",
+      "architecture_reference": "assets/candidates/royal-mirage-crown-of-sand-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2631272,
+      "sha256": "94d71aab9cac15299db0444db35ab5438ef15ed73563c1b95f1aec736300686d",
+      "git_blob_sha": "16c11208af3512281073bc62d98de891463343a9",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The skyline-defining multi-fin civic monument centers an enormous brace-supported sapphire observation crown, at least three connected kinetic rose-gold rings, multiple attached enclosed observation bridges, a dominant mirrored-black needle and the family’s largest complete jewel beacon and ceremonial base. Exact signage, full framing and future foreground reserve are intact; no occupied-building program or scene traits are baked in.",
+      "reviewed_source_commit": "3b9482fc6315dd6443bb1b173ced1f6e87c744c8"
     }
   ],
   "revision_history": [

@@ -384,4 +384,8 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Mirage Palace and Celestial Riad as N06-I04 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
 - [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
 - [x] Preserved the Entertainment gates: exact single signage, three visible stages, empty tiered seating, physically supported audience balconies/galleries/bridges, dry public court, complete crown/base and future street reserve; no hotel or residential ambiguity.
-- [ ] Continue with Royal Minaret → Sovereign Needle → Crown of Sand.
+- [x] Selected Sovereign Needle and Crown of Sand as N06-I05 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
+- [x] Preserved the Landmark gates: exact single signage, civic-monument function, physically supported observation rings/crowns/bridges, attached swept fins, dry expanded ceremonial base, complete highest beacon and future foreground reserve.
+- [x] All five Royal Mirage identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
+- [ ] Audit and activate `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md`, then continue with Foundry Flats → Riveted Habitat → Ironclad Arcology.
