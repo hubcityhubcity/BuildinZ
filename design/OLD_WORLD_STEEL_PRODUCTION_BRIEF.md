@@ -126,4 +126,4 @@ Continuity anchors: riveted iron lattice, weathered copper beacon/crown, industr
 
 ## Exact next action
 
-Produce and inspect **Forge Market → Steelworks Arcade → Grand Industrial Exchange**. Preserve public retail function, brick arches, riveted industrial-blue iron, copper sawtooth roofs, warm display windows, escalator circulation, supported galleries/bridges, exact names, complete framing and clear Stage I→II→III escalation.
+Produce and inspect **Gearhouse Labs → Titan Mill → Machina Nexus**. Preserve secured laboratory function, brick piers, coal-black riveted iron, copper service roofs, industrial-blue sealed glazing, furnace-orange diagnostics, visible engineering rigs, supported test terraces/bridges, exact names, complete framing and clear Stage I→II→III escalation.

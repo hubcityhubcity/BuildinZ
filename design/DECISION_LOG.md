@@ -101,3 +101,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** Both selected PNGs decode at 1024×1536 RGB; their byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `OLD_WORLD_STEEL_RESIDENTIAL_ART_HANDOFF.md`.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, street figures, vehicles, rarity traits and editions remain deferred.
 - **Exact next action:** Forge Market → Steelworks Arcade → Grand Industrial Exchange.
+
+
+## 2026-11-25 — Old World Steel Retail pixel evolution selection
+
+- **Delegated decision:** Select `steelworks-arcade-v1.png` and `grand-industrial-exchange-v1.png` as the N07-I02 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and beside the selected Forge Market Stage I base at equal width. The older cinematic candidates supplied massing and program evidence only.
+- **Acceptance:** Exact single names, clear public retail function, visible merchandise, broad escalator circulation, supported galleries/crossings, dry approaches, complete roofs/crown and preserved brick/iron/copper lineage all passed.
+- **Integrity:** Both selected PNGs decode at 1024×1536 RGB; their byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `OLD_WORLD_STEEL_RETAIL_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, street figures, vehicles, rarity traits and editions remain deferred.
+- **Exact next action:** Gearhouse Labs → Titan Mill → Machina Nexus.

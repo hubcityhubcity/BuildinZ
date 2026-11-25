@@ -943,6 +943,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. Three distinct twenty-plus-level inhabited apartment towers decisively exceed Riveted Habitat in height, breadth and residential program while preserving the brick, riveted-iron, copper-sawtooth, blue-glass and furnace-lit family. Multiple enclosed supported residential bridges and lounges create distinct private sky zones; two elevated resident pools occupy supported terraces at separate heights; the broad attached iron-and-copper crown is the lineage maximum. Exact single signage, complete base/crown, dry street reserve and restrained planting are intact; no people, vehicles, hotel program, public resort or ground-level water are baked in.",
       "reviewed_source_commit": "9ca26e8ebfc09f530573cca777d432147c4cd084"
+    },
+    {
+      "identity_id": "N07-I02",
+      "stage": 2,
+      "stage_name": "Steelworks Arcade",
+      "path": "assets/pixel-evolutions/steelworks-arcade-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/forge-market-v2.png",
+      "architecture_reference": "assets/candidates/old-world-steel-steelworks-arcade-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3106920,
+      "sha256": "936b8e4c2fbb4e463fb2f3632a103f8fdcb7fc99a28c48b55a5d6153de9a0a1d",
+      "git_blob_sha": "567e50fa3c6dbcb7ce69c4a02b32e7b052b5bc6d",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The five-plus-level public shopping arcade grows directly from Forge Market with dense visible merchandise storefronts, broad central public escalators and several physically supported riveted-iron shopping galleries inside a dominant glazed market atrium. Red-brown brick arches, industrial-blue iron, weathered-copper sawtooth roofs and furnace-orange retail interiors remain coherent. Exact single signage, complete chimney/roof/base, dry market approach and future street reserve are intact; no people, water or non-retail program are baked in.",
+      "reviewed_source_commit": "7629b1286574feb7dc16e35efea8ddd38fc36986"
+    },
+    {
+      "identity_id": "N07-I02",
+      "stage": 3,
+      "stage_name": "Grand Industrial Exchange",
+      "path": "assets/pixel-evolutions/grand-industrial-exchange-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/forge-market-v2.png",
+      "architecture_reference": "assets/candidates/old-world-steel-grand-industrial-exchange-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3727106,
+      "sha256": "d6c22f8ad4bfe2ca2a49318a896baad2798c28dc13be136c63246cfe09b7669c",
+      "git_blob_sha": "d5b7607e30d3e05f040a684d5a88035f1a4359ad",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The eight-plus-level vertical market exchange decisively exceeds Steelworks Arcade with stacked retail atria, dense merchandise storefronts, multiple broad escalator banks, several supported merchant galleries and at least three short riveted shopping crossings. The largest attached copper-and-iron lattice crown completes the silhouette while brick arches, blue-black iron and copper sawtooth roofs preserve the Forge Market lineage. Exact single signage, complete crown/base, dry ceremonial approach and future street reserve are intact; no people, water or non-retail program are baked in.",
+      "reviewed_source_commit": "7629b1286574feb7dc16e35efea8ddd38fc36986"
     }
   ],
   "revision_history": [

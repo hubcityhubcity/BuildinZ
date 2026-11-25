@@ -398,4 +398,7 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Riveted Habitat and Ironclad Arcology as N07-I01 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
 - [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
 - [x] Preserved the Residential gates: exact single signage, inhabited apartment scale, riveted structural support, private sky lounges, elevated-only water, restrained greenery, complete crown/base and future street reserve.
-- [ ] Continue with Forge Market → Steelworks Arcade → Grand Industrial Exchange.
+- [x] Selected Steelworks Arcade and Grand Industrial Exchange as N07-I02 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
+- [x] Preserved the Retail gates: exact single signage, dense visible merchandise storefronts, broad escalator circulation, physically supported galleries/crossings, dry public approach, complete roofs/crown and future street reserve.
+- [ ] Continue with Gearhouse Labs → Titan Mill → Machina Nexus.

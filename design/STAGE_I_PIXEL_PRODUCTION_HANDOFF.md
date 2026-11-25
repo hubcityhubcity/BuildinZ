@@ -58,3 +58,16 @@ Selected `assets/pixel-evolutions/riveted-habitat-v1.png` and `assets/pixel-evol
 - **Inventory:** Old World Steel now has 1 complete evolution family and 2 selected Stage II/III assets. The canonical evolution inventory contains 62 selected assets across 31 complete families.
 
 Next, produce and inspect Forge Market → Steelworks Arcade → Grand Industrial Exchange.
+
+
+## 2026-11-25 Old World Steel Retail evolution selection
+
+Selected `assets/pixel-evolutions/steelworks-arcade-v1.png` and `assets/pixel-evolutions/grand-industrial-exchange-v1.png` as the Stage II/III evolution artwork for N07-I02 Forge Market. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base in `assets/qa/old-world-steel-retail-pixel-lineage-v1.png`.
+
+- **Steelworks Arcade:** five-plus-level public shopping arcade, dense merchandise storefronts, broad central escalators, several supported riveted-iron galleries, exact single mounted name, complete chimney/roof/base and dry foreground.
+- **Grand Industrial Exchange:** eight-plus-level vertical market exchange, stacked retail atria, multiple escalator banks, several merchant galleries, at least three supported shopping crossings, largest attached copper-and-iron lattice crown, exact single mounted name and complete framing.
+- **Continuity:** red-brown brick arches, industrial-blue coal-black iron, weathered copper roofs, furnace-orange display windows and public shopping circulation preserve the Forge Market lineage while scale, storefront density, circulation and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, vehicles, sky events, street scenes, rarity traits and editions remain deferred.
+- **Inventory:** Old World Steel now has 2 complete evolution families and 4 selected Stage II/III assets. The canonical evolution inventory contains 64 selected assets across 32 complete families.
+
+Next, produce and inspect Gearhouse Labs → Titan Mill → Machina Nexus.
