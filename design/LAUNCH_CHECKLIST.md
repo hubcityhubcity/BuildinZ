@@ -372,4 +372,7 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 
 - [x] Recorded authoritative Stage I paths/hashes, Stage II/III reference matrix, exact names, type-specific escalation, physical-support rules, pixel output specification and selection evidence gates.
 - [x] Confirmed Library search found no newer approved Royal Mirage artwork that supersedes repository sources.
-- [ ] Continue with Oasis Residences → Mirage Habitat → Sultan's Skyhold.
+- [x] Selected Mirage Habitat and Sultan's Skyhold as N06-I01 Stage II/III standalone pixel evolution artworks after full-frame and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
+- [x] Preserved the Residential gates: exact signage, inhabited apartment scale, physically supported private sky zones, elevated-only water, dry ground court, complete crown/base and future street reserve.
+- [ ] Continue with Souk Plaza → Jewel Galleria → Infinite Caravanserai.

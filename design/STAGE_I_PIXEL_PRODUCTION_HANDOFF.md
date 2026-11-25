@@ -585,3 +585,16 @@ Audited the existing `design/ROYAL_MIRAGE_PRODUCTION_BRIEF.md` against the live 
 The activated brief now requires 1024×1536 refined high-definition isometric pixel art, distinguishes selected Stage I production bases from candidate-only architecture references, fixes exact names and punctuation, records source hashes and Git blobs, defers scene/edition layers, and requires equal-width visual review plus byte/hash/blob verification before selection. No newer Library artwork superseded the repository sources.
 
 Next, produce and inspect Oasis Residences → Mirage Habitat → Sultan's Skyhold. Royal Mirage has no selected Stage II/III pixel artwork yet; candidate lineage images are not counted as completed evolutions.
+
+
+## 2026-11-25 Royal Mirage Residential evolution selection
+
+Selected `assets/pixel-evolutions/mirage-habitat-v1.png` and `assets/pixel-evolutions/sultans-skyhold-v1.png` as the Stage II/III evolution artwork for N06-I01 Oasis Residences. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base.
+
+- **Mirage Habitat:** two inhabited 12–15-level towers, two elevated private pools and one substantial enclosed supported sky lounge; exact mounted name; dry courtyard and open street foreground.
+- **Sultan's Skyhold:** three inhabited 20-plus-level towers, three elevated private pools, several supported private sky-lounge zones and a dominant rose-gold/sapphire display crown; exact apostrophe-bearing name; dry ground court and open street foreground.
+- **Continuity:** sandstone shells, mirrored-black residential windows, sapphire/turquoise balcony bands, rose-gold screens and arched shade canopies preserve the Oasis Residences lineage without hotel ambiguity.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, sky events, street scenes, rarity traits and editions remain deferred.
+- **Inventory:** Royal Mirage now has 1 of 5 evolution families selected; the canonical evolution inventory contains 52 selected Stage II/III assets across 26 complete families.
+
+Next, produce and inspect Souk Plaza → Jewel Galleria → Infinite Caravanserai. Preserve visible public retail circulation, stacked jewel-glass storefronts, supported upper shopping galleries, exact signage, complete framing and clear Stage I→II→III escalation.

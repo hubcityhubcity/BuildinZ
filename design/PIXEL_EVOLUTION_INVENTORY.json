@@ -763,6 +763,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exact mounted name, skyline-defining multi-fin mast, enormous supported multi-level cobalt observation crown, multiple attached observation rings and pods, several short supported bridges, complete mechanically anchored kinetic amber crown and expanded ceremonial base clearly exceed Apex Tower.",
       "reviewed_source_commit": "978a1183368d933ccf6dcad916d242e0b47b85b7"
+    },
+    {
+      "identity_id": "N06-I01",
+      "stage": 2,
+      "stage_name": "Mirage Habitat",
+      "path": "assets/pixel-evolutions/mirage-habitat-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/oasis-residences-v3.png",
+      "architecture_reference": "assets/candidates/royal-mirage-mirage-habitat-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3206557,
+      "sha256": "58154d0498cef105e25d858abc61570985aa27dbaa6865acac82181e870b3f62",
+      "git_blob_sha": "fc3b0a69c546e80a78bd7d943d302c31107db592",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. Two distinct inhabited residential towers rise to roughly 12–15 visible levels around a dry shaded court. A substantial enclosed and physically supported private sky lounge joins them; two larger rooftop resident pools remain elevated, the exact mounted name is legible, and the full crowns, base and street reserve remain inside frame.",
+      "reviewed_source_commit": "155690e18fed39ea169aacb36a1710a74de4f45e"
+    },
+    {
+      "identity_id": "N06-I01",
+      "stage": 3,
+      "stage_name": "Sultan's Skyhold",
+      "path": "assets/pixel-evolutions/sultans-skyhold-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/oasis-residences-v3.png",
+      "architecture_reference": "assets/candidates/royal-mirage-sultans-skyhold-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3453491,
+      "sha256": "044d6e14a8d7b9f662b617ac976b0a70c89b0ca714de1cc234a1198ee5e5ee97",
+      "git_blob_sha": "9e1bc8c6cadf13d151c8a1b40ee6db30dc14f16a",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. Three distinct inhabited towers reach 20-plus visible residential levels, with a dominant central tower, two side towers, three elevated private pools and several physically supported residents-only sky-lounge zones. The grand attached rose-gold and sapphire crown, exact apostrophe-bearing name, dry ground court, complete base and open street reserve are intact.",
+      "reviewed_source_commit": "155690e18fed39ea169aacb36a1710a74de4f45e"
     }
   ],
   "revision_history": [
