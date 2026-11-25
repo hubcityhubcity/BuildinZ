@@ -395,4 +395,7 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Independently downloaded and verified all five selected Stage I bases at 1024×1536 against recorded bytes, SHA-256 and Git blob hashes.
 - [x] Recorded the authoritative Stage I table, Stage II/III reference matrix, exact names, type-specific escalation, physical-support rules, pixel output specification and selection evidence gates.
 - [x] Confirmed Library search found no newer approved Old World Steel artwork that supersedes repository sources; legacy working labels remain non-authoritative.
-- [ ] Continue with Foundry Flats → Riveted Habitat → Ironclad Arcology.
+- [x] Selected Riveted Habitat and Ironclad Arcology as N07-I01 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
+- [x] Preserved the Residential gates: exact single signage, inhabited apartment scale, riveted structural support, private sky lounges, elevated-only water, restrained greenery, complete crown/base and future street reserve.
+- [ ] Continue with Forge Market → Steelworks Arcade → Grand Industrial Exchange.

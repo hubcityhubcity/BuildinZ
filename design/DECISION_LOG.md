@@ -91,3 +91,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** All five selected Stage I pixel bases independently reproduced their recorded 1024×1536 dimensions, byte counts, SHA-256 hashes and Git blob hashes.
 - **Evidence:** `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md`, five `OLD_WORLD_STEEL_*_QA.md` files, `OLD_WORLD_STEEL_COLLECTION_QA.md`, `STAGE_I_PIXEL_SOURCE_INVENTORY.json`, `ASSET_MANIFEST.json`, `COLLECTION_REGISTRY.json`.
 - **Exact next action:** Foundry Flats → Riveted Habitat → Ironclad Arcology.
+
+
+## 2026-11-25 — Old World Steel Residential pixel evolution selection
+
+- **Delegated decision:** Select `riveted-habitat-v1.png` and `ironclad-arcology-v1.png` as the N07-I01 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and beside the selected Foundry Flats Stage I base at equal width. The older cinematic candidates supplied massing and program evidence only.
+- **Acceptance:** Exact single names, residential occupancy, progressive two-/three-tower scale, supported sky structures, elevated private water, restrained planting, complete framing and preserved brick/iron/copper/blue-glass lineage all passed.
+- **Integrity:** Both selected PNGs decode at 1024×1536 RGB; their byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `OLD_WORLD_STEEL_RESIDENTIAL_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, street figures, vehicles, rarity traits and editions remain deferred.
+- **Exact next action:** Forge Market → Steelworks Arcade → Grand Industrial Exchange.

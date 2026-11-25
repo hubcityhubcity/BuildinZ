@@ -45,3 +45,16 @@ Audited `design/OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` against the live collection
 The activated brief now requires 1024×1536 refined high-definition isometric pixel art, distinguishes selected Stage I bases from candidate-only architecture references, fixes exact names and functions, records source integrity evidence, defers scene/edition layers, and requires equal-width review plus byte/hash/blob verification before selection. All five selected Stage I bases were independently downloaded and reproduced their recorded dimensions, byte counts, SHA-256 hashes and Git blob hashes. Library search found only legacy working-label material and no newer approved artwork that supersedes the repository.
 
 Next, produce and inspect Foundry Flats → Riveted Habitat → Ironclad Arcology. Old World Steel has no selected Stage II/III pixel artwork yet; the 15 older cinematic lineage candidates and QA contact sheet are not counted as completed pixel evolutions.
+
+
+## 2026-11-25 Old World Steel Residential evolution selection
+
+Selected `assets/pixel-evolutions/riveted-habitat-v1.png` and `assets/pixel-evolutions/ironclad-arcology-v1.png` as the Stage II/III evolution artwork for N07-I01 Foundry Flats. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base in `assets/qa/old-world-steel-residential-pixel-lineage-v1.png`.
+
+- **Riveted Habitat:** twin inhabited brick apartment towers, one enclosed truss-supported private sky lounge, one larger elevated resident pool, exact single mounted name, complete copper sawtooth roofs/base and open wet-cobbled foreground.
+- **Ironclad Arcology:** three distinct twenty-plus-level inhabited towers, multiple supported residential bridges and private sky zones, two elevated pools, largest attached iron-and-copper crown, exact single mounted name and complete framing.
+- **Continuity:** red-brown brick piers, coal-black riveted iron, weathered copper roofs, industrial-blue glazing and furnace-orange occupied windows preserve the Foundry Flats lineage while height, breadth, program and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, vehicles, sky events, street scenes, rarity traits and editions remain deferred.
+- **Inventory:** Old World Steel now has 1 complete evolution family and 2 selected Stage II/III assets. The canonical evolution inventory contains 62 selected assets across 31 complete families.
+
+Next, produce and inspect Forge Market → Steelworks Arcade → Grand Industrial Exchange.

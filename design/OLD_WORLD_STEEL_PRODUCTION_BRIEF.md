@@ -126,4 +126,4 @@ Continuity anchors: riveted iron lattice, weathered copper beacon/crown, industr
 
 ## Exact next action
 
-Produce and inspect **Foundry Flats → Riveted Habitat → Ironclad Arcology**. Preserve inhabited residential function, brick piers, riveted external trusses, copper sawtooth roofwork, elevated private water, physical support, exact names, complete framing and clear Stage I→II→III escalation.
+Produce and inspect **Forge Market → Steelworks Arcade → Grand Industrial Exchange**. Preserve public retail function, brick arches, riveted industrial-blue iron, copper sawtooth roofs, warm display windows, escalator circulation, supported galleries/bridges, exact names, complete framing and clear Stage I→II→III escalation.
