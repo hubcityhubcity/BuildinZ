@@ -853,6 +853,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. One dominant central predictive-computing tower with a visible sapphire light core rises above exactly two distinct side laboratory towers. Several short enclosed supported research bridges, supported test terraces, visible robotics and a complete attached kinetic ring-and-fin crown decisively extend Djinn Array. Exact signage, secure base, complete framing and future street reserve are intact; no mystical imagery or scene traits are baked in.",
       "reviewed_source_commit": "d618016102f12be13b7418208d133bc36477a745"
+    },
+    {
+      "identity_id": "N06-I04",
+      "stage": 2,
+      "stage_name": "Mirage Palace",
+      "path": "assets/pixel-evolutions/mirage-palace-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/mooncourt-lounge-v1.png",
+      "architecture_reference": "assets/candidates/royal-mirage-mirage-palace-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3064821,
+      "sha256": "e94002d94d08d3eb27ccff9d5f7d174e998908c8f67b6982361c9961a03c0048",
+      "git_blob_sha": "ff009d4b1d45a1688d01c443a7475efc0d94aebf",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The larger public venue contains one dominant central theatre plus exactly two distinct side performance halls, with three visible instrumented stages, empty tiered seating and several physically supported rose-gold audience balconies. The exact mounted name, attached jewel crown, dry moonlit courtyard, complete base and future street reserve are intact; no people, hotel or residential program are baked in.",
+      "reviewed_source_commit": "aba0198362a00c29cd943fe5ff0d323a289c3a52"
+    },
+    {
+      "identity_id": "N06-I04",
+      "stage": 3,
+      "stage_name": "Celestial Riad",
+      "path": "assets/pixel-evolutions/celestial-riad-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/mooncourt-lounge-v1.png",
+      "architecture_reference": "assets/candidates/royal-mirage-celestial-riad-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3165851,
+      "sha256": "5fcccc5ccc8989caa430e465f3b91306643968752ed42d4e195c72036ec5fb3f",
+      "git_blob_sha": "3d4e9611c074feb0d4561726041a362021fa9b4e",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. A grand central performance court and exactly two visible side courts provide three instrumented stages, several empty seating tiers, supported audience galleries and two attached enclosed sapphire-glass bridges. The exact mounted name, complete layered star-lit crown, dry ceremonial approach, full base and future street reserve are intact; no people, hotel or residential program are baked in.",
+      "reviewed_source_commit": "aba0198362a00c29cd943fe5ff0d323a289c3a52"
     }
   ],
   "revision_history": [

@@ -1,25 +1,25 @@
-# Royal Mirage Technology art handoff
+# Royal Mirage Entertainment art handoff
 
 Recorded November 5, 2026 (America/Chicago).
 
 ## Canonical evolution and status boundary
 
-Prism Works → Djinn Array → Oracle Nexus. Building type remains **Technology** across all stages. These are visually inspected base candidates only—not prototype-integrated, edition variants, permanent-storage assets, release exports or final NFT-certified artwork.
+Mooncourt Lounge → Mirage Palace → Celestial Riad. Building type remains **Entertainment** across all stages. These are visually inspected base candidates only—not prototype-integrated, edition variants, permanent-storage assets, release exports or final NFT-certified artwork.
 
 ## Integrity evidence
 
 | Stage | Canonical name | File | Dimensions | Bytes | SHA-256 | Git blob |
 |---:|---|---|---|---:|---|---|
-| I | Prism Works | `assets/candidates/royal-mirage-prism-works-stage-1-v1.png` | 1024 × 1536 RGB | 3,187,613 | `a42368032c892b0ed3d7527895b875aafef30cbd910bcdc9c8da6f021eae464b` | `c011e406cc578640dbb675c2941fe30f202739e2` |
-| II | Djinn Array | `assets/candidates/royal-mirage-djinn-array-stage-2-v1.png` | 1024 × 1536 RGB | 3,198,607 | `7fc343f17bed4022b5ed75917ad1620ef4d58e5282e36fcc3e05ff8c78e7e45c` | `b196553b7979e91a8bb49aa791ba2e1f390d2b00` |
-| III | Oracle Nexus | `assets/candidates/royal-mirage-oracle-nexus-stage-3-v1.png` | 1024 × 1536 RGB | 3,428,795 | `5f6cb1517be2c25273d9d8d75e73ece8744d2cbd7b6f29a3ec24ae07e5a33b49` | `5d8821e34ace0a513a39efa44b14bfeb44b86d15` |
+| I | Mooncourt Lounge | `assets/candidates/royal-mirage-mooncourt-lounge-stage-1-v1.png` | 1024 × 1536 RGB | 3,365,715 | `df3b1952f8e70e2b4b3559c3d6cb6150baafcbfb1a887f53c3e71adaa167361f` | `3cf8f7a41850dfa8a419c1fd1ad060509a90a769` |
+| II | Mirage Palace | `assets/candidates/royal-mirage-mirage-palace-stage-2-v1.png` | 1024 × 1536 RGB | 3,644,604 | `b3ccae1c7ca6e69e14ea3162f1b5a5db1458a3b2a96e7e3990e4338756764176` | `b1f251cfb2f935c92dd0869d8bbe28b44f2ea6e7` |
+| III | Celestial Riad | `assets/candidates/royal-mirage-celestial-riad-stage-3-v1.png` | 1024 × 1536 RGB | 3,731,081 | `14a0441f60d05decd66c7f1734312fec53b7600c1090cb56a2be2691fbee6ad6` | `0f45c763bc1b30cab2c9b227618e20780297eb05` |
 
 ## Visual inspection
 
-- **Prism Works:** exact mounted name; compact secured optics/materials lab; faceted sapphire sealed chamber; visible robotics and optical rigs; complete secure base and roof; no retail or mystical ambiguity.
-- **Djinn Array:** exact mounted name; taller research tower; several sealed prism chambers; three supported sensor terraces; attached enclosed service bridge to a side laboratory; complete secure base and sensor crown; no mystical imagery.
-- **Oracle Nexus:** exact mounted name; dominant central research tower and two distinct side labs; central predictive-computing light core; supported enclosed bridges and test terraces; visible clean-room robotics; complete base and kinetic array crown.
-- Mirrored-black research frames, sand shells, sapphire chambers, turquoise diagnostics and restrained rose-gold conduits persist across the lineage.
+- **Mooncourt Lounge:** exact mounted name; intimate public performance venue; visible stage, instruments and audience seating; public foyer; dry moonlit courtyard; complete approach and canopy.
+- **Mirage Palace:** exact mounted name; clearly larger central theatre plus two side performance halls; visible stages and tiered seating; supported rose-gold audience balconies; complete dry courtyard/base and jewel crown; no hotel or residential ambiguity.
+- **Celestial Riad:** exact mounted name; grand central performance court and two visible side courts; several seating tiers and stages; supported audience galleries and attached enclosed bridges; complete ceremonial approach and star-lit crown.
+- Moonlit sand courtyards, sapphire performance glass, turquoise lighting, rose-gold screens and mirrored-black trusses persist across all stages.
 
 ## Provenance and decision class
 
@@ -27,17 +27,17 @@ All three were produced with built-in image generation. Stage II used Stage I as
 
 ## Exact next action
 
-Produce and inspect Mooncourt Lounge / Mirage Palace / Celestial Riad from the Entertainment section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve moonlit dry courtyards, sapphire performance glass, turquoise light, rose-gold screens, mirrored-black trusses and visible public performance functions; keep stages/seating, complete approaches/crowns and every balcony, gallery or bridge physically supported.
+Produce and inspect Royal Minaret / Sovereign Needle / Crown of Sand from the Landmark section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve sand/rose-gold masts, mirrored-black needles, sapphire/turquoise observation glass and attached wind-swept fins; keep observation rings/bridges, complete ceremonial bases and highest crowns physically supported and in frame.
 
 
-## 2026-11-25 Royal Mirage Technology evolution selection
+## 2026-11-25 Royal Mirage Entertainment evolution selection
 
-Selected `assets/pixel-evolutions/djinn-array-v1.png` and `assets/pixel-evolutions/oracle-nexus-v1.png` as the Stage II/III evolution artwork for N06-I03 Prism Works. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base.
+Selected `assets/pixel-evolutions/mirage-palace-v1.png` and `assets/pixel-evolutions/celestial-riad-v1.png` as the Stage II/III evolution artwork for N06-I04 Mooncourt Lounge. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base.
 
-- **Djinn Array:** six-plus visible lab levels, several sealed prism chambers, exactly three supported sensor terraces, one enclosed supported service bridge to a distinct side lab and a complete sensor crown; exact single mounted name; secure dry base and open street foreground.
-- **Oracle Nexus:** dominant central light-core research tower, exactly two distinct side laboratories, several enclosed supported bridges, supported instrument terraces, visible clean-room robotics and the family’s largest attached kinetic ring-and-fin crown; exact single mounted name; secure dry base and open street foreground.
-- **Continuity:** mirrored-black research frames, faceted sandstone shells, sapphire test glass, turquoise diagnostics and restrained rose-gold conduits preserve the Prism Works lineage without retail, residential, entertainment or mystical ambiguity.
-- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, sky events, street scenes, rarity traits and editions remain deferred.
-- **Inventory:** Royal Mirage now has 3 of 5 evolution families selected; the canonical evolution inventory contains 56 selected Stage II/III assets across 28 complete families.
+- **Mirage Palace:** one dominant central theatre plus exactly two side performance halls, three visible instrumented stages, empty tiered seating, several supported audience balconies and a complete attached jewel crown; exact single mounted name; dry moonlit court and open street foreground.
+- **Celestial Riad:** grand central performance court plus exactly two side courts, three visible stages, several empty seating tiers, supported audience galleries, two attached enclosed sapphire-glass bridges and the family’s highest layered star-lit crown; exact single mounted name; dry ceremonial approach and open street foreground.
+- **Continuity:** sandstone arches, sapphire performance glass, turquoise show lighting, rose-gold screens and mirrored-black trusses preserve the Mooncourt Lounge lineage without hotel, residential or retail ambiguity.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, performers, sky events, street scenes, rarity traits and editions remain deferred.
+- **Inventory:** Royal Mirage now has 4 of 5 evolution families selected; the canonical evolution inventory contains 58 selected Stage II/III assets across 29 complete families.
 
-Next, produce and inspect Mooncourt Lounge → Mirage Palace → Celestial Riad. Preserve public performance function, visible stages and seating, moonlit dry courtyards, supported audience balconies/galleries, exact signage, complete framing and clear Stage I→II→III escalation.
+Next, produce and inspect Royal Minaret → Sovereign Needle → Crown of Sand. Preserve the civic-landmark function, sand/rose-gold mast, mirrored-black needle, sapphire/turquoise observation glass, supported rings and bridges, exact signage, complete ceremonial base/crown and clear Stage I→II→III escalation.

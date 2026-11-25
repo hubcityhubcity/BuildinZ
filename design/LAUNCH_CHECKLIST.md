@@ -381,4 +381,7 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Djinn Array and Oracle Nexus as N06-I03 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
 - [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
 - [x] Preserved the Technology gates: exact single signage, sealed sapphire prism chambers, visible scientific rigs, physically supported sensor terraces/bridges, secure dry base, complete crown and future street reserve; no mystical imagery.
-- [ ] Continue with Mooncourt Lounge → Mirage Palace → Celestial Riad.
+- [x] Selected Mirage Palace and Celestial Riad as N06-I04 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
+- [x] Preserved the Entertainment gates: exact single signage, three visible stages, empty tiered seating, physically supported audience balconies/galleries/bridges, dry public court, complete crown/base and future street reserve; no hotel or residential ambiguity.
+- [ ] Continue with Royal Minaret → Sovereign Needle → Crown of Sand.
