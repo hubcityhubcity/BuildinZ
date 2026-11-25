@@ -36,3 +36,12 @@ Selected `assets/pixel-evolutions/sovereign-needle-v1.png` and `assets/pixel-evo
 - **Inventory:** Royal Mirage now has all 5 evolution families selected: 10 Stage II/III assets. The canonical evolution inventory contains 60 selected assets across 30 complete families.
 
 Next, audit and activate `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` against the live registry, five selected Old World Steel Stage I bases, lineage handoffs and current pixel-art rules. Its existing generic stylized-3D wording is stale under William’s November 19 direction. After activation, begin Foundry Flats → Riveted Habitat → Ironclad Arcology.
+
+
+## 2026-11-25 Old World Steel production brief activation
+
+Audited `design/OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` against the live collection registry, all five selected Old World Steel Stage I pixel bases, the five identity QA reports, collection QA, asset manifest and current Library search results. The previous brief's identity specifications were retained, but its generic stylized-3D medium and implication that older lineage candidates were production-complete were stale under William's November 19 direction.
+
+The activated brief now requires 1024×1536 refined high-definition isometric pixel art, distinguishes selected Stage I bases from candidate-only architecture references, fixes exact names and functions, records source integrity evidence, defers scene/edition layers, and requires equal-width review plus byte/hash/blob verification before selection. All five selected Stage I bases were independently downloaded and reproduced their recorded dimensions, byte counts, SHA-256 hashes and Git blob hashes. Library search found only legacy working-label material and no newer approved artwork that supersedes the repository.
+
+Next, produce and inspect Foundry Flats → Riveted Habitat → Ironclad Arcology. Old World Steel has no selected Stage II/III pixel artwork yet; the 15 older cinematic lineage candidates and QA contact sheet are not counted as completed pixel evolutions.

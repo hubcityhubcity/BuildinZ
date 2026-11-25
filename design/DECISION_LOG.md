@@ -79,3 +79,15 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Scene boundary:** People, crowds, cameos, sky events and street scenes remain deferred. Water is elevated/private where required; no ground-level public pool.
 - **Evidence:** `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`, five `ROYAL_MIRAGE_*_ART_HANDOFF.md` files, `STAGE_I_PIXEL_SOURCE_INVENTORY.json`, `COLLECTION_REGISTRY.json`.
 - **Exact next action:** Oasis Residences → Mirage Habitat → Sultan's Skyhold.
+
+
+## 2026-11-25 — Old World Steel pixel evolution activation
+
+- **Delegated decision:** Activate Old World Steel Stage II/III production in registry order using the five already-selected Stage I pixel bases and the five lineage QA records as architecture evidence.
+- **Medium correction:** Replace stale generic stylized-3D wording with 1024×1536 refined high-definition isometric pixel art, matching the standalone architecture program.
+- **Authority boundary:** The registry controls exact names/types; the Stage I source inventory controls selected bases; lineage candidates and the collection contact sheet remain references only; older Library edition maps remain legacy working-label evidence.
+- **Style separation:** Red-brown brick, coal-black riveted iron, weathered copper, industrial-blue glazing and furnace-orange interiors define civic retrofuturist heavy industry without collapsing into Shadow Market noir or Velocity Row streamline modernism.
+- **Scene boundary:** People, crowds, vehicles, cameos, sky events and street scenes remain deferred. Residential water is elevated/private; no ground-level public pool.
+- **Integrity:** All five selected Stage I pixel bases independently reproduced their recorded 1024×1536 dimensions, byte counts, SHA-256 hashes and Git blob hashes.
+- **Evidence:** `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md`, five `OLD_WORLD_STEEL_*_QA.md` files, `OLD_WORLD_STEEL_COLLECTION_QA.md`, `STAGE_I_PIXEL_SOURCE_INVENTORY.json`, `ASSET_MANIFEST.json`, `COLLECTION_REGISTRY.json`.
+- **Exact next action:** Foundry Flats → Riveted Habitat → Ironclad Arcology.

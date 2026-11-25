@@ -388,4 +388,11 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
 - [x] Preserved the Landmark gates: exact single signage, civic-monument function, physically supported observation rings/crowns/bridges, attached swept fins, dry expanded ceremonial base, complete highest beacon and future foreground reserve.
 - [x] All five Royal Mirage identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
-- [ ] Audit and activate `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md`, then continue with Foundry Flats → Riveted Habitat → Ironclad Arcology.
+- [x] Audited and activated `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md` against the live registry, five selected Stage I pixel bases, five lineage QA files and the asset manifest; corrected stale generic-3D medium and candidate-completion language.
+
+## 2026-11-25 Old World Steel pixel production activation
+
+- [x] Independently downloaded and verified all five selected Stage I bases at 1024×1536 against recorded bytes, SHA-256 and Git blob hashes.
+- [x] Recorded the authoritative Stage I table, Stage II/III reference matrix, exact names, type-specific escalation, physical-support rules, pixel output specification and selection evidence gates.
+- [x] Confirmed Library search found no newer approved Old World Steel artwork that supersedes repository sources; legacy working labels remain non-authoritative.
+- [ ] Continue with Foundry Flats → Riveted Habitat → Ironclad Arcology.
