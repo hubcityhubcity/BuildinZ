@@ -823,6 +823,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The eight-plus-level vertical market exchange decisively exceeds Jewel Galleria with dense illuminated storefronts, stacked atria, multiple escalator banks, merchant terraces, at least three short supported shopping crossings and a larger attached bazaar lattice crown. Exact signage, dry ceremonial approach, complete framing and future street reserve remain intact; no crowds or ground water are baked in.",
       "reviewed_source_commit": "4400c58175c84e9bf249f94a7f625ecc9db62583"
+    },
+    {
+      "identity_id": "N06-I03",
+      "stage": 2,
+      "stage_name": "Djinn Array",
+      "path": "assets/pixel-evolutions/djinn-array-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/prism-works-v2.png",
+      "architecture_reference": "assets/candidates/royal-mirage-djinn-array-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2705546,
+      "sha256": "29564ecda01cb4fdd500ff31d2d4898e705c09e6c90b95cfd389d32371319d95",
+      "git_blob_sha": "74310638b9abdee336f072763cd5f987d24785d5",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The taller secured research tower contains several sealed sapphire prism chambers and six-plus visible laboratory levels, plus exactly three physically supported sensor terraces and one enclosed supported service bridge to a distinct side laboratory. Exact signage, visible scientific rigs, complete sensor crown, secure base and future street reserve remain intact; no mystical imagery or scene traits are baked in.",
+      "reviewed_source_commit": "d618016102f12be13b7418208d133bc36477a745"
+    },
+    {
+      "identity_id": "N06-I03",
+      "stage": 3,
+      "stage_name": "Oracle Nexus",
+      "path": "assets/pixel-evolutions/oracle-nexus-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/prism-works-v2.png",
+      "architecture_reference": "assets/candidates/royal-mirage-oracle-nexus-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2925663,
+      "sha256": "12a235c5c61762d259b803b41019b1047ef4b809ae92a40a38373607670cbff4",
+      "git_blob_sha": "20426adde52ed5e6ba0a6781e7480122eb3defb0",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. One dominant central predictive-computing tower with a visible sapphire light core rises above exactly two distinct side laboratory towers. Several short enclosed supported research bridges, supported test terraces, visible robotics and a complete attached kinetic ring-and-fin crown decisively extend Djinn Array. Exact signage, secure base, complete framing and future street reserve are intact; no mystical imagery or scene traits are baked in.",
+      "reviewed_source_commit": "d618016102f12be13b7418208d133bc36477a745"
     }
   ],
   "revision_history": [

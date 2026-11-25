@@ -1,25 +1,25 @@
-# Royal Mirage Retail art handoff
+# Royal Mirage Technology art handoff
 
 Recorded November 5, 2026 (America/Chicago).
 
 ## Canonical evolution and status boundary
 
-Souk Plaza → Jewel Galleria → Infinite Caravanserai. Building type remains **Retail** across all stages. These are visually inspected base candidates only—not prototype-integrated, edition variants, permanent-storage assets, release exports or final NFT-certified artwork.
+Prism Works → Djinn Array → Oracle Nexus. Building type remains **Technology** across all stages. These are visually inspected base candidates only—not prototype-integrated, edition variants, permanent-storage assets, release exports or final NFT-certified artwork.
 
 ## Integrity evidence
 
 | Stage | Canonical name | File | Dimensions | Bytes | SHA-256 | Git blob |
 |---:|---|---|---|---:|---|---|
-| I | Souk Plaza | `assets/candidates/royal-mirage-souk-plaza-stage-1-v1.png` | 1024 × 1536 RGB | 3,176,637 | `234fa5998e625a7c4d5a1688015e13b60733613dd45149dc0894aeeb0e84088b` | `dc2b95fcbf2a9211aa9721ce71f9908dfa3373f3` |
-| II | Jewel Galleria | `assets/candidates/royal-mirage-jewel-galleria-stage-2-v1.png` | 1024 × 1536 RGB | 3,448,826 | `9f2800d22a9dd44d0851a782c0c9a00564770ffd2c2356f3241aceb2f5bc9a4e` | `936f94552270db89559349fd86a24dea967d4b11` |
-| III | Infinite Caravanserai | `assets/candidates/royal-mirage-infinite-caravanserai-stage-3-v1.png` | 1024 × 1536 RGB | 3,730,554 | `5fc001208399e9411d8d52d638664724a47ecf6d3afa9342f67287efa5fb6aaa` | `c42d0d5910d9e18e8b34e4a5862bf8d97161f4a7` |
+| I | Prism Works | `assets/candidates/royal-mirage-prism-works-stage-1-v1.png` | 1024 × 1536 RGB | 3,187,613 | `a42368032c892b0ed3d7527895b875aafef30cbd910bcdc9c8da6f021eae464b` | `c011e406cc578640dbb675c2941fe30f202739e2` |
+| II | Djinn Array | `assets/candidates/royal-mirage-djinn-array-stage-2-v1.png` | 1024 × 1536 RGB | 3,198,607 | `7fc343f17bed4022b5ed75917ad1620ef4d58e5282e36fcc3e05ff8c78e7e45c` | `b196553b7979e91a8bb49aa791ba2e1f390d2b00` |
+| III | Oracle Nexus | `assets/candidates/royal-mirage-oracle-nexus-stage-3-v1.png` | 1024 × 1536 RGB | 3,428,795 | `5f6cb1517be2c25273d9d8d75e73ece8744d2cbd7b6f29a3ec24ae07e5a33b49` | `5d8821e34ace0a513a39efa44b14bfeb44b86d15` |
 
 ## Visual inspection
 
-- **Souk Plaza:** exact single mounted name; low public market; many readable storefronts and display windows; dry central arcade; complete public approach and canopy; no pool or residential ambiguity.
-- **Jewel Galleria:** exact single mounted name; clearly larger four-plus-level galleria; stacked jewel-glass storefronts; broad public escalators; supported upper shopping galleries; complete luminous canopy and base.
-- **Infinite Caravanserai:** exact single mounted name; decisive eight-plus-level vertical exchange; dense visible storefronts; stacked atria; broad escalator circulation; several supported merchant bridges; complete bazaar crown and ceremonial approach.
-- Sand-stone arcades, sapphire/turquoise storefront glass, rose-gold screens, mirrored-black frames and visible public retail circulation persist across all stages.
+- **Prism Works:** exact mounted name; compact secured optics/materials lab; faceted sapphire sealed chamber; visible robotics and optical rigs; complete secure base and roof; no retail or mystical ambiguity.
+- **Djinn Array:** exact mounted name; taller research tower; several sealed prism chambers; three supported sensor terraces; attached enclosed service bridge to a side laboratory; complete secure base and sensor crown; no mystical imagery.
+- **Oracle Nexus:** exact mounted name; dominant central research tower and two distinct side labs; central predictive-computing light core; supported enclosed bridges and test terraces; visible clean-room robotics; complete base and kinetic array crown.
+- Mirrored-black research frames, sand shells, sapphire chambers, turquoise diagnostics and restrained rose-gold conduits persist across the lineage.
 
 ## Provenance and decision class
 
@@ -27,17 +27,17 @@ All three were produced with built-in image generation. Stage II used Stage I as
 
 ## Exact next action
 
-Produce and inspect Prism Works / Djinn Array / Oracle Nexus from the Technology section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve mirrored-black research frames, sand shells, sapphire prism chambers, turquoise diagnostics and restrained rose-gold conduits; keep clean-room/test programs visible, secure bases/crowns complete and every research bridge or sensor terrace physically supported.
+Produce and inspect Mooncourt Lounge / Mirage Palace / Celestial Riad from the Entertainment section of `ROYAL_MIRAGE_PRODUCTION_BRIEF.md`. Preserve moonlit dry courtyards, sapphire performance glass, turquoise light, rose-gold screens, mirrored-black trusses and visible public performance functions; keep stages/seating, complete approaches/crowns and every balcony, gallery or bridge physically supported.
 
 
-## 2026-11-25 Royal Mirage Retail evolution selection
+## 2026-11-25 Royal Mirage Technology evolution selection
 
-Selected `assets/pixel-evolutions/jewel-galleria-v1.png` and `assets/pixel-evolutions/infinite-caravanserai-v1.png` as the Stage II/III evolution artwork for N06-I02 Souk Plaza. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base.
+Selected `assets/pixel-evolutions/djinn-array-v1.png` and `assets/pixel-evolutions/oracle-nexus-v1.png` as the Stage II/III evolution artwork for N06-I03 Prism Works. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base.
 
-- **Jewel Galleria:** four-plus readable retail levels, stacked jewel-glass storefronts, tall public atrium, broad visible escalators, supported upper shopping galleries and one complete attached lattice canopy; exact single mounted name; dry public approach and open street foreground.
-- **Infinite Caravanserai:** eight-plus readable retail levels, dense storefronts, stacked atria, several escalator banks, merchant terraces, at least three supported shopping crossings and the family’s highest attached bazaar crown; exact single mounted name; dry ceremonial approach and open street foreground.
-- **Continuity:** sandstone arcades, sapphire/turquoise storefront glass, rose-gold screens and mirrored-black structural spines preserve the Souk Plaza lineage without hotel, residential, palace or office ambiguity.
-- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, crowds, sky events, street scenes, rarity traits and editions remain deferred.
-- **Inventory:** Royal Mirage now has 2 of 5 evolution families selected; the canonical evolution inventory contains 54 selected Stage II/III assets across 27 complete families.
+- **Djinn Array:** six-plus visible lab levels, several sealed prism chambers, exactly three supported sensor terraces, one enclosed supported service bridge to a distinct side lab and a complete sensor crown; exact single mounted name; secure dry base and open street foreground.
+- **Oracle Nexus:** dominant central light-core research tower, exactly two distinct side laboratories, several enclosed supported bridges, supported instrument terraces, visible clean-room robotics and the family’s largest attached kinetic ring-and-fin crown; exact single mounted name; secure dry base and open street foreground.
+- **Continuity:** mirrored-black research frames, faceted sandstone shells, sapphire test glass, turquoise diagnostics and restrained rose-gold conduits preserve the Prism Works lineage without retail, residential, entertainment or mystical ambiguity.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, sky events, street scenes, rarity traits and editions remain deferred.
+- **Inventory:** Royal Mirage now has 3 of 5 evolution families selected; the canonical evolution inventory contains 56 selected Stage II/III assets across 28 complete families.
 
-Next, produce and inspect Prism Works → Djinn Array → Oracle Nexus. Preserve secure technology function, sealed sapphire prism chambers, mirrored-black research frames, supported sensor terraces and service bridges, exact signage, complete framing and clear Stage I→II→III escalation.
+Next, produce and inspect Mooncourt Lounge → Mirage Palace → Celestial Riad. Preserve public performance function, visible stages and seating, moonlit dry courtyards, supported audience balconies/galleries, exact signage, complete framing and clear Stage I→II→III escalation.

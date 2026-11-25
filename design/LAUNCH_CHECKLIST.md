@@ -378,4 +378,7 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Jewel Galleria and Infinite Caravanserai as N06-I02 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
 - [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
 - [x] Preserved the Retail gates: exact single signage, dense jewel-glass storefronts, visible escalator circulation, physically supported shopping galleries/bridges, dry public approach, complete crown/base and future street reserve.
-- [ ] Continue with Prism Works → Djinn Array → Oracle Nexus.
+- [x] Selected Djinn Array and Oracle Nexus as N06-I03 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
+- [x] Preserved the Technology gates: exact single signage, sealed sapphire prism chambers, visible scientific rigs, physically supported sensor terraces/bridges, secure dry base, complete crown and future street reserve; no mystical imagery.
+- [ ] Continue with Mooncourt Lounge → Mirage Palace → Celestial Riad.
