@@ -153,3 +153,16 @@ Selected `assets/pixel-evolutions/pearl-galleria-v1.png` and `assets/pixel-evolu
 
 Next, produce and inspect Beacon Labs → Tidal Array → Mooncurrent Nexus.
 
+
+## 2026-11-26 Moonline Harbor Technology evolution selection
+
+Selected `assets/pixel-evolutions/tidal-array-v1.png` and `assets/pixel-evolutions/mooncurrent-nexus-v1.png` as the Stage II/III evolution artwork for N08-I03 Beacon Labs. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base in `assets/qa/moonline-harbor-technology-pixel-lineage-v1.png`.
+
+- **Tidal Array:** substantially taller research tower, repeated robotics and sealed water-testing chambers, exactly two braced instrument decks, complete scientific mast/crown, exact single mounted name and full framing.
+- **Mooncurrent Nexus:** dominant center research tower plus two substantial side laboratories, enormous enclosed computation/current core, four enclosed braced service bridges, repeated robotics/testing chambers, monumental supported sensor crown, exact single mounted name and full framing.
+- **Continuity:** pearl shells, navy fins, silver scientific structure, aqua/deep-teal diagnostics, warm working labs, substantial piles, access bridge and wet urban street foreground preserve the Beacon lineage while research capacity, computation, span and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, vehicles, boats, public-attraction features, rarity traits and editions remain deferred.
+- **Inventory:** Moonline Harbor now has 3 complete evolution families and 6 selected Stage II/III assets. The canonical evolution inventory contains 76 selected assets across 38 complete families.
+
+Next, produce and inspect Harbor Lounge → Moondeck Palace → Eclipse Marina.
+

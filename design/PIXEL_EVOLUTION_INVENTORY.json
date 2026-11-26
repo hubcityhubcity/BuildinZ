@@ -1123,6 +1123,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The exchange decisively exceeds Pearl Galleria in height, breadth and retail capacity, with three stacked aqua-glass atria, at least three escalator banks, many stocked shops, several supported galleries and short promenades, and the family's largest attached pearl canopy. Exact single signage, complete crown, piles, access bridge, wet street foreground and future scene reserve are intact; no people, vehicles, boats or non-retail program are baked in.",
       "reviewed_source_commit": "1d00404e74433401ab6281cbad843ddd01d2d93d"
+    },
+    {
+      "identity_id": "N08-I03",
+      "stage": 2,
+      "stage_name": "Tidal Array",
+      "path": "assets/pixel-evolutions/tidal-array-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/beacon-labs-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-tidal-array-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3000301,
+      "sha256": "d2398c1569b1c3b83d1de87b99aea57a36e9e18bb5ce0ac1400353ccbdb3b770",
+      "git_blob_sha": "730f0d1495b36a8c601c502d29cf722aef56dee6",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The secured lab grows into a substantially taller tidal-research tower with multiple enclosed robotics and sealed water-testing chambers, repeated visible yellow marine drones, and exactly two substantial instrument decks visibly braced to the tower. The complete mast/crown, exact single name, all piles, access bridge, wet street foreground and future scene reserve are intact; no people, vehicles, boats, public-attraction, retail or residential program are baked in.",
+      "reviewed_source_commit": "00f6e5a48ec7eabd08e8326238bfff4bcb2e7864"
+    },
+    {
+      "identity_id": "N08-I03",
+      "stage": 3,
+      "stage_name": "Mooncurrent Nexus",
+      "path": "assets/pixel-evolutions/mooncurrent-nexus-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/beacon-labs-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-mooncurrent-nexus-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3135028,
+      "sha256": "c2782d157a226ec004b65076d357fdd090bd512835d15e6ef2cb17ee423cda0d",
+      "git_blob_sha": "09cbb02d43ec22a19770dd172fe842acf80fa100",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. A dominant center research tower and two substantial side laboratories decisively exceed Tidal Array in height, breadth and engineering capacity. The enormous enclosed aqua computation/current core, repeated robotics and water-testing chambers, four enclosed braced service bridges, supported sensor platforms and monumental attached scientific crown preserve unmistakable marine Technology. Exact single naming, complete mast/crown, piles, bridge, wet street and future scene reserve are intact; no people, vehicles, boats, public-attraction, retail or residential program are baked in.",
+      "reviewed_source_commit": "00f6e5a48ec7eabd08e8326238bfff4bcb2e7864"
     }
   ],
   "revision_history": [

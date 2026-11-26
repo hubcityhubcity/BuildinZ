@@ -1184,3 +1184,14 @@ This is architectural-master selection only. Edition rendering, rarity traits, p
 
 Next: produce and inspect **Beacon Labs → Tidal Array → Mooncurrent Nexus**.
 
+
+## Moonline Harbor Technology pixel evolution — November 26, 2026
+
+Completed N08-I03 **Beacon Labs → Tidal Array → Mooncurrent Nexus** as a visually inspected standalone pixel lineage. Added two selected 1024×1536 evolution masters and a 1536×768 equal-width QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `MOONLINE_HARBOR_TECHNOLOGY_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Technology acceptance passed for exact single names, secured marine-engineering identity, progressive robotics and sealed water-testing capacity, exactly two supported Stage II instrument decks, three connected Stage III laboratories, four enclosed braced service bridges, a dominant computation/current core, complete scientific crowns, pile-supported pier/street framing and preserved pearl/navy/aqua continuity. The selected evolution inventory now contains **76 assets covering 38 complete Stage II/III identity families**. Moonline Harbor contains six selected evolution assets across three complete families.
+
+This is architectural-master selection only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred under William's November 19 production order. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: produce and inspect **Harbor Lounge → Moondeck Palace → Eclipse Marina**.
+

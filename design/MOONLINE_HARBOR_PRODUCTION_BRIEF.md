@@ -128,7 +128,7 @@ Continuity anchors: tapered pearl tower, navy fins, silver ribs, aqua observatio
 
 ## Exact next action
 
-Residential and Retail are complete at the selected architectural-master level. **Dockside Market → Pearl Galleria → High Tide Exchange** passed individual and equal-width review, with evidence in `MOONLINE_HARBOR_RETAIL_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+Residential, Retail and Technology are complete at the selected architectural-master level. **Beacon Labs → Tidal Array → Mooncurrent Nexus** passed individual and equal-width review, with evidence in `MOONLINE_HARBOR_TECHNOLOGY_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
 
-Next, produce and inspect **Beacon Labs → Tidal Array → Mooncurrent Nexus**. Use the selected Stage I pixel base and matching repository candidates as architecture references. Preserve unmistakable secured marine engineering, visible robotics and water-testing equipment, escalating enclosed test chambers, physically supported sensor decks and service bridges, exact single signage, complete pier/street framing and future sky/street reserve. Do not bake in public-aquarium, retail or residential program, people, vehicles, boats or edition traits, and do not count composite sheets or older cinematic candidates as completed pixel artwork.
+Next, produce and inspect **Harbor Lounge → Moondeck Palace → Eclipse Marina**. Use the selected Stage I pixel base and matching repository candidates as architecture references. Preserve unmistakable live-performance function, exactly three visible instrumented stages at Stages II/III, escalating empty audience tiers, physically supported galleries and circulation, exact single signage, complete pier/street framing and future sky/street reserve. Do not bake in performers, crowds, vehicles, boats, hotel, casino, residence, retail, pool or edition traits, and do not count composite sheets or older cinematic candidates as completed pixel artwork.
 
