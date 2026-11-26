@@ -269,3 +269,14 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Neighborhood gate:** Arcadia Prime now has ten selected Stage II/III assets across all five complete identity families.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
 - **Exact next action:** audit and activate Crimson Commons, then produce Ember Residences → Scarlet Habitat → Crimson Arcology.
+
+
+## 2026-11-26 — Crimson Commons activation correction and Residential pixel evolution selection
+
+- **Inventory correction:** The canonical `portrait_candidates` table already contains five selected 1024×1536 Crimson Commons Stage I masters. The smaller `entries` table is preserved source/reference evidence and does not indicate unfinished Stage I production. Duplicate base drafts produced during reconciliation were rejected and were not added to the repository.
+- **Delegated decision:** Select `scarlet-habitat-v1.png` and `crimson-arcology-v1.png` as the N10-I01 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and together. The Stage I panel in the QA sheet is explicitly a Library reference crop; the canonical Ember Residences standalone remains `assets/pixel-stage-i/ember-residences-v3.png`.
+- **Acceptance:** Exact single names, inhabited residential function, decisive one-/two-/three-tower progression, one supported Stage II private sky lounge and elevated pool, two supported Stage III private sky lounges, several elevated pools, no ground-level public pool, restrained planting, complete framing and Crimson palette continuity all pass.
+- **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; no normalization was required. Byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_RESIDENTIAL_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
+- **Exact next action:** Commons Market → Ruby Galleria → Cardinal Exchange.

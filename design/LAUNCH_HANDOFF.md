@@ -1285,3 +1285,16 @@ All five Arcadia Prime identities are now complete: **ten selected Stage II/III 
 The new lineage QA sheet labels its Stage I panel as a Library reference crop; it does not replace the canonical selected Stage I asset or the prior activation verification. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
 
 Next: audit and activate **Crimson Commons**, then produce **Ember Residences → Scarlet Habitat → Crimson Arcology**.
+
+
+## Crimson Commons activation and Residential pixel evolution — November 26, 2026
+
+The source audit corrected the operational interpretation of `STAGE_I_PIXEL_SOURCE_INVENTORY.json`: its five N10 `portrait_candidates` are already selected standalone 1024×1536 Stage I masters, while the smaller N10 `entries` are preserved source/reference files. Duplicate base drafts made during reconciliation were rejected and were not committed.
+
+Completed N10-I01 **Ember Residences → Scarlet Habitat → Crimson Arcology** as a visually inspected standalone pixel lineage. Added two selected native 1024×1536 RGB evolution masters and a 1536×768 QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `CRIMSON_COMMONS_RESIDENTIAL_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Residential acceptance passed for exact single names, inhabited domestic function, decisive one-/two-/three-tower growth, one enclosed and visibly braced Stage II private sky lounge, exactly two enclosed and visibly braced Stage III private sky lounge bridges, elevated-only resident pools, restrained planting, complete base/crown/street framing and preserved crimson/burgundy/charcoal/bone/brass continuity. The selected evolution inventory now contains **92 assets covering 46 complete Stage II/III identity families**. Crimson Commons contains two selected evolution assets across one complete family.
+
+The Stage I QA panel is explicitly a Library reference crop and does not replace the canonical selected Ember Residences master. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: produce and inspect **Commons Market → Ruby Galleria → Cardinal Exchange**.

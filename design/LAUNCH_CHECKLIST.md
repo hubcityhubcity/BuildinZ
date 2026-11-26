@@ -473,3 +473,15 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] All five Arcadia Prime identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
 - [ ] Audit and activate Crimson Commons, then produce Ember Residences → Scarlet Habitat → Crimson Arcology as the next incomplete family.
 
+
+
+## 2026-11-26 Crimson Commons activation and Residential pixel evolution
+
+- [x] Reconciled the Crimson source inventory correctly: all five canonical standalone Stage I bases already exist at 1024×1536; the five smaller `entries` remain preserved architecture sources and are not the selected-output table.
+- [x] Located and inspected the three Crimson Commons Library sheets; classified them as model-generated composite architecture evidence, not owner-approved standalone token assets or completed evolutions.
+- [x] Confirmed the pre-production evolution inventory contained zero N10 selections, preventing older cinematic candidates or composite sheets from being counted as standalone pixel evolutions.
+- [x] Produced and inspected Ember Residences → Scarlet Habitat → Crimson Arcology as a standalone pixel evolution family.
+- [x] Selected Scarlet Habitat and Crimson Arcology as N10-I01 Stage II/III architectural masters after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_RESIDENTIAL_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, domestic occupancy, decisive two-/three-tower growth, supported private sky lounges, elevated-only pools, restrained planting, complete crowns/bases and future sky/street reserve.
+- [ ] Produce and inspect Commons Market → Ruby Galleria → Cardinal Exchange as the next incomplete family.

@@ -266,3 +266,18 @@ Selected `assets/pixel-evolutions/parthenon-apex-v1.png` and `assets/pixel-evolu
 - **Neighborhood completion:** Arcadia Prime now has all 5 complete evolution families and 10 selected Stage II/III assets. The canonical evolution inventory contains 90 selected assets across 45 complete families.
 
 Next, audit and activate Crimson Commons, then produce Ember Residences → Scarlet Habitat → Crimson Arcology.
+
+
+## 2026-11-26 Crimson Commons activation and Residential evolution selection
+
+Inventory reconciliation confirms all five N10 Stage I `portrait_candidates` are already selected standalone 1024×1536 bases. The smaller N10 source `entries` remain preserved architecture references. Three Library sheets were inspected and remain composite reference evidence only.
+
+Selected `assets/pixel-evolutions/scarlet-habitat-v1.png` and `assets/pixel-evolutions/crimson-arcology-v1.png` as the Stage II/III evolution artwork for N10-I01 Ember Residences. Both are native 1024×1536 RGB refined isometric pixel artworks and were reviewed individually and together in `assets/qa/crimson-commons-residential-pixel-lineage-v1.png`.
+
+- **Scarlet Habitat:** exactly two substantial inhabited apartment towers, one enclosed private sky lounge attached to both cores and carried by large diagonal braces, one larger elevated resident pool, exact single mounted name and full framing.
+- **Crimson Arcology:** exactly three substantial inhabited towers with a dominant center, exactly two enclosed private sky lounge bridges at different heights with visible diagonal supports, several separate elevated resident pools and the largest attached ember-lit geometric crown.
+- **Continuity:** bone structure, charcoal framing, crimson/burgundy panels, brass/ember light, domestic balconies and restrained red planting preserve the Ember lineage while height, dwelling capacity, private amenities and crown complexity rise decisively.
+- **Boundary:** no ground-level public pool is present. These are selected architectural masters, not edition exports or launch-certified token images. People, vehicles, sky events, street incidents, rarity traits and editions remain deferred.
+- **Inventory:** Crimson Commons now has 1 complete evolution family and 2 selected Stage II/III assets. The canonical evolution inventory contains 92 selected assets across 46 complete families.
+
+Next, produce and inspect Commons Market → Ruby Galleria → Cardinal Exchange.

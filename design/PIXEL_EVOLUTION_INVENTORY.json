@@ -1363,6 +1363,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The lineage becomes a broad monumental unoccupied civic landmark with exactly three enclosed, vertically separated observation galleries; each empty gallery contains only viewing instruments and visibly bears on attached ring beams, brackets, columns and braces. Monumental outer ribs and colonnades begin at the expanded ceremonial base and connect upward into the tower/gallery support system. The largest distinct lantern/sensor crown is structurally attached above the third gallery and does not read as a fourth gallery. Exact single naming, full base/street and useful sky reserve remain visible. Crown of Olympus decisively exceeds Parthenon Apex in breadth, observation capacity, structural complexity, base monumentality and crown scale. No people, occupants, vehicles, commercial/residential/office program, floating geometry or edition traits are baked in.",
       "reviewed_source_commit": "09e7887d21c7b9e9942ef19869fda98fc5b9169a"
+    },
+    {
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "path": "assets/pixel-evolutions/scarlet-habitat-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/ember-residences-v3.png",
+      "architecture_reference": "assets/candidates/crimson-commons-scarlet-habitat-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2102474,
+      "sha256": "86772b9386032aa50d9735f8062d1bf758b0b8a600deda142723e765d5e6d76f",
+      "git_blob_sha": "cbfcceab7a3435a9c29b21192a5fad37ce1c348a",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. Ember Residences grows decisively into exactly two substantially taller inhabited apartment towers. One enclosed private sky lounge connects both structural cores and visibly bears on large diagonal braces; one larger elevated residents' pool and private seating deck remain above street level. Repeated domestic balconies, warm occupied interiors, bone structure, charcoal framing, crimson/burgundy panels, warm brass accents, exact single naming, complete base/street and useful sky/foreground reserve remain visible. No people, vehicles, shops, laboratories, performance program, ground-level pool, public resort, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "693075a5136e7c3c30f79af1d4ddcff1eb23ab22"
+    },
+    {
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "path": "assets/pixel-evolutions/crimson-arcology-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/ember-residences-v3.png",
+      "architecture_reference": "assets/candidates/crimson-commons-crimson-arcology-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2534653,
+      "sha256": "1183b42ae34a88354cb669b516d56278095db7373602069d2cd2f3a99942c79b",
+      "git_blob_sha": "50443d30f1d9308fe9700dfe888b7e0b02dc593b",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The lineage becomes exactly three substantial inhabited apartment towers with a dominant taller center. Exactly two enclosed private sky lounge bridges sit at different heights and visibly bear on large diagonal structural braces; several separate residents' pools remain elevated above grade. The largest attached ember-lit geometric crown, repeated domestic balconies, warm occupied interiors, exact single naming, complete base/street and useful sky/foreground reserve remain visible. Crimson Arcology decisively exceeds Scarlet Habitat in height, breadth, dwelling capacity, private amenity capacity, pool count and crown complexity. No people, vehicles, commercial/laboratory/performance program, ground-level public pool, floating geometry, flames, smoke or edition traits are baked in.",
+      "reviewed_source_commit": "693075a5136e7c3c30f79af1d4ddcff1eb23ab22"
     }
   ],
   "revision_history": [
