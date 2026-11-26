@@ -186,3 +186,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, boats, rarity traits and editions remain deferred.
 - **Exact next action:** Harbor Lounge → Moondeck Palace → Eclipse Marina.
 
+
+## 2026-11-26 — Moonline Harbor Entertainment pixel evolution selection
+
+- **Delegated decision:** Select `moondeck-palace-v1.png` and `eclipse-marina-v1.png` as the N08-I04 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and beside the selected Harbor Lounge Stage I base at equal width. Older cinematic candidates supplied massing and venue-program evidence only; their performers and crowds were excluded.
+- **Acceptance:** Exact single names, exactly three separate instrumented stages at Stages II/III, progressive empty audience tiers, supported stair towers, galleries and circulation, complete layered shell crowns, full pier/street framing and preserved pearl/navy/aqua continuity all passed.
+- **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `MOONLINE_HARBOR_ENTERTAINMENT_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, performers, crowds, vehicles, boats, rarity traits and editions remain deferred.
+- **Exact next action:** Tide Beacon → Lunar Lighthouse → Crown of Tides.
+

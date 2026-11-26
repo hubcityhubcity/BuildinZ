@@ -1195,3 +1195,14 @@ This is architectural-master selection only. Edition rendering, rarity traits, p
 
 Next: produce and inspect **Harbor Lounge → Moondeck Palace → Eclipse Marina**.
 
+
+## Moonline Harbor Entertainment pixel evolution — November 26, 2026
+
+Completed N08-I04 **Harbor Lounge → Moondeck Palace → Eclipse Marina** as a visually inspected standalone pixel lineage. Added two selected 1024×1536 evolution masters and a 1536×768 equal-width QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `MOONLINE_HARBOR_ENTERTAINMENT_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Entertainment acceptance passed for exact single names, exactly three separate instrumented stages at Stages II/III, progressive two-/three-level central audience tiers, expanded empty side and ground seating, supported stair towers, galleries and circulation, complete layered shell crowns, pile-supported pier/street framing and preserved pearl/navy/aqua continuity. The selected evolution inventory now contains **78 assets covering 39 complete Stage II/III identity families**. Moonline Harbor contains eight selected evolution assets across four complete families.
+
+This is architectural-master selection only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred under William's November 19 production order. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: produce and inspect **Tide Beacon → Lunar Lighthouse → Crown of Tides**.
+

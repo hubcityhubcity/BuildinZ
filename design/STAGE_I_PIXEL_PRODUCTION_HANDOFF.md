@@ -166,3 +166,16 @@ Selected `assets/pixel-evolutions/tidal-array-v1.png` and `assets/pixel-evolutio
 
 Next, produce and inspect Harbor Lounge → Moondeck Palace → Eclipse Marina.
 
+
+## 2026-11-26 Moonline Harbor Entertainment evolution selection
+
+Selected `assets/pixel-evolutions/moondeck-palace-v1.png` and `assets/pixel-evolutions/eclipse-marina-v1.png` as the Stage II/III evolution artwork for N08-I04 Harbor Lounge. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base in `assets/qa/moonline-harbor-entertainment-pixel-lineage-v1.png`.
+
+- **Moondeck Palace:** broad three-hall venue, exactly three separate instrumented stages, two central upper audience tiers, expanded empty seating, supported stairs/galleries, complete pearl shell canopy, exact single mounted name and full framing.
+- **Eclipse Marina:** monumental broader venue retaining exactly three instrumented stages, three central upper audience tiers, expanded upper side and ground seating, largest attached layered shell crown, exact single mounted name and full framing.
+- **Continuity:** pearl shells, navy ribs, silver trim, aqua/deep-teal performance glass, warm stage light, substantial piles, access bridge and wet urban street foreground preserve the Harbor Lounge lineage while audience capacity, supported circulation and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. Performers, people, crowds, vehicles, boats, pools, rarity traits and editions remain deferred.
+- **Inventory:** Moonline Harbor now has 4 complete evolution families and 8 selected Stage II/III assets. The canonical evolution inventory contains 78 selected assets across 39 complete families.
+
+Next, produce and inspect Tide Beacon → Lunar Lighthouse → Crown of Tides.
+

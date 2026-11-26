@@ -1153,6 +1153,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. A dominant center research tower and two substantial side laboratories decisively exceed Tidal Array in height, breadth and engineering capacity. The enormous enclosed aqua computation/current core, repeated robotics and water-testing chambers, four enclosed braced service bridges, supported sensor platforms and monumental attached scientific crown preserve unmistakable marine Technology. Exact single naming, complete mast/crown, piles, bridge, wet street and future scene reserve are intact; no people, vehicles, boats, public-attraction, retail or residential program are baked in.",
       "reviewed_source_commit": "00f6e5a48ec7eabd08e8326238bfff4bcb2e7864"
+    },
+    {
+      "identity_id": "N08-I04",
+      "stage": 2,
+      "stage_name": "Moondeck Palace",
+      "path": "assets/pixel-evolutions/moondeck-palace-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/harbor-lounge-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-moondeck-palace-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2893131,
+      "sha256": "6a75320b27801f9d0f68caa664826650b1f1ac8957165218b4cdd722eb79b79a",
+      "git_blob_sha": "0862a26e165d46915350549a945264e5cbcf8d51",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The lounge grows into a broad three-hall venue with exactly three separate visible instrumented stages, two central upper audience tiers, expanded empty side and ground seating, and supported stairs, galleries and circulation. The complete pearl shell canopy, exact single name, all piles, access bridge, wet street foreground and future scene reserve are intact; no people, performers, crowds, vehicles, boats, hotel, casino, residential, retail or pool program are baked in.",
+      "reviewed_source_commit": "cffa490d747cd48b465593e4cb8d79c82abed4e9"
+    },
+    {
+      "identity_id": "N08-I04",
+      "stage": 3,
+      "stage_name": "Eclipse Marina",
+      "path": "assets/pixel-evolutions/eclipse-marina-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/harbor-lounge-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-eclipse-marina-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3085257,
+      "sha256": "c92a617721281d27533e1859502d87e2a350a755bacece39b9284bcc1c595fa4",
+      "git_blob_sha": "92e0e7c576413655380c449da356a9ca916ceb6b",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The monumental venue decisively exceeds Moondeck Palace in height, breadth, seating capacity and crown complexity while retaining exactly three separate instrumented stages. Three central upper audience tiers, expanded upper side seating, extensive empty ground seating, supported stair towers and galleries, and the family's largest attached layered pearl shell crown are clearly visible. Exact single naming, complete crown, piles, bridge, wet street and future scene reserve are intact; no people, performers, crowds, vehicles, boats, hotel, casino, residential, retail or pool program are baked in.",
+      "reviewed_source_commit": "cffa490d747cd48b465593e4cb8d79c82abed4e9"
     }
   ],
   "revision_history": [

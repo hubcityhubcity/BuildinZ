@@ -432,5 +432,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Tidal Array and Mooncurrent Nexus as N08-I03 Stage II/III architectural masters after individual and equal-width lineage review.
 - [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `MOONLINE_HARBOR_TECHNOLOGY_ART_HANDOFF.md`.
 - [x] Preserved exact single signage, secured marine-engineering function, progressive robotics/testing capacity, supported sensor decks and enclosed service bridges, complete crowns, pile-supported pier/street framing and future scene reserve.
-- [ ] Produce and inspect Harbor Lounge → Moondeck Palace → Eclipse Marina as the next Moonline Harbor standalone pixel evolution family.
+- [x] Produced and inspected Harbor Lounge → Moondeck Palace → Eclipse Marina as a standalone pixel evolution family.
+- [x] Selected Moondeck Palace and Eclipse Marina as N08-I04 Stage II/III architectural masters after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `MOONLINE_HARBOR_ENTERTAINMENT_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, exactly three instrumented stages at Stages II/III, progressive empty seating tiers, supported audience galleries/circulation, complete layered shell crowns, pile-supported pier/street framing and future scene reserve.
+- [ ] Produce and inspect Tide Beacon → Lunar Lighthouse → Crown of Tides as the next Moonline Harbor standalone pixel evolution family.
 
