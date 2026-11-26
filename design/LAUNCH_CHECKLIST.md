@@ -466,5 +466,10 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Apollo Palace and Olympian Conservatory as N09-I04 Stage II/III architectural masters after individual and lineage review.
 - [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_ENTERTAINMENT_ART_HANDOFF.md`.
 - [x] Preserved exact single signage, empty performance function, exactly three instrumented stages in both evolutions, two-/three-tier central audience escalation, expanded empty side seating, supported galleries/circulation, complete attached shell crowns and future sky/street reserve.
-- [ ] Produce and inspect Arcadia Beacon → Parthenon Apex → Crown of Olympus as the next Arcadia Prime standalone pixel evolution family.
+- [x] Produced and inspected Arcadia Beacon → Parthenon Apex → Crown of Olympus as a standalone pixel evolution family.
+- [x] Selected Parthenon Apex and Crown of Olympus as N09-I05 Stage II/III architectural masters after individual and lineage review.
+- [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_LANDMARK_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, unoccupied civic-landmark function, two-/three-gallery escalation, attached ring supports, base-connected outer ribs/colonnades, expanded ceremonial bases, complete distinct lantern crowns and future sky/street reserve.
+- [x] All five Arcadia Prime identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
+- [ ] Audit and activate Crimson Commons, then produce Ember Residences → Scarlet Habitat → Crimson Arcology as the next incomplete family.
 

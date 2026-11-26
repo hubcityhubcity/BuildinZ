@@ -1272,3 +1272,16 @@ Entertainment acceptance passed for exact single names, unmistakable empty perfo
 The new lineage QA sheet labels its Stage I panel as a Library reference crop; it does not replace the canonical selected Stage I asset or the prior activation verification. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
 
 Next: produce and inspect **Arcadia Beacon → Parthenon Apex → Crown of Olympus**.
+
+
+## Arcadia Prime Landmark pixel evolution and neighborhood completion — November 26, 2026
+
+Completed N09-I05 **Arcadia Beacon → Parthenon Apex → Crown of Olympus** as a visually inspected standalone pixel lineage. Added two selected native 1024×1536 RGB evolution masters and a 1536×768 QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `ARCADIA_PRIME_LANDMARK_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Landmark acceptance passed for exact single names, unoccupied civic function, exactly two vertically separated supported Stage II observation galleries, exactly three supported Stage III galleries, attached ring beams/brackets, base-connected outer ribs/colonnades, expanded ceremonial bases, distinct complete lantern crowns, full framing and preserved white-stone/cobalt/cyan/gold continuity. Neither selected image required normalization.
+
+All five Arcadia Prime identities are now complete: **ten selected Stage II/III evolution assets across five families**. The canonical selected evolution inventory now contains **90 assets covering 45 complete identity families**. The only registry identities without selected Stage II/III assets are N10-I01 through N10-I05 in Crimson Commons.
+
+The new lineage QA sheet labels its Stage I panel as a Library reference crop; it does not replace the canonical selected Stage I asset or the prior activation verification. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: audit and activate **Crimson Commons**, then produce **Ember Residences → Scarlet Habitat → Crimson Arcology**.

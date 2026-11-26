@@ -1333,6 +1333,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The lineage retains exactly three primary instrumented stages while expanding to exactly three central upper empty audience tiers and substantial empty fixed seating in both side wings. Broad supported galleries, connected stairs and the largest attached layered acoustic-shell/civic crown visibly bear on massive white-stone ribs and piers. Exact single naming, full base/street and useful sky reserve remain visible. Olympian Conservatory decisively exceeds Apollo Palace in height, breadth, seating capacity, circulation and crown complexity. No people, performers, crowds, vehicles, retail/residential/laboratory program, floating geometry or edition traits are baked in.",
       "reviewed_source_commit": "26440de36601baf05fec0291b37fe0e082feb7d4"
+    },
+    {
+      "identity_id": "N09-I05",
+      "stage": 2,
+      "stage_name": "Parthenon Apex",
+      "path": "assets/pixel-evolutions/parthenon-apex-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/arcadia-beacon-v1.png",
+      "architecture_reference": "assets/candidates/arcadia-prime-parthenon-apex-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2012922,
+      "sha256": "9f473cecedce3a2d8672c7d8ae8c251af0d7bd71ac280600bdc4695bb7b4e1f9",
+      "git_blob_sha": "4858de319dea9739a3d5320f2fc7470ce15d64c6",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. Arcadia Beacon grows decisively into a taller unoccupied civic landmark with exactly two enclosed cyan-glass observation galleries, clearly separated vertically. Both empty galleries contain only observation instruments and visibly bear on attached ring beams, columns, brackets and diagonal braces. A larger complete lantern/sensor crown remains structurally attached above the second gallery; the expanded ceremonial base, exact single naming, full street and useful sky reserve remain visible. No people, occupants, vehicles, commercial/residential/office program, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "09e7887d21c7b9e9942ef19869fda98fc5b9169a"
+    },
+    {
+      "identity_id": "N09-I05",
+      "stage": 3,
+      "stage_name": "Crown of Olympus",
+      "path": "assets/pixel-evolutions/crown-of-olympus-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/arcadia-beacon-v1.png",
+      "architecture_reference": "assets/candidates/arcadia-prime-crown-of-olympus-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2143958,
+      "sha256": "e0ddd5a4014ab9d1377b0d3559d17cc925094a6aba9052103c0de9f259aea718",
+      "git_blob_sha": "49c8a499e4385bf066ffc4a35df8afb845e4bf9f",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The lineage becomes a broad monumental unoccupied civic landmark with exactly three enclosed, vertically separated observation galleries; each empty gallery contains only viewing instruments and visibly bears on attached ring beams, brackets, columns and braces. Monumental outer ribs and colonnades begin at the expanded ceremonial base and connect upward into the tower/gallery support system. The largest distinct lantern/sensor crown is structurally attached above the third gallery and does not read as a fourth gallery. Exact single naming, full base/street and useful sky reserve remain visible. Crown of Olympus decisively exceeds Parthenon Apex in breadth, observation capacity, structural complexity, base monumentality and crown scale. No people, occupants, vehicles, commercial/residential/office program, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "09e7887d21c7b9e9942ef19869fda98fc5b9169a"
     }
   ],
   "revision_history": [

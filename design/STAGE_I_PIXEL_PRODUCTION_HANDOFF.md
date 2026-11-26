@@ -253,3 +253,16 @@ Selected `assets/pixel-evolutions/apollo-palace-v1.png` and `assets/pixel-evolut
 - **Inventory:** Arcadia Prime now has 4 complete evolution families and 8 selected Stage II/III assets. The canonical evolution inventory contains 88 selected assets across 44 complete families.
 
 Next, produce and inspect Arcadia Beacon → Parthenon Apex → Crown of Olympus.
+
+
+## 2026-11-26 Arcadia Prime Landmark evolution selection and neighborhood completion
+
+Selected `assets/pixel-evolutions/parthenon-apex-v1.png` and `assets/pixel-evolutions/crown-of-olympus-v1.png` as the Stage II/III evolution artwork for N09-I05 Arcadia Beacon. Both are native 1024×1536 RGB refined isometric pixel artworks and were reviewed individually and together in `assets/qa/arcadia-prime-landmark-pixel-lineage-v1.png`.
+
+- **Parthenon Apex:** exactly two vertically separated enclosed observation galleries, each empty and visibly carried by attached ring beams, brackets, columns and diagonal braces; larger distinct lantern crown; expanded ceremonial base; exact single mounted name and full framing.
+- **Crown of Olympus:** exactly three vertically separated enclosed observation galleries, all empty and structurally attached; monumental outer ribs/colonnades connected from the expanded ceremonial base into the tower support system; largest distinct attached lantern crown; exact single mounted name and full framing.
+- **Continuity:** white stone, cobalt panels, luminous cyan core, restrained gold/laurel and dry civic approach preserve the Arcadia Beacon lineage while height, breadth, observation capacity, structure, base monumentality and crown scale rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. Occupants, people, crowds, vehicles, sky events, street incidents, rarity traits and editions remain deferred.
+- **Neighborhood completion:** Arcadia Prime now has all 5 complete evolution families and 10 selected Stage II/III assets. The canonical evolution inventory contains 90 selected assets across 45 complete families.
+
+Next, audit and activate Crimson Commons, then produce Ember Residences → Scarlet Habitat → Crimson Arcology.
