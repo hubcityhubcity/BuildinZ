@@ -126,4 +126,4 @@ Continuity anchors: riveted iron lattice, weathered copper beacon/crown, industr
 
 ## Exact next action
 
-Produce and inspect **Ironworks Beacon → Iron Crown Spire → Colossus of Steel**. Preserve civic landmark and observation function, riveted iron lattice, weathered copper beacon/crown, industrial-blue observation glass, red-brown brick pedestal, exact names, complete finials/bases, physically supported observation levels and clear Stage I→II→III escalation. Do not introduce apartment, office, retail, laboratory or theatre program.
+Old World Steel is complete at the selected architectural-master level. Next, audit and activate **Moonline Harbor** Stage II/III pixel evolution production against the canonical registry, selected Stage I bases, lineage QA, approved repository references and current Library evidence before generating any new artwork.

@@ -407,4 +407,8 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Foundry Palace and Imperial Engineworks as N07-I04 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
 - [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
 - [x] Preserved the Entertainment gates: exact single signage, exactly three visible instrumented stages, empty tiered seating, physically supported audience galleries/circulation, dry public approach, complete crowns/bases and future street reserve.
-- [ ] Continue with Ironworks Beacon → Iron Crown Spire → Colossus of Steel.
+- [x] Selected Iron Crown Spire and Colossus of Steel as N07-I05 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
+- [x] Preserved the Landmark gates: exact single signage, civic observation function, progressive supported viewing levels, base-connected outer ribs, complete finials/bases, dry ceremonial approaches and future street reserve.
+- [x] All five Old World Steel identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
+- [ ] Audit and activate Moonline Harbor Stage II/III pixel evolution production before generating new artwork.

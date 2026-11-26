@@ -130,4 +130,15 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Acceptance:** Exact single names, exactly three visible instrumented stages, expanded empty seating, progressive civic venue scale, supported audience galleries/circulation, dry approaches, complete crowns/bases and preserved brick/iron/copper/blue-glass lineage all passed.
 - **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `OLD_WORLD_STEEL_ENTERTAINMENT_ART_HANDOFF.md`.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, performers, crowds, vehicles, rarity traits and editions remain deferred.
-- **Exact next action:** Ironworks Beacon → Iron Crown Spire → Colossus of Steel.
+- **Exact next action:** Rivet Monument → Iron Crown Spire → Colossus of Steel. This corrects the non-authoritative “Ironworks Beacon” working phrase to the live registry name.
+
+
+## 2026-11-25 — Old World Steel Landmark pixel evolution selection
+
+- **Delegated decision:** Select `iron-crown-spire-v1.png` and `colossus-of-steel-v1.png` as the N07-I05 Stage II/III standalone pixel architectural masters.
+- **Naming correction:** The canonical Stage I name is **Rivet Monument** in the live registry, production brief table and selected asset. The prior “Ironworks Beacon” next-action phrase was stale non-authoritative text and is corrected in this checkpoint.
+- **Visual basis:** Both outputs were inspected individually and beside the selected Rivet Monument Stage I base at equal width. Older cinematic candidates supplied massing and program evidence only.
+- **Acceptance:** Exact single names, civic observation function, progressive enclosed telescope levels, complete lattice support, base-connected outer ribs, dry ceremonial approaches, complete finials/bases and preserved brick/iron/copper/blue-glass lineage all passed.
+- **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `OLD_WORLD_STEEL_LANDMARK_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, visitors, vehicles, rarity traits and editions remain deferred.
+- **Exact next action:** Audit and activate Moonline Harbor Stage II/III pixel evolution production before generating new artwork.

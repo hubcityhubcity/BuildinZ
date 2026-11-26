@@ -30,4 +30,4 @@ Stage II and III were produced with built-in image generation after inspecting t
 
 ## Exact next action
 
-Produce and inspect **Ironworks Beacon → Iron Crown Spire → Colossus of Steel** from the Landmark section of `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md`. Preserve civic observation function, riveted lattice, copper beacon/crown, blue observation glass, brick pedestal, exact single names, complete finials/bases, supported observation levels and clear Stage I→II→III escalation.
+Produce and inspect **Rivet Monument → Iron Crown Spire → Colossus of Steel** from the Landmark section of `OLD_WORLD_STEEL_PRODUCTION_BRIEF.md`. Preserve civic observation function, riveted lattice, copper beacon/crown, blue observation glass, brick pedestal, exact single names, complete finials/bases, supported observation levels and clear Stage I→II→III escalation.

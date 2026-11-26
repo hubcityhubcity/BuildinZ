@@ -96,4 +96,18 @@ Selected `assets/pixel-evolutions/foundry-palace-v1.png` and `assets/pixel-evolu
 - **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. Performers, crowds, people, vehicles, sky events, street scenes, rarity traits and editions remain deferred.
 - **Inventory:** Old World Steel now has 4 complete evolution families and 8 selected Stage II/III assets. The canonical evolution inventory contains 68 selected assets across 34 complete families.
 
-Next, produce and inspect Ironworks Beacon → Iron Crown Spire → Colossus of Steel.
+Next, produce and inspect Rivet Monument → Iron Crown Spire → Colossus of Steel. This corrects the non-authoritative “Ironworks Beacon” working phrase to the live registry name.
+
+
+## 2026-11-25 Old World Steel Landmark evolution selection
+
+Selected `assets/pixel-evolutions/iron-crown-spire-v1.png` and `assets/pixel-evolutions/colossus-of-steel-v1.png` as the Stage II/III evolution artwork for N07-I05 Rivet Monument. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base in `assets/qa/old-world-steel-landmark-pixel-lineage-v1.png`.
+
+- **Naming correction:** Rivet Monument is the canonical Stage I registry name; the stale “Ironworks Beacon” next-action phrase has been removed.
+- **Iron Crown Spire:** exactly two vertically separated enclosed telescope galleries, full riveted-lattice support, larger attached copper crown, complete lantern finial and exact single mounted name.
+- **Colossus of Steel:** enormous multi-tier observation crown, several supported telescope galleries, massive outer ribs connected to expanded brick footings, largest copper beacon/crown, exact single mounted name and complete framing.
+- **Continuity:** coal-black riveted iron, weathered copper, industrial-blue observation glass, furnace-orange light and red-brown brick preserve the Rivet Monument lineage while observation capacity, width, structural mass, crown complexity and ceremonial base scale rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, visitors, vehicles, sky events, street scenes, rarity traits and editions remain deferred.
+- **Inventory:** Old World Steel now has all 5 complete evolution families and 10 selected Stage II/III assets. The canonical evolution inventory contains 70 selected assets across 35 complete families.
+
+Next, audit and activate Moonline Harbor Stage II/III pixel evolution production before generating new artwork.

@@ -1033,6 +1033,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The monumental broad performance complex decisively exceeds Foundry Palace with a vast central stage, two substantial side stages, much larger empty central audience tiers, several stacked supported galleries and enclosed circulation, plus the family's largest attached engine-and-gear crown. Brick, riveted iron, copper roofs, blue glazing and furnace-orange lighting preserve the lineage. Exact single signage, complete chimneys/crown/base, dry public approach and future street reserve are intact; no people, hotel, residential, laboratory or retail program are baked in.",
       "reviewed_source_commit": "31867a4c30693ccbdc0b5ffbe93395e3d039d5cb"
+    },
+    {
+      "identity_id": "N07-I05",
+      "stage": 2,
+      "stage_name": "Iron Crown Spire",
+      "path": "assets/pixel-evolutions/iron-crown-spire-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/rivet-monument-v1.png",
+      "architecture_reference": "assets/candidates/old-world-steel-iron-crown-spire-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2599507,
+      "sha256": "af10a3c84d300e825674faa0b1a027d01abd1c3b71f55825d9eb0ddaae02d760",
+      "git_blob_sha": "82741aa7aaeea99ff7fcdfc365caec24efa584e7",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The taller civic observation monument grows directly from Rivet Monument with exactly two distinct vertically separated enclosed blue-glass viewing levels, visible public telescopes, full riveted-lattice support, a larger attached copper crown and complete lantern finial. The red-brown brick pedestal and dry ceremonial approach remain coherent. Exact single signage, complete base/finial and future street reserve are intact; no people or occupied-building program are baked in.",
+      "reviewed_source_commit": "bef225bcae21b081d4b42e9b208140aff18516e4"
+    },
+    {
+      "identity_id": "N07-I05",
+      "stage": 3,
+      "stage_name": "Colossus of Steel",
+      "path": "assets/pixel-evolutions/colossus-of-steel-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/rivet-monument-v1.png",
+      "architecture_reference": "assets/candidates/old-world-steel-colossus-of-steel-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2934006,
+      "sha256": "7609cb6b3c77c673e0f90b9f34fdd2ee054baabb8d78509ebd5c889878873dd1",
+      "git_blob_sha": "f4edc5d673abc0b55844319ebe09e12b56d9ccbb",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The skyline-defining civic colossus decisively exceeds Iron Crown Spire with massive outer riveted ribs visibly connected from expanded brick footings to an enormous multi-tier enclosed observation crown, several supported telescope galleries, the lineage's largest copper roof system, lantern crown and complete finial. Exact single signage, complete expanded base/finial, dry ceremonial approach and future street reserve are intact; no people or occupied-building program are baked in.",
+      "reviewed_source_commit": "bef225bcae21b081d4b42e9b208140aff18516e4"
     }
   ],
   "revision_history": [

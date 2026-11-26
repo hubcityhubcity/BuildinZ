@@ -1136,4 +1136,15 @@ Entertainment acceptance passed for exact single names, exactly three visible in
 
 This is architectural-master selection only. Edition rendering, permanent URIs, metadata and launch certification remain deferred under William's November 19 production order.
 
-Next: produce and inspect **Ironworks Beacon → Iron Crown Spire → Colossus of Steel**.
+Next: produce and inspect **Rivet Monument → Iron Crown Spire → Colossus of Steel**. The prior “Ironworks Beacon” phrase was non-authoritative; the registry fixes Stage I as Rivet Monument.
+
+
+## Old World Steel Landmark pixel evolution — November 25, 2026
+
+Completed N07-I05 **Rivet Monument → Iron Crown Spire → Colossus of Steel** as a visually inspected standalone pixel lineage. Added two selected 1024×1536 evolution masters and a 1536×768 equal-width QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `OLD_WORLD_STEEL_LANDMARK_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Landmark acceptance passed for exact single names, civic observation function, progressive enclosed telescope galleries, full lattice support, base-connected outer ribs, dry ceremonial approaches, complete finials/bases and preserved brick/iron/copper continuity. The canonical Stage I name was reconciled to Rivet Monument. The selected evolution inventory now contains **70 assets covering 35 complete Stage II/III identity families**. Old World Steel contains all ten required evolution assets across five complete families.
+
+This completes Old World Steel at the selected architectural-master level only. Edition rendering, permanent URIs, metadata and launch certification remain deferred under William's November 19 production order.
+
+Next: audit and activate **Moonline Harbor** Stage II/III pixel evolution production before generating new artwork.
