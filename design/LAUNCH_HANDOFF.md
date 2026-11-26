@@ -1347,3 +1347,10 @@ Crimson Commons is now complete at the architectural-master level: 10 selected e
 The completed 150-image architectural-master selection was independently reconciled against the complete repository tree. All selected paths exist; recorded byte counts and Git blob SHAs match; all 50 identities contain exactly one Stage I, II and III master; no selected path, blob or recorded SHA-256 is duplicated. The stale candidate-era `ASSET_MANIFEST.json` is now schema 2.0.0 with explicit records for all 150 selected masters while preserving historical assets. See `ARTWORK_MASTER_INTEGRITY_AUDIT_2026-11-26.md`.
 
 This clears the repository data-integrity portion of the artwork audit only. Fresh decoding, equal-scale visual review, safe-area/export checks and perceptual similarity remain open. Next batch: Neon Heights and Golden Crest decode/contact-sheet audit; do not start edition/rarity production until the correction queue is closed.
+
+
+## 2026-11-26 N01/N02 decode and visual audit
+
+All 15 Neon Heights and 15 Golden Crest selected masters were retrieved from immutable commit `1e40a444fa76ae51f3e1a0555198af669d711579`, freshly decoded and hashed. Every image is a 1024×1536 RGB PNG; bytes and SHA-256 values match the inventories. Equal-scale contact sheets confirm exact names, complete framing, building-type separation and clear three-stage growth. No dHash pair met the distance-5 near-duplicate threshold; the closest pair was manually reviewed and accepted. No artwork correction was justified. Evidence: `ARTWORK_DECODE_VISUAL_AUDIT_N01_N02_2026-11-26.md`, its JSON companion and the two neighborhood QA boards.
+
+Fresh decode/visual audit progress is now 30 of 150 masters across two of ten neighborhoods. Next: Shadow Market and Skygarden District. Edition/rarity production remains held until the artwork audit and correction queue are closed.

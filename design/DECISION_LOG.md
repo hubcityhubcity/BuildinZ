@@ -331,3 +331,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Independent result:** all 150 selected paths exist in the complete Git tree; declared bytes and Git blobs match; 50 identities each have exactly Stages I/II/III; no selected path, Git blob or recorded SHA-256 is duplicated; declared dimensions and stage-name/path links pass.
 - **Evidence boundary:** this audit verifies repository identity and manifest consistency. It does not claim a fresh decode or visual/export certification of all 150 PNGs, and it does not promote any image to final NFT-certified status.
 - **Exact next action:** bounded decode/visual/safe-area/perceptual audit beginning with Neon Heights and Golden Crest, followed only by observed corrections.
+
+
+## 2026-11-26 — Neon Heights and Golden Crest fresh decode/visual audit
+
+- **Scope:** 30 exact selected masters from immutable commit `1e40a444fa76ae51f3e1a0555198af669d711579`, covering all five N01 and five N02 identity families.
+- **Result:** all files independently decode as 1024×1536 RGB PNGs; fresh SHA-256 and byte counts match the inventories; exact names, building-type separation, full framing and lineage escalation pass on equal-scale contact sheets.
+- **Similarity result:** no dHash pair is at or below the distance-5 near-duplicate threshold. Crown Arcade/Grand Aureum Exchange is the nearest at distance 6 and was visually accepted as intentional lineage similarity with distinct Stage III growth.
+- **Neon standard:** the approved Neon Residences progression, elevated amenity rules, restrained planting, crown growth and Stage III display presence pass this review.
+- **Delegated decision:** preserve all 30 selected originals and queue no corrections. This is a bounded audit pass, not final collection or launch certification.
+- **Exact next action:** Shadow Market and Skygarden District immutable-blob decode/contact-sheet/perceptual audit.

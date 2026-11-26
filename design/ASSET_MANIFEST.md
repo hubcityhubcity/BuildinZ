@@ -2,7 +2,7 @@
 
 ## Current authoritative state — November 26, 2026
 
-Audited against repository commit `57d29915d07d1ee8aed9aaac09bafdeab08ac71a`. The current architectural-master set is **150 selected images**: 50 Stage I bases plus 100 Stage II/III evolutions across 50 complete identity families and 10 neighborhoods. All 150 selected paths exist; recorded byte counts and Git blob SHAs match the complete repository tree; no selected path, blob or recorded SHA-256 is duplicated. Final NFT-certified exports remain **0 of 150**.
+Audited against repository commit `57d29915d07d1ee8aed9aaac09bafdeab08ac71a`. The current architectural-master set is **150 selected images**: 50 Stage I bases plus 100 Stage II/III evolutions across 50 complete identity families and 10 neighborhoods. All 150 selected paths exist; recorded byte counts and Git blob SHAs match the complete repository tree; no selected path, blob or recorded SHA-256 is duplicated. Final NFT-certified exports remain **0 of 150**. A fresh immutable-blob decode and equal-scale visual audit has now passed **30 of 150** selected masters: all 15 Neon Heights and all 15 Golden Crest images.
 
 The machine-readable source of truth is `ASSET_MANIFEST.json`, now schema 2.0.0 with explicit records for all 150 selected masters. `STAGE_I_PIXEL_SOURCE_INVENTORY.json` and `PIXEL_EVOLUTION_INVENTORY.json` remain the selection-specific evidence sources. Full evidence and limitations are in `ARTWORK_MASTER_INTEGRITY_AUDIT_2026-11-26.md`.
 

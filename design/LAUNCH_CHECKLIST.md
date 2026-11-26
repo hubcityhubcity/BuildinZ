@@ -535,3 +535,15 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Corrected `ASSET_MANIFEST.json` from the stale candidate-era state to schema 2.0.0 with all 150 current selected masters explicitly recorded; preserved all historical asset records.
 - [x] Added `ARTWORK_MASTER_INTEGRITY_AUDIT_2026-11-26.md` with evidence, limitations and correction priorities.
 - [ ] Independently decode and visually inspect the 150 selected committed PNGs in bounded neighborhood batches; begin with Neon Heights and Golden Crest.
+
+
+## 2026-11-26 Neon Heights and Golden Crest decode/visual audit
+
+- [x] Retrieved the 30 exact selected PNG blobs from immutable commit `1e40a444fa76ae51f3e1a0555198af669d711579`; no candidate or composite paths were substituted.
+- [x] Independently decoded all 30 as native 1024×1536 RGB PNGs and reproduced every recorded byte count and SHA-256 value.
+- [x] Generated and visually inspected equal-scale 5-family × 3-stage contact sheets for Neon Heights and Golden Crest.
+- [x] Confirmed exact stage naming, five distinct building types, clear I→II→III lineage growth, complete crowns/bases and useful sky/street reserve in both neighborhoods.
+- [x] Reconfirmed Neon Residences standards: increasing height; Stage II private rooftop/sky-lounge program; Stage III multi-zone elevated resort/pools and dominant crown; no ground-level public pool; restrained planting; Stage III display presence at least Stage II.
+- [x] Ran 64-bit difference-hash comparison. Zero pairs met the ≤5 near-duplicate threshold. The nearest pair, Crown Arcade/Grand Aureum Exchange at distance 6, was visually confirmed as a legitimate lineage with distinct Stage III height, dome and program.
+- [x] Recorded no correction candidates for N01 or N02; preserved all selected originals.
+- [ ] Run the same immutable-blob decode, contact-sheet and similarity audit for Shadow Market and Skygarden District.

@@ -1,0 +1,532 @@
+{
+  "schema_version": "1.0.0",
+  "recorded_date": "2026-11-26",
+  "repository_commit": "1e40a444fa76ae51f3e1a0555198af669d711579",
+  "scope": {
+    "neighborhoods": [
+      "N01 Neon Heights",
+      "N02 Golden Crest"
+    ],
+    "selected_masters": 30
+  },
+  "method": {
+    "source": "immutable raw files at repository commit",
+    "decode": "Pillow verify/load",
+    "integrity": [
+      "byte count",
+      "SHA-256",
+      "PNG format",
+      "1024x1536 dimensions",
+      "RGB mode"
+    ],
+    "similarity": "64-bit difference hash; <=5 triggers near-duplicate review",
+    "framing": "equal-scale contact-sheet inspection plus dark-background top-clearance heuristic"
+  },
+  "summary": {
+    "decoded": 30,
+    "integrity_failures": 0,
+    "near_duplicate_pairs_at_or_below_5": 0,
+    "visual_corrections_queued": 0,
+    "neon_top_clearance_min_px": 38,
+    "golden_crest_top_clearance_min_px": 44
+  },
+  "nearest_pairs": [
+    {
+      "a": "N02-I02-S2",
+      "b": "N02-I02-S3",
+      "distance": 6
+    },
+    {
+      "a": "N02-I05-S1",
+      "b": "N02-I02-S3",
+      "distance": 8
+    },
+    {
+      "a": "N02-I05-S1",
+      "b": "N02-I05-S2",
+      "distance": 8
+    },
+    {
+      "a": "N02-I02-S1",
+      "b": "N02-I02-S2",
+      "distance": 10
+    },
+    {
+      "a": "N02-I02-S3",
+      "b": "N02-I03-S3",
+      "distance": 11
+    },
+    {
+      "a": "N02-I03-S2",
+      "b": "N02-I03-S3",
+      "distance": 11
+    },
+    {
+      "a": "N01-I01-S1",
+      "b": "N01-I03-S1",
+      "distance": 12
+    },
+    {
+      "a": "N02-I05-S1",
+      "b": "N02-I02-S2",
+      "distance": 12
+    },
+    {
+      "a": "N02-I01-S3",
+      "b": "N02-I03-S3",
+      "distance": 12
+    },
+    {
+      "a": "N02-I02-S3",
+      "b": "N02-I05-S2",
+      "distance": 12
+    },
+    {
+      "a": "N01-I05-S1",
+      "b": "N01-I05-S3",
+      "distance": 13
+    },
+    {
+      "a": "N02-I01-S1",
+      "b": "N02-I01-S2",
+      "distance": 13
+    },
+    {
+      "a": "N01-I05-S2",
+      "b": "N01-I05-S3",
+      "distance": 13
+    },
+    {
+      "a": "N02-I01-S2",
+      "b": "N02-I01-S3",
+      "distance": 13
+    },
+    {
+      "a": "N02-I02-S2",
+      "b": "N02-I03-S3",
+      "distance": 13
+    }
+  ],
+  "assets": [
+    {
+      "identity_id": "N01-I01",
+      "stage": 1,
+      "stage_name": "Neon Residences",
+      "path": "assets/pixel-stage-i/neon-residences-v2.png",
+      "bytes": 2053270,
+      "sha256": "aa5bf9538119f7783dd5504b9bd8ee7936e8bd383f6cf5cabbdb7015645eaca2",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "314d8e9613030721",
+      "top_clearance_heuristic_px": 207,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I04",
+      "stage": 1,
+      "stage_name": "Midnight Lounge",
+      "path": "assets/pixel-stage-i/midnight-lounge-v2.png",
+      "bytes": 2152689,
+      "sha256": "aa322c3ab72afe755cdb5ea845fe3aee303a252557686262b9b464336566965a",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "f0068e4b1b131754",
+      "top_clearance_heuristic_px": 127,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I02",
+      "stage": 1,
+      "stage_name": "Pulse Plaza",
+      "path": "assets/pixel-stage-i/pulse-plaza-v2.png",
+      "bytes": 2280121,
+      "sha256": "02e133dec29288de66f7290c35afb9dc75b6a1826f96dade38f5df9abddd7669",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "0538468e1b0b1f07",
+      "top_clearance_heuristic_px": 473,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I03",
+      "stage": 1,
+      "stage_name": "HoloTech Tower",
+      "path": "assets/pixel-stage-i/holotech-tower-v1.png",
+      "bytes": 2144246,
+      "sha256": "4ef12bba16fc8ea28bc5e9f6a43df05a57e21c67871dd078fa9debcc3a0e9973",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "11468e96171b1f07",
+      "top_clearance_heuristic_px": 280,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I05",
+      "stage": 1,
+      "stage_name": "Crown Spire",
+      "path": "assets/pixel-stage-i/crown-spire-v1.png",
+      "bytes": 2285534,
+      "sha256": "50e495495ea89641ce837af632245610027aa6076ceb6578eef902528e93d0b9",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "112b0e8e0f2b4d4d",
+      "top_clearance_heuristic_px": 200,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I01",
+      "stage": 1,
+      "stage_name": "Aureate Residences",
+      "path": "assets/pixel-stage-i/aureate-residences-v3.png",
+      "bytes": 2792530,
+      "sha256": "087c7d4caecef87157cf9179ffe5dc2201075f6161fc0d7d23b6b9840ee3971e",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "69ce2763734c0712",
+      "top_clearance_heuristic_px": 61,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I02",
+      "stage": 1,
+      "stage_name": "Meridian Market",
+      "path": "assets/pixel-stage-i/meridian-market-v3.png",
+      "bytes": 2584401,
+      "sha256": "d1c4db4998613f32fedad52f57e72300d3de3e1635b69975f702e5878c74a6c7",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "716b2b33332b2b2b",
+      "top_clearance_heuristic_px": 55,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I03",
+      "stage": 1,
+      "stage_name": "Solara Labs",
+      "path": "assets/pixel-stage-i/solara-labs-v3.png",
+      "bytes": 2330207,
+      "sha256": "4b88f6fbf2bfee0bc867bf0599e0b74356885d738def18de2ed719f0e53f2a06",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "736b4d0f17171d33",
+      "top_clearance_heuristic_px": 113,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I04",
+      "stage": 1,
+      "stage_name": "Velvet Hall",
+      "path": "assets/pixel-stage-i/velvet-hall-v3.png",
+      "bytes": 2046647,
+      "sha256": "c3def55cc3a62f83c014697354156995b7317cb8b7ec496cbb7a557a6a0ea5fc",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "5c62033b71535717",
+      "top_clearance_heuristic_px": 114,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I05",
+      "stage": 1,
+      "stage_name": "Golden Obelisk",
+      "path": "assets/pixel-stage-i/golden-obelisk-v3.png",
+      "bytes": 2024332,
+      "sha256": "78a3149953576af6421ef585f4c1464ffd6b75c0e0e0153830a3e52d56387767",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "294d4d4d0d0b2b2b",
+      "top_clearance_heuristic_px": 166,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I01",
+      "stage": 2,
+      "stage_name": "Skyline Habitat",
+      "path": "assets/pixel-evolutions/skyline-habitat-v1.png",
+      "bytes": 2339375,
+      "sha256": "6c66825a8de8831b6e4ceb6aca20373b6c95df6217fb7071c85ef931f211b872",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "698f8ea6ae2707c9",
+      "top_clearance_heuristic_px": 181,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I01",
+      "stage": 3,
+      "stage_name": "Aurora Arcology",
+      "path": "assets/pixel-evolutions/aurora-arcology-v2.png",
+      "bytes": 2373629,
+      "sha256": "5ef28579ed87e651b6ec23f42f5708a0d3d7b510dc76dfe8a900c97ba4db16dd",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "6d0e1b0b1b2b0f81",
+      "top_clearance_heuristic_px": 67,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I02",
+      "stage": 2,
+      "stage_name": "Spectrum Galleria",
+      "path": "assets/pixel-evolutions/spectrum-galleria-v1.png",
+      "bytes": 2418901,
+      "sha256": "5801bb41e200e93bd835ed08375dafcb2b1ecebce1e315ca2e011f2e1733f96d",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "4c3317072b2b1f13",
+      "top_clearance_heuristic_px": 298,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I02",
+      "stage": 3,
+      "stage_name": "Infinity Bazaar",
+      "path": "assets/pixel-evolutions/infinity-bazaar-v1.png",
+      "bytes": 2520492,
+      "sha256": "a2c6c714e53868e516ea2c03da21841a36075ca86b8d1606de530f022c46bd8d",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "8e0f33332b2b0f17",
+      "top_clearance_heuristic_px": 66,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I03",
+      "stage": 2,
+      "stage_name": "Quantum Spire",
+      "path": "assets/pixel-evolutions/quantum-spire-v2.png",
+      "bytes": 2073863,
+      "sha256": "db676d6029cca86fb896eb8d469b3ba0b8c8d99d6a6fbda4911e95d23dfaa1ac",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "284c4d0e070b1f16",
+      "top_clearance_heuristic_px": 204,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I03",
+      "stage": 3,
+      "stage_name": "Omninet Nexus",
+      "path": "assets/pixel-evolutions/omninet-nexus-v3.png",
+      "bytes": 2187035,
+      "sha256": "da8cc2ca25a8a8bdc28bb75ee2cc602e462a0f3434d49653fae638ccf0f39957",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "498e0f17330b1f16",
+      "top_clearance_heuristic_px": 60,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I04",
+      "stage": 2,
+      "stage_name": "Nocturne Palace",
+      "path": "assets/pixel-evolutions/nocturne-palace-v1.png",
+      "bytes": 2229113,
+      "sha256": "e562ea98ef2938e30e8d34bb5c732fc2dda503e3c8cfc0d89e75c9924f540aa8",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "4cb3170f37171754",
+      "top_clearance_heuristic_px": 126,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I04",
+      "stage": 3,
+      "stage_name": "Eclipse Citadel",
+      "path": "assets/pixel-evolutions/eclipse-citadel-v1.png",
+      "bytes": 2535428,
+      "sha256": "c7f3e24d5e42b085a3cda3124bdccb4e6cb6f4eeaaae926e3fc71ca32927b06d",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "36131333572517d4",
+      "top_clearance_heuristic_px": 126,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I05",
+      "stage": 2,
+      "stage_name": "Sovereign Apex",
+      "path": "assets/pixel-evolutions/sovereign-apex-v1.png",
+      "bytes": 2236312,
+      "sha256": "748156c2eb536691d8985d3ffeec6cd312a315907d16e6b49bf9edf089cdf848",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "690f0e4dcc0f0f4d",
+      "top_clearance_heuristic_px": 57,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N01-I05",
+      "stage": 3,
+      "stage_name": "Crown of Neon",
+      "path": "assets/pixel-evolutions/crown-of-neon-v1.png",
+      "bytes": 2400695,
+      "sha256": "7cfe50bcbf8fbb8d69fbaa4e627cd9d127f51675a07221ae0eab280f1d10728c",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "4d8e8ecc0f2b0f4d",
+      "top_clearance_heuristic_px": 38,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I01",
+      "stage": 2,
+      "stage_name": "Gilded Terraces",
+      "path": "assets/pixel-evolutions/gilded-terraces-v1.png",
+      "bytes": 2892717,
+      "sha256": "e914b2bc82fa10d8bc29bef44c6e0409a97693ab5f298add2759b577ea6e5bf7",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "4f86276363550d17",
+      "top_clearance_heuristic_px": 59,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I01",
+      "stage": 3,
+      "stage_name": "Imperial Sunhold",
+      "path": "assets/pixel-evolutions/imperial-sunhold-v1.png",
+      "bytes": 2782336,
+      "sha256": "b45fe3cf16212f02ae2325c0332fdec26bfcd7b6f029dd0fbb446335139e04cb",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "4dce172369674d07",
+      "top_clearance_heuristic_px": 44,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I02",
+      "stage": 2,
+      "stage_name": "Crown Arcade",
+      "path": "assets/pixel-evolutions/crown-arcade-v1.png",
+      "bytes": 2736310,
+      "sha256": "087ce40fd011479cb516b4cba9de669ed8a9319061338bd234b889fb397a96bc",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "714f0f692b2b2b2b",
+      "top_clearance_heuristic_px": 55,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I02",
+      "stage": 3,
+      "stage_name": "Grand Aureum Exchange",
+      "path": "assets/pixel-evolutions/grand-aureum-exchange-v1.png",
+      "bytes": 2730730,
+      "sha256": "dda48046708bb050986ed45c66fb4bdccfbfdc81b8272db5ebf09a703eaef126",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "694f0f4d692b2b2b",
+      "top_clearance_heuristic_px": 55,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I03",
+      "stage": 2,
+      "stage_name": "Helios Foundry",
+      "path": "assets/pixel-evolutions/helios-foundry-v1.png",
+      "bytes": 2672416,
+      "sha256": "65dfa8a5b75ff0b3ed08ae2c215de62a8d9b0ff02b32d7522644439c995b1bb3",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "6b0f4f230b070f0f",
+      "top_clearance_heuristic_px": 104,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I03",
+      "stage": 3,
+      "stage_name": "Daystar Citadel",
+      "path": "assets/pixel-evolutions/daystar-citadel-v1.png",
+      "bytes": 2872484,
+      "sha256": "7c5e2f928b92a312e6a799bd4803c783a1c37af40d61b1d8786053c952faa421",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "4d0f0f2b692b0f0f",
+      "top_clearance_heuristic_px": 104,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I04",
+      "stage": 2,
+      "stage_name": "Radiant Opera",
+      "path": "assets/pixel-evolutions/radiant-opera-v1.png",
+      "bytes": 2343985,
+      "sha256": "e2cd56bde2bb613d8bade109acd303a0aaab7f9ba6861f69bfeb35978c2c5845",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "644715356c711317",
+      "top_clearance_heuristic_px": 102,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I04",
+      "stage": 3,
+      "stage_name": "Solaris Grand Theatre",
+      "path": "assets/pixel-evolutions/solaris-grand-theatre-v1.png",
+      "bytes": 2619386,
+      "sha256": "b9089f28f4c407185a8402f21f935db2583b6f6111ae692f8a800203c13743f5",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "440633d1e2791307",
+      "top_clearance_heuristic_px": 76,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I05",
+      "stage": 2,
+      "stage_name": "Sunspire Monument",
+      "path": "assets/pixel-evolutions/sunspire-monument-v1.png",
+      "bytes": 2175424,
+      "sha256": "f1850c5121a7f8e1bebe96b699a1d97271cc6a744df41e7717c96ceb8f9470f9",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "4c4d8d490d0f2b2b",
+      "top_clearance_heuristic_px": 73,
+      "status": "pass"
+    },
+    {
+      "identity_id": "N02-I05",
+      "stage": 3,
+      "stage_name": "Crown of Dawn",
+      "path": "assets/pixel-evolutions/crown-of-dawn-v1.png",
+      "bytes": 2641997,
+      "sha256": "b8e3d2d414a50887c4ce660fcec365839bec9d609f17bfc942049333742e14c2",
+      "format": "PNG",
+      "dimensions": "1024x1536",
+      "mode": "RGB",
+      "dhash": "4d8e2f2b2b0f2be8",
+      "top_clearance_heuristic_px": 80,
+      "status": "pass"
+    }
+  ]
+}
