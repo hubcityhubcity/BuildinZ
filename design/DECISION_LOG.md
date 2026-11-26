@@ -248,3 +248,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; no normalization was required. Byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_TECHNOLOGY_ART_HANDOFF.md`.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
 - **Exact next action:** Muse Hall → Apollo Palace → Olympian Conservatory.
+
+
+## 2026-11-26 — Arcadia Prime Entertainment pixel evolution selection
+
+- **Delegated decision:** Select `apollo-palace-v1.png` and `olympian-conservatory-v1.png` as the N09-I04 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and together. The Stage I panel in the new QA sheet is explicitly a Library reference crop; the canonical Stage I standalone had already been independently verified in the activation checkpoint.
+- **Acceptance:** Exact single names, unmistakable empty performance function, exactly three separate instrumented stages in each evolution, exactly two central upper Stage II audience tiers, exactly three central upper Stage III tiers, substantial empty side seating, supported galleries/circulation, complete attached acoustic-shell crowns, full framing and Arcadia palette continuity all pass.
+- **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; no normalization was required. Byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_ENTERTAINMENT_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
+- **Exact next action:** Arcadia Beacon → Parthenon Apex → Crown of Olympus.

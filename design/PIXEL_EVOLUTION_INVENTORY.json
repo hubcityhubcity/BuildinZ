@@ -1303,6 +1303,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The lineage becomes exactly three substantial connected research towers around a dominant luminous computation core with visible server arrays, data conduits, robotics and sealed testing chambers. Exactly four enclosed cyan-glass service bridges connect the center tower to the side towers; every bridge is attached between tower piers and reinforced by visible exterior trusses. A monumental supported scientific sensor crown, exact single naming, full base/street and useful sky reserve remain visible. Prime Mind Nexus decisively exceeds Oracle Spire in height, research capacity, computation and structural complexity. No people, vehicles, retail/residential/performance program, mystical imagery, floating geometry or edition traits are baked in.",
       "reviewed_source_commit": "879f75cca458f64b11e0064553b87a44e79f477a"
+    },
+    {
+      "identity_id": "N09-I04",
+      "stage": 2,
+      "stage_name": "Apollo Palace",
+      "path": "assets/pixel-evolutions/apollo-palace-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/muse-hall-v1.png",
+      "architecture_reference": "assets/candidates/arcadia-prime-apollo-palace-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2370455,
+      "sha256": "20d9d9f545bb9e4c909aace19c7b0475d2c6f902a272825da24c23f4af3b4431",
+      "git_blob_sha": "11d4e26ba5c752e7100b87fc2a5aa8bdc8874764",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. Muse Hall grows decisively into a taller, broader performance palace with exactly three spatially separate instrumented stages: one large central stage and one side stage in each attached wing. Exactly two central upper audience tiers contain empty fixed seating and visibly bear on columns, shell ribs and gallery structure. Supported side galleries, connected stairs, the larger complete layered acoustic shell, exact single naming, full base/street and useful sky reserve remain visible. No people, performers, crowds, vehicles, retail/residential/laboratory program, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "26440de36601baf05fec0291b37fe0e082feb7d4"
+    },
+    {
+      "identity_id": "N09-I04",
+      "stage": 3,
+      "stage_name": "Olympian Conservatory",
+      "path": "assets/pixel-evolutions/olympian-conservatory-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/muse-hall-v1.png",
+      "architecture_reference": "assets/candidates/arcadia-prime-olympian-conservatory-stage-3-v2.png",
+      "dimensions": "1024x1536",
+      "bytes": 2694139,
+      "sha256": "09bdbb2189ecdb18e73eabf475a8f993a8ba0dd1c2eb0e6b4f90168a0fb0fe4d",
+      "git_blob_sha": "e0ef1a0db231b6f19f2dab9655c9de06e36cf078",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The lineage retains exactly three primary instrumented stages while expanding to exactly three central upper empty audience tiers and substantial empty fixed seating in both side wings. Broad supported galleries, connected stairs and the largest attached layered acoustic-shell/civic crown visibly bear on massive white-stone ribs and piers. Exact single naming, full base/street and useful sky reserve remain visible. Olympian Conservatory decisively exceeds Apollo Palace in height, breadth, seating capacity, circulation and crown complexity. No people, performers, crowds, vehicles, retail/residential/laboratory program, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "26440de36601baf05fec0291b37fe0e082feb7d4"
     }
   ],
   "revision_history": [

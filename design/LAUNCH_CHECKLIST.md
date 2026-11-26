@@ -462,5 +462,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Oracle Spire and Prime Mind Nexus as N09-I03 Stage II/III architectural masters after individual and lineage review.
 - [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_TECHNOLOGY_ART_HANDOFF.md`.
 - [x] Preserved exact single signage, unmistakable secured research function, progressive robotics/testing capacity, exactly two supported Stage II instrument decks, exactly three Stage III towers, a dominant computation core, exactly four enclosed braced service bridges, a complete scientific crown and future sky/street reserve.
-- [ ] Produce and inspect Muse Hall → Apollo Palace → Olympian Conservatory as the next Arcadia Prime standalone pixel evolution family.
+- [x] Produced and inspected Muse Hall → Apollo Palace → Olympian Conservatory as a standalone pixel evolution family.
+- [x] Selected Apollo Palace and Olympian Conservatory as N09-I04 Stage II/III architectural masters after individual and lineage review.
+- [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_ENTERTAINMENT_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, empty performance function, exactly three instrumented stages in both evolutions, two-/three-tier central audience escalation, expanded empty side seating, supported galleries/circulation, complete attached shell crowns and future sky/street reserve.
+- [ ] Produce and inspect Arcadia Beacon → Parthenon Apex → Crown of Olympus as the next Arcadia Prime standalone pixel evolution family.
 

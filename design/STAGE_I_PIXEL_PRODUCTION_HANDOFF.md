@@ -240,3 +240,16 @@ Selected `assets/pixel-evolutions/oracle-spire-v1.png` and `assets/pixel-evoluti
 - **Inventory:** Arcadia Prime now has 3 complete evolution families and 6 selected Stage II/III assets. The canonical evolution inventory contains 86 selected assets across 43 complete families.
 
 Next, produce and inspect Muse Hall → Apollo Palace → Olympian Conservatory.
+
+
+## 2026-11-26 Arcadia Prime Entertainment evolution selection
+
+Selected `assets/pixel-evolutions/apollo-palace-v1.png` and `assets/pixel-evolutions/olympian-conservatory-v1.png` as the Stage II/III evolution artwork for N09-I04 Muse Hall. Both are native 1024×1536 RGB refined isometric pixel artworks and were reviewed individually and together in `assets/qa/arcadia-prime-entertainment-pixel-lineage-v1.png`.
+
+- **Apollo Palace:** exactly three spatially separate instrumented stages, exactly two central upper empty audience tiers, attached supported side galleries and circulation, complete layered shell crown, exact single mounted name and full framing.
+- **Olympian Conservatory:** retains exactly three primary instrumented stages, adds exactly three central upper empty audience tiers and substantial empty side seating, expands the supported galleries/circulation, and finishes the family's largest attached acoustic-shell/civic crown with exact single naming and full framing.
+- **Continuity:** layered white-stone shells, cobalt/cyan glazing, restrained gold/laurel and warm performance lighting preserve the Muse lineage while height, breadth, audience capacity, circulation and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. Performers, people, crowds, vehicles, sky events, street incidents, rarity traits and editions remain deferred.
+- **Inventory:** Arcadia Prime now has 4 complete evolution families and 8 selected Stage II/III assets. The canonical evolution inventory contains 88 selected assets across 44 complete families.
+
+Next, produce and inspect Arcadia Beacon → Parthenon Apex → Crown of Olympus.
