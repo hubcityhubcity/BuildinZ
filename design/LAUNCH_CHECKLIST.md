@@ -523,4 +523,15 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Preserved exact single signage, unoccupied civic-landmark function, exactly two supported Stage II telescope galleries, exactly three Stage III galleries, base-connected outer ribs/colonnades, complete distinct ember-lantern crowns, full bases and future sky/street reserve.
 - [x] Crimson Commons now has 10 selected Stage II/III masters across all five complete identity families.
 - [x] Collection-wide architectural coverage now contains 100 selected Stage II/III masters across 50 complete identity families, alongside 50 selected Stage I bases.
-- [ ] Run an independent collection-wide artwork audit and correction queue before edition traits, rarity assignments or edition rendering begin.
+- [x] Run an independent repository data-integrity audit across all 150 selected architectural masters; reconcile paths, bytes, Git blobs, coverage, naming links and duplicate risk.
+- [ ] Run the independent decode/visual/safe-area/export audit and correction queue before edition traits, rarity assignments or edition rendering begin.
+
+
+## 2026-11-26 Architectural-master repository integrity audit
+
+- [x] Reconciled 50 selected Stage I paths and 100 selected Stage II/III paths against the complete, non-truncated Git tree at `57d29915d07d1ee8aed9aaac09bafdeab08ac71a`.
+- [x] Verified zero missing paths, byte-count mismatches, Git-blob mismatches, noncanonical declared dimensions, duplicate selected paths/blobs/recorded SHA-256 values, incomplete families, broken Stage I links or stage-name/path mismatches.
+- [x] Re-resolved the two designated Midnight sources and three Neon source images by exact Library title and preserved their prior provenance boundaries.
+- [x] Corrected `ASSET_MANIFEST.json` from the stale candidate-era state to schema 2.0.0 with all 150 current selected masters explicitly recorded; preserved all historical asset records.
+- [x] Added `ARTWORK_MASTER_INTEGRITY_AUDIT_2026-11-26.md` with evidence, limitations and correction priorities.
+- [ ] Independently decode and visually inspect the 150 selected committed PNGs in bounded neighborhood batches; begin with Neon Heights and Golden Crest.

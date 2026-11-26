@@ -1,5 +1,32 @@
 # BuildinZ consolidated asset manifest
 
+## Current authoritative state — November 26, 2026
+
+Audited against repository commit `57d29915d07d1ee8aed9aaac09bafdeab08ac71a`. The current architectural-master set is **150 selected images**: 50 Stage I bases plus 100 Stage II/III evolutions across 50 complete identity families and 10 neighborhoods. All 150 selected paths exist; recorded byte counts and Git blob SHAs match the complete repository tree; no selected path, blob or recorded SHA-256 is duplicated. Final NFT-certified exports remain **0 of 150**.
+
+The machine-readable source of truth is `ASSET_MANIFEST.json`, now schema 2.0.0 with explicit records for all 150 selected masters. `STAGE_I_PIXEL_SOURCE_INVENTORY.json` and `PIXEL_EVOLUTION_INVENTORY.json` remain the selection-specific evidence sources. Full evidence and limitations are in `ARTWORK_MASTER_INTEGRITY_AUDIT_2026-11-26.md`.
+
+| Neighborhood | Stage I | Stage II/III | Selected total | Final certified |
+| --- | ---: | ---: | ---: | ---: |
+| Neon Heights | 5 | 10 | 15 | 0 |
+| Golden Crest | 5 | 10 | 15 | 0 |
+| Shadow Market | 5 | 10 | 15 | 0 |
+| Skygarden District | 5 | 10 | 15 | 0 |
+| Velocity Row | 5 | 10 | 15 | 0 |
+| Royal Mirage | 5 | 10 | 15 | 0 |
+| Old World Steel | 5 | 10 | 15 | 0 |
+| Moonline Harbor | 5 | 10 | 15 | 0 |
+| Arcadia Prime | 5 | 10 | 15 | 0 |
+| Crimson Commons | 5 | 10 | 15 | 0 |
+| **Total** | **50** | **100** | **150** | **0** |
+
+**Status boundary:** architectural-master coverage and repository identity pass. Fresh decoding, collection-wide visual/safe-area/export inspection, perceptual similarity, edition rendering, metadata, site integration, contracts and release gates remain open.
+
+**Exact next action:** independently decode the 150 selected committed PNGs in bounded neighborhood batches, starting with Neon Heights and Golden Crest; generate equal-scale contact sheets and correction evidence before edition/rarity production.
+
+> The earlier candidate-era sections below are preserved as historical production evidence. Their coverage counts, prototype paths and old “next action” lines do not override this current-state section.
+
+
 Recorded November 7, 2026 (America/Chicago) against repository parent commit `a94580dd1027daf86ea7ff5e6779e1157584a09d`.
 
 This is the canonical repository asset inventory. “Selected” means selected for the current prototype, not final NFT certification. Git blob SHA and byte length come from the actual repository tree. SHA-256 and dimensions appear only where an existing source audit or identity handoff recorded them.

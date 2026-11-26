@@ -1340,3 +1340,10 @@ Next: produce and inspect **Bloodmoon Beacon → Cardinal Apex → Crown of Flam
 Selected `assets/pixel-evolutions/cardinal-apex-v1.png` and `assets/pixel-evolutions/crown-of-flame-v1.png` for N10-I05 Bloodmoon Beacon. Cardinal Apex has exactly two enclosed telescope galleries carried by attached ring beams, columns and diagonal braces. Crown of Flame has exactly three enclosed telescope galleries, base-connected outer ribs/colonnades, an expanded ceremonial base and the largest distinct attached ember-lantern crown. Both retain the monumental civic gate, exact single names, dry street/plaza and scene-layer reserve. Evidence: `CRIMSON_COMMONS_LANDMARK_ART_HANDOFF.md` and `assets/qa/crimson-commons-landmark-pixel-lineage-v1.png`.
 
 Crimson Commons is now complete at the architectural-master level: 10 selected evolution assets across five identity families. The collection-wide evolution inventory is now 100 selected Stage II/III masters across 50 complete identity families; all 50 Stage I bases are selected. This is not launch certification. Next, conduct an independent collection-wide artwork audit and correction queue before edition traits, rarity assignments, edition rendering or downstream metadata/site/contract release work.
+
+
+## 2026-11-26 Architectural-master integrity audit
+
+The completed 150-image architectural-master selection was independently reconciled against the complete repository tree. All selected paths exist; recorded byte counts and Git blob SHAs match; all 50 identities contain exactly one Stage I, II and III master; no selected path, blob or recorded SHA-256 is duplicated. The stale candidate-era `ASSET_MANIFEST.json` is now schema 2.0.0 with explicit records for all 150 selected masters while preserving historical assets. See `ARTWORK_MASTER_INTEGRITY_AUDIT_2026-11-26.md`.
+
+This clears the repository data-integrity portion of the artwork audit only. Fresh decoding, equal-scale visual review, safe-area/export checks and perceptual similarity remain open. Next batch: Neon Heights and Golden Crest decode/contact-sheet audit; do not start edition/rarity production until the correction queue is closed.

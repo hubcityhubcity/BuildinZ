@@ -322,3 +322,12 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Collection gate:** Crimson Commons now has ten selected evolution masters across five complete identity families. The global evolution inventory now has 100 selected masters across all 50 identity families; all 50 Stage I bases were already selected.
 - **Status boundary:** This closes architectural-master lineage production, not launch readiness. Edition traits, rarity, edition exports, permanent-storage URIs, metadata, site integration, contract/security review and release gates remain open.
 - **Exact next action:** independent collection-wide artwork audit against all 50 Stage I bases and 100 selected evolution masters; record and resolve any correction queue before downstream edition/rarity production.
+
+
+## 2026-11-26 — Architectural-master integrity audit and manifest reconciliation
+
+- **Observed inconsistency:** the canonical asset manifest still represented the November 7 candidate-era state and contained zero of the 150 current selected pixel-master paths.
+- **Delegated correction:** preserve all 297 historical asset records, add explicit current records for the 150 selected masters, update the summary/ten-neighborhood matrix and mark earlier Markdown counts as historical.
+- **Independent result:** all 150 selected paths exist in the complete Git tree; declared bytes and Git blobs match; 50 identities each have exactly Stages I/II/III; no selected path, Git blob or recorded SHA-256 is duplicated; declared dimensions and stage-name/path links pass.
+- **Evidence boundary:** this audit verifies repository identity and manifest consistency. It does not claim a fresh decode or visual/export certification of all 150 PNGs, and it does not promote any image to final NFT-certified status.
+- **Exact next action:** bounded decode/visual/safe-area/perceptual audit beginning with Neon Heights and Golden Crest, followed only by observed corrections.
