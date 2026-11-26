@@ -227,3 +227,14 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_RESIDENTIAL_ART_HANDOFF.md`.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
 - **Exact next action:** Agora Plaza → Lyceum Galleria → Infinite Forum.
+
+
+## 2026-11-26 — Arcadia Prime Retail pixel evolution selection
+
+- **Delegated decision:** Select `lyceum-galleria-v1.png` and `infinite-forum-v1.png` as the N09-I02 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and together. The Stage I panel in the new QA sheet is explicitly a Library reference crop; the canonical Stage I standalone had already been independently verified in the activation checkpoint.
+- **Acceptance:** Exact single names, unmistakable stocked public retail, decisive plaza/galleria/vertical-forum progression, two Stage II paired escalator systems, three Stage III stacked atria with paired escalators, supported galleries/promenades, complete framing and Arcadia palette continuity all pass.
+- **Normalization:** Lyceum's native 1086×1448 output was proportionally resized with point sampling and placed at the bottom of a 1024×1536 navy canvas, adding only sky reserve while retaining the complete architecture.
+- **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_RETAIL_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
+- **Exact next action:** Axiom Labs → Oracle Spire → Prime Mind Nexus.

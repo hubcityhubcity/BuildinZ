@@ -454,5 +454,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Harmony Habitat and Elysium Arcology as N09-I01 Stage II/III architectural masters after individual and lineage review.
 - [x] Verified both selected PNGs decode at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_RESIDENTIAL_ART_HANDOFF.md`.
 - [x] Preserved exact single signage, inhabited domestic function, decisive two-/three-tower growth, supported private sky zones, elevated-only pools, restrained planting, complete crown/base and future sky/street reserve.
-- [ ] Produce and inspect Agora Plaza → Lyceum Galleria → Infinite Forum as the next Arcadia Prime standalone pixel evolution family.
+- [x] Produced and inspected Agora Plaza → Lyceum Galleria → Infinite Forum as a standalone pixel evolution family.
+- [x] Selected Lyceum Galleria and Infinite Forum as N09-I02 Stage II/III architectural masters after individual and lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_RETAIL_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, unmistakable stocked public retail, progressive atrium/escalator capacity, supported galleries/promenades, dry public approach, complete dome/base and future sky/street reserve.
+- [ ] Produce and inspect Axiom Labs → Oracle Spire → Prime Mind Nexus as the next Arcadia Prime standalone pixel evolution family.
 

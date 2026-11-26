@@ -214,3 +214,16 @@ Selected `assets/pixel-evolutions/harmony-habitat-v1.png` and `assets/pixel-evol
 - **Inventory:** Arcadia Prime now has 1 complete evolution family and 2 selected Stage II/III assets. The canonical evolution inventory contains 82 selected assets across 41 complete families.
 
 Next, produce and inspect Agora Plaza → Lyceum Galleria → Infinite Forum.
+
+
+## 2026-11-26 Arcadia Prime Retail evolution selection
+
+Selected `assets/pixel-evolutions/lyceum-galleria-v1.png` and `assets/pixel-evolutions/infinite-forum-v1.png` as the Stage II/III evolution artwork for N09-I02 Agora Plaza. Both are canonical 1024×1536 RGB refined isometric pixel artworks and were reviewed individually and together in `assets/qa/arcadia-prime-retail-pixel-lineage-v1.png`.
+
+- **Lyceum Galleria:** four clearly readable stocked shopping levels around one large cyan-glass atrium, two broad paired escalator systems, supported galleries, complete attached dome, exact single mounted name and full framing. The native 1086×1448 generation was proportionally point-resized and bottom-anchored on the canonical navy portrait canvas, adding sky reserve only.
+- **Infinite Forum:** decisively taller and broader vertical forum with exactly three large stacked shopping atria, paired escalators in each zone, many stocked shops, supported side galleries/short promenades, largest attached multi-tier dome, exact single mounted name and full framing.
+- **Continuity:** circular classical-future arcades, white stone, cobalt/cyan glass, restrained gold/laurel and warm stocked interiors preserve the Agora lineage while shop count, atrium capacity, circulation and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, crowds, vehicles, sky events, street incidents, rarity traits and editions remain deferred.
+- **Inventory:** Arcadia Prime now has 2 complete evolution families and 4 selected Stage II/III assets. The canonical evolution inventory contains 84 selected assets across 42 complete families.
+
+Next, produce and inspect Axiom Labs → Oracle Spire → Prime Mind Nexus.

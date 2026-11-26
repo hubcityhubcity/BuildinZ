@@ -1239,3 +1239,14 @@ Residential acceptance passed for exact single names, unmistakable inhabited apa
 The new lineage QA sheet labels its Stage I panel as a Library reference crop; it does not replace the canonical selected Stage I asset or the prior activation verification. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
 
 Next: produce and inspect **Agora Plaza → Lyceum Galleria → Infinite Forum**.
+
+
+## Arcadia Prime Retail pixel evolution — November 26, 2026
+
+Completed N09-I02 **Agora Plaza → Lyceum Galleria → Infinite Forum** as a visually inspected standalone pixel lineage. Added two selected 1024×1536 RGB evolution masters and a 1536×768 QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `ARCADIA_PRIME_RETAIL_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Retail acceptance passed for exact single names, unmistakable stocked public retail, decisive four-level galleria/three-atrium forum growth, progressively larger escalator circulation, visibly supported galleries and promenades, complete domes/base/street framing and preserved white-stone/cobalt/cyan/gold continuity. Lyceum's native 1086×1448 generation was proportionally normalized to the canonical portrait canvas using point sampling and added sky reserve only. The selected evolution inventory now contains **84 assets covering 42 complete Stage II/III identity families**. Arcadia Prime contains four selected evolution assets across two complete families.
+
+The new lineage QA sheet labels its Stage I panel as a Library reference crop; it does not replace the canonical selected Stage I asset or the prior activation verification. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: produce and inspect **Axiom Labs → Oracle Spire → Prime Mind Nexus**.

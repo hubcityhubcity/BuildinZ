@@ -1243,6 +1243,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The lineage becomes exactly three substantial inhabited apartment towers: a dominant taller center tower plus two substantial side towers. Two distinct enclosed private sky lounge/resort bridges sit at different heights and visibly bear on structural braces; several elevated resident pools remain above grade. The largest attached cobalt-and-gold geometric crown, repeated domestic balconies, warm occupied interiors, exact single naming, complete base/street and useful sky/foreground reserve remain visible. Elysium decisively exceeds Harmony in height, breadth, dwelling capacity, private amenity capacity and crown complexity. No people, vehicles, commercial/laboratory/performance program, ground-level pool, public resort, floating geometry or edition traits are baked in.",
       "reviewed_source_commit": "62c10ae46b7b7078b59506c93d654b781c7b6a51"
+    },
+    {
+      "identity_id": "N09-I02",
+      "stage": 2,
+      "stage_name": "Lyceum Galleria",
+      "path": "assets/pixel-evolutions/lyceum-galleria-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/agora-plaza-v2.png",
+      "architecture_reference": "assets/candidates/arcadia-prime-lyceum-galleria-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2300099,
+      "sha256": "24b62e2fd471ec699e639ee4bfb9730affbfb84621185367e31e2a6d10fe180b",
+      "git_blob_sha": "bc7be6b1e5f616376e4b5cdad48fe23395b2bb3f",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. Agora Plaza grows decisively into a four-level public shopping galleria around one large luminous cyan-glass atrium. Two broad paired escalator systems connect the stocked levels; dense displays visibly include produce, clothing, books, housewares and jewelry. Supported white-stone galleries, the larger attached ribbed dome, exact single naming, complete base/street and useful sky/foreground reserve remain visible. The native 1086x1448 generation was proportionally point-resized and bottom-anchored on a 1024x1536 navy canvas, adding sky reserve only. No people, vehicles, apartments, pools, laboratories, performance program, greenhouse dominance, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "df7297daa27a02ab5c069b75d554b99112849af1"
+    },
+    {
+      "identity_id": "N09-I02",
+      "stage": 3,
+      "stage_name": "Infinite Forum",
+      "path": "assets/pixel-evolutions/infinite-forum-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/agora-plaza-v2.png",
+      "architecture_reference": "assets/candidates/arcadia-prime-infinite-forum-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3053544,
+      "sha256": "2882acbef0483e7268a59af736353bf835ff68228e298362dc2f8152f3f2cc70",
+      "git_blob_sha": "370d3022e26ea1d1c83de17a5ad034818a26878c",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The retail lineage becomes a decisively taller and broader vertical forum with exactly three large stacked cyan-glass shopping atria, each served by a paired escalator bank. Many stocked stores, supported side galleries and short enclosed promenades, the largest attached multi-tier dome, exact single naming, complete base/street and useful sky/foreground reserve remain visible. Infinite Forum decisively exceeds Lyceum in shop count, atrium capacity, escalator circulation, breadth and crown complexity. No people, vehicles, residential/laboratory/performance program, pools, greenhouse dominance, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "df7297daa27a02ab5c069b75d554b99112849af1"
     }
   ],
   "revision_history": [
@@ -1306,4 +1336,3 @@
     }
   ]
 }
-
