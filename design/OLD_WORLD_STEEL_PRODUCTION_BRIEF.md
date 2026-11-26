@@ -126,4 +126,4 @@ Continuity anchors: riveted iron lattice, weathered copper beacon/crown, industr
 
 ## Exact next action
 
-Produce and inspect **Gearhouse Labs → Titan Mill → Machina Nexus**. Preserve secured laboratory function, brick piers, coal-black riveted iron, copper service roofs, industrial-blue sealed glazing, furnace-orange diagnostics, visible engineering rigs, supported test terraces/bridges, exact names, complete framing and clear Stage I→II→III escalation.
+Produce and inspect **Boiler Hall → Foundry Palace → Imperial Engineworks**. Preserve civic entertainment function, visible performance stages and empty supported audience galleries, brick piers, coal-black riveted iron, copper service roofs, industrial-blue glazing, furnace-orange lighting, exact names, complete framing and clear Stage I→II→III escalation. Do not introduce hotel, residential, laboratory or public-pool program.

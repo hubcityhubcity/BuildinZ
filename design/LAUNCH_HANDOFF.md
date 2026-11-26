@@ -1115,3 +1115,14 @@ Browser workflow42654568840 passed at d6c8323e2dcb287a992870e98429f1cb8f8bfed0 a
 Pages workflow42654565363 at the same commit succeeded: https://github.com/hubcityhubcity/BuildinZ/actions/runs/42654565363 . The earlier deployment failure is no longer a current deployment blocker; its cause remains unknown. This confirms workflow deployment success, not a hosted browser acceptance test.
 
 Next:download and inspect actual screenshot artifact; verify hosted gallery against deployed commit; resume final artwork/edition review. Keep all final artwork certification, accessibility, mint integration and release gates open.
+
+
+## Old World Steel Technology pixel evolution — November 25, 2026
+
+Completed N07-I03 **Gearhouse Labs → Titan Mill → Machina Nexus** as a visually inspected standalone pixel lineage. Added two selected 1024×1536 evolution masters and a 1536×768 equal-width QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `OLD_WORLD_STEEL_TECHNOLOGY_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Technology acceptance passed for exact single names, secured laboratory function, progressive height/breadth, sealed blue-glass robotics chambers, visible engineering rigs, supported external decks and enclosed bridges, complete crowns/bases and preserved brick/iron/copper continuity. The selected evolution inventory now contains **66 assets covering 33 complete Stage II/III identity families**. Old World Steel contains six selected evolution assets across three complete families.
+
+This is architectural-master selection only. Edition rendering, permanent URIs, metadata and launch certification remain deferred under William's November 19 production order.
+
+Next: produce and inspect **Boiler Hall → Foundry Palace → Imperial Engineworks**.

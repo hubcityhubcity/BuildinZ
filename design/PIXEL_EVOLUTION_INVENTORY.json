@@ -973,6 +973,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The eight-plus-level vertical market exchange decisively exceeds Steelworks Arcade with stacked retail atria, dense merchandise storefronts, multiple broad escalator banks, several supported merchant galleries and at least three short riveted shopping crossings. The largest attached copper-and-iron lattice crown completes the silhouette while brick arches, blue-black iron and copper sawtooth roofs preserve the Forge Market lineage. Exact single signage, complete crown/base, dry ceremonial approach and future street reserve are intact; no people, water or non-retail program are baked in.",
       "reviewed_source_commit": "7629b1286574feb7dc16e35efea8ddd38fc36986"
+    },
+    {
+      "identity_id": "N07-I03",
+      "stage": 2,
+      "stage_name": "Titan Mill",
+      "path": "assets/pixel-evolutions/titan-mill-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/gearhouse-labs-v1.png",
+      "architecture_reference": "assets/candidates/old-world-steel-titan-mill-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3151950,
+      "sha256": "54415e70a261d70b9e273128fd5fcbbb2b0586f733b14615782a022bc5349bf2",
+      "git_blob_sha": "6ad60c7612a6518800b637ef7b684561bd85be1e",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The nine-plus-level secured research mill grows directly from Gearhouse Labs with multiple enclosed industrial-blue robotics chambers, visible orange engineering rigs, supported external test decks and a complete chimney-and-machinery crown. Brick piers, coal-black riveted iron, copper service roofs and furnace-orange diagnostics remain coherent. Exact single signage, complete crown/base, secure dry service yard and future street reserve are intact; no people, water, public retail or residential program are baked in.",
+      "reviewed_source_commit": "38ddf3fbd71d86a4972cc939b6df8c8c1ddb1582"
+    },
+    {
+      "identity_id": "N07-I03",
+      "stage": 3,
+      "stage_name": "Machina Nexus",
+      "path": "assets/pixel-evolutions/machina-nexus-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/gearhouse-labs-v1.png",
+      "architecture_reference": "assets/candidates/old-world-steel-machina-nexus-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3352949,
+      "sha256": "7214a59b7f1c20c64fd6886b0b7a0ffd90409f0f8860c2d5eb6d4982cc877ac6",
+      "git_blob_sha": "91378aefcf8fbc0b49d3a78d29ad4d15da469554",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. Three connected research towers, a dominant luminous central computation core, several enclosed truss-supported service bridges, dense visible robotics and a monumental attached machinery crown decisively exceed Titan Mill in breadth, program, connectivity and crown complexity. Brick piers, coal-black iron, copper roofs, blue sealed glazing and orange diagnostics preserve the family. Exact single signage, complete crown/base, secure dry yard and future street reserve are intact; no people, water, public retail or residential program are baked in.",
+      "reviewed_source_commit": "38ddf3fbd71d86a4972cc939b6df8c8c1ddb1582"
     }
   ],
   "revision_history": [

@@ -401,4 +401,7 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Steelworks Arcade and Grand Industrial Exchange as N07-I02 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
 - [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
 - [x] Preserved the Retail gates: exact single signage, dense visible merchandise storefronts, broad escalator circulation, physically supported galleries/crossings, dry public approach, complete roofs/crown and future street reserve.
-- [ ] Continue with Gearhouse Labs → Titan Mill → Machina Nexus.
+- [x] Selected Titan Mill and Machina Nexus as N07-I03 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
+- [x] Preserved the Technology gates: exact single signage, sealed blue-glass robotics labs, visible engineering rigs, physically supported test decks/bridges, secure dry service yard, complete crown/base and future street reserve.
+- [ ] Continue with Boiler Hall → Foundry Palace → Imperial Engineworks.
