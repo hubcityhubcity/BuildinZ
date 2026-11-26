@@ -116,4 +116,8 @@ Observation equipment may appear but galleries remain unoccupied; do not drift i
 
 Complete one family before starting the next: Residential → Retail → Technology → Entertainment → Landmark. For each family, produce Stage II and III, inspect each at full frame, compare the three stages at equal width, select only passing standalone outputs, update the canonical evolution inventory and family handoff, then checkpoint. Edition traits, rarity assignment, evolution metadata, website and contract work remain deferred until the base/evolution architectural production gate permits them.
 
-**Exact next action:** produce and inspect Arcadian Residences → Harmony Habitat → Elysium Arcology, using the selected Stage I base plus the reference matrix and Library composites only as architecture evidence.
+## Current selected state
+
+Harmony Habitat and Elysium Arcology are selected as N09-I01 Stage II/III standalone pixel architectural masters. Both decode at 1024×1536 RGB and passed individual plus lineage review for exact single signage, unmistakable residential function, decisive two-/three-tower growth, visibly supported private sky zones, elevated-only pools, complete framing and white-stone/cobalt/cyan/gold continuity. Integrity evidence is recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_RESIDENTIAL_ART_HANDOFF.md`.
+
+**Exact next action:** produce and inspect Agora Plaza → Lyceum Galleria → Infinite Forum, using the selected Stage I base plus reference evidence while preserving stocked public retail, progressive atrium/escalator capacity, supported galleries, dry street reserve and exact single signage.

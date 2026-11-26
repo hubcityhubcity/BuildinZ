@@ -201,3 +201,16 @@ The Library composites and older cinematic candidates are architecture reference
 
 Next, produce and inspect **Arcadian Residences → Harmony Habitat → Elysium Arcology** with two-/three-tower residential growth, supported private sky amenities, elevated-only water, exact single signage and complete future sky/street reserve.
 
+
+
+## 2026-11-26 Arcadia Prime Residential evolution selection
+
+Selected `assets/pixel-evolutions/harmony-habitat-v1.png` and `assets/pixel-evolutions/elysium-arcology-v1.png` as the Stage II/III evolution artwork for N09-I01 Arcadian Residences. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and together in `assets/qa/arcadia-prime-residential-pixel-lineage-v1.png`.
+
+- **Harmony Habitat:** exactly two substantially taller inhabited apartment towers, one enclosed private sky lounge braced into both cores, one larger elevated resident pool, exact single mounted name and complete framing.
+- **Elysium Arcology:** dominant crowned center tower plus two substantial side towers, two distinct enclosed private lounge/resort bridge levels, several elevated-only pools, largest supported geometric crown, exact single mounted name and complete framing.
+- **Continuity:** white-stone classical-future piers, cobalt panels, luminous cyan glazing, restrained gold/laurel accents and warm domestic interiors preserve the Arcadian lineage while height, breadth, capacity and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, vehicles, sky events, street incidents, rarity traits and editions remain deferred.
+- **Inventory:** Arcadia Prime now has 1 complete evolution family and 2 selected Stage II/III assets. The canonical evolution inventory contains 82 selected assets across 41 complete families.
+
+Next, produce and inspect Agora Plaza → Lyceum Galleria → Infinite Forum.

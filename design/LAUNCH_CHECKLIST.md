@@ -450,5 +450,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Located and inspected the three November 19 Arcadia Prime Library sheets; classified them as model-generated composite architecture evidence, not owner-approved standalone token assets or completed evolutions.
 - [x] Confirmed `PIXEL_EVOLUTION_INVENTORY.json` contains zero N09 selections before production, preventing older cinematic candidates or composite sheets from being miscounted as pixel evolutions.
 - [x] Replaced stale stylized-3D and prior candidate-completion language with exact standalone pixel output, lineage escalation, physical-support, framing and evidence gates.
-- [ ] Produce and inspect Arcadian Residences → Harmony Habitat → Elysium Arcology as the first Arcadia Prime standalone pixel evolution family.
+- [x] Produced and inspected Arcadian Residences → Harmony Habitat → Elysium Arcology as the first Arcadia Prime standalone pixel evolution family.
+- [x] Selected Harmony Habitat and Elysium Arcology as N09-I01 Stage II/III architectural masters after individual and lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_RESIDENTIAL_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, inhabited domestic function, decisive two-/three-tower growth, supported private sky zones, elevated-only pools, restrained planting, complete crown/base and future sky/street reserve.
+- [ ] Produce and inspect Agora Plaza → Lyceum Galleria → Infinite Forum as the next Arcadia Prime standalone pixel evolution family.
 

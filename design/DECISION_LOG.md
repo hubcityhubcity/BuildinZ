@@ -217,3 +217,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Delegated reversible standards:** exact single signage; full crown/base/street reserve; white-stone/cobalt/laurel/gold/cyan continuity; physically supported additions; clear Residential/Retail/Technology/Entertainment/Landmark separation; no people, crowds, vehicles or edition traits.
 - **Exact next action:** Arcadian Residences → Harmony Habitat → Elysium Arcology.
 
+
+
+## 2026-11-26 — Arcadia Prime Residential pixel evolution selection
+
+- **Delegated decision:** Select `harmony-habitat-v1.png` and `elysium-arcology-v1.png` as the N09-I01 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and together. The Stage I panel in the new QA sheet is explicitly a Library reference crop; the canonical Stage I standalone had already been independently verified in the activation checkpoint.
+- **Acceptance:** Exact single names, inhabited residential function, decisive one-/two-/three-tower progression, one supported Stage II private lounge/pool zone, two supported Stage III private sky zones, elevated-only pools, restrained planting, complete framing and Arcadia palette continuity all pass.
+- **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_RESIDENTIAL_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
+- **Exact next action:** Agora Plaza → Lyceum Galleria → Infinite Forum.

@@ -1228,3 +1228,14 @@ No new art was selected in this activation checkpoint. No edition, rarity, metad
 
 Next: produce and inspect **Arcadian Residences → Harmony Habitat → Elysium Arcology**.
 
+
+
+## Arcadia Prime Residential pixel evolution — November 26, 2026
+
+Completed N09-I01 **Arcadian Residences → Harmony Habitat → Elysium Arcology** as a visually inspected standalone pixel lineage. Added two selected 1024×1536 RGB evolution masters and a 1536×768 QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `ARCADIA_PRIME_RESIDENTIAL_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Residential acceptance passed for exact single names, unmistakable inhabited apartment function, decisive two-/three-tower growth, visibly supported private sky lounges, elevated-only pools, restrained planting, complete crown/base/street framing and preserved white-stone/cobalt/cyan/gold continuity. The selected evolution inventory now contains **82 assets covering 41 complete Stage II/III identity families**. Arcadia Prime contains two selected evolution assets across one complete family.
+
+The new lineage QA sheet labels its Stage I panel as a Library reference crop; it does not replace the canonical selected Stage I asset or the prior activation verification. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: produce and inspect **Agora Plaza → Lyceum Galleria → Infinite Forum**.
