@@ -1333,3 +1333,10 @@ Acceptance passed for exact single names, exactly one regulation ring at every s
 The Stage I QA panel is explicitly a Library reference crop and does not replace the canonical selected Ember Hall master. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
 
 Next: produce and inspect **Bloodmoon Beacon → Cardinal Apex → Crown of Flame**.
+
+
+## 2026-11-26 Crimson Commons Landmark selection and evolution-master completion
+
+Selected `assets/pixel-evolutions/cardinal-apex-v1.png` and `assets/pixel-evolutions/crown-of-flame-v1.png` for N10-I05 Bloodmoon Beacon. Cardinal Apex has exactly two enclosed telescope galleries carried by attached ring beams, columns and diagonal braces. Crown of Flame has exactly three enclosed telescope galleries, base-connected outer ribs/colonnades, an expanded ceremonial base and the largest distinct attached ember-lantern crown. Both retain the monumental civic gate, exact single names, dry street/plaza and scene-layer reserve. Evidence: `CRIMSON_COMMONS_LANDMARK_ART_HANDOFF.md` and `assets/qa/crimson-commons-landmark-pixel-lineage-v1.png`.
+
+Crimson Commons is now complete at the architectural-master level: 10 selected evolution assets across five identity families. The collection-wide evolution inventory is now 100 selected Stage II/III masters across 50 complete identity families; all 50 Stage I bases are selected. This is not launch certification. Next, conduct an independent collection-wide artwork audit and correction queue before edition traits, rarity assignments, edition rendering or downstream metadata/site/contract release work.

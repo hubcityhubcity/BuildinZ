@@ -1485,6 +1485,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The lineage becomes a monumental broader and taller coliseum while retaining exactly one central regulation boxing ring. Exactly three upper empty audience tiers plus substantial empty side seating, four enlarged circulation towers, broad supported galleries, broadcast rooms and training zones are visible. Four large video screens are structurally mounted to the seating bowl; the largest attached layered canopy/civic crown bears on massive ribs and columns. Exact single naming, full base/plaza and useful sky reserve remain visible. Crimson Coliseum decisively exceeds Scarlet Palace in height, breadth, seating capacity, circulation, display area and crown complexity. No people, fighters, crowds, vehicles, extra rings, concert stages, retail/residential/laboratory program, flames, smoke, floating geometry or edition traits are baked in.",
       "reviewed_source_commit": "d1236104c176d56faa95e04364fcba1cc246246b"
+    },
+    {
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "path": "assets/pixel-evolutions/cardinal-apex-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/bloodmoon-beacon-v1.png",
+      "architecture_reference": "assets/candidates/crimson-commons-cardinal-apex-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2196805,
+      "sha256": "e14c6376ebbdb6b65b368401dc3731a7d1e7aa157124dd830f770c6fbc364da8",
+      "git_blob_sha": "8d67a10551eb526e00644180eeb438bd69b37b0f",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The monumental civic gate grows decisively taller while preserving its central arch and ceremonial base. Exactly two vertically separated enclosed observation galleries contain only telescopes and are carried by attached ring beams, columns and diagonal braces. A complete ember-glass lantern crown, exact single mounted name, full dry base and sky/street reserve are visible. No people, vehicles, literal flame, smoke or edition traits are baked in.",
+      "reviewed_source_commit": "ec0ce2611df4b5b862139bffa86d81327cdba02d"
+    },
+    {
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "path": "assets/pixel-evolutions/crown-of-flame-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/bloodmoon-beacon-v1.png",
+      "architecture_reference": "assets/candidates/crimson-commons-crown-of-flame-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2486461,
+      "sha256": "9dca54b01b7af7cd5bdb29fe5032464bc756a4661663cabb60a71c8dc513a5f3",
+      "git_blob_sha": "805e538c26c7e05b41de0afeab628eef71617fbe",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The gate expands in height and breadth to exactly three vertically separated enclosed telescope galleries. Monumental outer ribs and colonnades begin at the expanded ceremonial base and connect into the gallery supports. The largest distinct attached ember lantern sits above the third gallery without reading as a fourth room. Exact single naming, full framing and scene-layer reserve pass; no people, vehicles, literal fire, smoke or edition traits are baked in.",
+      "reviewed_source_commit": "ec0ce2611df4b5b862139bffa86d81327cdba02d"
     }
   ],
   "revision_history": [

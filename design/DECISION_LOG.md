@@ -311,3 +311,14 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; no normalization was required. Byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_ENTERTAINMENT_ART_HANDOFF.md`.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Fighters, crowds, people, vehicles, event traits, rarity traits and editions remain deferred.
 - **Exact next action:** Bloodmoon Beacon → Cardinal Apex → Crown of Flame.
+
+
+## 2026-11-26 — Crimson Commons Landmark selection and architectural-master completion
+
+- **Delegated decision:** Select `cardinal-apex-v1.png` and `crown-of-flame-v1.png` as the N10-I05 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and together. The Stage I panel in the QA sheet is explicitly a Library reference crop; the canonical Bloodmoon Beacon remains `assets/pixel-stage-i/bloodmoon-beacon-v1.png`.
+- **Acceptance:** Exact single names, unoccupied civic-landmark function, exactly two vertically separated enclosed and supported Stage II telescope galleries, exactly three Stage III galleries, base-connected outer ribs/colonnades, expanded ceremonial base, distinct attached ember-lantern crown, complete framing and Crimson palette continuity all pass. “Flame” is architectural glow only; no literal fire or smoke is present.
+- **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_LANDMARK_ART_HANDOFF.md`.
+- **Collection gate:** Crimson Commons now has ten selected evolution masters across five complete identity families. The global evolution inventory now has 100 selected masters across all 50 identity families; all 50 Stage I bases were already selected.
+- **Status boundary:** This closes architectural-master lineage production, not launch readiness. Edition traits, rarity, edition exports, permanent-storage URIs, metadata, site integration, contract/security review and release gates remain open.
+- **Exact next action:** independent collection-wide artwork audit against all 50 Stage I bases and 100 selected evolution masters; record and resolve any correction queue before downstream edition/rarity production.

@@ -183,3 +183,10 @@ N10-I04 is canonically a boxing-arena Entertainment lineage, not a concert hall.
 The selected progression is Ember Hall → Scarlet Palace → Crimson Coliseum. Each stage retains exactly one regulation ring. Scarlet Palace has exactly two empty upper seating tiers and supported circulation; Crimson Coliseum has exactly three upper tiers plus substantial side seating, four mounted screens and the largest attached arena crown. Evidence is in `CRIMSON_COMMONS_ENTERTAINMENT_ART_HANDOFF.md` and `assets/qa/crimson-commons-entertainment-pixel-lineage-v1.png`.
 
 Next: Bloodmoon Beacon → Cardinal Apex → Crown of Flame.
+
+
+## November 26, 2026 Landmark selection and neighborhood completion
+
+N10-I05 is now selected at the architectural-master level: Bloodmoon Beacon → Cardinal Apex → Crown of Flame. Cardinal Apex preserves the monumental civic gate and adds exactly two vertically separated enclosed telescope galleries with attached ring beams, columns and diagonal braces. Crown of Flame expands to exactly three enclosed telescope galleries, base-connected outer ribs/colonnades and the largest distinct attached ember-lantern crown above the third gallery. “Flame” is architectural amber glow only; neither master contains literal fire, smoke, people, vehicles, edition traits or baked events. Evidence is in `CRIMSON_COMMONS_LANDMARK_ART_HANDOFF.md` and `assets/qa/crimson-commons-landmark-pixel-lineage-v1.png`.
+
+Crimson Commons now has 10 selected evolution masters across all five complete identity families. The global architectural evolution inventory now has 100 selected Stage II/III masters across 50 complete identity families. Next: independent collection-wide artwork audit and correction queue before edition/rarity production.

@@ -512,4 +512,15 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Scarlet Palace and Crimson Coliseum as N10-I04 Stage II/III architectural masters after individual and equal-width lineage review.
 - [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_ENTERTAINMENT_ART_HANDOFF.md`.
 - [x] Preserved exact single signage, one regulation ring, progressive empty seating capacity, supported galleries/circulation, broadcast/training infrastructure, four Stage III screens, complete crowns and future sky/street reserve.
-- [ ] Produce and inspect Bloodmoon Beacon → Cardinal Apex → Crown of Flame as the final incomplete family.
+- [x] Produce and inspect Bloodmoon Beacon → Cardinal Apex → Crown of Flame as the final incomplete family.
+
+
+## 2026-11-26 Crimson Commons Landmark pixel evolution and architectural-master completion
+
+- [x] Produced and inspected Bloodmoon Beacon → Cardinal Apex → Crown of Flame as a standalone pixel evolution family.
+- [x] Selected Cardinal Apex and Crown of Flame as N10-I05 Stage II/III architectural masters after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_LANDMARK_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, unoccupied civic-landmark function, exactly two supported Stage II telescope galleries, exactly three Stage III galleries, base-connected outer ribs/colonnades, complete distinct ember-lantern crowns, full bases and future sky/street reserve.
+- [x] Crimson Commons now has 10 selected Stage II/III masters across all five complete identity families.
+- [x] Collection-wide architectural coverage now contains 100 selected Stage II/III masters across 50 complete identity families, alongside 50 selected Stage I bases.
+- [ ] Run an independent collection-wide artwork audit and correction queue before edition traits, rarity assignments or edition rendering begin.

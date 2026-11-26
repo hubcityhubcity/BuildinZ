@@ -322,3 +322,10 @@ Selected `assets/pixel-evolutions/scarlet-palace-v1.png` and `assets/pixel-evolu
 - **Inventory:** Crimson Commons now has 4 complete evolution families and 8 selected Stage II/III assets. The canonical evolution inventory contains 98 selected assets across 49 complete families.
 
 Next, produce and inspect Bloodmoon Beacon → Cardinal Apex → Crown of Flame.
+
+
+## 2026-11-26 architectural evolution master completion
+
+N10-I05 is selected as Bloodmoon Beacon → Cardinal Apex → Crown of Flame. The two new 1024×1536 RGB evolution masters are `assets/pixel-evolutions/cardinal-apex-v1.png` and `assets/pixel-evolutions/crown-of-flame-v1.png`; evidence is in `CRIMSON_COMMONS_LANDMARK_ART_HANDOFF.md` and `assets/qa/crimson-commons-landmark-pixel-lineage-v1.png`.
+
+The collection now has selected architectural masters for every identity: 50 Stage I bases and 100 Stage II/III evolution assets across 50 complete families. Do not begin edition/rarity production yet. The next gate is an independent audit of all 150 selected architectural images for exact naming, dimensions, integrity, lineage continuity, scene-layer reserve and uniqueness, followed by correction of any failures.
