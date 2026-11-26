@@ -1273,6 +1273,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The retail lineage becomes a decisively taller and broader vertical forum with exactly three large stacked cyan-glass shopping atria, each served by a paired escalator bank. Many stocked stores, supported side galleries and short enclosed promenades, the largest attached multi-tier dome, exact single naming, complete base/street and useful sky/foreground reserve remain visible. Infinite Forum decisively exceeds Lyceum in shop count, atrium capacity, escalator circulation, breadth and crown complexity. No people, vehicles, residential/laboratory/performance program, pools, greenhouse dominance, floating geometry or edition traits are baked in.",
       "reviewed_source_commit": "df7297daa27a02ab5c069b75d554b99112849af1"
+    },
+    {
+      "identity_id": "N09-I03",
+      "stage": 2,
+      "stage_name": "Oracle Spire",
+      "path": "assets/pixel-evolutions/oracle-spire-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/axiom-labs-v1.png",
+      "architecture_reference": "assets/candidates/arcadia-prime-oracle-spire-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 1986810,
+      "sha256": "17f10d6fa37cd23a2363455eb9c7b21c2a86e554d888d95ab509accf4fad26dd",
+      "git_blob_sha": "9ce93e9192647d2156f872eb2d2063ca35b05bfc",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. Axiom Labs grows decisively into one taller secured research spire with repeated visible robotics arms, calibration rigs, test benches and sealed engineering chambers. Exactly two exterior scientific instrument decks are attached to the tower and carried by large diagonal braces. A complete machinery/sensor crown and antenna, exact single naming, full base/street and useful sky reserve remain visible. No people, vehicles, shops, residences, performance program, mystical/oracle imagery, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "879f75cca458f64b11e0064553b87a44e79f477a"
+    },
+    {
+      "identity_id": "N09-I03",
+      "stage": 3,
+      "stage_name": "Prime Mind Nexus",
+      "path": "assets/pixel-evolutions/prime-mind-nexus-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/axiom-labs-v1.png",
+      "architecture_reference": "assets/candidates/arcadia-prime-prime-mind-nexus-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2399970,
+      "sha256": "22d2fb925d2e414f4cb09b53d481fa93168ad1bc2e70ca1b229bcaf8f094d1ad",
+      "git_blob_sha": "4eddda7ed235a4d8b641301a6e9fae1afc71c884",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The lineage becomes exactly three substantial connected research towers around a dominant luminous computation core with visible server arrays, data conduits, robotics and sealed testing chambers. Exactly four enclosed cyan-glass service bridges connect the center tower to the side towers; every bridge is attached between tower piers and reinforced by visible exterior trusses. A monumental supported scientific sensor crown, exact single naming, full base/street and useful sky reserve remain visible. Prime Mind Nexus decisively exceeds Oracle Spire in height, research capacity, computation and structural complexity. No people, vehicles, retail/residential/performance program, mystical imagery, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "879f75cca458f64b11e0064553b87a44e79f477a"
     }
   ],
   "revision_history": [

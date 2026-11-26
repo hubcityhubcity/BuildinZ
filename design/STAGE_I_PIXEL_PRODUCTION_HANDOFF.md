@@ -227,3 +227,16 @@ Selected `assets/pixel-evolutions/lyceum-galleria-v1.png` and `assets/pixel-evol
 - **Inventory:** Arcadia Prime now has 2 complete evolution families and 4 selected Stage II/III assets. The canonical evolution inventory contains 84 selected assets across 42 complete families.
 
 Next, produce and inspect Axiom Labs → Oracle Spire → Prime Mind Nexus.
+
+
+## 2026-11-26 Arcadia Prime Technology evolution selection
+
+Selected `assets/pixel-evolutions/oracle-spire-v1.png` and `assets/pixel-evolutions/prime-mind-nexus-v1.png` as the Stage II/III evolution artwork for N09-I03 Axiom Labs. Both are native 1024×1536 RGB refined isometric pixel artworks and were reviewed individually and together in `assets/qa/arcadia-prime-technology-pixel-lineage-v1.png`.
+
+- **Oracle Spire:** one decisively taller secured research spire with repeated visible robotics/testing chambers, exactly two attached exterior instrument decks on large diagonal braces, complete machinery/sensor crown, exact single mounted name and full framing.
+- **Prime Mind Nexus:** exactly three substantial research towers, a dominant luminous computation core with visible server arrays, exactly four enclosed cyan-glass service bridges attached between tower piers and reinforced by exterior trusses, a monumental supported sensor crown, exact single mounted name and full framing.
+- **Continuity:** white stone, cobalt panels, luminous cyan glazing, restrained gold/laurel accents and dry civic approach preserve Axiom's scientific lineage while height, research capacity, computation and structural complexity rise decisively. No mystical/oracle imagery is present.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, crowds, vehicles, sky events, street incidents, rarity traits and editions remain deferred.
+- **Inventory:** Arcadia Prime now has 3 complete evolution families and 6 selected Stage II/III assets. The canonical evolution inventory contains 86 selected assets across 43 complete families.
+
+Next, produce and inspect Muse Hall → Apollo Palace → Olympian Conservatory.

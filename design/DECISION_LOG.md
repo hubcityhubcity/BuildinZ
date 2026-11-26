@@ -238,3 +238,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_RETAIL_ART_HANDOFF.md`.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
 - **Exact next action:** Axiom Labs → Oracle Spire → Prime Mind Nexus.
+
+
+## 2026-11-26 — Arcadia Prime Technology pixel evolution selection
+
+- **Delegated decision:** Select `oracle-spire-v1.png` and `prime-mind-nexus-v1.png` as the N09-I03 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and together. The Stage I panel in the new QA sheet is explicitly a Library reference crop; the canonical Stage I standalone had already been independently verified in the activation checkpoint.
+- **Acceptance:** Exact single names, secured scientific function, repeated robotics/testing chambers, exactly two attached and diagonally braced Stage II instrument decks, exactly three Stage III research towers, a dominant computation core, exactly four enclosed trussed service bridges, a monumental supported sensor crown, complete framing and Arcadia palette continuity all pass. No mystical/oracle imagery is present.
+- **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; no normalization was required. Byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_TECHNOLOGY_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
+- **Exact next action:** Muse Hall → Apollo Palace → Olympian Conservatory.

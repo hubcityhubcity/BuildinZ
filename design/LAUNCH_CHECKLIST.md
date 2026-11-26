@@ -458,5 +458,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Lyceum Galleria and Infinite Forum as N09-I02 Stage II/III architectural masters after individual and lineage review.
 - [x] Verified both selected PNGs decode at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_RETAIL_ART_HANDOFF.md`.
 - [x] Preserved exact single signage, unmistakable stocked public retail, progressive atrium/escalator capacity, supported galleries/promenades, dry public approach, complete dome/base and future sky/street reserve.
-- [ ] Produce and inspect Axiom Labs → Oracle Spire → Prime Mind Nexus as the next Arcadia Prime standalone pixel evolution family.
+- [x] Produced and inspected Axiom Labs → Oracle Spire → Prime Mind Nexus as a standalone pixel evolution family.
+- [x] Selected Oracle Spire and Prime Mind Nexus as N09-I03 Stage II/III architectural masters after individual and lineage review.
+- [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `ARCADIA_PRIME_TECHNOLOGY_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, unmistakable secured research function, progressive robotics/testing capacity, exactly two supported Stage II instrument decks, exactly three Stage III towers, a dominant computation core, exactly four enclosed braced service bridges, a complete scientific crown and future sky/street reserve.
+- [ ] Produce and inspect Muse Hall → Apollo Palace → Olympian Conservatory as the next Arcadia Prime standalone pixel evolution family.
 
