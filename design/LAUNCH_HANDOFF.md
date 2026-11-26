@@ -1148,3 +1148,16 @@ Landmark acceptance passed for exact single names, civic observation function, p
 This completes Old World Steel at the selected architectural-master level only. Edition rendering, permanent URIs, metadata and launch certification remain deferred under William's November 19 production order.
 
 Next: audit and activate **Moonline Harbor** Stage II/III pixel evolution production before generating new artwork.
+
+
+## Moonline Harbor pixel evolution activation — November 25, 2026
+
+Activated N08 Stage II/III standalone pixel production without generating or miscounting artwork. The live registry fixes all five lineages: **Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology**, **Dockside Market → Pearl Galleria → High Tide Exchange**, **Beacon Labs → Tidal Array → Mooncurrent Nexus**, **Harbor Lounge → Moondeck Palace → Eclipse Marina**, and **Tide Beacon → Lunar Lighthouse → Crown of Tides**.
+
+The five selected Stage I pixel bases all decode at 1024×1536. Their recorded byte counts, SHA-256 values and Git blob hashes were independently reproduced, and the actual images were inspected together at equal width. The canonical brief now records those sources, the ten stage-specific repository references, neighborhood/type gates, physical-support rules, future sky/street reserve and the current standalone pixel selection standard.
+
+Three November 19 Library sheets were located and inspected: `Moonline Harbor Waterfront Building Sprites.png`, `Moonline Harbor Stage II Upgrades.png` and `Moonline Harbor Stage III Waterfront Upgrades.png`. They are model-generated five-family composites, useful for palette and waterfront continuity only. They are not owner-approved standalone token assets, do not override repository lineages and are not counted as selected evolutions. The evolution inventory still contains zero N08 entries at activation.
+
+This checkpoint changes production authority and evidence only. It does not certify edition art, permanent storage, metadata, site/contract integration or launch readiness. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: produce and inspect **Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology**, preserving two-/three-tower residential growth, supported private sky amenities, elevated-only water, exact single signage, complete pier/street framing and future sky/street reserve.

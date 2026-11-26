@@ -111,3 +111,18 @@ Selected `assets/pixel-evolutions/iron-crown-spire-v1.png` and `assets/pixel-evo
 - **Inventory:** Old World Steel now has all 5 complete evolution families and 10 selected Stage II/III assets. The canonical evolution inventory contains 70 selected assets across 35 complete families.
 
 Next, audit and activate Moonline Harbor Stage II/III pixel evolution production before generating new artwork.
+
+
+## 2026-11-25 Moonline Harbor pixel evolution activation
+
+Activated N08 Stage II/III standalone pixel production against the live registry and five selected Stage I bases. All five bases independently reproduce their recorded 1024×1536 dimensions, byte counts, SHA-256 values and Git blob hashes; actual images were inspected together at equal width.
+
+- **Residential:** Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology
+- **Retail:** Dockside Market → Pearl Galleria → High Tide Exchange
+- **Technology:** Beacon Labs → Tidal Array → Mooncurrent Nexus
+- **Entertainment:** Harbor Lounge → Moondeck Palace → Eclipse Marina
+- **Landmark:** Tide Beacon → Lunar Lighthouse → Crown of Tides
+- **Reference boundary:** Older repository candidates and three November 19 Library upgrade sheets are architecture evidence only, not selected pixel evolutions. `PIXEL_EVOLUTION_INVENTORY.json` contains zero N08 selections at activation.
+- **Scene boundary:** People, crowds, performers, vehicles, boats, cameos, sky events, street incidents, rarity traits and editions remain deferred.
+
+Next, produce and inspect Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology under the activated `MOONLINE_HARBOR_PRODUCTION_BRIEF.md`.

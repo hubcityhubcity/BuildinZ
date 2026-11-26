@@ -142,3 +142,16 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `OLD_WORLD_STEEL_LANDMARK_ART_HANDOFF.md`.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, visitors, vehicles, rarity traits and editions remain deferred.
 - **Exact next action:** Audit and activate Moonline Harbor Stage II/III pixel evolution production before generating new artwork.
+
+
+## 2026-11-25 — Moonline Harbor pixel evolution activation
+
+- **Delegated decision:** Activate Moonline Harbor Stage II/III production in registry order using the five already-selected Stage I pixel bases and five lineage QA records as architecture evidence.
+- **Medium correction:** Replace stale generic stylized-3D wording and the prior “15/15 base candidates complete” framing with the current 1024×1536 refined high-definition isometric pixel-art gate. The older cinematic candidates remain references only.
+- **Authority boundary:** The registry controls exact names and types; the Stage I source inventory controls selected bases; repository lineage candidates and contact sheets are references; no Moonline Harbor Stage II/III asset is selected until an actual standalone pixel output passes visual and integrity review.
+- **Library evidence:** Inspected `Moonline Harbor Waterfront Building Sprites.png`, `Moonline Harbor Stage II Upgrades.png` and `Moonline Harbor Stage III Waterfront Upgrades.png`. All are model-generated five-family composite sheets. They reinforce palette and waterfront continuity but are not owner-approved individual token art and do not satisfy the standalone asset gate.
+- **Style separation:** Pearl shells/curved canopies, navy structural fins, moon-silver trim, aqua/deep-teal glass, warm interiors, substantial piles and wet urban waterfront approaches define Moonline Harbor without collapsing into Neon Heights, Old World Steel or Royal Mirage.
+- **Scene boundary:** People, crowds, performers, vehicles, boats, cameos, sky events, street incidents, rarity traits and editions remain deferred. Residential water is elevated/private; no ground-level public pool.
+- **Integrity:** All five selected Stage I bases independently reproduced their recorded 1024×1536 dimensions, byte counts, SHA-256 values and Git blob hashes. `PIXEL_EVOLUTION_INVENTORY.json` contains zero N08 selections at activation.
+- **Evidence:** `MOONLINE_HARBOR_PRODUCTION_BRIEF.md`, five `MOONLINE_HARBOR_*_QA.md` files, `MOONLINE_HARBOR_COLLECTION_QA.md`, `STAGE_I_PIXEL_SOURCE_INVENTORY.json`, `ASSET_MANIFEST.json`, `COLLECTION_REGISTRY.json`.
+- **Exact next action:** Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology.
