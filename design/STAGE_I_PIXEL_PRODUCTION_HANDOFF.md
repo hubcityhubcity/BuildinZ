@@ -126,3 +126,17 @@ Activated N08 Stage II/III standalone pixel production against the live registry
 - **Scene boundary:** People, crowds, performers, vehicles, boats, cameos, sky events, street incidents, rarity traits and editions remain deferred.
 
 Next, produce and inspect Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology under the activated `MOONLINE_HARBOR_PRODUCTION_BRIEF.md`.
+
+
+## 2026-11-25 Moonline Harbor Residential evolution selection
+
+Selected `assets/pixel-evolutions/moonwake-habitat-v1.png` and `assets/pixel-evolutions/lunar-marina-arcology-v1.png` as the Stage II/III evolution artwork for N08-I01 Tidelight Residences. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base in `assets/qa/moonline-harbor-residential-pixel-lineage-v1.png`.
+
+- **Moonwake Habitat:** two taller inhabited apartment towers, one enclosed private sky lounge visibly braced to both towers, a larger elevated resident pool, exact single mounted name and complete framing.
+- **Lunar Marina Arcology:** dominant crowned center tower plus two substantial side towers, two distinct supported private resort/lounge bridge levels, several elevated pools, the family's largest attached silver nautical crown, exact single mounted name and complete framing.
+- **Continuity:** curved pearl balconies, navy fins, aqua/deep-teal glazing, warm domestic interiors, moonlit water, pile-supported platforms, full access bridges and wet urban street foreground preserve the Tidelight lineage while height, breadth, private amenity capacity and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, crowds, vehicles, boats, sky events, street incidents, rarity traits and editions remain deferred.
+- **Inventory:** Moonline Harbor now has 1 complete evolution family and 2 selected Stage II/III assets. The canonical evolution inventory contains 72 selected assets across 36 complete families.
+
+Next, produce and inspect Dockside Market → Pearl Galleria → High Tide Exchange.
+

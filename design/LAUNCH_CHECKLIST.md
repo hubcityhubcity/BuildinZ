@@ -420,4 +420,9 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Recorded the authoritative Stage I table, Stage II/III architecture-reference matrix, exact names, type-specific escalation, physical-support rules, pixel output specification and selection evidence gates.
 - [x] Located and inspected the three November 19 Moonline Harbor Library sheets; classified them as model-generated composite architecture evidence, not owner-approved standalone token assets or completed evolutions.
 - [x] Confirmed `PIXEL_EVOLUTION_INVENTORY.json` contains zero N08 selections before new production, preventing old cinematic candidates or composite sheets from being miscounted as pixel evolutions.
-- [ ] Produce and inspect Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology as the first Moonline Harbor standalone pixel evolution family.
+- [x] Produced and inspected Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology as the first Moonline Harbor standalone pixel evolution family.
+- [x] Selected Moonwake Habitat and Lunar Marina Arcology as N08-I01 Stage II/III architectural masters after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `MOONLINE_HARBOR_RESIDENTIAL_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, domestic occupancy, two-/three-tower growth, supported private sky lounges, elevated-only pools, restrained planting, complete pier/street framing and future scene reserve.
+- [ ] Produce and inspect Dockside Market → Pearl Galleria → High Tide Exchange as the next Moonline Harbor standalone pixel evolution family.
+

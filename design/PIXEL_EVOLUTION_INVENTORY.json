@@ -1063,6 +1063,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The skyline-defining civic colossus decisively exceeds Iron Crown Spire with massive outer riveted ribs visibly connected from expanded brick footings to an enormous multi-tier enclosed observation crown, several supported telescope galleries, the lineage's largest copper roof system, lantern crown and complete finial. Exact single signage, complete expanded base/finial, dry ceremonial approach and future street reserve are intact; no people or occupied-building program are baked in.",
       "reviewed_source_commit": "bef225bcae21b081d4b42e9b208140aff18516e4"
+    },
+    {
+      "identity_id": "N08-I01",
+      "stage": 2,
+      "stage_name": "Moonwake Habitat",
+      "path": "assets/pixel-evolutions/moonwake-habitat-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/tidelight-residences-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-moonwake-habitat-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3149899,
+      "sha256": "b9e69433f70102e5dfe8953c4211b29a9e0f3275d685366cc070d111288bcecf",
+      "git_blob_sha": "1bf7819e04b4fed12b75eaf2cb72c77d7c60584f",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. Two visibly taller inhabited apartment towers grow directly from Tidelight Residences with repeated curved pearl balconies, navy fins and warm domestic interiors. A large enclosed residents' sky lounge is visibly braced to both towers and carries a larger elevated private pool, seating deck and restrained planting. Exact single signage, complete roofs/antennae, all pile-supported pier edges, the full access bridge, wet street foreground and future sky/street reserve are intact; no people, vehicles, boats, public pool, hotel or retail program are baked in.",
+      "reviewed_source_commit": "c3d7b3f32d5c26e9ae0c73fa1e257f430ffcff29"
+    },
+    {
+      "identity_id": "N08-I01",
+      "stage": 3,
+      "stage_name": "Lunar Marina Arcology",
+      "path": "assets/pixel-evolutions/lunar-marina-arcology-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/tidelight-residences-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-lunar-marina-arcology-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3244382,
+      "sha256": "b5cd536846cd728c4067546ff75ca8c79e539cdf22b5e95f848608a741d5a023",
+      "git_blob_sha": "cd1339b6c0d7eafe2f37ff771062b8684d742ae4",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. A dominant crowned center tower and two substantial side apartment towers decisively exceed Moonwake Habitat in height, breadth and resident program. Two distinct enclosed resort/lounge bridge levels are fully braced to the towers and carry several elevated private pools, seating zones and restrained planting; the attached silver nautical crown is the family's largest. Curved pearl balconies, navy fins, aqua/teal glazing and warm inhabited interiors preserve the lineage. Exact single signage, complete crown/antennae, all pier piles, full access bridge, wet street foreground and future scene reserve are intact; no people, vehicles, boats, public or ground-level pool, hotel or retail program are baked in.",
+      "reviewed_source_commit": "c3d7b3f32d5c26e9ae0c73fa1e257f430ffcff29"
     }
   ],
   "revision_history": [
@@ -1126,3 +1156,4 @@
     }
   ]
 }
+

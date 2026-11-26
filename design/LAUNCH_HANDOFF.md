@@ -1161,3 +1161,15 @@ Three November 19 Library sheets were located and inspected: `Moonline Harbor Wa
 This checkpoint changes production authority and evidence only. It does not certify edition art, permanent storage, metadata, site/contract integration or launch readiness. No paid service, wallet transaction, deployment, mint opening or public message was performed.
 
 Next: produce and inspect **Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology**, preserving two-/three-tower residential growth, supported private sky amenities, elevated-only water, exact single signage, complete pier/street framing and future sky/street reserve.
+
+
+## Moonline Harbor Residential pixel evolution — November 25, 2026
+
+Completed N08-I01 **Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology** as a visually inspected standalone pixel lineage. Added two selected 1024×1536 evolution masters and a 1536×768 equal-width QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `MOONLINE_HARBOR_RESIDENTIAL_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Residential acceptance passed for exact single names, inhabited domestic function, decisive one-/two-/three-tower growth, visibly supported enclosed private sky lounges, progressively larger elevated-only resident pools, restrained planting, complete crowns/pier/street framing and preserved pearl/navy/aqua/deep-teal continuity. The selected evolution inventory now contains **72 assets covering 36 complete Stage II/III identity families**. Moonline Harbor contains two selected evolution assets across one complete family.
+
+This is architectural-master selection only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred under William's November 19 production order. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: produce and inspect **Dockside Market → Pearl Galleria → High Tide Exchange**.
+

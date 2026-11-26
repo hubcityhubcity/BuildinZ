@@ -155,3 +155,14 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** All five selected Stage I bases independently reproduced their recorded 1024×1536 dimensions, byte counts, SHA-256 values and Git blob hashes. `PIXEL_EVOLUTION_INVENTORY.json` contains zero N08 selections at activation.
 - **Evidence:** `MOONLINE_HARBOR_PRODUCTION_BRIEF.md`, five `MOONLINE_HARBOR_*_QA.md` files, `MOONLINE_HARBOR_COLLECTION_QA.md`, `STAGE_I_PIXEL_SOURCE_INVENTORY.json`, `ASSET_MANIFEST.json`, `COLLECTION_REGISTRY.json`.
 - **Exact next action:** Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology.
+
+
+## 2026-11-25 — Moonline Harbor Residential pixel evolution selection
+
+- **Delegated decision:** Select `moonwake-habitat-v1.png` and `lunar-marina-arcology-v1.png` as the N08-I01 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and beside the selected Tidelight Residences Stage I base at equal width. Older cinematic candidates supplied tower massing, private amenity program and support evidence only.
+- **Acceptance:** Exact single names, inhabited residential function, decisive one-/two-/three-tower growth, supported enclosed sky lounges, progressively larger elevated-only private pools, restrained planting, complete crowns/pier/street framing and preserved pearl/navy/aqua waterfront continuity all passed.
+- **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `MOONLINE_HARBOR_RESIDENTIAL_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, street figures, vehicles, boats, rarity traits and editions remain deferred.
+- **Exact next action:** Dockside Market → Pearl Galleria → High Tide Exchange.
+

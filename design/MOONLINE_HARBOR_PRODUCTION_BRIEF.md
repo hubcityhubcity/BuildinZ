@@ -128,4 +128,7 @@ Continuity anchors: tapered pearl tower, navy fins, silver ribs, aqua observatio
 
 ## Exact next action
 
-Produce and inspect **Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology**. Use the selected Stage I pixel base and matching repository candidates as architecture references. Preserve domestic occupancy, two-/three-tower growth, supported private sky amenities, elevated-only water, exact single signage, complete pier/street framing and future sky/street reserve. Do not count the Library composite sheets or older cinematic candidates as completed pixel artwork.
+Residential is complete at the selected architectural-master level: **Tidelight Residences → Moonwake Habitat → Lunar Marina Arcology** passed individual and equal-width review, with evidence in `MOONLINE_HARBOR_RESIDENTIAL_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Next, produce and inspect **Dockside Market → Pearl Galleria → High Tide Exchange**. Use the selected Stage I pixel base and matching repository candidates as architecture references. Preserve unmistakable public retail, stocked shopfronts, escalating multi-level galleries and escalators, physically supported pearl/navy promenades, exact single signage, complete pier/street framing and future sky/street reserve. Do not count the Library composite sheets or older cinematic candidates as completed pixel artwork.
+
