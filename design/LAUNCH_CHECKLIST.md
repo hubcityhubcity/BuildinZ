@@ -441,5 +441,14 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `MOONLINE_HARBOR_LANDMARK_ART_HANDOFF.md`.
 - [x] Preserved exact single signage, unoccupied civic-landmark function, one-/two-/three-gallery escalation, supported telescope zones, base-connected outer ribs, complete lantern crowns, expanded pier/street framing and future scene reserve.
 - [x] All five Moonline Harbor identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
-- [ ] Audit and activate Arcadia Prime Stage II/III standalone pixel production against its selected Stage I bases, registry names and existing older architecture references.
+- [x] Audited and activated Arcadia Prime Stage II/III standalone pixel production against its selected Stage I bases, registry names and existing older architecture references.
+
+## 2026-11-26 Arcadia Prime pixel production activation
+
+- [x] Independently decoded all five selected Stage I bases at 1024×1536 RGB and reproduced recorded byte counts, SHA-256 values and Git blob hashes.
+- [x] Visually inspected all five selected bases together at equal width for palette, framing and building-type separation.
+- [x] Located and inspected the three November 19 Arcadia Prime Library sheets; classified them as model-generated composite architecture evidence, not owner-approved standalone token assets or completed evolutions.
+- [x] Confirmed `PIXEL_EVOLUTION_INVENTORY.json` contains zero N09 selections before production, preventing older cinematic candidates or composite sheets from being miscounted as pixel evolutions.
+- [x] Replaced stale stylized-3D and prior candidate-completion language with exact standalone pixel output, lineage escalation, physical-support, framing and evidence gates.
+- [ ] Produce and inspect Arcadian Residences → Harmony Habitat → Elysium Arcology as the first Arcadia Prime standalone pixel evolution family.
 

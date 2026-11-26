@@ -207,3 +207,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, visitors, vehicles, boats, rarity traits and editions remain deferred.
 - **Exact next action:** Audit and activate Arcadia Prime Stage II/III standalone pixel production.
 
+
+## 2026-11-26 — Arcadia Prime pixel evolution production activation
+
+- **Authority decision:** William's November 19 refined isometric pixel direction supersedes the older Arcadia Prime stylized-3D production brief and any prior 15/15 candidate-completion implication.
+- **Stage I evidence:** five selected 1024×1536 RGB bases were independently decoded, hash-verified and reviewed together; exact registry names and selected source paths remain canonical.
+- **Reference classification:** the older candidate set and five lineage QA files remain architecture/program evidence only. The three November 19 Library images are model-generated five-building composites, not standalone selected token assets.
+- **Inventory safeguard:** zero N09 entries exist in `PIXEL_EVOLUTION_INVENTORY.json`; no cinematic candidate, mockup, composite crop or placeholder is counted as a current evolution.
+- **Delegated reversible standards:** exact single signage; full crown/base/street reserve; white-stone/cobalt/laurel/gold/cyan continuity; physically supported additions; clear Residential/Retail/Technology/Entertainment/Landmark separation; no people, crowds, vehicles or edition traits.
+- **Exact next action:** Arcadian Residences → Harmony Habitat → Elysium Arcology.
+

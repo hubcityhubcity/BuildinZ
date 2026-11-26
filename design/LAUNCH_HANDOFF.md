@@ -1217,3 +1217,14 @@ This completes Moonline Harbor at the selected architectural-master level only. 
 
 Next: audit and activate **Arcadia Prime** Stage II/III standalone pixel production before generating new artwork.
 
+
+## Arcadia Prime pixel production activation — November 26, 2026
+
+Activated N09 against the live registry, five selected Stage I pixel bases, the asset/source inventories, all five older family QA files and three November 19 Library composite sheets. The five bases were independently decoded and hash-verified, then inspected together in `assets/qa/arcadia-prime-stage-i-pixel-bases-v1.png`.
+
+The production brief now records exact stage names, a verified Stage I evidence table, Stage II/III architecture-reference paths, Library provenance, standalone pixel specifications and type-specific escalation gates. Older cinematic candidates and Library composites remain reference evidence only. `PIXEL_EVOLUTION_INVENTORY.json` still contains zero N09 selections.
+
+No new art was selected in this activation checkpoint. No edition, rarity, metadata, permanent URI, website, contract, deployment, wallet, paid-service or public-message work was performed.
+
+Next: produce and inspect **Arcadian Residences → Harmony Habitat → Elysium Arcology**.
+

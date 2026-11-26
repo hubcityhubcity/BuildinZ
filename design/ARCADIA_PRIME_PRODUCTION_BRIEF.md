@@ -1,63 +1,119 @@
-# Arcadia Prime production brief
+# Arcadia Prime standalone pixel evolution production brief
 
-Recorded November 6, 2026 (America/Chicago), verified against COLLECTION_REGISTRY.json at 06ca82f55483b924bfa83f53d5a746890a13c36c. N09; registry index 8.
+Activated November 26, 2026 (America/Chicago) against repository commit `28bf9acb364c01bbcd55934494d1040b9e157e67`. Neighborhood N09; registry index 8.
 
-## Authority and visual language
+## Authority and status boundary
 
-Registry names/palette/theme are canonical delegated production decisions, not prior owner artwork approvals. Detailed forms below are new delegated architectural choices. White stone, cobalt, laurel green, restrained gold and luminous cyan. Classical-future geometry with colonnades, domes and clean architectural light. Use dry white-stone approaches and a softly lit landscaped urban setting; no Moonline harbor/pier. White/cobalt structure dominates; gold is trim, distinguishing Golden Crest. Avoid desert sandstone and neon-purple/industrial styles.
+William's November 19 direction controls the production medium and order: refined high-definition isometric pixel artwork, with standalone architectural masters tracked separately from mockups, composite sheets and older cinematic references. `COLLECTION_REGISTRY.json` controls exact neighborhood, identity and stage names. `STAGE_I_PIXEL_SOURCE_INVENTORY.json` controls the five selected Stage I bases below.
 
-## Acceptance gates
+The older Arcadia Prime candidate set and family QA remain architecture/program evidence only. Their stylized-3D medium, crowds, visitors, cinematic camera and prior "selected candidate" language do not certify current pixel evolutions. The three November 19 Library sheets are model-generated 1536×1024 five-building composites, not owner-approved standalone token assets. `PIXEL_EVOLUTION_INVENTORY.json` contains zero N09 selections at activation; no old candidate or composite is counted as a completed evolution.
 
-- Exact stage-specific name mounted once; stage/type remain outside artwork.
-- Premium isometric/three-quarter stylized 3D portrait 2:3; entire highest crown, side edges, base corners and approach inside frame with safe margins.
-- Clear functional identity: repeated domestic apartments, visible shops, secured labs, performance stages/audiences or civic viewing decks.
-- Escalate architectural height/program at II and mass/breadth/program at III; compare actual sources at equal width without claiming metric height from perspective.
-- Bridges, galleries, crowns and terraces visibly attach to structural supports.
-- Residential pools private/elevated; II enclosed private sky lounge and larger pool; III multi-zone resort/crown and several elevated pools. No ground public pool; restrained rooftop planting.
-- Preserve originals; version corrections; inspect actual outputs and record dimensions/decoding/bytes/SHA-256/Git blob. Candidates never imply final export or edition certification.
+## Neighborhood language
 
-## Residential — N09-I01
+- **Palette:** white stone, cobalt, laurel green, restrained gold and luminous cyan.
+- **Architecture:** classical-future civic geometry with colonnades, domes and clean-energy light.
+- **Ground:** dry white-stone civic approaches with an urban street/foreground reserve; no harbor, pier, desert sandstone or neon-industrial treatment.
+- **Pixel continuity:** match the selected Stage I bases' crisp stepped edges, compact pixel clusters, warm interiors and navy-to-black night sky. Do not drift into smooth cinematic rendering.
+- **Scene boundary:** no people, crowds, vehicles, edition traits, sky events or street incidents in architectural masters.
 
-| Stage | Exact name | Required form |
+## Verified selected Stage I bases
+
+All five PNGs independently decoded at 1024×1536 RGB and were inspected together at equal width in `assets/qa/arcadia-prime-stage-i-pixel-bases-v1.png`.
+
+| ID | Stage I | Selected path | Bytes | SHA-256 | Git blob |
+|---|---|---|---:|---|---|
+| N09-I01 | Arcadian Residences | `assets/pixel-stage-i/arcadian-residences-v2.png` | 2,508,783 | `793f971f700216c52343d3e3c9f6544d51637d5f3e1f0424152439b37440622e` | `6d43bba96a9bb09fac5144e22ce140ef7ed79068` |
+| N09-I02 | Agora Plaza | `assets/pixel-stage-i/agora-plaza-v2.png` | 2,545,784 | `fba568c92473e8f82caad413c708bbe478e6bb6826792e1c7af850005bf40743` | `e69031c7c7864c029da3188e90711c643adfaf9e` |
+| N09-I03 | Axiom Labs | `assets/pixel-stage-i/axiom-labs-v1.png` | 2,801,509 | `4ba656253e895a607316867631dad71dcaed18ca9dff8059e400ef3e811f0fd1` | `325478bfaf5580ad8be75cc832ec95765f72422c` |
+| N09-I04 | Muse Hall | `assets/pixel-stage-i/muse-hall-v1.png` | 2,774,753 | `8924d0d61b580728c937c988eedd1e1f56b06fcf5aa436e1e361f11b2f37f79d` | `eba736354a63cec83df8c8021428681ab6bc9d1d` |
+| N09-I05 | Arcadia Beacon | `assets/pixel-stage-i/arcadia-beacon-v1.png` | 2,658,121 | `6fa6daff368bde34313c997ea7c5e679f1febc2550afb9d185481199baa3e01e` | `ceaa9e65d03c24b6f4f32dcc595f4841e95f7b97` |
+
+The five bases are visibly distinct: inhabited residences, public retail plaza, secured laboratories, performance hall and unoccupied civic beacon.
+
+## Stage II/III architecture-reference matrix
+
+These older candidates establish lineage massing and building program only. They are not pixel selections.
+
+| ID | Stage II | Reference | Stage III | Reference |
+|---|---|---|---|---|
+| N09-I01 | Harmony Habitat | `assets/candidates/arcadia-prime-harmony-habitat-stage-2-v1.png` | Elysium Arcology | `assets/candidates/arcadia-prime-elysium-arcology-stage-3-v1.png` |
+| N09-I02 | Lyceum Galleria | `assets/candidates/arcadia-prime-lyceum-galleria-stage-2-v1.png` | Infinite Forum | `assets/candidates/arcadia-prime-infinite-forum-stage-3-v1.png` |
+| N09-I03 | Oracle Spire | `assets/candidates/arcadia-prime-oracle-spire-stage-2-v1.png` | Prime Mind Nexus | `assets/candidates/arcadia-prime-prime-mind-nexus-stage-3-v1.png` |
+| N09-I04 | Apollo Palace | `assets/candidates/arcadia-prime-apollo-palace-stage-2-v1.png` | Olympian Conservatory | `assets/candidates/arcadia-prime-olympian-conservatory-stage-3-v2.png` |
+| N09-I05 | Parthenon Apex | `assets/candidates/arcadia-prime-parthenon-apex-stage-2-v1.png` | Crown of Olympus | `assets/candidates/arcadia-prime-crown-of-olympus-stage-3-v1.png` |
+
+Library architecture evidence, inspected November 26:
+
+| Sheet | Library ID | SHA-256 | Classification |
+|---|---|---|---|
+| Arcadia Prime pixel building sprites.png | `libfile_3453f443a9e881918a8f593973664b20` | `b6ebb45b4f31073da993fd5c7dd28e20cf8fd24d1fdb6e3e1f55c5a93202738f` | Model-generated Stage I composite; reference only |
+| Arcadia Prime Stage II Upgrades.png | `libfile_b08efa192e10819195f426899cf0da38` | `bf68d512ade502f9e9dbc96a7d1b6261be7fcd45b783a65369179349f0fa1928` | Model-generated Stage II composite; reference only |
+| Arcadia Prime Stage III Upgrades.png | `libfile_68c8e052d8388191b56466ebedeb46b1` | `3cd66377db8949a55c0345975f7a5fafa65d1599655611b0d2e6db90952d9187` | Model-generated Stage III composite; reference only |
+
+## Universal output and selection gates
+
+- Standalone 1024×1536 RGB PNG, refined isometric pixel art; one building identity and one stage only.
+- Exact stage-specific name mounted once and readable. Keep the building type and stage label outside artwork.
+- Preserve full highest crown, all side edges, base corners, dry approach and generous sky/street reserve.
+- Stage II must be decisively taller or broader than Stage I and add the named program. Stage III must exceed Stage II in mass, capacity and crown complexity.
+- Bridges, galleries, terraces, domes, ribs and crowns must visibly connect to load-bearing structure.
+- Compare Stage I/II/III at equal width. Record dimensions, color mode, byte count, SHA-256 and Git blob before selection.
+- Never count a composite crop, mockup, older cinematic candidate or placeholder as standalone selected art.
+
+## Family requirements
+
+### N09-I01 Residential
+
+| Stage | Exact name | Required escalation |
 |---:|---|---|
-| 1 | Arcadian Residences | Compact white-stone apartment block, repeated cobalt balconies/domestic interiors, small dome lounge and private rooftop pool. |
-| 2 | Harmony Habitat | Two taller residential towers with supported enclosed private sky lounge and larger elevated pool; retain white piers/cobalt balcony panels. |
-| 3 | Elysium Arcology | Three residential towers with supported multi-zone private sky resort, several elevated pools and complete cobalt/gold geometric crown. |
+| I | Arcadian Residences | Selected inhabited apartment base with repeated domestic units, cobalt balconies and private elevated amenity space. |
+| II | Harmony Habitat | Two taller inhabited towers; one supported enclosed private sky lounge and a larger elevated resident pool. |
+| III | Elysium Arcology | Dominant center tower plus two substantial residential towers; two supported private resort/lounge zones, several elevated pools and complete geometric crown. |
 
-## Retail — N09-I02
+No ground-level public pool. Keep greenery restrained and water private/elevated.
 
-| Stage | Exact name | Required form |
+### N09-I02 Retail
+
+| Stage | Exact name | Required escalation |
 |---:|---|---|
-| 1 | Agora Plaza | Low colonnaded shopping plaza with visible shopfronts and sheltered pedestrian arcade. |
-| 2 | Lyceum Galleria | Multi-level retail galleria with shops, escalators, supported galleries and cobalt glass dome. |
-| 3 | Infinite Forum | Vertical retail forum with stacked shopping atria, supported sky promenades and geometric domed crown. |
+| I | Agora Plaza | Selected low public plaza with stocked stalls/shopfronts and sheltered arcade. |
+| II | Lyceum Galleria | Multi-level stocked galleria with broad visible escalator circulation, supported galleries and larger cobalt dome. |
+| III | Infinite Forum | Decisively taller vertical forum with stacked stocked atria, multiple escalator systems, supported sky promenades and largest attached domed crown. |
 
-## Technology — N09-I03
+Retail must remain public and merchandise-readable, not residential or civic-office architecture.
 
-| Stage | Exact name | Required form |
+### N09-I03 Technology
+
+| Stage | Exact name | Required escalation |
 |---:|---|---|
-| 1 | Axiom Labs | Secured engineering labs with visible robotics benches, cyan diagnostic glazing and compact geometric dome. |
-| 2 | Oracle Spire | Taller research spire with enclosed test chambers and supported instrument decks. |
-| 3 | Prime Mind Nexus | Connected research towers with computation core, enclosed braced service bridges and machinery/dome crown. |
+| I | Axiom Labs | Selected secured engineering base with visible robotics/testing and compact cyan dome. |
+| II | Oracle Spire | Taller secured research spire with repeated robotics/testing chambers and exactly two supported instrument decks. |
+| III | Prime Mind Nexus | Three connected research towers, dominant computation core, four enclosed braced service bridges and monumental supported scientific crown. |
 
-## Entertainment — N09-I04
+No mystical/oracle imagery; the lineage is scientific and computational.
 
-| Stage | Exact name | Required form |
+### N09-I04 Entertainment
+
+| Stage | Exact name | Required escalation |
 |---:|---|---|
-| 1 | Muse Hall | Small performance hall with visible stage, instruments and audience seats under cobalt shell dome. |
-| 2 | Apollo Palace | Larger multi-hall theatre with supported audience balconies and white/cobalt canopy. |
-| 3 | Olympian Conservatory | Monumental conservatory with multiple visible performance stages, audience tiers and supported colonnaded/domed crown. |
+| I | Muse Hall | Selected compact performance hall with visible instrumented stage and empty audience seating. |
+| II | Apollo Palace | Larger venue with exactly three separate instrumented stages, two central upper audience tiers and supported galleries/circulation. |
+| III | Olympian Conservatory | Monumental conservatory retaining exactly three primary instrumented stages, three central upper audience tiers, expanded empty side seating and largest attached shell/civic crown. |
 
-## Landmark — N09-I05
+No performers or crowd. Do not multiply small stages merely to imply scale.
 
-| Stage | Exact name | Required form |
+### N09-I05 Landmark
+
+| Stage | Exact name | Required escalation |
 |---:|---|---|
-| 1 | Arcadia Beacon | Slender civic observation beacon with enclosed viewing gallery and cyan lantern. |
-| 2 | Parthenon Apex | Taller civic observation landmark with two supported viewing galleries and colonnaded summit. |
-| 3 | Crown of Olympus | Broad multi-gallery civic crown supported by attached ribs/colonnades, complete lantern and expanded ceremonial base. |
+| I | Arcadia Beacon | Selected slender unoccupied civic beacon with one enclosed observation gallery. |
+| II | Parthenon Apex | Taller unoccupied landmark with exactly two vertically separated supported observation galleries and larger lantern/crown. |
+| III | Crown of Olympus | Broad monumental landmark with exactly three observation galleries, base-connected outer ribs/colonnades, expanded ceremonial base and largest complete lantern crown. |
 
-## Current production state
+Observation equipment may appear but galleries remain unoccupied; do not drift into residential or office use.
 
-Arcadian Residences v1 individually inspected and selected: repeated domestic balconies, rooftop private pool/lounge beneath cobalt dome, white-stone/cobalt/laurel/cyan family, readable mounted name and complete building/entrance approach. No precise floor-count claim. Integrity in ASSET_MANIFEST.json.
+## Production sequence
 
-Harmony Habitat v1 now individually selected: twin taller apartment towers, braced enclosed private sky lounge, larger elevated pool and full dome/base/approach framing. Elysium Arcology v1 now selected after individual/equal-width review: three domestic towers, two braced private resort levels, several elevated pools and complete cobalt geometric crown. See ARCADIA_PRIME_RESIDENTIAL_QA.md. Agora Plaza v2 individually inspected and selected: elevated three-quarter stylized view, two-level shopping arcade with visible retail goods, supported galleries and cobalt dome; complete building/base/approach framing. v1 preserved and rejected for frontal camera. Lyceum Galleria v1 individually inspected and selected: stacked shops, visible central escalators, supported white colonnades and larger cobalt/cyan dome; exact name and full roof/base/approach framing. Infinite Forum v1 individually/equal-width inspected and selected: taller stocked retail wings, stacked atrium/escalators, connected galleries and expanded domed roof pavilions; exact name, complete framing and palette continuity. Seven Retail base-selection gates pass in ARCADIA_PRIME_RETAIL_QA.md. Axiom Labs v1 individually inspected and selected: visible robotics benches, instrument displays, enclosed test chambers and access gates beneath compact ribbed machinery dome; exact name, full roof/base/approach and white/cobalt/cyan identity. Oracle Spire v1 individually inspected and selected: taller enclosed research tower, visible robotics/testing, two scientific instrument decks on diagonal supports and complete machinery dome/antenna/base framing. Prime Mind Nexus v1 selected after individual/equal-width Technology review: three research towers, visible computation core, two enclosed braced bridges and scientific decks. Core lineage gates pass; tight side margins need wider final export framing. See ARCADIA_PRIME_TECHNOLOGY_QA.md. Muse Hall v3 individually inspected/selected after camera and sign correction: visible concert/audience, rehearsal wings, cobalt shell dome, exact name and complete three-quarter framing; v1/v2 rejected sources preserved. Apollo Palace v1 individually inspected/selected: central concert hall with two upper audience balcony tiers, two side performance halls and complete cobalt shell dome/wing/base framing; exact name. Olympian Conservatory v2 selected after side-framing correction and individual/equal-width Entertainment review: three central balcony tiers, five visible performance spaces and multi-zone domed crown; exact name and complete framing. v1 rejected source preserved. See ARCADIA_PRIME_ENTERTAINMENT_QA.md. Arcadia Beacon v1 individually inspected/selected: one cyan viewing gallery with telescopes/visitors, supported lantern dome, exact name and full dry base/approach; top finial margin tight, final export widening required. Parthenon Apex v1 individually inspected/selected: two supported enclosed viewing galleries/telescopes, colonnaded lantern summit, exact name and full finial/base framing. Next: Crown of Olympus using Beacon v1 and Apex v1 → Landmark/full-neighborhood review. Complete one lineage before next identity. Final safe-area/export, edition, URI/metadata and launch gates remain open.
+Complete one family before starting the next: Residential → Retail → Technology → Entertainment → Landmark. For each family, produce Stage II and III, inspect each at full frame, compare the three stages at equal width, select only passing standalone outputs, update the canonical evolution inventory and family handoff, then checkpoint. Edition traits, rarity assignment, evolution metadata, website and contract work remain deferred until the base/evolution architectural production gate permits them.
+
+**Exact next action:** produce and inspect Arcadian Residences → Harmony Habitat → Elysium Arcology, using the selected Stage I base plus the reference matrix and Library composites only as architecture evidence.

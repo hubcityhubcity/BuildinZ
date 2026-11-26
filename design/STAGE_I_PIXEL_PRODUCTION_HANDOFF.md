@@ -192,3 +192,12 @@ Selected `assets/pixel-evolutions/lunar-lighthouse-v1.png` and `assets/pixel-evo
 
 Next, audit and activate Arcadia Prime Stage II/III standalone pixel production before generating new artwork.
 
+
+## 2026-11-26 Arcadia Prime evolution production activation
+
+Audited N09 against the current registry, five selected Stage I pixel bases, older candidate/QA sources and three November 19 Library composites. All five bases decode at 1024×1536 RGB and reproduce their recorded byte, SHA-256 and Git blob evidence. `assets/qa/arcadia-prime-stage-i-pixel-bases-v1.png` confirms a coherent neighborhood palette and five distinct building functions at equal width.
+
+The Library composites and older cinematic candidates are architecture references only. They are not standalone selected artwork. The canonical evolution inventory contains zero N09 entries at activation.
+
+Next, produce and inspect **Arcadian Residences → Harmony Habitat → Elysium Arcology** with two-/three-tower residential growth, supported private sky amenities, elevated-only water, exact single signage and complete future sky/street reserve.
+
