@@ -1003,6 +1003,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. Three connected research towers, a dominant luminous central computation core, several enclosed truss-supported service bridges, dense visible robotics and a monumental attached machinery crown decisively exceed Titan Mill in breadth, program, connectivity and crown complexity. Brick piers, coal-black iron, copper roofs, blue sealed glazing and orange diagnostics preserve the family. Exact single signage, complete crown/base, secure dry yard and future street reserve are intact; no people, water, public retail or residential program are baked in.",
       "reviewed_source_commit": "38ddf3fbd71d86a4972cc939b6df8c8c1ddb1582"
+    },
+    {
+      "identity_id": "N07-I04",
+      "stage": 2,
+      "stage_name": "Foundry Palace",
+      "path": "assets/pixel-evolutions/foundry-palace-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/boiler-hall-v1.png",
+      "architecture_reference": "assets/candidates/old-world-steel-foundry-palace-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2980414,
+      "sha256": "06354ccb5f248f6921e988cdd9e894942c3eb4f73fd644713f9738a3b07ca76f",
+      "git_blob_sha": "76af2fff7210a7c5e76349a7d7016a76f300c28f",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The larger civic performance palace grows directly from Boiler Hall with one dominant central theatre and two substantial side performance halls, exactly three visible instrumented stages, expanded empty tiered seating, supported audience galleries/circulation and a complete copper-and-iron canopy. Brick piers, blue glazing and furnace-orange venue lighting remain coherent. Exact single signage, complete chimney/roof/base, dry public approach and future street reserve are intact; no people, hotel, residential, laboratory or retail program are baked in.",
+      "reviewed_source_commit": "31867a4c30693ccbdc0b5ffbe93395e3d039d5cb"
+    },
+    {
+      "identity_id": "N07-I04",
+      "stage": 3,
+      "stage_name": "Imperial Engineworks",
+      "path": "assets/pixel-evolutions/imperial-engineworks-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/boiler-hall-v1.png",
+      "architecture_reference": "assets/candidates/old-world-steel-imperial-engineworks-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3172704,
+      "sha256": "a8dae6124f29ac6fb93305e8de9435a756101ccbc22c459b99c56fcfd92587c3",
+      "git_blob_sha": "1b5e02923f0ca19525badd2fa21029ac03be5266",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The monumental broad performance complex decisively exceeds Foundry Palace with a vast central stage, two substantial side stages, much larger empty central audience tiers, several stacked supported galleries and enclosed circulation, plus the family's largest attached engine-and-gear crown. Brick, riveted iron, copper roofs, blue glazing and furnace-orange lighting preserve the lineage. Exact single signage, complete chimneys/crown/base, dry public approach and future street reserve are intact; no people, hotel, residential, laboratory or retail program are baked in.",
+      "reviewed_source_commit": "31867a4c30693ccbdc0b5ffbe93395e3d039d5cb"
     }
   ],
   "revision_history": [

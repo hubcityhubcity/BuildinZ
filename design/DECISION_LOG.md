@@ -121,3 +121,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `OLD_WORLD_STEEL_TECHNOLOGY_ART_HANDOFF.md`.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, street figures, vehicles, rarity traits and editions remain deferred.
 - **Exact next action:** Boiler Hall → Foundry Palace → Imperial Engineworks.
+
+
+## 2026-11-25 — Old World Steel Entertainment pixel evolution selection
+
+- **Delegated decision:** Select `foundry-palace-v1.png` and `imperial-engineworks-v1.png` as the N07-I04 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and beside the selected Boiler Hall Stage I base at equal width. Older cinematic candidates supplied massing and program evidence only.
+- **Acceptance:** Exact single names, exactly three visible instrumented stages, expanded empty seating, progressive civic venue scale, supported audience galleries/circulation, dry approaches, complete crowns/bases and preserved brick/iron/copper/blue-glass lineage all passed.
+- **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `OLD_WORLD_STEEL_ENTERTAINMENT_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, performers, crowds, vehicles, rarity traits and editions remain deferred.
+- **Exact next action:** Ironworks Beacon → Iron Crown Spire → Colossus of Steel.

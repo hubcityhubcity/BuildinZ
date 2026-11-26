@@ -71,3 +71,29 @@ Selected `assets/pixel-evolutions/steelworks-arcade-v1.png` and `assets/pixel-ev
 - **Inventory:** Old World Steel now has 2 complete evolution families and 4 selected Stage II/III assets. The canonical evolution inventory contains 64 selected assets across 32 complete families.
 
 Next, produce and inspect Gearhouse Labs → Titan Mill → Machina Nexus.
+
+
+## 2026-11-25 Old World Steel Technology evolution selection
+
+Selected `assets/pixel-evolutions/titan-mill-v1.png` and `assets/pixel-evolutions/machina-nexus-v1.png` as the Stage II/III evolution artwork for N07-I03 Gearhouse Labs. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base in `assets/qa/old-world-steel-technology-pixel-lineage-v1.png`.
+
+- **Titan Mill:** nine-plus-level secured research mill with multiple enclosed robotics chambers, visible engineering rigs, supported external test decks, complete chimney-and-machinery crown and exact single mounted name.
+- **Machina Nexus:** three connected research towers, dominant central computation core, several enclosed truss-supported service bridges, dense visible machinery, largest attached machinery crown and exact single mounted name.
+- **Continuity:** brick piers, coal-black riveted iron, copper service roofs, industrial-blue sealed glazing and furnace-orange diagnostics preserve the Gearhouse Labs lineage while scale, research capacity, connectivity and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, vehicles, sky events, street scenes, rarity traits and editions remain deferred.
+- **Inventory:** Old World Steel now has 3 complete evolution families and 6 selected Stage II/III assets. The canonical evolution inventory contains 66 selected assets across 33 complete families.
+
+Next, produce and inspect Boiler Hall → Foundry Palace → Imperial Engineworks.
+
+
+## 2026-11-25 Old World Steel Entertainment evolution selection
+
+Selected `assets/pixel-evolutions/foundry-palace-v1.png` and `assets/pixel-evolutions/imperial-engineworks-v1.png` as the Stage II/III evolution artwork for N07-I04 Boiler Hall. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base in `assets/qa/old-world-steel-entertainment-pixel-lineage-v1.png`.
+
+- **Foundry Palace:** larger central theatre plus two side performance halls, exactly three visible instrumented stages, expanded empty tiered seating, supported audience galleries/circulation, complete copper-and-iron canopy and exact single mounted name.
+- **Imperial Engineworks:** monumental broad three-stage complex, much larger empty central audience tiers, stacked supported galleries/circulation, largest attached engine-and-gear crown, exact single mounted name and complete framing.
+- **Continuity:** brick piers, coal-black riveted iron, copper service roofs, industrial-blue glazing and furnace-orange lighting preserve the Boiler Hall lineage while scale, audience capacity, circulation and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. Performers, crowds, people, vehicles, sky events, street scenes, rarity traits and editions remain deferred.
+- **Inventory:** Old World Steel now has 4 complete evolution families and 8 selected Stage II/III assets. The canonical evolution inventory contains 68 selected assets across 34 complete families.
+
+Next, produce and inspect Ironworks Beacon → Iron Crown Spire → Colossus of Steel.

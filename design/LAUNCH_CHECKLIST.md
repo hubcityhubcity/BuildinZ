@@ -404,4 +404,7 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Titan Mill and Machina Nexus as N07-I03 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
 - [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
 - [x] Preserved the Technology gates: exact single signage, sealed blue-glass robotics labs, visible engineering rigs, physically supported test decks/bridges, secure dry service yard, complete crown/base and future street reserve.
-- [ ] Continue with Boiler Hall → Foundry Palace → Imperial Engineworks.
+- [x] Selected Foundry Palace and Imperial Engineworks as N07-I04 Stage II/III standalone pixel evolution artworks after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json`.
+- [x] Preserved the Entertainment gates: exact single signage, exactly three visible instrumented stages, empty tiered seating, physically supported audience galleries/circulation, dry public approach, complete crowns/bases and future street reserve.
+- [ ] Continue with Ironworks Beacon → Iron Crown Spire → Colossus of Steel.

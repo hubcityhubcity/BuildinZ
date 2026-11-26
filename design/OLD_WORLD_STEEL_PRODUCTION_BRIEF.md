@@ -126,4 +126,4 @@ Continuity anchors: riveted iron lattice, weathered copper beacon/crown, industr
 
 ## Exact next action
 
-Produce and inspect **Boiler Hall → Foundry Palace → Imperial Engineworks**. Preserve civic entertainment function, visible performance stages and empty supported audience galleries, brick piers, coal-black riveted iron, copper service roofs, industrial-blue glazing, furnace-orange lighting, exact names, complete framing and clear Stage I→II→III escalation. Do not introduce hotel, residential, laboratory or public-pool program.
+Produce and inspect **Ironworks Beacon → Iron Crown Spire → Colossus of Steel**. Preserve civic landmark and observation function, riveted iron lattice, weathered copper beacon/crown, industrial-blue observation glass, red-brown brick pedestal, exact names, complete finials/bases, physically supported observation levels and clear Stage I→II→III escalation. Do not introduce apartment, office, retail, laboratory or theatre program.

@@ -1126,3 +1126,14 @@ Technology acceptance passed for exact single names, secured laboratory function
 This is architectural-master selection only. Edition rendering, permanent URIs, metadata and launch certification remain deferred under William's November 19 production order.
 
 Next: produce and inspect **Boiler Hall → Foundry Palace → Imperial Engineworks**.
+
+
+## Old World Steel Entertainment pixel evolution — November 25, 2026
+
+Completed N07-I04 **Boiler Hall → Foundry Palace → Imperial Engineworks** as a visually inspected standalone pixel lineage. Added two selected 1024×1536 evolution masters and a 1536×768 equal-width QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `OLD_WORLD_STEEL_ENTERTAINMENT_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Entertainment acceptance passed for exact single names, exactly three visible instrumented stages at Stages II/III, progressive civic venue scale, empty audience tiers, supported galleries/circulation, dry public approaches, complete crowns/bases and preserved brick/iron/copper continuity. The selected evolution inventory now contains **68 assets covering 34 complete Stage II/III identity families**. Old World Steel contains eight selected evolution assets across four complete families.
+
+This is architectural-master selection only. Edition rendering, permanent URIs, metadata and launch certification remain deferred under William's November 19 production order.
+
+Next: produce and inspect **Ironworks Beacon → Iron Crown Spire → Colossus of Steel**.
