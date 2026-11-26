@@ -174,3 +174,12 @@ Next: Redline Labs → Vermilion Spire → Phoenix Nexus.
 N10-I03 is now selected at the architectural-master level: Redline Labs → Vermilion Spire → Phoenix Nexus. Vermilion has repeated enclosed robotics/testing chambers and exactly two exterior scientific decks carried by large diagonal braces. Phoenix has exactly three substantial research towers, one dominant computation core, exactly four enclosed service bridges with visible structural support, and a complete attached machinery/sensor crown. No mystical phoenix imagery, people, vehicles or edition traits are present. Evidence is in `CRIMSON_COMMONS_TECHNOLOGY_ART_HANDOFF.md` and `assets/qa/crimson-commons-technology-pixel-lineage-v1.png`.
 
 Next: Ember Hall → Scarlet Palace → Crimson Coliseum.
+
+
+## November 26, 2026 Entertainment canon correction and checkpoint
+
+N10-I04 is canonically a boxing-arena Entertainment lineage, not a concert hall. The controlling evidence is the preserved source `10 Crimson Commons/04 boxing arena.png`, the selected Ember Hall base and `Crimson Commons Boxing Arena Sheet.png` (`libfile_4c9d2c22e7348191a211a6e670e86a28`). The older N10-I04 concert-hall/multiple-stage form in this brief is superseded.
+
+The selected progression is Ember Hall → Scarlet Palace → Crimson Coliseum. Each stage retains exactly one regulation ring. Scarlet Palace has exactly two empty upper seating tiers and supported circulation; Crimson Coliseum has exactly three upper tiers plus substantial side seating, four mounted screens and the largest attached arena crown. Evidence is in `CRIMSON_COMMONS_ENTERTAINMENT_ART_HANDOFF.md` and `assets/qa/crimson-commons-entertainment-pixel-lineage-v1.png`.
+
+Next: Bloodmoon Beacon → Cardinal Apex → Crown of Flame.

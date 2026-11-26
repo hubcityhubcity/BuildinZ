@@ -503,3 +503,13 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_TECHNOLOGY_ART_HANDOFF.md`.
 - [x] Preserved exact single signage, secured engineering function, progressive robotics/testing capacity, two supported Stage II instrument decks, three Stage III towers, four enclosed braced bridges, a dominant computation core, complete machinery crowns and future sky/street reserve.
 - [ ] Produce and inspect Ember Hall → Scarlet Palace → Crimson Coliseum as the next incomplete family.
+
+
+## 2026-11-26 Crimson Commons Entertainment canon correction and pixel evolution
+
+- [x] Reconciled N10-I04 against the preserved `04 boxing arena.png` source, selected Ember Hall architecture and dedicated Library boxing-arena sheet; superseded stale concert-hall/multiple-stage wording while keeping building type Entertainment.
+- [x] Produced and inspected Ember Hall → Scarlet Palace → Crimson Coliseum as a standalone boxing-arena pixel evolution family.
+- [x] Selected Scarlet Palace and Crimson Coliseum as N10-I04 Stage II/III architectural masters after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_ENTERTAINMENT_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, one regulation ring, progressive empty seating capacity, supported galleries/circulation, broadcast/training infrastructure, four Stage III screens, complete crowns and future sky/street reserve.
+- [ ] Produce and inspect Bloodmoon Beacon → Cardinal Apex → Crown of Flame as the final incomplete family.

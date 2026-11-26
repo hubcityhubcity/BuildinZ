@@ -300,3 +300,14 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; no normalization was required. Byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_TECHNOLOGY_ART_HANDOFF.md`.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
 - **Exact next action:** Ember Hall → Scarlet Palace → Crimson Coliseum.
+
+
+## 2026-11-26 — Crimson Commons Entertainment canon correction and pixel evolution selection
+
+- **Canon correction:** Preserve N10-I04 as a boxing-arena lineage. The source filename, selected Ember Hall architecture and dedicated Library sheet all establish a regulation ring. Older concert-hall and multiple-concert-stage wording is superseded for this identity; building type remains Entertainment.
+- **Delegated decision:** Select `scarlet-palace-v1.png` and `crimson-coliseum-v1.png` as the N10-I04 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and together. The Stage I panel in the QA sheet is explicitly a Library reference crop; the canonical Ember Hall standalone remains `assets/pixel-stage-i/ember-hall-v1.png`.
+- **Acceptance:** Exact single names, exactly one regulation boxing ring at each stage, decisive compact-hall/palace/coliseum growth, two-/three-tier empty seating escalation, supported galleries/circulation, broadcast and training infrastructure, four structurally mounted Stage III screens, complete attached crowns, full framing and Crimson palette continuity all pass.
+- **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; no normalization was required. Byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_ENTERTAINMENT_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Fighters, crowds, people, vehicles, event traits, rarity traits and editions remain deferred.
+- **Exact next action:** Bloodmoon Beacon → Cardinal Apex → Crown of Flame.

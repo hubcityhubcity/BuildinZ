@@ -307,3 +307,18 @@ Selected `assets/pixel-evolutions/vermilion-spire-v1.png` and `assets/pixel-evol
 - **Inventory:** Crimson Commons now has 3 complete evolution families and 6 selected Stage II/III assets. The canonical evolution inventory contains 96 selected assets across 48 complete families.
 
 Next, produce and inspect Ember Hall → Scarlet Palace → Crimson Coliseum.
+
+
+## 2026-11-26 Crimson Commons Entertainment canon correction and evolution selection
+
+The N10-I04 source entry, canonical Ember Hall architecture and dedicated Library sheet establish a boxing-arena lineage. This supersedes older concert-hall/multiple-stage language for this identity without changing its Entertainment building type.
+
+Selected `assets/pixel-evolutions/scarlet-palace-v1.png` and `assets/pixel-evolutions/crimson-coliseum-v1.png` as the Stage II/III evolution artwork for N10-I04 Ember Hall. Both are native 1024×1536 RGB refined isometric pixel artworks and were reviewed individually and together in `assets/qa/crimson-commons-entertainment-pixel-lineage-v1.png`.
+
+- **Scarlet Palace:** exactly one regulation boxing ring, exactly two empty upper seating tiers, four corner circulation towers, supported galleries, broadcast/commentary booths, visible training rooms, exact single mounted name and full framing.
+- **Crimson Coliseum:** retains exactly one regulation ring, expands to exactly three empty upper tiers plus substantial empty side seating, four enlarged circulation towers, four structurally mounted screens and the family's largest attached canopy/civic crown.
+- **Continuity:** octagonal bone structure, charcoal framing, crimson/burgundy panels, warm brass light, glove emblem and ring-centered venue program preserve Ember Hall while height, breadth, seating, circulation, display area and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. Fighters, crowds, people, vehicles, event traits, rarity traits and editions remain deferred.
+- **Inventory:** Crimson Commons now has 4 complete evolution families and 8 selected Stage II/III assets. The canonical evolution inventory contains 98 selected assets across 49 complete families.
+
+Next, produce and inspect Bloodmoon Beacon → Cardinal Apex → Crown of Flame.

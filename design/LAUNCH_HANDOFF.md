@@ -1320,3 +1320,16 @@ Technology acceptance passed for exact single names, secured engineering/researc
 The Stage I QA panel is explicitly a Library reference crop and does not replace the canonical selected Redline Labs master. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
 
 Next: produce and inspect **Ember Hall → Scarlet Palace → Crimson Coliseum**.
+
+
+## Crimson Commons Entertainment canon correction and pixel evolution — November 26, 2026
+
+The N10-I04 audit corrected a prior inconsistency: the preserved source, selected Ember Hall architecture and dedicated Library sheet are all explicitly a boxing arena. Older concert-hall/multiple-stage wording is superseded for this identity while the metadata building type remains Entertainment.
+
+Completed **Ember Hall → Scarlet Palace → Crimson Coliseum** as a visually inspected standalone pixel lineage. Added two selected native 1024×1536 RGB evolution masters and a 1536×768 QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `CRIMSON_COMMONS_ENTERTAINMENT_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Acceptance passed for exact single names, exactly one regulation ring at every stage, decisive arena growth, two-/three-tier empty seating escalation, substantial Stage III side seating, supported galleries/circulation, broadcast and training infrastructure, four attached Stage III video screens, complete crowns, dry civic plaza framing and preserved crimson/burgundy/charcoal/bone/brass continuity. The selected evolution inventory now contains **98 assets covering 49 complete Stage II/III identity families**. Crimson Commons contains eight selected evolution assets across four complete families.
+
+The Stage I QA panel is explicitly a Library reference crop and does not replace the canonical selected Ember Hall master. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: produce and inspect **Bloodmoon Beacon → Cardinal Apex → Crown of Flame**.

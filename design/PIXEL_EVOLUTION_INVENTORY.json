@@ -1453,6 +1453,38 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The lineage becomes exactly three substantial connected research towers around one dominant luminous computation core with visible server arrays, data conduits, robotics and sealed testing chambers. Exactly four enclosed crimson-glass service bridges connect the center tower to the two side towers at two heights; every bridge is attached between tower piers and reinforced by exterior trusses or diagonal braces. A monumental attached machinery/sensor crown with antenna and retained scientific dish, exact single naming, secure base/service street and useful sky/foreground reserve remain visible. Phoenix Nexus decisively exceeds Vermilion Spire in height, research capacity, computation, span and structural complexity. No people, vehicles, retail/residential/performance program, phoenix bird, mystical imagery, floating geometry, flames, smoke or edition traits are baked in.",
       "reviewed_source_commit": "ad4ad71ad9712ec4bdd32a935972bc98e4786dab"
+    },
+    {
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "path": "assets/pixel-evolutions/scarlet-palace-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/ember-hall-v1.png",
+      "architecture_reference": "Crimson Commons Boxing Arena Sheet.png",
+      "library_reference_id": "libfile_4c9d2c22e7348191a211a6e670e86a28",
+      "dimensions": "1024x1536",
+      "bytes": 2571488,
+      "sha256": "db50473a32f19e9c6669d97ef35bb8b3021c06f3d0926c49a20f7aa5c71ce1c5",
+      "git_blob_sha": "96c84e83a3a4b213cc7aa3ef58c951c21f163a4b",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. Ember Hall grows decisively into a taller and broader empty boxing palace while retaining exactly one central regulation ring. Exactly two upper seating tiers contain empty fixed red seats; four corner circulation towers, supported audience galleries, broadcast/commentary booths and visible training-equipment rooms remain structurally attached. A larger complete layered arena canopy, exact single naming, full base/plaza and useful sky reserve remain visible. No people, fighters, crowds, vehicles, extra rings, concert stages, retail/residential/laboratory program, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "d1236104c176d56faa95e04364fcba1cc246246b"
+    },
+    {
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "path": "assets/pixel-evolutions/crimson-coliseum-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/ember-hall-v1.png",
+      "architecture_reference": "Crimson Commons Boxing Arena Sheet.png",
+      "library_reference_id": "libfile_4c9d2c22e7348191a211a6e670e86a28",
+      "dimensions": "1024x1536",
+      "bytes": 2808185,
+      "sha256": "677e3e6dcebbd607eab855c06e8978afb0ec4b2fd9815c3b93880a222f455d86",
+      "git_blob_sha": "c3c89d5bc3a2686fe67f7fce4ebebabfe7c9296c",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The lineage becomes a monumental broader and taller coliseum while retaining exactly one central regulation boxing ring. Exactly three upper empty audience tiers plus substantial empty side seating, four enlarged circulation towers, broad supported galleries, broadcast rooms and training zones are visible. Four large video screens are structurally mounted to the seating bowl; the largest attached layered canopy/civic crown bears on massive ribs and columns. Exact single naming, full base/plaza and useful sky reserve remain visible. Crimson Coliseum decisively exceeds Scarlet Palace in height, breadth, seating capacity, circulation, display area and crown complexity. No people, fighters, crowds, vehicles, extra rings, concert stages, retail/residential/laboratory program, flames, smoke, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "d1236104c176d56faa95e04364fcba1cc246246b"
     }
   ],
   "revision_history": [
