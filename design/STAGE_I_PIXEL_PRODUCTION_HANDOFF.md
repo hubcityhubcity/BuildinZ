@@ -281,3 +281,16 @@ Selected `assets/pixel-evolutions/scarlet-habitat-v1.png` and `assets/pixel-evol
 - **Inventory:** Crimson Commons now has 1 complete evolution family and 2 selected Stage II/III assets. The canonical evolution inventory contains 92 selected assets across 46 complete families.
 
 Next, produce and inspect Commons Market → Ruby Galleria → Cardinal Exchange.
+
+
+## 2026-11-26 Crimson Commons Retail evolution selection
+
+Selected `assets/pixel-evolutions/ruby-galleria-v1.png` and `assets/pixel-evolutions/cardinal-exchange-v1.png` as the Stage II/III evolution artwork for N10-I02 Commons Market. Both are native 1024×1536 RGB refined isometric pixel artworks and were reviewed individually and together in `assets/qa/crimson-commons-retail-pixel-lineage-v1.png`.
+
+- **Ruby Galleria:** four readable stocked shopping levels around one large atrium, two broad paired escalator systems, supported galleries, complete attached arched canopy, exact single mounted name and full framing.
+- **Cardinal Exchange:** exactly three large stacked shopping atrium zones with paired escalators, many stocked stores, exactly two enclosed public sky-shopping promenades carried by trusses and large diagonal braces, the family's broadest attached crown, exact single mounted name and full framing.
+- **Continuity:** bone piers, charcoal structure, crimson/burgundy panels, warm brass light, arched roofs and category-separated merchandise preserve the Commons Market lineage while shop count, atrium capacity, circulation, span and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, vehicles, carts, sky events, street incidents, rarity traits and editions remain deferred.
+- **Inventory:** Crimson Commons now has 2 complete evolution families and 4 selected Stage II/III assets. The canonical evolution inventory contains 94 selected assets across 47 complete families.
+
+Next, produce and inspect Redline Labs → Vermilion Spire → Phoenix Nexus.

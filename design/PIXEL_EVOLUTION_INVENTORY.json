@@ -1393,6 +1393,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The lineage becomes exactly three substantial inhabited apartment towers with a dominant taller center. Exactly two enclosed private sky lounge bridges sit at different heights and visibly bear on large diagonal structural braces; several separate residents' pools remain elevated above grade. The largest attached ember-lit geometric crown, repeated domestic balconies, warm occupied interiors, exact single naming, complete base/street and useful sky/foreground reserve remain visible. Crimson Arcology decisively exceeds Scarlet Habitat in height, breadth, dwelling capacity, private amenity capacity, pool count and crown complexity. No people, vehicles, commercial/laboratory/performance program, ground-level public pool, floating geometry, flames, smoke or edition traits are baked in.",
       "reviewed_source_commit": "693075a5136e7c3c30f79af1d4ddcff1eb23ab22"
+    },
+    {
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "path": "assets/pixel-evolutions/ruby-galleria-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/commons-market-v1.png",
+      "architecture_reference": "assets/candidates/crimson-commons-ruby-galleria-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2687275,
+      "sha256": "e14b521684cb211b3b1e0e8348a0c3a0a6d21a336b3f8e7ab110456787a3ce79",
+      "git_blob_sha": "3746eab8386b4c5809b1cfcb5d61b3d2f2ee2bf2",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. Commons Market grows decisively into a four-level public shopping galleria around one large open atrium. Two broad paired escalator systems connect the stocked levels; visible category-separated displays include clothing, produce, books, housewares and jewelry. Supported bone-stone galleries, the larger attached arched canopy, exact single naming, complete base/street and useful sky/foreground reserve remain visible. No people, vehicles, carts, apartments, pools, laboratories, performance program, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "495764f404420ab7bc6d1798eb68f3da0257a232"
+    },
+    {
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "path": "assets/pixel-evolutions/cardinal-exchange-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/commons-market-v1.png",
+      "architecture_reference": "assets/candidates/crimson-commons-cardinal-exchange-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3083791,
+      "sha256": "e03f4be2dda857914ca6c942e51899804c510d0ca4a67cbf37fb390a019d24f2",
+      "git_blob_sha": "36f1704f479fe71a1ea468c1a42d42f2acd3d1cb",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The retail lineage becomes a decisively taller and broader vertical exchange with exactly three large stacked open shopping atrium zones, each served by broad paired escalators. Many stocked clothing, produce, book, housewares and jewelry stores remain visible. Exactly two enclosed public sky-shopping promenades connect substantial side retail wings to the central exchange; both visibly bear on trusses and large diagonal braces. The broadest attached multi-tier arched crown, exact single naming, complete base/street and useful sky/foreground reserve remain visible. Cardinal Exchange decisively exceeds Ruby Galleria in height, breadth, shop count, atrium capacity, escalator circulation, supported promenade span and crown complexity. No people, vehicles, carts, apartments, pools, laboratories, performance program, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "495764f404420ab7bc6d1798eb68f3da0257a232"
     }
   ],
   "revision_history": [

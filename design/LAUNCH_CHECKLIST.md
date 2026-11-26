@@ -485,3 +485,12 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_RESIDENTIAL_ART_HANDOFF.md`.
 - [x] Preserved exact single signage, domestic occupancy, decisive two-/three-tower growth, supported private sky lounges, elevated-only pools, restrained planting, complete crowns/bases and future sky/street reserve.
 - [ ] Produce and inspect Commons Market → Ruby Galleria → Cardinal Exchange as the next incomplete family.
+
+
+## 2026-11-26 Crimson Commons Retail pixel evolution
+
+- [x] Produced and inspected Commons Market → Ruby Galleria → Cardinal Exchange as a standalone pixel evolution family.
+- [x] Selected Ruby Galleria and Cardinal Exchange as N10-I02 Stage II/III architectural masters after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode natively at 1024×1536 RGB and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_RETAIL_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, unmistakable stocked public retail, progressive atrium/escalator capacity, supported galleries and sky promenades, dry public approach, complete attached crowns and future sky/street reserve.
+- [ ] Produce and inspect Redline Labs → Vermilion Spire → Phoenix Nexus as the next incomplete family.

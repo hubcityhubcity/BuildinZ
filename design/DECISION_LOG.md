@@ -280,3 +280,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; no normalization was required. Byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_RESIDENTIAL_ART_HANDOFF.md`.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
 - **Exact next action:** Commons Market → Ruby Galleria → Cardinal Exchange.
+
+
+## 2026-11-26 — Crimson Commons Retail pixel evolution selection
+
+- **Delegated decision:** Select `ruby-galleria-v1.png` and `cardinal-exchange-v1.png` as the N10-I02 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and together. The Stage I panel in the QA sheet is explicitly a Library reference crop; the canonical Commons Market standalone remains `assets/pixel-stage-i/commons-market-v1.png`.
+- **Acceptance:** Exact single names, unmistakable stocked public retail, decisive low-market/four-level-galleria/vertical-exchange progression, two Stage II paired escalator systems, exactly three Stage III atrium zones with paired escalators, exactly two enclosed braced sky-shopping promenades, attached crowns, complete framing and Crimson palette continuity all pass.
+- **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; no normalization was required. Byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_RETAIL_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
+- **Exact next action:** Redline Labs → Vermilion Spire → Phoenix Nexus.

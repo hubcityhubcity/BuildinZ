@@ -158,3 +158,12 @@ Built-in prompt: BuildinZ Crimson Commons Landmark Stage III CROWN OF FLAME. Ref
 ## Landmark comparison checkpoint — November 8, 2026
 
 Actual equal-width originals review completed. Names/function/palette/supports and gallery-count evolution pass candidate review. Height escalation remains unverified at differing camera scale; I tip margin correction mandatory. Evidence:CRIMSON_COMMONS_LANDMARK_QA.md. Perform full15-source Crimson Commons collection review, then versioned corrections: Bloodmoon tip margin, Landmark consistent-camera height readability, Entertainment height/camera consistency and other framing gates.150/150 base slots selected;zero final-certified. Do not count candidate coverage as launch readiness.
+
+
+## November 26, 2026 activation correction and Retail checkpoint
+
+William's November 19 direction supersedes the older generic stylized-3D wording above. All new selected architecture is standalone refined high-definition isometric pixel art at canonical 1024×1536 RGB, with sky/street reserve and no baked-in people, vehicles, events, rarity traits or edition traits. The Library sheets remain composite architecture evidence only.
+
+N10-I02 is now selected at the architectural-master level: Commons Market → Ruby Galleria → Cardinal Exchange. Ruby has four readable stocked levels, two broad paired escalator systems and supported galleries. Cardinal has exactly three stacked shopping atrium zones, paired escalators in each zone, exactly two enclosed braced sky-shopping promenades and the family's broadest attached canopy crown. Evidence is in `CRIMSON_COMMONS_RETAIL_ART_HANDOFF.md` and `assets/qa/crimson-commons-retail-pixel-lineage-v1.png`.
+
+Next: Redline Labs → Vermilion Spire → Phoenix Nexus.

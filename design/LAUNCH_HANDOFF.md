@@ -1298,3 +1298,14 @@ Residential acceptance passed for exact single names, inhabited domestic functio
 The Stage I QA panel is explicitly a Library reference crop and does not replace the canonical selected Ember Residences master. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
 
 Next: produce and inspect **Commons Market → Ruby Galleria → Cardinal Exchange**.
+
+
+## Crimson Commons Retail pixel evolution — November 26, 2026
+
+Completed N10-I02 **Commons Market → Ruby Galleria → Cardinal Exchange** as a visually inspected standalone pixel lineage. Added two selected native 1024×1536 RGB evolution masters and a 1536×768 QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `CRIMSON_COMMONS_RETAIL_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Retail acceptance passed for exact single names, unmistakable stocked public retail, decisive low-market/four-level-galleria/vertical-exchange growth, progressively larger atria and escalator circulation, physically supported galleries, exactly two enclosed braced Stage III sky-shopping promenades, complete attached crowns, dry civic street/plaza framing and preserved crimson/burgundy/charcoal/bone/brass continuity. The selected evolution inventory now contains **94 assets covering 47 complete Stage II/III identity families**. Crimson Commons contains four selected evolution assets across two complete families.
+
+The Stage I QA panel is explicitly a Library reference crop and does not replace the canonical selected Commons Market master. These are architectural-master selections only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: produce and inspect **Redline Labs → Vermilion Spire → Phoenix Nexus**.
