@@ -294,3 +294,16 @@ Selected `assets/pixel-evolutions/ruby-galleria-v1.png` and `assets/pixel-evolut
 - **Inventory:** Crimson Commons now has 2 complete evolution families and 4 selected Stage II/III assets. The canonical evolution inventory contains 94 selected assets across 47 complete families.
 
 Next, produce and inspect Redline Labs → Vermilion Spire → Phoenix Nexus.
+
+
+## 2026-11-26 Crimson Commons Technology evolution selection
+
+Selected `assets/pixel-evolutions/vermilion-spire-v1.png` and `assets/pixel-evolutions/phoenix-nexus-v1.png` as the Stage II/III evolution artwork for N10-I03 Redline Labs. Both are native 1024×1536 RGB refined isometric pixel artworks and were reviewed individually and together in `assets/qa/crimson-commons-technology-pixel-lineage-v1.png`.
+
+- **Vermilion Spire:** one substantially taller secured research spire, repeated visible robotics/testing chambers, exactly two attached exterior instrument decks on large diagonal braces, complete machinery/sensor crown and antenna, exact single mounted name and full framing.
+- **Phoenix Nexus:** exactly three substantial research towers, a dominant luminous computation core, exactly four enclosed crimson-glass service bridges at two heights with visible truss/diagonal support, repeated robotics/server/test chambers, attached sensor crown, exact single mounted name and full framing.
+- **Continuity:** angular bone structure, charcoal framing, crimson/burgundy planes, warm brass diagnostics, visible robotics and retained dish vocabulary preserve the Redline lineage while height, research capacity, computation, span and crown complexity rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, vehicles, mystical imagery, sky events, street incidents, rarity traits and editions remain deferred.
+- **Inventory:** Crimson Commons now has 3 complete evolution families and 6 selected Stage II/III assets. The canonical evolution inventory contains 96 selected assets across 48 complete families.
+
+Next, produce and inspect Ember Hall → Scarlet Palace → Crimson Coliseum.

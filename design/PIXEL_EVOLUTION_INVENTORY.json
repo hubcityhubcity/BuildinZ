@@ -1423,6 +1423,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The retail lineage becomes a decisively taller and broader vertical exchange with exactly three large stacked open shopping atrium zones, each served by broad paired escalators. Many stocked clothing, produce, book, housewares and jewelry stores remain visible. Exactly two enclosed public sky-shopping promenades connect substantial side retail wings to the central exchange; both visibly bear on trusses and large diagonal braces. The broadest attached multi-tier arched crown, exact single naming, complete base/street and useful sky/foreground reserve remain visible. Cardinal Exchange decisively exceeds Ruby Galleria in height, breadth, shop count, atrium capacity, escalator circulation, supported promenade span and crown complexity. No people, vehicles, carts, apartments, pools, laboratories, performance program, floating geometry or edition traits are baked in.",
       "reviewed_source_commit": "495764f404420ab7bc6d1798eb68f3da0257a232"
+    },
+    {
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "path": "assets/pixel-evolutions/vermilion-spire-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/redline-labs-v2.png",
+      "architecture_reference": "assets/candidates/crimson-commons-vermilion-spire-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 1924118,
+      "sha256": "85e420e3a2187385d881f35805f79ee850800adf2342f99c6f08f2954daf8e1b",
+      "git_blob_sha": "0ca857f001d4672472694cb497f6e3060e618096",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. Redline Labs grows decisively into one substantially taller secured research spire with repeated enclosed engineering chambers, robotic arms, calibration rigs, test benches and server equipment. Exactly two exterior scientific instrument decks are attached to the tower and carried by large diagonal braces tied into the structural core. A complete machinery/sensor crown and antenna, exact single naming, secure base/service street and useful sky/foreground reserve remain visible. No people, vehicles, shops, residences, performance program, mystical imagery, floating geometry or edition traits are baked in.",
+      "reviewed_source_commit": "ad4ad71ad9712ec4bdd32a935972bc98e4786dab"
+    },
+    {
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "path": "assets/pixel-evolutions/phoenix-nexus-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/redline-labs-v2.png",
+      "architecture_reference": "assets/candidates/crimson-commons-phoenix-nexus-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2363317,
+      "sha256": "0d43751fe8849e4e00a96ffe76bbc35e50654a0cd781a3c0203fc43bbbb9c910",
+      "git_blob_sha": "540da269f10130de5451e2f09fadefade3bcc5d4",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The lineage becomes exactly three substantial connected research towers around one dominant luminous computation core with visible server arrays, data conduits, robotics and sealed testing chambers. Exactly four enclosed crimson-glass service bridges connect the center tower to the two side towers at two heights; every bridge is attached between tower piers and reinforced by exterior trusses or diagonal braces. A monumental attached machinery/sensor crown with antenna and retained scientific dish, exact single naming, secure base/service street and useful sky/foreground reserve remain visible. Phoenix Nexus decisively exceeds Vermilion Spire in height, research capacity, computation, span and structural complexity. No people, vehicles, retail/residential/performance program, phoenix bird, mystical imagery, floating geometry, flames, smoke or edition traits are baked in.",
+      "reviewed_source_commit": "ad4ad71ad9712ec4bdd32a935972bc98e4786dab"
     }
   ],
   "revision_history": [

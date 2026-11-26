@@ -290,3 +290,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; no normalization was required. Byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_RETAIL_ART_HANDOFF.md`.
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
 - **Exact next action:** Redline Labs → Vermilion Spire → Phoenix Nexus.
+
+
+## 2026-11-26 — Crimson Commons Technology pixel evolution selection
+
+- **Delegated decision:** Select `vermilion-spire-v1.png` and `phoenix-nexus-v1.png` as the N10-I03 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and together. The Stage I panel in the QA sheet is explicitly a Library reference crop; the canonical Redline Labs standalone remains `assets/pixel-stage-i/redline-labs-v2.png`.
+- **Acceptance:** Exact single names, secured research function, repeated robotics/testing chambers, exactly two attached and diagonally braced Stage II instrument decks, exactly three Stage III research towers, a dominant computation core, exactly four enclosed braced service bridges, a complete attached machinery/sensor crown, full framing and Crimson palette continuity all pass. No mystical phoenix imagery is present.
+- **Integrity:** Both selected PNGs decode natively at 1024×1536 RGB; no normalization was required. Byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `CRIMSON_COMMONS_TECHNOLOGY_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, rarity traits and editions remain deferred.
+- **Exact next action:** Ember Hall → Scarlet Palace → Crimson Coliseum.

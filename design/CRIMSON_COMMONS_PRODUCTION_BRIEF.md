@@ -167,3 +167,10 @@ William's November 19 direction supersedes the older generic stylized-3D wording
 N10-I02 is now selected at the architectural-master level: Commons Market → Ruby Galleria → Cardinal Exchange. Ruby has four readable stocked levels, two broad paired escalator systems and supported galleries. Cardinal has exactly three stacked shopping atrium zones, paired escalators in each zone, exactly two enclosed braced sky-shopping promenades and the family's broadest attached canopy crown. Evidence is in `CRIMSON_COMMONS_RETAIL_ART_HANDOFF.md` and `assets/qa/crimson-commons-retail-pixel-lineage-v1.png`.
 
 Next: Redline Labs → Vermilion Spire → Phoenix Nexus.
+
+
+## November 26, 2026 Technology checkpoint
+
+N10-I03 is now selected at the architectural-master level: Redline Labs → Vermilion Spire → Phoenix Nexus. Vermilion has repeated enclosed robotics/testing chambers and exactly two exterior scientific decks carried by large diagonal braces. Phoenix has exactly three substantial research towers, one dominant computation core, exactly four enclosed service bridges with visible structural support, and a complete attached machinery/sensor crown. No mystical phoenix imagery, people, vehicles or edition traits are present. Evidence is in `CRIMSON_COMMONS_TECHNOLOGY_ART_HANDOFF.md` and `assets/qa/crimson-commons-technology-pixel-lineage-v1.png`.
+
+Next: Ember Hall → Scarlet Palace → Crimson Coliseum.
