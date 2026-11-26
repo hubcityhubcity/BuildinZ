@@ -128,7 +128,7 @@ Continuity anchors: tapered pearl tower, navy fins, silver ribs, aqua observatio
 
 ## Exact next action
 
-Residential, Retail, Technology and Entertainment are complete at the selected architectural-master level. **Harbor Lounge → Moondeck Palace → Eclipse Marina** passed individual and equal-width review, with evidence in `MOONLINE_HARBOR_ENTERTAINMENT_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+All five Moonline Harbor families are complete at the selected architectural-master level. **Tide Beacon → Lunar Lighthouse → Crown of Tides** passed individual and equal-width review, with evidence in `MOONLINE_HARBOR_LANDMARK_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`. Moonline Harbor now has ten selected Stage II/III pixel masters across five complete families.
 
-Next, produce and inspect **Tide Beacon → Lunar Lighthouse → Crown of Tides**. Use the selected Stage I pixel base and matching repository candidates as architecture references. Preserve unmistakable unoccupied civic-landmark function, escalating supported observation galleries, base-connected outer ribs, exact single signage, complete beacon/crown, expanded public pier/street framing and future sky/street reserve. Do not bake in apartments, laboratories, shops, restaurants, performance program, people, vehicles, boats or edition traits, and do not count composite sheets or older cinematic candidates as completed pixel artwork.
+Next, audit and activate **Arcadia Prime** Stage II/III standalone pixel production. Reconcile its production brief, registry names, five selected Stage I pixel bases, prior lineage QA and older architecture references against the current pixel selection standard before generating new artwork. Do not treat older cinematic candidates or prior contact sheets as completed pixel evolutions.
 

@@ -179,3 +179,16 @@ Selected `assets/pixel-evolutions/moondeck-palace-v1.png` and `assets/pixel-evol
 
 Next, produce and inspect Tide Beacon → Lunar Lighthouse → Crown of Tides.
 
+
+## 2026-11-26 Moonline Harbor Landmark evolution selection and completion
+
+Selected `assets/pixel-evolutions/lunar-lighthouse-v1.png` and `assets/pixel-evolutions/crown-of-tides-v1.png` as the Stage II/III evolution artwork for N08-I05 Tide Beacon. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base in `assets/qa/moonline-harbor-landmark-pixel-lineage-v1.png`.
+
+- **Lunar Lighthouse:** exactly two vertically separated enclosed telescope galleries, larger attached lantern/crown, supported tapered tower, exact single mounted name and full framing.
+- **Crown of Tides:** exactly three broad enclosed telescope galleries, massive outer ribs connected from expanded base footings into the largest attached crown, expanded civic pier, exact single mounted name and full framing.
+- **Continuity:** pearl tower shells, navy fins, moon-silver ribs, aqua observation glass, warm beacons, pile-supported platforms, access bridges and wet urban street foreground preserve the Tide Beacon lineage while observation capacity, structural mass and crown scale rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, visitors, vehicles, boats, occupied-building programs, rarity traits and editions remain deferred.
+- **Inventory:** Moonline Harbor now has all 5 complete evolution families and 10 selected Stage II/III assets. The canonical evolution inventory contains 80 selected assets across 40 complete families.
+
+Next, audit and activate Arcadia Prime Stage II/III standalone pixel production before generating new artwork.
+

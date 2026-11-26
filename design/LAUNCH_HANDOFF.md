@@ -1206,3 +1206,14 @@ This is architectural-master selection only. Edition rendering, rarity traits, p
 
 Next: produce and inspect **Tide Beacon → Lunar Lighthouse → Crown of Tides**.
 
+
+## Moonline Harbor Landmark and neighborhood completion — November 26, 2026
+
+Completed N08-I05 **Tide Beacon → Lunar Lighthouse → Crown of Tides** as a visually inspected standalone pixel lineage. Added two selected 1024×1536 evolution masters and a 1536×768 equal-width QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `MOONLINE_HARBOR_LANDMARK_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Landmark acceptance passed for exact single names, unoccupied civic function, one-/two-/three-gallery escalation, supported telescope zones, base-connected Stage III outer ribs, complete lantern crowns, expanded dry pier/street framing and preserved pearl/navy/aqua continuity. The selected evolution inventory now contains **80 assets covering 40 complete Stage II/III identity families**. Moonline Harbor contains all ten required evolution assets across five complete families.
+
+This completes Moonline Harbor at the selected architectural-master level only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred under William's November 19 production order. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: audit and activate **Arcadia Prime** Stage II/III standalone pixel production before generating new artwork.
+

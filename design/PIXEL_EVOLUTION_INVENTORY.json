@@ -1183,6 +1183,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. The monumental venue decisively exceeds Moondeck Palace in height, breadth, seating capacity and crown complexity while retaining exactly three separate instrumented stages. Three central upper audience tiers, expanded upper side seating, extensive empty ground seating, supported stair towers and galleries, and the family's largest attached layered pearl shell crown are clearly visible. Exact single naming, complete crown, piles, bridge, wet street and future scene reserve are intact; no people, performers, crowds, vehicles, boats, hotel, casino, residential, retail or pool program are baked in.",
       "reviewed_source_commit": "cffa490d747cd48b465593e4cb8d79c82abed4e9"
+    },
+    {
+      "identity_id": "N08-I05",
+      "stage": 2,
+      "stage_name": "Lunar Lighthouse",
+      "path": "assets/pixel-evolutions/lunar-lighthouse-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/tide-beacon-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-lunar-lighthouse-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2702809,
+      "sha256": "602cc3deba71a411de681195b42e5b1cf497145085fde88c706ab8a46bc15f77",
+      "git_blob_sha": "fa416c0a51149f995738e7caf7f88e1610588bfc",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The civic beacon grows into a taller luminous lighthouse with exactly two vertically separated enclosed aqua-glass telescope galleries, each visibly supported by the tapered tower and ribs and containing unoccupied brass instruments. The larger attached lantern/finial crown, exact single name, dry civic base, all piles, access bridge, wet street foreground and future scene reserve are intact; no people, vehicles, boats, occupied-building or commercial program are baked in.",
+      "reviewed_source_commit": "7b829428edc89fb9c5d5f61225efc35bfe1f7b05"
+    },
+    {
+      "identity_id": "N08-I05",
+      "stage": 3,
+      "stage_name": "Crown of Tides",
+      "path": "assets/pixel-evolutions/crown-of-tides-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/tide-beacon-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-crown-of-tides-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 2874226,
+      "sha256": "c04e95a9e4e0db6d1157423d73d85d245b67721fffe390bd39d3992ba2b7c6cc",
+      "git_blob_sha": "03d67d73c58325bb88a573d3ab3647b148d560ce",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The skyline landmark decisively exceeds Lunar Lighthouse in breadth, observation capacity, structural mass and crown scale while retaining exactly three broad enclosed telescope galleries. Massive moon-silver outer ribs visibly connect expanded base footings to the gallery stack and largest attached lantern crown; all galleries remain unoccupied. Exact single naming, complete finial/crown, expanded dry civic pier, piles, bridge, wet street and future scene reserve are intact; no people, vehicles, boats, occupied-building or commercial program are baked in.",
+      "reviewed_source_commit": "7b829428edc89fb9c5d5f61225efc35bfe1f7b05"
     }
   ],
   "revision_history": [

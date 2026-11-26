@@ -436,5 +436,10 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Selected Moondeck Palace and Eclipse Marina as N08-I04 Stage II/III architectural masters after individual and equal-width lineage review.
 - [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `MOONLINE_HARBOR_ENTERTAINMENT_ART_HANDOFF.md`.
 - [x] Preserved exact single signage, exactly three instrumented stages at Stages II/III, progressive empty seating tiers, supported audience galleries/circulation, complete layered shell crowns, pile-supported pier/street framing and future scene reserve.
-- [ ] Produce and inspect Tide Beacon → Lunar Lighthouse → Crown of Tides as the next Moonline Harbor standalone pixel evolution family.
+- [x] Produced and inspected Tide Beacon → Lunar Lighthouse → Crown of Tides as a standalone pixel evolution family.
+- [x] Selected Lunar Lighthouse and Crown of Tides as N08-I05 Stage II/III architectural masters after individual and equal-width lineage review.
+- [x] Verified both selected PNGs decode at 1024×1536 and recorded byte, SHA-256 and Git blob evidence in `PIXEL_EVOLUTION_INVENTORY.json` and `MOONLINE_HARBOR_LANDMARK_ART_HANDOFF.md`.
+- [x] Preserved exact single signage, unoccupied civic-landmark function, one-/two-/three-gallery escalation, supported telescope zones, base-connected outer ribs, complete lantern crowns, expanded pier/street framing and future scene reserve.
+- [x] All five Moonline Harbor identities now have selected standalone pixel Stage II and Stage III artworks: 10 verified evolution assets total.
+- [ ] Audit and activate Arcadia Prime Stage II/III standalone pixel production against its selected Stage I bases, registry names and existing older architecture references.
 
