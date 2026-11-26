@@ -1093,6 +1093,36 @@
       "status": "delegated_visual_selection",
       "review": "passes delegated Stage III review. A dominant crowned center tower and two substantial side apartment towers decisively exceed Moonwake Habitat in height, breadth and resident program. Two distinct enclosed resort/lounge bridge levels are fully braced to the towers and carry several elevated private pools, seating zones and restrained planting; the attached silver nautical crown is the family's largest. Curved pearl balconies, navy fins, aqua/teal glazing and warm inhabited interiors preserve the lineage. Exact single signage, complete crown/antennae, all pier piles, full access bridge, wet street foreground and future scene reserve are intact; no people, vehicles, boats, public or ground-level pool, hotel or retail program are baked in.",
       "reviewed_source_commit": "c3d7b3f32d5c26e9ae0c73fa1e257f430ffcff29"
+    },
+    {
+      "identity_id": "N08-I02",
+      "stage": 2,
+      "stage_name": "Pearl Galleria",
+      "path": "assets/pixel-evolutions/pearl-galleria-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/dockside-market-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-pearl-galleria-stage-2-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3144217,
+      "sha256": "992945adc48bad7f633efef60af2a89d33b122bece7622727ab68802ef32bf67",
+      "git_blob_sha": "6a94204a04902cdb873196eccacb9cadaa19d271",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage II review. The public market grows into a four-to-five-level shopping galleria with a large central aqua-glass atrium, dense clothing, produce and household displays, two broad escalator banks, layered supported galleries and a complete pearl wave canopy. Exact single signage, full pile-supported platform, access bridge, wet street foreground and future scene reserve are intact; no people, vehicles, boats or non-retail program are baked in.",
+      "reviewed_source_commit": "1d00404e74433401ab6281cbad843ddd01d2d93d"
+    },
+    {
+      "identity_id": "N08-I02",
+      "stage": 3,
+      "stage_name": "High Tide Exchange",
+      "path": "assets/pixel-evolutions/high-tide-exchange-v1.png",
+      "stage_i_path": "assets/pixel-stage-i/dockside-market-v1.png",
+      "architecture_reference": "assets/candidates/moonline-harbor-high-tide-exchange-stage-3-v1.png",
+      "dimensions": "1024x1536",
+      "bytes": 3391166,
+      "sha256": "2eb4326fc42c89a0f085d106cbc982e578bbf240261ebcd5a79927e03e68c2c2",
+      "git_blob_sha": "00cf1f979c39c8364a3b563d2710467e0e1f08e4",
+      "status": "delegated_visual_selection",
+      "review": "passes delegated Stage III review. The exchange decisively exceeds Pearl Galleria in height, breadth and retail capacity, with three stacked aqua-glass atria, at least three escalator banks, many stocked shops, several supported galleries and short promenades, and the family's largest attached pearl canopy. Exact single signage, complete crown, piles, access bridge, wet street foreground and future scene reserve are intact; no people, vehicles, boats or non-retail program are baked in.",
+      "reviewed_source_commit": "1d00404e74433401ab6281cbad843ddd01d2d93d"
     }
   ],
   "revision_history": [

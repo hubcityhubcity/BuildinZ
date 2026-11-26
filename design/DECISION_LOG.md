@@ -166,3 +166,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, street figures, vehicles, boats, rarity traits and editions remain deferred.
 - **Exact next action:** Dockside Market → Pearl Galleria → High Tide Exchange.
 
+
+## 2026-11-26 — Moonline Harbor Retail pixel evolution selection
+
+- **Delegated decision:** Select `pearl-galleria-v1.png` and `high-tide-exchange-v1.png` as the N08-I02 Stage II/III standalone pixel architectural masters.
+- **Visual basis:** Both outputs were inspected individually and beside the selected Dockside Market Stage I base at equal width. Older cinematic candidates supplied massing and public-retail program evidence only; their crowds and rendering were excluded.
+- **Acceptance:** Exact single names, unmistakable stocked public retail, progressive multi-level atria, broad escalator circulation, physically supported galleries and promenades, complete pearl wave canopies, pier/access/street framing and preserved pearl/navy/aqua continuity all passed.
+- **Integrity:** Both selected PNGs decode at 1024×1536 RGB; byte counts, SHA-256 values and Git blob hashes are recorded in `PIXEL_EVOLUTION_INVENTORY.json` and `MOONLINE_HARBOR_RETAIL_ART_HANDOFF.md`.
+- **Status boundary:** Selected architectural masters are not edition exports, permanent-storage assets or launch-certified token images. Scene events, people, vehicles, boats, rarity traits and editions remain deferred.
+- **Exact next action:** Beacon Labs → Tidal Array → Mooncurrent Nexus.
+

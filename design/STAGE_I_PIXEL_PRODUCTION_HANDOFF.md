@@ -140,3 +140,16 @@ Selected `assets/pixel-evolutions/moonwake-habitat-v1.png` and `assets/pixel-evo
 
 Next, produce and inspect Dockside Market → Pearl Galleria → High Tide Exchange.
 
+
+## 2026-11-26 Moonline Harbor Retail evolution selection
+
+Selected `assets/pixel-evolutions/pearl-galleria-v1.png` and `assets/pixel-evolutions/high-tide-exchange-v1.png` as the Stage II/III evolution artwork for N08-I02 Dockside Market. Both are 1024×1536 refined isometric pixel artworks and were reviewed individually and at equal width with the selected Stage I base in `assets/qa/moonline-harbor-retail-pixel-lineage-v1.png`.
+
+- **Pearl Galleria:** four-to-five public shopping levels, large central aqua-glass atrium, dense visible merchandise, two broad escalator banks, supported galleries, complete pearl wave canopy, exact single mounted name and full framing.
+- **High Tide Exchange:** decisively taller and broader vertical exchange, three stacked atria, at least three escalator banks, many stocked shops, several supported galleries and short promenades, largest attached pearl canopy, exact single mounted name and full framing.
+- **Continuity:** pearl wave canopies, navy columns, aqua glazing, warm merchandise displays, substantial piles, full access bridges and wet urban street foreground preserve the Dockside lineage while retail capacity, circulation and canopy scale rise decisively.
+- **Boundary:** these are selected architectural masters, not edition exports or launch-certified token images. People, crowds, vehicles, boats, sky events, street incidents, rarity traits and editions remain deferred.
+- **Inventory:** Moonline Harbor now has 2 complete evolution families and 4 selected Stage II/III assets. The canonical evolution inventory contains 74 selected assets across 37 complete families.
+
+Next, produce and inspect Beacon Labs → Tidal Array → Mooncurrent Nexus.
+

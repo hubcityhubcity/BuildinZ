@@ -1173,3 +1173,14 @@ This is architectural-master selection only. Edition rendering, rarity traits, p
 
 Next: produce and inspect **Dockside Market → Pearl Galleria → High Tide Exchange**.
 
+
+## Moonline Harbor Retail pixel evolution — November 26, 2026
+
+Completed N08-I02 **Dockside Market → Pearl Galleria → High Tide Exchange** as a visually inspected standalone pixel lineage. Added two selected 1024×1536 evolution masters and a 1536×768 equal-width QA sheet; exact bytes, SHA-256 and Git blob hashes are recorded in `MOONLINE_HARBOR_RETAIL_ART_HANDOFF.md` and `PIXEL_EVOLUTION_INVENTORY.json`.
+
+Retail acceptance passed for exact single names, unmistakable stocked public retail, decisive low-/mid-/high-rise growth, progressively larger atria and escalator systems, visibly supported galleries and promenades, complete pearl wave canopies, pile-supported pier/street framing and preserved pearl/navy/aqua continuity. The selected evolution inventory now contains **74 assets covering 37 complete Stage II/III identity families**. Moonline Harbor contains four selected evolution assets across two complete families.
+
+This is architectural-master selection only. Edition rendering, rarity traits, permanent URIs, metadata and launch certification remain deferred under William's November 19 production order. No paid service, wallet transaction, deployment, mint opening or public message was performed.
+
+Next: produce and inspect **Beacon Labs → Tidal Array → Mooncurrent Nexus**.
+
