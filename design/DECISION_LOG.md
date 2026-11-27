@@ -341,3 +341,14 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Neon standard:** the approved Neon Residences progression, elevated amenity rules, restrained planting, crown growth and Stage III display presence pass this review.
 - **Delegated decision:** preserve all 30 selected originals and queue no corrections. This is a bounded audit pass, not final collection or launch certification.
 - **Exact next action:** Shadow Market and Skygarden District immutable-blob decode/contact-sheet/perceptual audit.
+
+
+## 2026-11-26 — Shadow Market and Skygarden District fresh decode/visual audit
+
+- **Scope:** 30 exact selected masters from immutable commit `1187714f7189fd495665f0276127e3f0982f06d7`, covering all five N03 and five N04 identity families.
+- **Integrity result:** all files independently decode as 1024×1536 RGB PNGs; fresh SHA-256 and byte counts match the inventories; no duplicate SHA-256 appears.
+- **Visual result:** exact stage names, building-type separation, full crown/base framing, supported architecture and Stage I→II→III escalation pass on equal-scale contact sheets. Shadow Market palette/function separation and Skygarden controlled planting/no-ground-level-public-pool rules pass.
+- **Similarity result:** no dHash pair is at or below distance 5. The nearest pair is N04-I05 Stage I/II at distance 9 and remains visibly progressive.
+- **Delegated decision:** preserve all 30 selected originals and queue no artwork corrections. Correct the clipped title on the evidence-only Skygarden QA sheet; do not alter selected art.
+- **Status boundary:** this advances fresh decode/visual evidence to 60/150 masters across four neighborhoods; it is not edition, metadata, permanent-storage, contract or launch certification.
+- **Exact next action:** Velocity Row and Royal Mirage immutable-blob decode/contact-sheet/perceptual audit.

@@ -1354,3 +1354,12 @@ This clears the repository data-integrity portion of the artwork audit only. Fre
 All 15 Neon Heights and 15 Golden Crest selected masters were retrieved from immutable commit `1e40a444fa76ae51f3e1a0555198af669d711579`, freshly decoded and hashed. Every image is a 1024×1536 RGB PNG; bytes and SHA-256 values match the inventories. Equal-scale contact sheets confirm exact names, complete framing, building-type separation and clear three-stage growth. No dHash pair met the distance-5 near-duplicate threshold; the closest pair was manually reviewed and accepted. No artwork correction was justified. Evidence: `ARTWORK_DECODE_VISUAL_AUDIT_N01_N02_2026-11-26.md`, its JSON companion and the two neighborhood QA boards.
 
 Fresh decode/visual audit progress is now 30 of 150 masters across two of ten neighborhoods. Next: Shadow Market and Skygarden District. Edition/rarity production remains held until the artwork audit and correction queue are closed.
+
+
+## 2026-11-26 N03/N04 decode and visual audit
+
+All 15 Shadow Market and 15 Skygarden District selected masters were retrieved from immutable commit `1187714f7189fd495665f0276127e3f0982f06d7`, freshly decoded and hashed. Every image is a 1024×1536 RGB PNG; byte counts and SHA-256 values match the canonical inventories. Equal-scale contact sheets confirm exact names, complete framing, building-type separation, attached supports, intended palette/program and clear three-stage growth. Skygarden planting remains controlled and no ground-level public pool appears.
+
+No dHash pair met the distance-5 near-duplicate threshold; the closest pair was N04-I05 Stage I/II at distance 9 and was visually accepted as a legitimate progressive lineage. The first Skygarden QA composition clipped the first title letter; the QA sheet alone was corrected and re-inspected. No selected artwork correction was justified. Evidence: `ARTWORK_DECODE_VISUAL_AUDIT_N03_N04_2026-11-26.md`, its JSON companion and the two neighborhood QA boards.
+
+Fresh decode/visual audit progress is now 60 of 150 masters across four of ten neighborhoods. Next: Velocity Row and Royal Mirage. Edition/rarity production remains held until the artwork audit and correction queue are closed.

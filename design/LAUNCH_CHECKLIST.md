@@ -546,4 +546,17 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Reconfirmed Neon Residences standards: increasing height; Stage II private rooftop/sky-lounge program; Stage III multi-zone elevated resort/pools and dominant crown; no ground-level public pool; restrained planting; Stage III display presence at least Stage II.
 - [x] Ran 64-bit difference-hash comparison. Zero pairs met the ≤5 near-duplicate threshold. The nearest pair, Crown Arcade/Grand Aureum Exchange at distance 6, was visually confirmed as a legitimate lineage with distinct Stage III height, dome and program.
 - [x] Recorded no correction candidates for N01 or N02; preserved all selected originals.
-- [ ] Run the same immutable-blob decode, contact-sheet and similarity audit for Shadow Market and Skygarden District.
+- [x] Run the same immutable-blob decode, contact-sheet and similarity audit for Shadow Market and Skygarden District.
+- [ ] Run the same immutable-blob decode, contact-sheet and similarity audit for Velocity Row and Royal Mirage.
+
+
+## 2026-11-26 Shadow Market and Skygarden District decode/visual audit
+
+- [x] Retrieved the 30 exact selected PNG blobs from immutable commit `1187714f7189fd495665f0276127e3f0982f06d7`; no candidate or composite path was substituted.
+- [x] Independently decoded all 30 as native 1024×1536 RGB PNGs and reproduced every recorded byte count and SHA-256 value.
+- [x] Generated and visually inspected equal-scale five-family × three-stage contact sheets for both neighborhoods.
+- [x] Confirmed exact stage names, distinct building functions, clear lineage growth, attached supports, complete crowns/bases and intended neighborhood palettes.
+- [x] Confirmed Skygarden planting remains controlled and no ground-level public pool appears.
+- [x] Ran 64-bit difference-hash comparison: zero pairs met the ≤5 near-duplicate threshold; the closest pair was N04-I05 Stage I/II at distance 9.
+- [x] Recorded no selected-art correction candidates. Corrected one evidence-only Skygarden QA title clipping issue without altering artwork.
+- [ ] Continue with Velocity Row and Royal Mirage before edition/rarity production.

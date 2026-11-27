@@ -2,9 +2,9 @@
 
 ## Current authoritative state — November 26, 2026
 
-Audited against repository commit `57d29915d07d1ee8aed9aaac09bafdeab08ac71a`. The current architectural-master set is **150 selected images**: 50 Stage I bases plus 100 Stage II/III evolutions across 50 complete identity families and 10 neighborhoods. All 150 selected paths exist; recorded byte counts and Git blob SHAs match the complete repository tree; no selected path, blob or recorded SHA-256 is duplicated. Final NFT-certified exports remain **0 of 150**. A fresh immutable-blob decode and equal-scale visual audit has now passed **30 of 150** selected masters: all 15 Neon Heights and all 15 Golden Crest images.
+Audited against repository commit `57d29915d07d1ee8aed9aaac09bafdeab08ac71a`. The current architectural-master set is **150 selected images**: 50 Stage I bases plus 100 Stage II/III evolutions across 50 complete identity families and 10 neighborhoods. All 150 selected paths exist; recorded byte counts and Git blob SHAs match the complete repository tree; no selected path, blob or recorded SHA-256 is duplicated. Final NFT-certified exports remain **0 of 150**. A fresh immutable-blob decode and equal-scale visual audit has now passed **60 of 150** selected masters: all 15 images in Neon Heights, Golden Crest, Shadow Market and Skygarden District.
 
-The machine-readable source of truth is `ASSET_MANIFEST.json`, now schema 2.0.0 with explicit records for all 150 selected masters. `STAGE_I_PIXEL_SOURCE_INVENTORY.json` and `PIXEL_EVOLUTION_INVENTORY.json` remain the selection-specific evidence sources. Full evidence and limitations are in `ARTWORK_MASTER_INTEGRITY_AUDIT_2026-11-26.md`.
+The machine-readable source of truth is `ASSET_MANIFEST.json`, now schema 2.0.0 with explicit records for all 150 selected masters. `STAGE_I_PIXEL_SOURCE_INVENTORY.json` and `PIXEL_EVOLUTION_INVENTORY.json` remain the selection-specific evidence sources. Full repository-integrity evidence is in `ARTWORK_MASTER_INTEGRITY_AUDIT_2026-11-26.md`; current decode/visual evidence is in `ARTWORK_DECODE_VISUAL_AUDIT_N01_N02_2026-11-26.md` and `ARTWORK_DECODE_VISUAL_AUDIT_N03_N04_2026-11-26.md`.
 
 | Neighborhood | Stage I | Stage II/III | Selected total | Final certified |
 | --- | ---: | ---: | ---: | ---: |
@@ -22,7 +22,7 @@ The machine-readable source of truth is `ASSET_MANIFEST.json`, now schema 2.0.0 
 
 **Status boundary:** architectural-master coverage and repository identity pass. Fresh decoding, collection-wide visual/safe-area/export inspection, perceptual similarity, edition rendering, metadata, site integration, contracts and release gates remain open.
 
-**Exact next action:** independently decode the 150 selected committed PNGs in bounded neighborhood batches, starting with Neon Heights and Golden Crest; generate equal-scale contact sheets and correction evidence before edition/rarity production.
+**Exact next action:** continue the immutable-blob audit with Velocity Row (N05) and Royal Mirage (N06); generate equal-scale contact sheets and correction evidence before edition/rarity production.
 
 > The earlier candidate-era sections below are preserved as historical production evidence. Their coverage counts, prototype paths and old “next action” lines do not override this current-state section.
 

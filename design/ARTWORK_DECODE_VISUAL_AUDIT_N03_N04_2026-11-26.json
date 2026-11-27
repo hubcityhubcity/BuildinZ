@@ -1,0 +1,920 @@
+{
+  "schema_version": "1.0.0",
+  "recorded_date": "2026-11-26",
+  "timezone": "America/Chicago",
+  "repository_commit": "1187714f7189fd495665f0276127e3f0982f06d7",
+  "scope": {
+    "neighborhoods": [
+      {
+        "id": "N03",
+        "name": "Shadow Market"
+      },
+      {
+        "id": "N04",
+        "name": "Skygarden District"
+      }
+    ],
+    "selected_architectural_masters": 30,
+    "stages_per_identity": 3
+  },
+  "result": "passed",
+  "limitations": [
+    "Not edition export certification",
+    "Not permanent-storage URI verification",
+    "Not metadata or contract certification",
+    "Dark-background margin measurements are heuristics and were paired with human visual inspection"
+  ],
+  "integrity": {
+    "decoded_png": 30,
+    "dimensions_1024x1536": 30,
+    "rgb_mode": 30,
+    "byte_count_matches": 30,
+    "sha256_matches": 30,
+    "duplicate_sha256_pairs": 0,
+    "dhash_pairs_distance_le_5": 0,
+    "nearest_dhash_pairs": [
+      {
+        "a": "N04-I05-S1",
+        "b": "N04-I05-S2",
+        "distance": 9
+      },
+      {
+        "a": "N03-I05-S1",
+        "b": "N03-I05-S2",
+        "distance": 12
+      },
+      {
+        "a": "N04-I01-S1",
+        "b": "N04-I01-S2",
+        "distance": 14
+      },
+      {
+        "a": "N03-I02-S2",
+        "b": "N03-I02-S3",
+        "distance": 14
+      },
+      {
+        "a": "N03-I01-S1",
+        "b": "N03-I01-S3",
+        "distance": 15
+      },
+      {
+        "a": "N03-I02-S1",
+        "b": "N03-I01-S2",
+        "distance": 15
+      },
+      {
+        "a": "N03-I05-S2",
+        "b": "N03-I05-S3",
+        "distance": 15
+      },
+      {
+        "a": "N04-I03-S2",
+        "b": "N04-I03-S3",
+        "distance": 15
+      },
+      {
+        "a": "N03-I01-S1",
+        "b": "N03-I01-S2",
+        "distance": 16
+      },
+      {
+        "a": "N04-I02-S1",
+        "b": "N04-I02-S2",
+        "distance": 16
+      }
+    ],
+    "top_clearance_px": {
+      "N03": {
+        "min": 23,
+        "max": 124
+      },
+      "N04": {
+        "min": 18,
+        "max": 87
+      }
+    }
+  },
+  "visual_findings": {
+    "N03": {
+      "result": "passed",
+      "notes": [
+        "Five functional families remain distinct",
+        "Palette continuity preserved",
+        "Exact stage names visible",
+        "Stage escalation and physical support visible",
+        "Bases and crowns remain framed"
+      ]
+    },
+    "N04": {
+      "result": "passed",
+      "notes": [
+        "Five functional families remain distinct",
+        "Controlled Skygarden planting and palette preserved",
+        "Exact stage names visible",
+        "Supported escalation visible",
+        "No ground-level public pool",
+        "Bases and crowns remain framed"
+      ]
+    }
+  },
+  "qa_artifacts": [
+    "assets/qa/shadow-market-selected-master-audit-v1.png",
+    "assets/qa/skygarden-district-selected-master-audit-v1.png"
+  ],
+  "library_cross_check": {
+    "exact_results": [
+      {
+        "name": "Shadow Market Stage II sprite sheet.png",
+        "id": "libfile_7173d90f3b30819198b5223175ad4397",
+        "size": 2317151
+      }
+    ],
+    "usage": "composite reference only; not substituted for selected standalone assets",
+    "unresolved_guessed_titles": "No claim made"
+  },
+  "assets": [
+    {
+      "identity_id": "N03-I01",
+      "stage": 1,
+      "stage_name": "Gloomstep Flats",
+      "path": "assets/pixel-stage-i/gloomstep-flats-v2.png",
+      "local": "audit-decode/shadow-market/gloomstep-flats-v2.png",
+      "bytes": 2576049,
+      "declared_bytes": 2576049,
+      "sha256": "aac0f1d5a7e0b63efbdf1b89965cb0c8e9969af230a15a2a7e5a4945dd13c61e",
+      "declared_sha256": "aac0f1d5a7e0b63efbdf1b89965cb0c8e9969af230a15a2a7e5a4945dd13c61e",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "71692b332d2b091b",
+      "margins_heuristic": {
+        "top": 47,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I02",
+      "stage": 1,
+      "stage_name": "Lantern Row",
+      "path": "assets/pixel-stage-i/lantern-row-v2.png",
+      "local": "audit-decode/shadow-market/lantern-row-v2.png",
+      "bytes": 2650076,
+      "declared_bytes": 2650076,
+      "sha256": "56724ee53ea137c844d68acf334fbc72f53dfde00442ba6e1a4ddd24c46cb38a",
+      "declared_sha256": "56724ee53ea137c844d68acf334fbc72f53dfde00442ba6e1a4ddd24c46cb38a",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "11273a3b3b272b29",
+      "margins_heuristic": {
+        "top": 124,
+        "bottom": 1,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I03",
+      "stage": 1,
+      "stage_name": "Cipher Works",
+      "path": "assets/pixel-stage-i/cipher-works-v2.png",
+      "local": "audit-decode/shadow-market/cipher-works-v2.png",
+      "bytes": 2533682,
+      "declared_bytes": 2533682,
+      "sha256": "b7c6f19d8074baf3442f801df7c02362e722ed46927033d91bb26eadc2a17612",
+      "declared_sha256": "b7c6f19d8074baf3442f801df7c02362e722ed46927033d91bb26eadc2a17612",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "11690f13950f27a1",
+      "margins_heuristic": {
+        "top": 45,
+        "bottom": 1,
+        "left": 8,
+        "right": 7
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I04",
+      "stage": 1,
+      "stage_name": "Backroom Stage",
+      "path": "assets/pixel-stage-i/backroom-stage-v2.png",
+      "local": "audit-decode/shadow-market/backroom-stage-v2.png",
+      "bytes": 2561911,
+      "declared_bytes": 2561911,
+      "sha256": "c11663f10df1a638b7983b6e7587e45921de7149f8872a23a5ab2ba3ca5aa12a",
+      "declared_sha256": "c11663f10df1a638b7983b6e7587e45921de7149f8872a23a5ab2ba3ca5aa12a",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "7123e4948dcd1585",
+      "margins_heuristic": {
+        "top": 102,
+        "bottom": 12,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I05",
+      "stage": 1,
+      "stage_name": "Veil Beacon",
+      "path": "assets/pixel-stage-i/veil-beacon-v2.png",
+      "local": "audit-decode/shadow-market/veil-beacon-v2.png",
+      "bytes": 2348116,
+      "declared_bytes": 2348116,
+      "sha256": "860ac703c762fe616b655acbb5cd814e3d040fc1471c420c9aa099dbe5be9c85",
+      "declared_sha256": "860ac703c762fe616b655acbb5cd814e3d040fc1471c420c9aa099dbe5be9c85",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "2149ee6d4f4d4b0b",
+      "margins_heuristic": {
+        "top": 80,
+        "bottom": 9,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I01",
+      "stage": 1,
+      "stage_name": "Canopy Residences",
+      "path": "assets/pixel-stage-i/canopy-residences-v2.png",
+      "local": "audit-decode/skygarden-district/canopy-residences-v2.png",
+      "bytes": 2720693,
+      "declared_bytes": 2720693,
+      "sha256": "cc1de8b82fc471ec517ee18832d8cd3ca4bae9a0d4a1b71e8de4112f240fddac",
+      "declared_sha256": "cc1de8b82fc471ec517ee18832d8cd3ca4bae9a0d4a1b71e8de4112f240fddac",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "637ed494941515a7",
+      "margins_heuristic": {
+        "top": 24,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I02",
+      "stage": 1,
+      "stage_name": "Bloom Market",
+      "path": "assets/pixel-stage-i/bloom-market-v2.png",
+      "local": "audit-decode/skygarden-district/bloom-market-v2.png",
+      "bytes": 2556107,
+      "declared_bytes": 2556107,
+      "sha256": "2987360d8c4d61e62fbbc9d9c5efdc88f5b4fed90453b28e2d4038895e3d5849",
+      "declared_sha256": "2987360d8c4d61e62fbbc9d9c5efdc88f5b4fed90453b28e2d4038895e3d5849",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "60f1f1aaaaad332b",
+      "margins_heuristic": {
+        "top": 34,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I03",
+      "stage": 1,
+      "stage_name": "Seedlight Labs",
+      "path": "assets/pixel-stage-i/seedlight-labs-v2.png",
+      "local": "audit-decode/skygarden-district/seedlight-labs-v2.png",
+      "bytes": 2572413,
+      "declared_bytes": 2572413,
+      "sha256": "a45adc27dd501b0c364954b99918163a7796a4d79a79a6b95c0521b8094a4f73",
+      "declared_sha256": "a45adc27dd501b0c364954b99918163a7796a4d79a79a6b95c0521b8094a4f73",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "69d9d0c4d4e84d4d",
+      "margins_heuristic": {
+        "top": 51,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I04",
+      "stage": 1,
+      "stage_name": "Terrace Hall",
+      "path": "assets/pixel-stage-i/terrace-hall-v2.png",
+      "local": "audit-decode/skygarden-district/terrace-hall-v2.png",
+      "bytes": 2514716,
+      "declared_bytes": 2514716,
+      "sha256": "08f9580a0193d0ea9bfe319d9bed6cf8377d0d90f82f6310754011094afb45de",
+      "declared_sha256": "08f9580a0193d0ea9bfe319d9bed6cf8377d0d90f82f6310754011094afb45de",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "7172d8e67b07675a",
+      "margins_heuristic": {
+        "top": 42,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I05",
+      "stage": 1,
+      "stage_name": "Garden Beacon",
+      "path": "assets/pixel-stage-i/garden-beacon-v2.png",
+      "local": "audit-decode/skygarden-district/garden-beacon-v2.png",
+      "bytes": 2586954,
+      "declared_bytes": 2586954,
+      "sha256": "d8b6c1b9be31e5a648128d8e469a5dd7bfefb1ed72a39de10a64ff964354a7f7",
+      "declared_sha256": "d8b6c1b9be31e5a648128d8e469a5dd7bfefb1ed72a39de10a64ff964354a7f7",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "e969687117d78e2b",
+      "margins_heuristic": {
+        "top": 86,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I01",
+      "stage": 2,
+      "stage_name": "Veilside Habitat",
+      "path": "assets/pixel-evolutions/veilside-habitat-v1.png",
+      "local": "audit-decode/shadow-market/veilside-habitat-v1.png",
+      "bytes": 2708071,
+      "declared_bytes": 2708071,
+      "sha256": "297cc4c0d71e9756b2ef16fd42529204e58835d02b1e26285a87f93a70eaea0d",
+      "declared_sha256": "297cc4c0d71e9756b2ef16fd42529204e58835d02b1e26285a87f93a70eaea0d",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "718f2979292d2b09",
+      "margins_heuristic": {
+        "top": 31,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I01",
+      "stage": 3,
+      "stage_name": "Noctis Enclave",
+      "path": "assets/pixel-evolutions/noctis-enclave-v1.png",
+      "local": "audit-decode/shadow-market/noctis-enclave-v1.png",
+      "bytes": 2742463,
+      "declared_bytes": 2742463,
+      "sha256": "049c921e3c79f13b349e27001c3e78538c89c97b575cc9f7d9c409f8c9059f4e",
+      "declared_sha256": "049c921e3c79f13b349e27001c3e78538c89c97b575cc9f7d9c409f8c9059f4e",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "673131312b2b2b0b",
+      "margins_heuristic": {
+        "top": 45,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I02",
+      "stage": 2,
+      "stage_name": "Blackglass Bazaar",
+      "path": "assets/pixel-evolutions/blackglass-bazaar-v1.png",
+      "local": "audit-decode/shadow-market/blackglass-bazaar-v1.png",
+      "bytes": 3236770,
+      "declared_bytes": 3236770,
+      "sha256": "41ea94145658516df25b59335a4f9bc1aa7c93addce1065189f5539b518cab7c",
+      "declared_sha256": "41ea94145658516df25b59335a4f9bc1aa7c93addce1065189f5539b518cab7c",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "233fae373535256d",
+      "margins_heuristic": {
+        "top": 44,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I02",
+      "stage": 3,
+      "stage_name": "Eclipse Exchange",
+      "path": "assets/pixel-evolutions/eclipse-exchange-v1.png",
+      "local": "audit-decode/shadow-market/eclipse-exchange-v1.png",
+      "bytes": 3392452,
+      "declared_bytes": 3392452,
+      "sha256": "b90123a92168481a96cc93736d18b7b4a59f4ea33423c23eb6a4f04f01849e22",
+      "declared_sha256": "b90123a92168481a96cc93736d18b7b4a59f4ea33423c23eb6a4f04f01849e22",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "17172d0515352f6d",
+      "margins_heuristic": {
+        "top": 59,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I03",
+      "stage": 2,
+      "stage_name": "Umbra Array",
+      "path": "assets/pixel-evolutions/umbra-array-v1.png",
+      "local": "audit-decode/shadow-market/umbra-array-v1.png",
+      "bytes": 2931406,
+      "declared_bytes": 2931406,
+      "sha256": "8fd9e7329eba4193dbb724ec1f227b31ae507409e0b02de946036c56f7f7ce33",
+      "declared_sha256": "8fd9e7329eba4193dbb724ec1f227b31ae507409e0b02de946036c56f7f7ce33",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "19253d25341b0b29",
+      "margins_heuristic": {
+        "top": 23,
+        "bottom": 0,
+        "left": 1,
+        "right": 1
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I03",
+      "stage": 3,
+      "stage_name": "Nightcode Nexus",
+      "path": "assets/pixel-evolutions/nightcode-nexus-v1.png",
+      "local": "audit-decode/shadow-market/nightcode-nexus-v1.png",
+      "bytes": 2893981,
+      "declared_bytes": 2893981,
+      "sha256": "a773bc86d6f99f5464ed6e8961f833a14340b02201dcb0d42cb91497a50451cc",
+      "declared_sha256": "a773bc86d6f99f5464ed6e8961f833a14340b02201dcb0d42cb91497a50451cc",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "194d4d75714c0b2d",
+      "margins_heuristic": {
+        "top": 45,
+        "bottom": 0,
+        "left": 0,
+        "right": 1
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I04",
+      "stage": 2,
+      "stage_name": "Phantom Pavilion",
+      "path": "assets/pixel-evolutions/phantom-pavilion-v1.png",
+      "local": "audit-decode/shadow-market/phantom-pavilion-v1.png",
+      "bytes": 2825717,
+      "declared_bytes": 2825717,
+      "sha256": "5f5a2e05ddae88d8b4304a24b75d49c141233df08c31ee728b05fba0ed3ddf64",
+      "declared_sha256": "5f5a2e05ddae88d8b4304a24b75d49c141233df08c31ee728b05fba0ed3ddf64",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "752faa74554cc455",
+      "margins_heuristic": {
+        "top": 23,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I04",
+      "stage": 3,
+      "stage_name": "Midnight Masquerade",
+      "path": "assets/pixel-evolutions/midnight-masquerade-v1.png",
+      "local": "audit-decode/shadow-market/midnight-masquerade-v1.png",
+      "bytes": 3086510,
+      "declared_bytes": 3086510,
+      "sha256": "c345b47012140734d218b7fc00dd67651149ab8669ca34761146161a3edf3b91",
+      "declared_sha256": "c345b47012140734d218b7fc00dd67651149ab8669ca34761146161a3edf3b91",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4725ae734dcc5d15",
+      "margins_heuristic": {
+        "top": 57,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I05",
+      "stage": 2,
+      "stage_name": "Obsidian Spire",
+      "path": "assets/pixel-evolutions/obsidian-spire-v1.png",
+      "local": "audit-decode/shadow-market/obsidian-spire-v1.png",
+      "bytes": 2578772,
+      "declared_bytes": 2578772,
+      "sha256": "b7a6c4687622769a907992bd642fff1f4e71784172f398dda22139ad3faa8d93",
+      "declared_sha256": "b7a6c4687622769a907992bd642fff1f4e71784172f398dda22139ad3faa8d93",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "294d8e4d172f6b0b",
+      "margins_heuristic": {
+        "top": 54,
+        "bottom": 2,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N03-I05",
+      "stage": 3,
+      "stage_name": "Shadow Sovereign",
+      "path": "assets/pixel-evolutions/shadow-sovereign-v1.png",
+      "local": "audit-decode/shadow-market/shadow-sovereign-v1.png",
+      "bytes": 2971723,
+      "declared_bytes": 2971723,
+      "sha256": "90ad0e7a00808ca2734ba6a3ff0c1b7616fbb4556bcf0fa0b9e74fa2d90136b6",
+      "declared_sha256": "90ad0e7a00808ca2734ba6a3ff0c1b7616fbb4556bcf0fa0b9e74fa2d90136b6",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "294d0feb574d6d69",
+      "margins_heuristic": {
+        "top": 72,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I01",
+      "stage": 2,
+      "stage_name": "Cloudterrace Habitat",
+      "path": "assets/pixel-evolutions/cloudterrace-habitat-v1.png",
+      "local": "audit-decode/skygarden-district/cloudterrace-habitat-v1.png",
+      "bytes": 3017112,
+      "declared_bytes": 3017112,
+      "sha256": "81c87bbcc6527a55b7c4bf2fec0131c0ff694747ce826afae7dd9383b67646a1",
+      "declared_sha256": "81c87bbcc6527a55b7c4bf2fec0131c0ff694747ce826afae7dd9383b67646a1",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "53cec4c4d6941525",
+      "margins_heuristic": {
+        "top": 20,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I01",
+      "stage": 3,
+      "stage_name": "Eden Skyhold",
+      "path": "assets/pixel-evolutions/eden-skyhold-v1.png",
+      "local": "audit-decode/skygarden-district/eden-skyhold-v1.png",
+      "bytes": 3205151,
+      "declared_bytes": 3205151,
+      "sha256": "d6deea6713f262a12738de4a160f0129f96c20d5bd2aa3cc7f9fc6734dbf2e07",
+      "declared_sha256": "d6deea6713f262a12738de4a160f0129f96c20d5bd2aa3cc7f9fc6734dbf2e07",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "7178e88c9a95352d",
+      "margins_heuristic": {
+        "top": 18,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I02",
+      "stage": 2,
+      "stage_name": "Verdant Galleria",
+      "path": "assets/pixel-evolutions/verdant-galleria-v1.png",
+      "local": "audit-decode/skygarden-district/verdant-galleria-v1.png",
+      "bytes": 2808300,
+      "declared_bytes": 2808300,
+      "sha256": "d539363118ac0b0c2f139e04c599dca141f36a4404855affb1858eb6d0f54240",
+      "declared_sha256": "d539363118ac0b0c2f139e04c599dca141f36a4404855affb1858eb6d0f54240",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "e0f1fb8b8e8e4d2b",
+      "margins_heuristic": {
+        "top": 31,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I02",
+      "stage": 3,
+      "stage_name": "Hanging Garden Exchange",
+      "path": "assets/pixel-evolutions/hanging-garden-exchange-v1.png",
+      "local": "audit-decode/skygarden-district/hanging-garden-exchange-v1.png",
+      "bytes": 3395579,
+      "declared_bytes": 3395579,
+      "sha256": "2f955326a7f43d94e79dce7213217f1842b07e39762f4508cc5d7206e5643bc6",
+      "declared_sha256": "2f955326a7f43d94e79dce7213217f1842b07e39762f4508cc5d7206e5643bc6",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "6c8e8e8e8eaaae33",
+      "margins_heuristic": {
+        "top": 25,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I03",
+      "stage": 2,
+      "stage_name": "Aeroponic Spire",
+      "path": "assets/pixel-evolutions/aeroponic-spire-v1.png",
+      "local": "audit-decode/skygarden-district/aeroponic-spire-v1.png",
+      "bytes": 2747211,
+      "declared_bytes": 2747211,
+      "sha256": "6a9b614e3defa8fcc85f6244aa85b24e7c4b996df8f742a57b65ff90e29e6416",
+      "declared_sha256": "6a9b614e3defa8fcc85f6244aa85b24e7c4b996df8f742a57b65ff90e29e6416",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "69d4c8c8d2e2d849",
+      "margins_heuristic": {
+        "top": 40,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I03",
+      "stage": 3,
+      "stage_name": "Gaia Cloudworks",
+      "path": "assets/pixel-evolutions/gaia-cloudworks-v1.png",
+      "local": "audit-decode/skygarden-district/gaia-cloudworks-v1.png",
+      "bytes": 2837965,
+      "declared_bytes": 2837965,
+      "sha256": "7a17545a3845d5457498ba17a1d893f351f20a9c6f2ff405ae1040f17412dad5",
+      "declared_sha256": "7a17545a3845d5457498ba17a1d893f351f20a9c6f2ff405ae1040f17412dad5",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "69d8e8aa9ae8ce0d",
+      "margins_heuristic": {
+        "top": 49,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I04",
+      "stage": 2,
+      "stage_name": "Petal Pavilion",
+      "path": "assets/pixel-evolutions/petal-pavilion-v1.png",
+      "local": "audit-decode/skygarden-district/petal-pavilion-v1.png",
+      "bytes": 2892061,
+      "declared_bytes": 2892061,
+      "sha256": "37db23a798d304f0c1e4e634a7404c16e4abad5c696931bcd824a6d5f043815b",
+      "declared_sha256": "37db23a798d304f0c1e4e634a7404c16e4abad5c696931bcd824a6d5f043815b",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "7368cca869652f6a",
+      "margins_heuristic": {
+        "top": 39,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I04",
+      "stage": 3,
+      "stage_name": "Celestial Conservatory",
+      "path": "assets/pixel-evolutions/celestial-conservatory-v1.png",
+      "local": "audit-decode/skygarden-district/celestial-conservatory-v1.png",
+      "bytes": 3173632,
+      "declared_bytes": 3173632,
+      "sha256": "01ee9efa11b5766925c65d97821b08b7a9597558791da8c16f1d1554a91fb726",
+      "declared_sha256": "01ee9efa11b5766925c65d97821b08b7a9597558791da8c16f1d1554a91fb726",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "69e8cce8e8864d69",
+      "margins_heuristic": {
+        "top": 21,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I05",
+      "stage": 2,
+      "stage_name": "Worldtree Apex",
+      "path": "assets/pixel-evolutions/worldtree-apex-v1.png",
+      "local": "audit-decode/skygarden-district/worldtree-apex-v1.png",
+      "bytes": 2757390,
+      "declared_bytes": 2757390,
+      "sha256": "caeec277ad2144d4624444568687ea06d698b27481adee229a181fe99b7e31f9",
+      "declared_sha256": "caeec277ad2144d4624444568687ea06d698b27481adee229a181fe99b7e31f9",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "694de46117968e2b",
+      "margins_heuristic": {
+        "top": 87,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N04-I05",
+      "stage": 3,
+      "stage_name": "Crown of Eden",
+      "path": "assets/pixel-evolutions/crown-of-eden-v1.png",
+      "local": "audit-decode/skygarden-district/crown-of-eden-v1.png",
+      "bytes": 2899756,
+      "declared_bytes": 2899756,
+      "sha256": "71c36093ad46e4426bc894bda1d884b002cfee2f699074e9d567b2e8ca90069e",
+      "declared_sha256": "71c36093ad46e4426bc894bda1d884b002cfee2f699074e9d567b2e8ca90069e",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "694d2b9231338b2b",
+      "margins_heuristic": {
+        "top": 62,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    }
+  ],
+  "next_action": "Audit Velocity Row (N05) and Royal Mirage (N06) selected architectural masters."
+}
+
