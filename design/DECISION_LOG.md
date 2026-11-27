@@ -388,3 +388,13 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Delegated correction:** open a reversible environment-normalization queue for those 20 presentations. Do not regenerate or alter architecture merely to change the environment.
 - **Status boundary:** the architectural selection audit is complete, but final NFT certification remains 0/150 and edition/rarity work remains blocked until the correction queue closes.
 - **Exact next action:** prototype Arcadia Prime Residential and Crimson Commons Residential normalization, then compare both lineages before batch application.
+
+
+## 2026-11-26 — Environment-normalization method rejection
+
+- **Bounded test:** reference-guided whole-image editing was applied only to Harmony Habitat and Scarlet Habitat, each with its selected Stage I lineage reference.
+- **Observed result:** both edits improved atmosphere but materially redrew tower massing, facade modules, bridge/pool/entry composition and sign placement.
+- **Delegated decision:** reject both prototypes and prohibit this whole-image method for the remaining 18 queued assets.
+- **Preservation:** selected masters, manifest records and final-certification count remain unchanged; rejected images are QA evidence only.
+- **Next method:** deterministic masks plus reusable building-free environment plates, with unchanged protected architecture pixels and quantified pixel-diff evidence.
+- **Evidence:** `ARTWORK_ENVIRONMENT_NORMALIZATION_PROTOTYPE_2026-11-26.md`.

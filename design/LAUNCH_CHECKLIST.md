@@ -603,3 +603,12 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Added `ARTWORK_SELECTED_MASTER_AUDIT_SUMMARY_2026-11-26.md` as the collection-wide evidence index.
 - [ ] Prototype Arcadia Prime Residential and Crimson Commons Residential normalization, then compare both full lineages before batch application.
 - [ ] Keep edition/rarity production blocked until this correction queue closes.
+
+
+## 2026-11-26 environment-normalization prototype
+
+- [x] Test Arcadia Prime and Crimson Commons Stage II Residential environment normalization as a bounded prototype.
+- [x] Reject both whole-image generative edits after direct visual inspection found material architecture/composition drift.
+- [x] Preserve selected masters and record the rejected method, output hashes and exact next action.
+- [ ] Build building-free neighborhood plates and deterministic architecture masks; prove protected pixels remain unchanged before promotion.
+- [ ] Keep Stage III, the other 18 queued assets, editions and rarities held until both Stage II composites pass.

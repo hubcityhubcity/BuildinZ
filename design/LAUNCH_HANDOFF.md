@@ -1,5 +1,16 @@
 # Genesis production handoff
 
+## Current checkpoint — November 26, 2026
+
+Main inspected: `c468d1f277dedf32cca1735e2147457f0d4fd30b`. Read this before historical checkpoints.
+
+The complete 150-master architectural audit remains valid. A bounded Stage II Residential normalization prototype was run for Harmony Habitat and Scarlet Habitat. Both generative edits were rejected because they redrew architecture and composition even though their dusk environments improved. The rejected outputs are preserved only under `assets/qa/rejected-environment-prototypes/`; no selected path, manifest checksum, approval state or final-certification count changed.
+
+**Exact next action:** build reusable building-free Arcadia Prime and Crimson Commons environment plates, derive deterministic masks from the flat dark fields, composite the unchanged Stage II source pixels, and require a protected-region pixel diff before visual comparison. Do not repeat whole-image generative editing or apply anything to Stage III/the remaining identities until both Stage II composites pass.
+
+Evidence: `ARTWORK_ENVIRONMENT_NORMALIZATION_PROTOTYPE_2026-11-26.md`. Edition/rarity production remains held. No paid, wallet, deployment, mint-opening, public-message or game action occurred.
+
+
 ## Current checkpoint — November 13, 2026
 
 Main inspected: 71d49ac4f81d8cf7fa02987ef6f6c81541ed8e21. Read this before historical checkpoints.
