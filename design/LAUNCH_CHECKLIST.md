@@ -547,7 +547,8 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Ran 64-bit difference-hash comparison. Zero pairs met the ≤5 near-duplicate threshold. The nearest pair, Crown Arcade/Grand Aureum Exchange at distance 6, was visually confirmed as a legitimate lineage with distinct Stage III height, dome and program.
 - [x] Recorded no correction candidates for N01 or N02; preserved all selected originals.
 - [x] Run the same immutable-blob decode, contact-sheet and similarity audit for Shadow Market and Skygarden District.
-- [ ] Run the same immutable-blob decode, contact-sheet and similarity audit for Velocity Row and Royal Mirage.
+- [x] Run the same immutable-blob decode, contact-sheet and similarity audit for Velocity Row and Royal Mirage.
+- [ ] Run the same immutable-blob decode, contact-sheet and similarity audit for Old World Steel and Moonline Harbor.
 
 
 ## 2026-11-26 Shadow Market and Skygarden District decode/visual audit
@@ -560,3 +561,16 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Ran 64-bit difference-hash comparison: zero pairs met the ≤5 near-duplicate threshold; the closest pair was N04-I05 Stage I/II at distance 9.
 - [x] Recorded no selected-art correction candidates. Corrected one evidence-only Skygarden QA title clipping issue without altering artwork.
 - [ ] Continue with Velocity Row and Royal Mirage before edition/rarity production.
+
+
+## 2026-11-26 Velocity Row and Royal Mirage decode/visual audit
+
+- [x] Retrieved the 30 exact selected PNG blobs from immutable commit `f9c2032fad233c3d69c55afebf51e0e6bdf043f8`; no candidate or composite path was substituted.
+- [x] Independently decoded all 30 as native 1024×1536 RGB PNGs and reproduced every recorded byte count and SHA-256 value.
+- [x] Generated and visually inspected equal-scale five-family × three-stage contact sheets for both neighborhoods.
+- [x] Confirmed exact stage names, distinct building functions, clear lineage growth, attached supports, complete crowns/bases and intended neighborhood palettes.
+- [x] Confirmed Royal Mirage residential water remains private/elevated rather than a ground-level public pool.
+- [x] Ran 64-bit difference-hash comparison: zero pairs met the ≤5 near-duplicate threshold; the nearest N05 and N06 Landmark Stage I/II pairs were distance 9.
+- [x] Resolved and read six exact-title Library composite references; retained them as model-generated context, not standalone selected token art.
+- [x] Recorded no selected-art correction candidates. Background-derived zero-margin readings were visually confirmed as bright-sky false positives, not clipping.
+- [ ] Continue with Old World Steel and Moonline Harbor before edition/rarity production.

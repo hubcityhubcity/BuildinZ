@@ -1363,3 +1363,12 @@ All 15 Shadow Market and 15 Skygarden District selected masters were retrieved f
 No dHash pair met the distance-5 near-duplicate threshold; the closest pair was N04-I05 Stage I/II at distance 9 and was visually accepted as a legitimate progressive lineage. The first Skygarden QA composition clipped the first title letter; the QA sheet alone was corrected and re-inspected. No selected artwork correction was justified. Evidence: `ARTWORK_DECODE_VISUAL_AUDIT_N03_N04_2026-11-26.md`, its JSON companion and the two neighborhood QA boards.
 
 Fresh decode/visual audit progress is now 60 of 150 masters across four of ten neighborhoods. Next: Velocity Row and Royal Mirage. Edition/rarity production remains held until the artwork audit and correction queue are closed.
+
+
+## 2026-11-26 N05/N06 decode and visual audit
+
+All 15 Velocity Row and 15 Royal Mirage selected masters were retrieved from immutable commit `f9c2032fad233c3d69c55afebf51e0e6bdf043f8`, freshly decoded and hashed. Every image is a 1024×1536 RGB PNG; byte counts and SHA-256 values match the canonical inventories. Equal-scale contact sheets confirm exact names, complete framing, building-type separation, attached supports, intended palette/program and clear three-stage growth. Royal Mirage residential water remains private/elevated rather than a ground-level public pool.
+
+No dHash pair met the distance-5 near-duplicate threshold; the closest N05 and N06 Landmark Stage I/II pairs were distance 9 and were visually accepted as legitimate progressive lineages. Several background-derived zero top-margin readings came from bright sky/cloud pixels at the border; manual inspection confirms complete crowns and no selected-art clipping. Six exact-title Library sheets were resolved and read as model-generated composite references only. No selected artwork correction was justified. Evidence: `ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md`, its JSON companion and the two neighborhood QA boards.
+
+Fresh decode/visual audit progress is now 90 of 150 masters across six of ten neighborhoods. Next: Old World Steel and Moonline Harbor. Edition/rarity production remains held until the artwork audit and correction queue are closed.

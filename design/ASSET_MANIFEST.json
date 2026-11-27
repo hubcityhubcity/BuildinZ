@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0.0",
   "recorded_date": "2026-11-26",
-  "repository_commit": "1187714f7189fd495665f0276127e3f0982f06d7",
+  "repository_commit": "f9c2032fad233c3d69c55afebf51e0e6bdf043f8",
   "scope_note": "Canonical repository inventory with historical assets preserved and all 150 current selected architectural masters explicitly recorded. Selected architectural master does not mean final NFT export certification.",
   "integrity_note": "The 150 current selected masters were reconciled against the complete Git tree at repository commit 57d29915d07d1ee8aed9aaac09bafdeab08ac71a. All declared paths, byte counts and Git blob SHAs match; no selected path/blob/recorded SHA-256 duplicates were found. SHA-256 and dimensions are carried from the per-asset inventories and prior local verification, not recomputed from all blobs in this audit.",
   "summary": {
@@ -16,8 +16,8 @@
     "lineage_selected_candidate_stage_assets": 135,
     "final_nft_certified_stage_assets": 0,
     "required_identity_stage_assets": 150,
-    "fresh_decode_visual_audited_stage_assets": 60,
-    "fresh_decode_visual_audited_neighborhoods": 4
+    "fresh_decode_visual_audited_stage_assets": 90,
+    "fresh_decode_visual_audited_neighborhoods": 6
   },
   "production_matrix": [
     {
@@ -89,13 +89,13 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "15 architectural masters selected; independent decode/visual/export certification open",
+      "status": "15 architectural masters selected; fresh decode/visual audit passed; final NFT export certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
       "selected_candidate_stage_assets": 15,
       "selected_architectural_master_stage_assets": 15,
       "selected_stage_i_architectural_masters": 5,
       "selected_evolution_architectural_masters": 10,
-      "fresh_decode_visual_audited_stage_assets": 0
+      "fresh_decode_visual_audited_stage_assets": 15
     },
     {
       "neighborhood_id": 5,
@@ -104,13 +104,13 @@
       "required_stage_assets": 15,
       "selected_prototype_stage_assets": 0,
       "final_nft_certified_stage_assets": 0,
-      "status": "15 architectural masters selected; independent decode/visual/export certification open",
+      "status": "15 architectural masters selected; fresh decode/visual audit passed; final NFT export certification open",
       "provenance": "foundation-theme-adopted-under-delegated-authority",
       "selected_candidate_stage_assets": 15,
       "selected_architectural_master_stage_assets": 15,
       "selected_stage_i_architectural_masters": 5,
       "selected_evolution_architectural_masters": 10,
-      "fresh_decode_visual_audited_stage_assets": 0
+      "fresh_decode_visual_audited_stage_assets": 15
     },
     {
       "neighborhood_id": 6,
@@ -5857,7 +5857,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/apollo-palace-v1.png",
@@ -6010,7 +6012,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/cloudterrace-habitat-v1.png",
@@ -6251,7 +6255,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/crown-of-speed-v1.png",
@@ -6272,7 +6278,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/crown-of-tides-v1.png",
@@ -6337,7 +6345,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/eclipse-citadel-v1.png",
@@ -6668,7 +6678,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/imperial-engineworks-v1.png",
@@ -6733,7 +6745,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/infinite-forum-v1.png",
@@ -6840,7 +6854,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/lunar-lighthouse-v1.png",
@@ -6924,7 +6940,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/machina-nexus-v1.png",
@@ -6989,7 +7007,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/mirage-palace-v1.png",
@@ -7010,7 +7030,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/mooncurrent-nexus-v1.png",
@@ -7230,7 +7252,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/oracle-spire-v1.png",
@@ -7272,7 +7296,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/parthenon-apex-v1.png",
@@ -7423,7 +7449,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/quantum-spire-v2.png",
@@ -7490,7 +7518,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/riveted-habitat-v1.png",
@@ -7641,7 +7671,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/solaris-grand-theatre-v1.png",
@@ -7708,7 +7740,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/spectrum-galleria-v1.png",
@@ -7773,7 +7807,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/sunspire-monument-v1.png",
@@ -7859,7 +7895,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/umbra-array-v1.png",
@@ -7926,7 +7964,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-evolutions/verdant-galleria-v1.png",
@@ -8341,7 +8381,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/STAGE_I_PIXEL_SOURCE_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-stage-i/ember-hall-v1.png",
@@ -8649,7 +8691,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/STAGE_I_PIXEL_SOURCE_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-stage-i/muse-hall-v1.png",
@@ -8714,7 +8758,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/STAGE_I_PIXEL_SOURCE_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-stage-i/pitlane-plaza-v5.png",
@@ -8735,7 +8781,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/STAGE_I_PIXEL_SOURCE_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-stage-i/pole-beacon-v3.png",
@@ -8756,7 +8804,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/STAGE_I_PIXEL_SOURCE_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-stage-i/prism-works-v2.png",
@@ -8777,7 +8827,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/STAGE_I_PIXEL_SOURCE_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-stage-i/pulse-plaza-v2.png",
@@ -8863,7 +8915,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/STAGE_I_PIXEL_SOURCE_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-stage-i/rush-arena-v3.png",
@@ -8884,7 +8938,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/STAGE_I_PIXEL_SOURCE_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-stage-i/seedlight-labs-v2.png",
@@ -8951,7 +9007,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/STAGE_I_PIXEL_SOURCE_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-stage-i/terrace-hall-v2.png",
@@ -9037,7 +9095,9 @@
       "selected_for_architectural_master": true,
       "final_nft_certification": false,
       "evidence": "design/STAGE_I_PIXEL_SOURCE_INVENTORY.json",
-      "selection_status": "delegated_visual_selection"
+      "selection_status": "delegated_visual_selection",
+      "decode_audit_status": "passed_2026-11-26",
+      "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N05_N06_2026-11-26.md"
     },
     {
       "path": "assets/pixel-stage-i/veil-beacon-v2.png",

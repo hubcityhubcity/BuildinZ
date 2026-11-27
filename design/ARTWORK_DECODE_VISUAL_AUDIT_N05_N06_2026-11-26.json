@@ -1,0 +1,815 @@
+{
+  "schema_version": "1.0.0",
+  "recorded_date": "2026-11-26",
+  "timezone": "America/Chicago",
+  "repository_commit": "f9c2032fad233c3d69c55afebf51e0e6bdf043f8",
+  "scope": {
+    "neighborhoods": [
+      {
+        "id": "N05",
+        "name": "Velocity Row"
+      },
+      {
+        "id": "N06",
+        "name": "Royal Mirage"
+      }
+    ],
+    "selected_architectural_masters": 30,
+    "stages_per_identity": 3
+  },
+  "result": "passed",
+  "limitations": [
+    "Not edition export certification",
+    "Not permanent-storage URI verification",
+    "Not metadata or contract certification",
+    "Background-derived top-clearance zeros are false positives caused by bright sky/cloud pixels and were superseded by human visual inspection"
+  ],
+  "integrity": {
+    "decoded_png": 30,
+    "dimensions_1024x1536": 30,
+    "rgb_mode": 30,
+    "byte_count_matches": 30,
+    "sha256_matches": 30,
+    "duplicate_sha256_pairs": 0,
+    "dhash_pairs_distance_le_5": 0,
+    "nearest_dhash_pairs": [
+      {
+        "a": "N05-I05-S1",
+        "b": "N05-I05-S2",
+        "distance": 9
+      },
+      {
+        "a": "N06-I05-S1",
+        "b": "N06-I05-S2",
+        "distance": 9
+      },
+      {
+        "a": "N06-I05-S2",
+        "b": "N06-I05-S3",
+        "distance": 11
+      },
+      {
+        "a": "N05-I04-S1",
+        "b": "N05-I04-S2",
+        "distance": 12
+      },
+      {
+        "a": "N05-I04-S3",
+        "b": "N06-I02-S3",
+        "distance": 14
+      },
+      {
+        "a": "N06-I01-S3",
+        "b": "N06-I05-S2",
+        "distance": 14
+      },
+      {
+        "a": "N06-I04-S2",
+        "b": "N06-I04-S3",
+        "distance": 14
+      },
+      {
+        "a": "N05-I03-S1",
+        "b": "N05-I03-S3",
+        "distance": 15
+      },
+      {
+        "a": "N05-I04-S1",
+        "b": "N05-I04-S3",
+        "distance": 15
+      },
+      {
+        "a": "N05-I04-S2",
+        "b": "N05-I04-S3",
+        "distance": 15
+      }
+    ],
+    "top_clearance_heuristic_note": "Several zero readings reflect bright background pixels at the canvas edge, not artwork clipping."
+  },
+  "visual_findings": {
+    "N05": {
+      "result": "passed",
+      "notes": [
+        "Five functional families remain distinct",
+        "Velocity Row palette and speed language preserved",
+        "Exact stage names visible",
+        "Stage escalation and physical supports visible",
+        "Bases and crowns remain framed"
+      ]
+    },
+    "N06": {
+      "result": "passed",
+      "notes": [
+        "Five functional families remain distinct",
+        "Royal Mirage palette and architectural language preserved",
+        "Exact stage names visible",
+        "Supported escalation visible",
+        "Residential water remains private/elevated",
+        "Bases and crowns remain framed"
+      ]
+    }
+  },
+  "qa_artifacts": [
+    "assets/qa/velocity-row-selected-master-audit-v1.png",
+    "assets/qa/royal-mirage-selected-master-audit-v1.png"
+  ],
+  "library_cross_check": {
+    "exact_results": [
+      {
+        "name": "Velocity Row Stage III Upgrades.png",
+        "library_file_id": "libfile_5c9f261ac504819181223a479104587b",
+        "size_bytes": 2461284,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Velocity Row Stage II upgrades.png",
+        "library_file_id": "libfile_a8827f023fbc8191ba023a279ddb2623",
+        "size_bytes": 2217475,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Velocity Row Pixel Building Sprite Sheet.png",
+        "library_file_id": "libfile_da0a00c6d0fc8191b6dfc8f89ef039e9",
+        "size_bytes": 2097472,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Royal Mirage: Five Architectural Marvels.png",
+        "library_file_id": "libfile_cbd7b983af5081918a463a59f5874c32",
+        "size_bytes": 2836680,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Royal Mirage Stage II sprite sheet.png",
+        "library_file_id": "libfile_cc3de7b8d6c08191953e9a2dd9b7ed89",
+        "size_bytes": 2427248,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Royal Mirage Isometric Building Sprite Sheet.png",
+        "library_file_id": "libfile_00155aab3f7c81919256b9c54965129c",
+        "size_bytes": 2236845,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      }
+    ],
+    "usage": "model-generated composite references only; not substituted for selected standalone assets"
+  },
+  "assets": [
+    {
+      "identity_id": "N05-I01",
+      "stage": 1,
+      "stage_name": "Draftline Lofts",
+      "path": "assets/pixel-stage-i/draftline-lofts-v3.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/draftline-lofts-v3.png",
+      "bytes": 2981176,
+      "declared_bytes": 2981176,
+      "sha256": "b745a36283ed242c24a4f430e1b9e01b659703267df7f4a3efd377252f442bbf",
+      "declared_sha256": "b745a36283ed242c24a4f430e1b9e01b659703267df7f4a3efd377252f442bbf",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "c4c8e437372d1f01",
+      "top_clearance_heuristic_px": 53,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I01",
+      "stage": 2,
+      "stage_name": "Slipstream Habitat",
+      "path": "assets/pixel-evolutions/slipstream-habitat-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/slipstream-habitat-v1.png",
+      "bytes": 2954868,
+      "declared_bytes": 2954868,
+      "sha256": "5d6806e5fb8028256efa9f00026e895cb69f7e230ea10c19ff86df77dc522aec",
+      "declared_sha256": "5d6806e5fb8028256efa9f00026e895cb69f7e230ea10c19ff86df77dc522aec",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "7070ec65372f2d05",
+      "top_clearance_heuristic_px": 40,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I01",
+      "stage": 3,
+      "stage_name": "Mach Horizon",
+      "path": "assets/pixel-evolutions/mach-horizon-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/mach-horizon-v1.png",
+      "bytes": 3137396,
+      "declared_bytes": 3137396,
+      "sha256": "5725f4cc1037f721ca8f3235180bcdd55f9cbad5d9e3b2e1ed1d7e291b8b9fb4",
+      "declared_sha256": "5725f4cc1037f721ca8f3235180bcdd55f9cbad5d9e3b2e1ed1d7e291b8b9fb4",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "ccccd2555d6d6f09",
+      "top_clearance_heuristic_px": 39,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I02",
+      "stage": 1,
+      "stage_name": "Pitlane Plaza",
+      "path": "assets/pixel-stage-i/pitlane-plaza-v5.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/pitlane-plaza-v5.png",
+      "bytes": 2416344,
+      "declared_bytes": 2416344,
+      "sha256": "5d02a48e2b0fd8fc4096e9416f42fd8065117e64e7902b49a64db1c860f8e4a3",
+      "declared_sha256": "5d02a48e2b0fd8fc4096e9416f42fd8065117e64e7902b49a64db1c860f8e4a3",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "99d1e09b1f0e0b2f",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I02",
+      "stage": 2,
+      "stage_name": "Turbo Galleria",
+      "path": "assets/pixel-evolutions/turbo-galleria-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/turbo-galleria-v1.png",
+      "bytes": 2658739,
+      "declared_bytes": 2658739,
+      "sha256": "89f1d89552675791d4f2efcc9508e8b6cc916373ecf60113af96318e3e95ad0b",
+      "declared_sha256": "89f1d89552675791d4f2efcc9508e8b6cc916373ecf60113af96318e3e95ad0b",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "99f1872d6f0f0f3f",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I02",
+      "stage": 3,
+      "stage_name": "Velocity Exchange",
+      "path": "assets/pixel-evolutions/velocity-exchange-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/velocity-exchange-v1.png",
+      "bytes": 2976003,
+      "declared_bytes": 2976003,
+      "sha256": "13004ff54e1ecd3e0a449672478eb2de05de09927cbb076bdf579080c22c7e9e",
+      "declared_sha256": "13004ff54e1ecd3e0a449672478eb2de05de09927cbb076bdf579080c22c7e9e",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "d9030f4d0b4f373e",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I03",
+      "stage": 1,
+      "stage_name": "Vector Works",
+      "path": "assets/pixel-stage-i/vector-works-v3.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/vector-works-v3.png",
+      "bytes": 3064146,
+      "declared_bytes": 3064146,
+      "sha256": "c8c7d85b067d24543fdf9b8c4492c7595b785590fb48ecce6f7137b6f13074b4",
+      "declared_sha256": "c8c7d85b067d24543fdf9b8c4492c7595b785590fb48ecce6f7137b6f13074b4",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "70c6ccfc2f0d1507",
+      "top_clearance_heuristic_px": 15,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I03",
+      "stage": 2,
+      "stage_name": "Quantum Garage",
+      "path": "assets/pixel-evolutions/quantum-garage-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/quantum-garage-v1.png",
+      "bytes": 3057843,
+      "declared_bytes": 3057843,
+      "sha256": "0cf5482acf2e5b7df7ce60a22a84708f525cf3f2ee80cfb85a7eca241aede941",
+      "declared_sha256": "0cf5482acf2e5b7df7ce60a22a84708f525cf3f2ee80cfb85a7eca241aede941",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "c80638e829291f25",
+      "top_clearance_heuristic_px": 26,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I03",
+      "stage": 3,
+      "stage_name": "Hyperdrive Nexus",
+      "path": "assets/pixel-evolutions/hyperdrive-nexus-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/hyperdrive-nexus-v1.png",
+      "bytes": 3303544,
+      "declared_bytes": 3303544,
+      "sha256": "ec5033f68ebb415184e1a1f26a6f8f0ff894957e48f27d1dd0c71306c3628ea4",
+      "declared_sha256": "ec5033f68ebb415184e1a1f26a6f8f0ff894957e48f27d1dd0c71306c3628ea4",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "8cc6ecec2d6d0d15",
+      "top_clearance_heuristic_px": 3,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I04",
+      "stage": 1,
+      "stage_name": "Rush Arena",
+      "path": "assets/pixel-stage-i/rush-arena-v3.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/rush-arena-v3.png",
+      "bytes": 2512976,
+      "declared_bytes": 2512976,
+      "sha256": "914143c80611b92e7c65e1bece4ca50b9ed1bd92834949fee8755b408927b914",
+      "declared_sha256": "914143c80611b92e7c65e1bece4ca50b9ed1bd92834949fee8755b408927b914",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "7078f939694f1f0d",
+      "top_clearance_heuristic_px": 41,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I04",
+      "stage": 2,
+      "stage_name": "Overtake Pavilion",
+      "path": "assets/pixel-evolutions/overtake-pavilion-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/overtake-pavilion-v1.png",
+      "bytes": 2692950,
+      "declared_bytes": 2692950,
+      "sha256": "6a45e7ec217318f397ae33a69f412cbc521bcee1496c16403782116b046d8444",
+      "declared_sha256": "6a45e7ec217318f397ae33a69f412cbc521bcee1496c16403782116b046d8444",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "70f071694d4f3f9f",
+      "top_clearance_heuristic_px": 40,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I04",
+      "stage": 3,
+      "stage_name": "Redline Coliseum",
+      "path": "assets/pixel-evolutions/redline-coliseum-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/redline-coliseum-v1.png",
+      "bytes": 2921189,
+      "declared_bytes": 2921189,
+      "sha256": "9d43d9736b8db1f087bd97dac4be30ebdb0a763c638700efd42102f2dc7a6abb",
+      "declared_sha256": "9d43d9736b8db1f087bd97dac4be30ebdb0a763c638700efd42102f2dc7a6abb",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "70ce6d69694d0f17",
+      "top_clearance_heuristic_px": 41,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I05",
+      "stage": 1,
+      "stage_name": "Pole Beacon",
+      "path": "assets/pixel-stage-i/pole-beacon-v3.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/pole-beacon-v3.png",
+      "bytes": 2582334,
+      "declared_bytes": 2582334,
+      "sha256": "d703298996876e71c0d11c77dfd214ccbf94fe5b5efd4f8e11dbb459591ad4c8",
+      "declared_sha256": "d703298996876e71c0d11c77dfd214ccbf94fe5b5efd4f8e11dbb459591ad4c8",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4f4d4c498b0f1717",
+      "top_clearance_heuristic_px": 115,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I05",
+      "stage": 2,
+      "stage_name": "Apex Tower",
+      "path": "assets/pixel-evolutions/apex-tower-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/apex-tower-v1.png",
+      "bytes": 2692776,
+      "declared_bytes": 2692776,
+      "sha256": "48f8059dbe80e31caff8b0b5f6424fa1c95e04e10f68d4c61977e696dda3ba31",
+      "declared_sha256": "48f8059dbe80e31caff8b0b5f6424fa1c95e04e10f68d4c61977e696dda3ba31",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "66464c49090f1715",
+      "top_clearance_heuristic_px": 29,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N05-I05",
+      "stage": 3,
+      "stage_name": "Crown of Speed",
+      "path": "assets/pixel-evolutions/crown-of-speed-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/velocity-row/crown-of-speed-v1.png",
+      "bytes": 3028343,
+      "declared_bytes": 3028343,
+      "sha256": "e7283673f90fac58f22a25a7159d6771b1cbd07fde97bdb8ab8521de3e6f9d7f",
+      "declared_sha256": "e7283673f90fac58f22a25a7159d6771b1cbd07fde97bdb8ab8521de3e6f9d7f",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4c0e8f09890f4d51",
+      "top_clearance_heuristic_px": 36,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I01",
+      "stage": 1,
+      "stage_name": "Oasis Residences",
+      "path": "assets/pixel-stage-i/oasis-residences-v3.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/oasis-residences-v3.png",
+      "bytes": 3016430,
+      "declared_bytes": 3016430,
+      "sha256": "c769dbde14edae8bdedc92d3702e06dda3b953494c7325140ac382d055e55533",
+      "declared_sha256": "c769dbde14edae8bdedc92d3702e06dda3b953494c7325140ac382d055e55533",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "99f193130b0b0ee6",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I01",
+      "stage": 2,
+      "stage_name": "Mirage Habitat",
+      "path": "assets/pixel-evolutions/mirage-habitat-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/mirage-habitat-v1.png",
+      "bytes": 3206557,
+      "declared_bytes": 3206557,
+      "sha256": "58154d0498cef105e25d858abc61570985aa27dbaa6865acac82181e870b3f62",
+      "declared_sha256": "58154d0498cef105e25d858abc61570985aa27dbaa6865acac82181e870b3f62",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "9c333331210d076b",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I01",
+      "stage": 3,
+      "stage_name": "Sultan's Skyhold",
+      "path": "assets/pixel-evolutions/sultans-skyhold-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/sultans-skyhold-v1.png",
+      "bytes": 3453491,
+      "declared_bytes": 3453491,
+      "sha256": "044d6e14a8d7b9f662b617ac976b0a70c89b0ca714de1cc234a1198ee5e5ee97",
+      "declared_sha256": "044d6e14a8d7b9f662b617ac976b0a70c89b0ca714de1cc234a1198ee5e5ee97",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "cc4d65094d0f2b01",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I02",
+      "stage": 1,
+      "stage_name": "Souk Plaza",
+      "path": "assets/pixel-stage-i/souk-plaza-v3.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/souk-plaza-v3.png",
+      "bytes": 2375761,
+      "declared_bytes": 2375761,
+      "sha256": "2366436b311dc6115af736845f4feaa2f7fee785c7903a4e135b68dfc4fb01e0",
+      "declared_sha256": "2366436b311dc6115af736845f4feaa2f7fee785c7903a4e135b68dfc4fb01e0",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "e1e0c90b070e013f",
+      "top_clearance_heuristic_px": 39,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I02",
+      "stage": 2,
+      "stage_name": "Jewel Galleria",
+      "path": "assets/pixel-evolutions/jewel-galleria-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/jewel-galleria-v1.png",
+      "bytes": 2756505,
+      "declared_bytes": 2756505,
+      "sha256": "b859ac4c510d39879274c7320c2649d5c3cd843f004f2bde87a79d5c4ed372cd",
+      "declared_sha256": "b859ac4c510d39879274c7320c2649d5c3cd843f004f2bde87a79d5c4ed372cd",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "e1c02b4d4d4d0f79",
+      "top_clearance_heuristic_px": 39,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I02",
+      "stage": 3,
+      "stage_name": "Infinite Caravanserai",
+      "path": "assets/pixel-evolutions/infinite-caravanserai-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/infinite-caravanserai-v1.png",
+      "bytes": 3091477,
+      "declared_bytes": 3091477,
+      "sha256": "45e12082b19bedebd034878cd552b7aa2e9210f3b17979889aa5b1e02c2fb67c",
+      "declared_sha256": "45e12082b19bedebd034878cd552b7aa2e9210f3b17979889aa5b1e02c2fb67c",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "e18e4d554d4d0f86",
+      "top_clearance_heuristic_px": 38,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I03",
+      "stage": 1,
+      "stage_name": "Prism Works",
+      "path": "assets/pixel-stage-i/prism-works-v2.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/prism-works-v2.png",
+      "bytes": 2586149,
+      "declared_bytes": 2586149,
+      "sha256": "c000fd42a545b57026b97edf5c8505a55d420ecf58b1c8176cc37409f75134a3",
+      "declared_sha256": "c000fd42a545b57026b97edf5c8505a55d420ecf58b1c8176cc37409f75134a3",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "795961371313873b",
+      "top_clearance_heuristic_px": 76,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I03",
+      "stage": 2,
+      "stage_name": "Djinn Array",
+      "path": "assets/pixel-evolutions/djinn-array-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/djinn-array-v1.png",
+      "bytes": 2705546,
+      "declared_bytes": 2705546,
+      "sha256": "29564ecda01cb4fdd500ff31d2d4898e705c09e6c90b95cfd389d32371319d95",
+      "declared_sha256": "29564ecda01cb4fdd500ff31d2d4898e705c09e6c90b95cfd389d32371319d95",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "395fb0331b13174c",
+      "top_clearance_heuristic_px": 74,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I03",
+      "stage": 3,
+      "stage_name": "Oracle Nexus",
+      "path": "assets/pixel-evolutions/oracle-nexus-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/oracle-nexus-v1.png",
+      "bytes": 2925663,
+      "declared_bytes": 2925663,
+      "sha256": "12a235c5c61762d259b803b41019b1047ef4b809ae92a40a38373607670cbff4",
+      "declared_sha256": "12a235c5c61762d259b803b41019b1047ef4b809ae92a40a38373607670cbff4",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "6d4de829293b130f",
+      "top_clearance_heuristic_px": 76,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I04",
+      "stage": 1,
+      "stage_name": "Mooncourt Lounge",
+      "path": "assets/pixel-stage-i/mooncourt-lounge-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/mooncourt-lounge-v1.png",
+      "bytes": 2926024,
+      "declared_bytes": 2926024,
+      "sha256": "937db35a51ed2417ec7901bfe24909c506d20963fb54f5db4dec82d156b1042b",
+      "declared_sha256": "937db35a51ed2417ec7901bfe24909c506d20963fb54f5db4dec82d156b1042b",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "e1c375752b1717a2",
+      "top_clearance_heuristic_px": 35,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I04",
+      "stage": 2,
+      "stage_name": "Mirage Palace",
+      "path": "assets/pixel-evolutions/mirage-palace-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/mirage-palace-v1.png",
+      "bytes": 3064821,
+      "declared_bytes": 3064821,
+      "sha256": "e94002d94d08d3eb27ccff9d5f7d174e998908c8f67b6982361c9961a03c0048",
+      "declared_sha256": "e94002d94d08d3eb27ccff9d5f7d174e998908c8f67b6982361c9961a03c0048",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "e169bacc292317aa",
+      "top_clearance_heuristic_px": 35,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I04",
+      "stage": 3,
+      "stage_name": "Celestial Riad",
+      "path": "assets/pixel-evolutions/celestial-riad-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/celestial-riad-v1.png",
+      "bytes": 3165851,
+      "declared_bytes": 3165851,
+      "sha256": "5fcccc5ccc8989caa430e465f3b91306643968752ed42d4e195c72036ec5fb3f",
+      "declared_sha256": "5fcccc5ccc8989caa430e465f3b91306643968752ed42d4e195c72036ec5fb3f",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "c9cdb2a22b2b17a2",
+      "top_clearance_heuristic_px": 35,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I05",
+      "stage": 1,
+      "stage_name": "Royal Minaret",
+      "path": "assets/pixel-stage-i/royal-minaret-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/royal-minaret-v1.png",
+      "bytes": 2227248,
+      "declared_bytes": 2227248,
+      "sha256": "2fab1b9fc1282b225f1142eebb52bcccc0fab927abdb2fa19662e741fd9a976f",
+      "declared_sha256": "2fab1b9fc1282b225f1142eebb52bcccc0fab927abdb2fa19662e741fd9a976f",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "0a6d494c4d17070f",
+      "top_clearance_heuristic_px": 145,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I05",
+      "stage": 2,
+      "stage_name": "Sovereign Needle",
+      "path": "assets/pixel-evolutions/sovereign-needle-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/sovereign-needle-v1.png",
+      "bytes": 2446139,
+      "declared_bytes": 2446139,
+      "sha256": "5fa3fdfb4204c605ec6b3bf10897ed7ccd17e7ec6d36457b94faf5524829c5cb",
+      "declared_sha256": "5fa3fdfb4204c605ec6b3bf10897ed7ccd17e7ec6d36457b94faf5524829c5cb",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4e4d4d4c55172b0f",
+      "top_clearance_heuristic_px": 24,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N06-I05",
+      "stage": 3,
+      "stage_name": "Crown of Sand",
+      "path": "assets/pixel-evolutions/crown-of-sand-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n56/royal-mirage/crown-of-sand-v1.png",
+      "bytes": 2631272,
+      "declared_bytes": 2631272,
+      "sha256": "94d71aab9cac15299db0444db35ab5438ef15ed73563c1b95f1aec736300686d",
+      "declared_sha256": "94d71aab9cac15299db0444db35ab5438ef15ed73563c1b95f1aec736300686d",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "6c4d0f2a17132b0f",
+      "top_clearance_heuristic_px": 48,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    }
+  ],
+  "next_action": "Audit Old World Steel (N07) and Moonline Harbor (N08) selected architectural masters."
+}
+

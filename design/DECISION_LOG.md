@@ -352,3 +352,15 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Delegated decision:** preserve all 30 selected originals and queue no artwork corrections. Correct the clipped title on the evidence-only Skygarden QA sheet; do not alter selected art.
 - **Status boundary:** this advances fresh decode/visual evidence to 60/150 masters across four neighborhoods; it is not edition, metadata, permanent-storage, contract or launch certification.
 - **Exact next action:** Velocity Row and Royal Mirage immutable-blob decode/contact-sheet/perceptual audit.
+
+
+## 2026-11-26 — Velocity Row and Royal Mirage fresh decode/visual audit
+
+- **Scope:** 30 exact selected masters from immutable commit `f9c2032fad233c3d69c55afebf51e0e6bdf043f8`, covering all five N05 and five N06 identity families.
+- **Integrity result:** all files independently decode as 1024×1536 RGB PNGs; fresh SHA-256 and byte counts match the inventories; no duplicate SHA-256 appears.
+- **Visual result:** exact stage names, building-type separation, full crown/base framing, supported architecture and Stage I→II→III escalation pass on equal-scale contact sheets. Velocity Row speed-language continuity and Royal Mirage sandstone/gold/jewel-glass continuity pass.
+- **Similarity result:** no dHash pair is at or below distance 5. The nearest N05 and N06 Landmark Stage I/II pairs are distance 9 and remain visibly progressive.
+- **Heuristic disposition:** several background-derived top-margin readings equal zero because bright clouds touch the canvas edge; manual inspection confirms complete crowns and no clipping.
+- **Delegated decision:** preserve all 30 selected originals and queue no artwork corrections. Library sheets remain model-generated composite references only.
+- **Status boundary:** this advances fresh decode/visual evidence to 90/150 masters across six neighborhoods; it is not edition, metadata, permanent-storage, contract or launch certification.
+- **Exact next action:** Old World Steel and Moonline Harbor immutable-blob decode/contact-sheet/perceptual audit.
