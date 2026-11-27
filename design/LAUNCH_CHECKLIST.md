@@ -548,7 +548,8 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Recorded no correction candidates for N01 or N02; preserved all selected originals.
 - [x] Run the same immutable-blob decode, contact-sheet and similarity audit for Shadow Market and Skygarden District.
 - [x] Run the same immutable-blob decode, contact-sheet and similarity audit for Velocity Row and Royal Mirage.
-- [ ] Run the same immutable-blob decode, contact-sheet and similarity audit for Old World Steel and Moonline Harbor.
+- [x] Run the same immutable-blob decode, contact-sheet and similarity audit for Old World Steel and Moonline Harbor.
+- [ ] Complete the same immutable-blob decode, contact-sheet and similarity audit for Arcadia Prime and Crimson Commons.
 
 
 ## 2026-11-26 Shadow Market and Skygarden District decode/visual audit
@@ -574,3 +575,16 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Resolved and read six exact-title Library composite references; retained them as model-generated context, not standalone selected token art.
 - [x] Recorded no selected-art correction candidates. Background-derived zero-margin readings were visually confirmed as bright-sky false positives, not clipping.
 - [ ] Continue with Old World Steel and Moonline Harbor before edition/rarity production.
+
+
+## 2026-11-26 Old World Steel and Moonline Harbor decode/visual audit
+
+- [x] Retrieved the 30 exact selected PNG blobs from immutable commit `168b44fc89849caf78de53157ba50cd088bfe83e`; no candidate or composite path was substituted.
+- [x] Independently decoded all 30 as native 1024×1536 RGB PNGs and reproduced every recorded byte count and SHA-256 value.
+- [x] Generated and visually inspected equal-scale five-family × three-stage contact sheets for both neighborhoods.
+- [x] Confirmed exact stage names, distinct building functions, clear lineage growth, attached supports, complete crowns/bases and intended neighborhood palettes.
+- [x] Confirmed Moonline Harbor residential amenities remain private/elevated and all waterfront piles/access structures remain connected.
+- [x] Manually reviewed the sole dHash ≤5 trigger: Moondeck Palace/Eclipse Marina at distance 4. Stage III passes as distinct through broader shell mass, enlarged side volumes, added upper audience tiers and larger crown.
+- [x] Resolved and read six exact-title Library composite references; retained them as model-generated context, not standalone selected token art.
+- [x] Recorded no selected-art correction candidates. Smoke/cloud-derived zero-margin readings were visually confirmed as background false positives, not clipping.
+- [ ] Complete Arcadia Prime and Crimson Commons before edition/rarity production.

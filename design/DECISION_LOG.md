@@ -364,3 +364,15 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Delegated decision:** preserve all 30 selected originals and queue no artwork corrections. Library sheets remain model-generated composite references only.
 - **Status boundary:** this advances fresh decode/visual evidence to 90/150 masters across six neighborhoods; it is not edition, metadata, permanent-storage, contract or launch certification.
 - **Exact next action:** Old World Steel and Moonline Harbor immutable-blob decode/contact-sheet/perceptual audit.
+
+
+## 2026-11-26 — Old World Steel and Moonline Harbor fresh decode/visual audit
+
+- **Scope:** 30 exact selected masters from immutable commit `168b44fc89849caf78de53157ba50cd088bfe83e`, covering all five N07 and five N08 identity families.
+- **Integrity result:** all files independently decode as 1024×1536 RGB PNGs; fresh SHA-256 and byte counts match the inventories; no duplicate SHA-256 appears.
+- **Visual result:** exact stage names, building-type separation, full crown/base framing, supported architecture and Stage I→II→III escalation pass on equal-scale contact sheets. Old World Steel industrial continuity and Moonline Harbor waterfront support/access continuity pass.
+- **Similarity result:** Moondeck Palace/Eclipse Marina is the sole dHash ≤5 pair at distance 4. Manual review accepts distinct Stage III growth through broader three-shell mass, enlarged side volumes, added upper audience tiers and a materially larger crown.
+- **Heuristic disposition:** background-derived top-margin zeros come from smoke/cloud pixels touching the canvas edge; manual inspection confirms complete crowns and no clipping.
+- **Delegated decision:** preserve all 30 selected originals and queue no artwork corrections. Library sheets remain model-generated composite references only.
+- **Status boundary:** this advances fresh decode/visual evidence to 120/150 masters across eight neighborhoods; it is not edition, metadata, permanent-storage, contract or launch certification.
+- **Exact next action:** Arcadia Prime and Crimson Commons immutable-blob decode/contact-sheet/perceptual audit.

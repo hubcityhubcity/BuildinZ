@@ -1,0 +1,828 @@
+{
+  "schema_version": "1.0.0",
+  "recorded_date": "2026-11-26",
+  "timezone": "America/Chicago",
+  "repository_commit": "168b44fc89849caf78de53157ba50cd088bfe83e",
+  "scope": {
+    "neighborhoods": [
+      {
+        "id": "N07",
+        "name": "Old World Steel"
+      },
+      {
+        "id": "N08",
+        "name": "Moonline Harbor"
+      }
+    ],
+    "selected_architectural_masters": 30,
+    "stages_per_identity": 3
+  },
+  "result": "passed",
+  "limitations": [
+    "Not edition export certification",
+    "Not permanent-storage URI verification",
+    "Not metadata or contract certification",
+    "Background-derived top-clearance zeros are false positives caused by smoke/cloud pixels and were superseded by human visual inspection"
+  ],
+  "integrity": {
+    "decoded_png": 30,
+    "dimensions_1024x1536": 30,
+    "rgb_mode": 30,
+    "byte_count_matches": 30,
+    "sha256_matches": 30,
+    "duplicate_sha256_pairs": 0,
+    "dhash_pairs_distance_le_5": 1,
+    "nearest_dhash_pairs": [
+      {
+        "a": "N08-I04-S2",
+        "b": "N08-I04-S3",
+        "distance": 4
+      },
+      {
+        "a": "N08-I02-S3",
+        "b": "N08-I04-S3",
+        "distance": 10
+      },
+      {
+        "a": "N08-I04-S1",
+        "b": "N08-I04-S2",
+        "distance": 10
+      },
+      {
+        "a": "N08-I04-S2",
+        "b": "N08-I05-S1",
+        "distance": 10
+      },
+      {
+        "a": "N08-I04-S2",
+        "b": "N08-I05-S2",
+        "distance": 10
+      },
+      {
+        "a": "N08-I05-S1",
+        "b": "N08-I05-S2",
+        "distance": 10
+      },
+      {
+        "a": "N08-I05-S1",
+        "b": "N08-I05-S3",
+        "distance": 10
+      },
+      {
+        "a": "N07-I04-S2",
+        "b": "N07-I04-S3",
+        "distance": 12
+      },
+      {
+        "a": "N08-I02-S3",
+        "b": "N08-I04-S2",
+        "distance": 12
+      },
+      {
+        "a": "N08-I04-S1",
+        "b": "N08-I05-S3",
+        "distance": 12
+      }
+    ],
+    "manual_similarity_disposition": {
+      "pair": [
+        "N08-I04-S2",
+        "N08-I04-S3"
+      ],
+      "distance": 4,
+      "result": "accepted_distinct_progression",
+      "evidence": [
+        "broader three-shell Stage III mass",
+        "enlarged side volumes",
+        "added upper audience tiers",
+        "materially larger Stage III crown"
+      ]
+    }
+  },
+  "visual_findings": {
+    "N07": {
+      "result": "passed",
+      "notes": [
+        "Five functional families remain distinct",
+        "Industrial palette and material language preserved",
+        "Exact stage names visible",
+        "Stage escalation and physical supports visible",
+        "Bases and crowns remain framed"
+      ]
+    },
+    "N08": {
+      "result": "passed",
+      "notes": [
+        "Five functional families remain distinct",
+        "Waterfront palette, piles and access structures preserved",
+        "Exact stage names visible",
+        "Residential amenities remain private/elevated",
+        "Stage III Entertainment progression manually confirmed",
+        "Bases and crowns remain framed"
+      ]
+    }
+  },
+  "qa_artifacts": [
+    "assets/qa/old-world-steel-selected-master-audit-v1.png",
+    "assets/qa/moonline-harbor-selected-master-audit-v1.png"
+  ],
+  "library_cross_check": {
+    "exact_results": [
+      {
+        "name": "Old World Steel Stage III Upgrades.png",
+        "library_file_id": "libfile_2db40c767bdc8191adc1d3057127705f",
+        "size_bytes": 2642913,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Old World Steel Stage II Upgrades.png",
+        "library_file_id": "libfile_0774eefb34d88191953ef71d4abf4a9c",
+        "size_bytes": 2401157,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Old World Steel Isometric Sprites.png",
+        "library_file_id": "libfile_13c24468733c8191971653dca0306bc2",
+        "size_bytes": 2138196,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Moonline Harbor Stage III Waterfront Upgrades.png",
+        "library_file_id": "libfile_a325f18edfe48191b9be86a34a99263d",
+        "size_bytes": 2393243,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Moonline Harbor Stage II Upgrades.png",
+        "library_file_id": "libfile_5aad9b098230819188d32a5933c0d17f",
+        "size_bytes": 2236010,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Moonline Harbor Waterfront Building Sprites.png",
+        "library_file_id": "libfile_6ccddb566c9081918d11601f5f13889e",
+        "size_bytes": 2114065,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      }
+    ],
+    "usage": "model-generated composite references only; not substituted for selected standalone assets"
+  },
+  "assets": [
+    {
+      "identity_id": "N07-I01",
+      "stage": 1,
+      "stage_name": "Foundry Flats",
+      "path": "assets/pixel-stage-i/foundry-flats-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/foundry-flats-v1.png",
+      "bytes": 3082272,
+      "declared_bytes": 3082272,
+      "sha256": "1eee74825fb5c5cc592413fb0f4b58faa30af3f8cac8de7c136a0f62b49a18f3",
+      "declared_sha256": "1eee74825fb5c5cc592413fb0f4b58faa30af3f8cac8de7c136a0f62b49a18f3",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "236dd48d85551707",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I01",
+      "stage": 2,
+      "stage_name": "Riveted Habitat",
+      "path": "assets/pixel-evolutions/riveted-habitat-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/riveted-habitat-v1.png",
+      "bytes": 3263126,
+      "declared_bytes": 3263126,
+      "sha256": "6a547d7d233a50a4c57087364a2f2ecd558ad2d3fa9c48b66c2a41accf7d1ab3",
+      "declared_sha256": "6a547d7d233a50a4c57087364a2f2ecd558ad2d3fa9c48b66c2a41accf7d1ab3",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "638eac2d2939250e",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I01",
+      "stage": 3,
+      "stage_name": "Ironclad Arcology",
+      "path": "assets/pixel-evolutions/ironclad-arcology-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/ironclad-arcology-v1.png",
+      "bytes": 3487337,
+      "declared_bytes": 3487337,
+      "sha256": "fc3a005da227fbba1f01802ec587f12b329b8b228ef706f75fac2095326c5163",
+      "declared_sha256": "fc3a005da227fbba1f01802ec587f12b329b8b228ef706f75fac2095326c5163",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "6564b2a624242925",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I02",
+      "stage": 1,
+      "stage_name": "Forge Market",
+      "path": "assets/pixel-stage-i/forge-market-v2.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/forge-market-v2.png",
+      "bytes": 2557904,
+      "declared_bytes": 2557904,
+      "sha256": "b9e13cb1925803dae451f50694c5f0d3f884b2f4806d27fc87f29e011ae0acbf",
+      "declared_sha256": "b9e13cb1925803dae451f50694c5f0d3f884b2f4806d27fc87f29e011ae0acbf",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "cc4d03d06d071241",
+      "top_clearance_heuristic_px": 8,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I02",
+      "stage": 2,
+      "stage_name": "Steelworks Arcade",
+      "path": "assets/pixel-evolutions/steelworks-arcade-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/steelworks-arcade-v1.png",
+      "bytes": 3106920,
+      "declared_bytes": 3106920,
+      "sha256": "936b8e4c2fbb4e463fb2f3632a103f8fdcb7fc99a28c48b55a5d6153de9a0a1d",
+      "declared_sha256": "936b8e4c2fbb4e463fb2f3632a103f8fdcb7fc99a28c48b55a5d6153de9a0a1d",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "ac0f8eac8d2d0b0a",
+      "top_clearance_heuristic_px": 4,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I02",
+      "stage": 3,
+      "stage_name": "Grand Industrial Exchange",
+      "path": "assets/pixel-evolutions/grand-industrial-exchange-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/grand-industrial-exchange-v1.png",
+      "bytes": 3727106,
+      "declared_bytes": 3727106,
+      "sha256": "d6c22f8ad4bfe2ca2a49318a896baad2798c28dc13be136c63246cfe09b7669c",
+      "declared_sha256": "d6c22f8ad4bfe2ca2a49318a896baad2798c28dc13be136c63246cfe09b7669c",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4c0f0dacacac0c0b",
+      "top_clearance_heuristic_px": 1,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I03",
+      "stage": 1,
+      "stage_name": "Gearhouse Labs",
+      "path": "assets/pixel-stage-i/gearhouse-labs-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/gearhouse-labs-v1.png",
+      "bytes": 2931327,
+      "declared_bytes": 2931327,
+      "sha256": "0202d34660f0a161aaf1b34db67731d2a1ac193c717738b6e87e4bc52e387829",
+      "declared_sha256": "0202d34660f0a161aaf1b34db67731d2a1ac193c717738b6e87e4bc52e387829",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "7141c8c8c4610307",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I03",
+      "stage": 2,
+      "stage_name": "Titan Mill",
+      "path": "assets/pixel-evolutions/titan-mill-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/titan-mill-v1.png",
+      "bytes": 3151950,
+      "declared_bytes": 3151950,
+      "sha256": "54415e70a261d70b9e273128fd5fcbbb2b0586f733b14615782a022bc5349bf2",
+      "declared_sha256": "54415e70a261d70b9e273128fd5fcbbb2b0586f733b14615782a022bc5349bf2",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "49c0ece0c4cc6022",
+      "top_clearance_heuristic_px": 23,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I03",
+      "stage": 3,
+      "stage_name": "Machina Nexus",
+      "path": "assets/pixel-evolutions/machina-nexus-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/machina-nexus-v1.png",
+      "bytes": 3352949,
+      "declared_bytes": 3352949,
+      "sha256": "7214a59b7f1c20c64fd6886b0b7a0ffd90409f0f8860c2d5eb6d4982cc877ac6",
+      "declared_sha256": "7214a59b7f1c20c64fd6886b0b7a0ffd90409f0f8860c2d5eb6d4982cc877ac6",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4561a8a4a4868445",
+      "top_clearance_heuristic_px": 28,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I04",
+      "stage": 1,
+      "stage_name": "Boiler Hall",
+      "path": "assets/pixel-stage-i/boiler-hall-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/boiler-hall-v1.png",
+      "bytes": 2897929,
+      "declared_bytes": 2897929,
+      "sha256": "44922bf49169618aa6a1670cc6b58d53e0f4be45417f0ac20e16a1c7ad3aae38",
+      "declared_sha256": "44922bf49169618aa6a1670cc6b58d53e0f4be45417f0ac20e16a1c7ad3aae38",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "6164f4b4a5031312",
+      "top_clearance_heuristic_px": 3,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I04",
+      "stage": 2,
+      "stage_name": "Foundry Palace",
+      "path": "assets/pixel-evolutions/foundry-palace-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/foundry-palace-v1.png",
+      "bytes": 2980414,
+      "declared_bytes": 2980414,
+      "sha256": "06354ccb5f248f6921e988cdd9e894942c3eb4f73fd644713f9738a3b07ca76f",
+      "declared_sha256": "06354ccb5f248f6921e988cdd9e894942c3eb4f73fd644713f9738a3b07ca76f",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "6160e0f12b4d0b02",
+      "top_clearance_heuristic_px": 3,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I04",
+      "stage": 3,
+      "stage_name": "Imperial Engineworks",
+      "path": "assets/pixel-evolutions/imperial-engineworks-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/imperial-engineworks-v1.png",
+      "bytes": 3172704,
+      "declared_bytes": 3172704,
+      "sha256": "a8dae6124f29ac6fb93305e8de9435a756101ccbc22c459b99c56fcfd92587c3",
+      "declared_sha256": "a8dae6124f29ac6fb93305e8de9435a756101ccbc22c459b99c56fcfd92587c3",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "616ce029694d0713",
+      "top_clearance_heuristic_px": 3,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I05",
+      "stage": 1,
+      "stage_name": "Rivet Monument",
+      "path": "assets/pixel-stage-i/rivet-monument-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/rivet-monument-v1.png",
+      "bytes": 2550197,
+      "declared_bytes": 2550197,
+      "sha256": "2dfee6c68c7472d13e5da5b75dadfde2991f2c94810098b70d376828759fef45",
+      "declared_sha256": "2dfee6c68c7472d13e5da5b75dadfde2991f2c94810098b70d376828759fef45",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "636133322a4b0707",
+      "top_clearance_heuristic_px": 15,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I05",
+      "stage": 2,
+      "stage_name": "Iron Crown Spire",
+      "path": "assets/pixel-evolutions/iron-crown-spire-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/iron-crown-spire-v1.png",
+      "bytes": 2599507,
+      "declared_bytes": 2599507,
+      "sha256": "af10a3c84d300e825674faa0b1a027d01abd1c3b71f55825d9eb0ddaae02d760",
+      "declared_sha256": "af10a3c84d300e825674faa0b1a027d01abd1c3b71f55825d9eb0ddaae02d760",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4b613161696a5345",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N07-I05",
+      "stage": 3,
+      "stage_name": "Colossus of Steel",
+      "path": "assets/pixel-evolutions/colossus-of-steel-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/old-world-steel/colossus-of-steel-v1.png",
+      "bytes": 2934006,
+      "declared_bytes": 2934006,
+      "sha256": "7609cb6b3c77c673e0f90b9f34fdd2ee054baabb8d78509ebd5c889878873dd1",
+      "declared_sha256": "7609cb6b3c77c673e0f90b9f34fdd2ee054baabb8d78509ebd5c889878873dd1",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4f2dc469e8aa130f",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I01",
+      "stage": 1,
+      "stage_name": "Tidelight Residences",
+      "path": "assets/pixel-stage-i/tidelight-residences-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/tidelight-residences-v1.png",
+      "bytes": 3151442,
+      "declared_bytes": 3151442,
+      "sha256": "5b05bcbdead115123d2dc3c925b8924acae5f75f09c4c5f99828dca368b95d0c",
+      "declared_sha256": "5b05bcbdead115123d2dc3c925b8924acae5f75f09c4c5f99828dca368b95d0c",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "f41e2b2b2f2753b6",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I01",
+      "stage": 2,
+      "stage_name": "Moonwake Habitat",
+      "path": "assets/pixel-evolutions/moonwake-habitat-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/moonwake-habitat-v1.png",
+      "bytes": 3149899,
+      "declared_bytes": 3149899,
+      "sha256": "b9e69433f70102e5dfe8953c4211b29a9e0f3275d685366cc070d111288bcecf",
+      "declared_sha256": "b9e69433f70102e5dfe8953c4211b29a9e0f3275d685366cc070d111288bcecf",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "20314d71716d5695",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I01",
+      "stage": 3,
+      "stage_name": "Lunar Marina Arcology",
+      "path": "assets/pixel-evolutions/lunar-marina-arcology-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/lunar-marina-arcology-v1.png",
+      "bytes": 3244382,
+      "declared_bytes": 3244382,
+      "sha256": "b5cd536846cd728c4067546ff75ca8c79e539cdf22b5e95f848608a741d5a023",
+      "declared_sha256": "b5cd536846cd728c4067546ff75ca8c79e539cdf22b5e95f848608a741d5a023",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "cc4d4d4d4d6d4692",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I02",
+      "stage": 1,
+      "stage_name": "Dockside Market",
+      "path": "assets/pixel-stage-i/dockside-market-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/dockside-market-v1.png",
+      "bytes": 2901814,
+      "declared_bytes": 2901814,
+      "sha256": "6018910ee2513986e603ef9dbe96c4fd87be21ab8f01eaaa5c18676044ccd48a",
+      "declared_sha256": "6018910ee2513986e603ef9dbe96c4fd87be21ab8f01eaaa5c18676044ccd48a",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "718933492d27177f",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I02",
+      "stage": 2,
+      "stage_name": "Pearl Galleria",
+      "path": "assets/pixel-evolutions/pearl-galleria-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/pearl-galleria-v1.png",
+      "bytes": 3144217,
+      "declared_bytes": 3144217,
+      "sha256": "992945adc48bad7f633efef60af2a89d33b122bece7622727ab68802ef32bf67",
+      "declared_sha256": "992945adc48bad7f633efef60af2a89d33b122bece7622727ab68802ef32bf67",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "610b2b2b4d2d057d",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I02",
+      "stage": 3,
+      "stage_name": "High Tide Exchange",
+      "path": "assets/pixel-evolutions/high-tide-exchange-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/high-tide-exchange-v1.png",
+      "bytes": 3391166,
+      "declared_bytes": 3391166,
+      "sha256": "2eb4326fc42c89a0f085d106cbc982e578bbf240261ebcd5a79927e03e68c2c2",
+      "declared_sha256": "2eb4326fc42c89a0f085d106cbc982e578bbf240261ebcd5a79927e03e68c2c2",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "0d0b6969496d0d71",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I03",
+      "stage": 1,
+      "stage_name": "Beacon Labs",
+      "path": "assets/pixel-stage-i/beacon-labs-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/beacon-labs-v1.png",
+      "bytes": 3005965,
+      "declared_bytes": 3005965,
+      "sha256": "dddc13838a220c4e484689b8cc4db917bd7b7c79a611fc14025b5df09a3c8e3a",
+      "declared_sha256": "dddc13838a220c4e484689b8cc4db917bd7b7c79a611fc14025b5df09a3c8e3a",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "615e1b6d0927464a",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I03",
+      "stage": 2,
+      "stage_name": "Tidal Array",
+      "path": "assets/pixel-evolutions/tidal-array-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/tidal-array-v1.png",
+      "bytes": 3000301,
+      "declared_bytes": 3000301,
+      "sha256": "d2398c1569b1c3b83d1de87b99aea57a36e9e18bb5ce0ac1400353ccbdb3b770",
+      "declared_sha256": "d2398c1569b1c3b83d1de87b99aea57a36e9e18bb5ce0ac1400353ccbdb3b770",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "65cd562f692f6646",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I03",
+      "stage": 3,
+      "stage_name": "Mooncurrent Nexus",
+      "path": "assets/pixel-evolutions/mooncurrent-nexus-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/mooncurrent-nexus-v1.png",
+      "bytes": 3135028,
+      "declared_bytes": 3135028,
+      "sha256": "c2782d157a226ec004b65076d357fdd090bd512835d15e6ef2cb17ee423cda0d",
+      "declared_sha256": "c2782d157a226ec004b65076d357fdd090bd512835d15e6ef2cb17ee423cda0d",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4d9e5d69692f2747",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I04",
+      "stage": 1,
+      "stage_name": "Harbor Lounge",
+      "path": "assets/pixel-stage-i/harbor-lounge-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/harbor-lounge-v1.png",
+      "bytes": 2904411,
+      "declared_bytes": 2904411,
+      "sha256": "6660e6ccb39fd0cde9ac9babfd13e3888033d3933ee4f2f8b7c4f7b691957e01",
+      "declared_sha256": "6660e6ccb39fd0cde9ac9babfd13e3888033d3933ee4f2f8b7c4f7b691957e01",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "718d292b0f4d4d71",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I04",
+      "stage": 2,
+      "stage_name": "Moondeck Palace",
+      "path": "assets/pixel-evolutions/moondeck-palace-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/moondeck-palace-v1.png",
+      "bytes": 2893131,
+      "declared_bytes": 2893131,
+      "sha256": "6a75320b27801f9d0f68caa664826650b1f1ac8957165218b4cdd722eb79b79a",
+      "declared_sha256": "6a75320b27801f9d0f68caa664826650b1f1ac8957165218b4cdd722eb79b79a",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "690f694d0f4d4d51",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I04",
+      "stage": 3,
+      "stage_name": "Eclipse Marina",
+      "path": "assets/pixel-evolutions/eclipse-marina-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/eclipse-marina-v1.png",
+      "bytes": 3085257,
+      "declared_bytes": 3085257,
+      "sha256": "c92a617721281d27533e1859502d87e2a350a755bacece39b9284bcc1c595fa4",
+      "declared_sha256": "c92a617721281d27533e1859502d87e2a350a755bacece39b9284bcc1c595fa4",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4d0f694d2b4d4d51",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I05",
+      "stage": 1,
+      "stage_name": "Tide Beacon",
+      "path": "assets/pixel-stage-i/tide-beacon-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/tide-beacon-v1.png",
+      "bytes": 2791563,
+      "declared_bytes": 2791563,
+      "sha256": "3cb8964e3e08bc2fa0e52be33ae16772c764eaa40bdd2376f4822718106f6470",
+      "declared_sha256": "3cb8964e3e08bc2fa0e52be33ae16772c764eaa40bdd2376f4822718106f6470",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "698dc90d0f0d0f52",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I05",
+      "stage": 2,
+      "stage_name": "Lunar Lighthouse",
+      "path": "assets/pixel-evolutions/lunar-lighthouse-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/lunar-lighthouse-v1.png",
+      "bytes": 2702809,
+      "declared_bytes": 2702809,
+      "sha256": "602cc3deba71a411de681195b42e5b1cf497145085fde88c706ab8a46bc15f77",
+      "declared_sha256": "602cc3deba71a411de681195b42e5b1cf497145085fde88c706ab8a46bc15f77",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "694d4dcd0f0f4d56",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N08-I05",
+      "stage": 3,
+      "stage_name": "Crown of Tides",
+      "path": "assets/pixel-evolutions/crown-of-tides-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n78/moonline-harbor/crown-of-tides-v1.png",
+      "bytes": 2874226,
+      "declared_bytes": 2874226,
+      "sha256": "c04e95a9e4e0db6d1157423d73d85d245b67721fffe390bd39d3992ba2b7c6cc",
+      "declared_sha256": "c04e95a9e4e0db6d1157423d73d85d245b67721fffe390bd39d3992ba2b7c6cc",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "698d8d0f2b4d4d57",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    }
+  ],
+  "next_action": "Audit Arcadia Prime (N09) and Crimson Commons (N10) selected architectural masters."
+}
+
