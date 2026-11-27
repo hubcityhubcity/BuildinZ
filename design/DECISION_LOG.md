@@ -409,3 +409,14 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Authority boundary:** candidate derivatives are delegated reversible corrections, not prior owner approvals, selected-master replacements or final NFT certification.
 - **Evidence:** `ARTWORK_ENVIRONMENT_DETERMINISTIC_COMPOSITE_2026-11-26.md` plus versioned plates, masks, candidates and QA sheet.
 - **Exact next action:** normalize Elysium Arcology and Crimson Arcology with the accepted plates, then review both complete Residential families.
+
+
+## 2026-11-27 — Residential environment-normalization promotion
+
+- **Delegated selection:** promote the deterministic environment-normalized derivatives for Harmony Habitat, Elysium Arcology, Scarlet Habitat and Crimson Arcology as the selected presentation masters.
+- **Preservation:** retain all four original Stage II/III files as immutable architectural source masters and record explicit source-to-derivative links.
+- **Verification:** binary masks and RGB comparisons protect 3,764,694 source pixels with 0 changes across the four derivatives.
+- **Visual acceptance:** both complete Stage I/II/III Residential families pass exact naming, stage escalation, physical support, elevated private amenity, framing and scene-reserve checks.
+- **Queue effect:** close four of twenty N09/N10 environment items; sixteen remain.
+- **Status boundary:** this is not final NFT export certification and does not unblock editions/rarities or metadata freeze.
+- **Evidence:** `ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md`.

@@ -1,5 +1,18 @@
 # Genesis production handoff
 
+## Current checkpoint — November 27, 2026 (Residential promotion)
+
+Main inspected: `cb00c93eb3577b6634a7fc2241c9dc90e5393271`. Read this before earlier checkpoints.
+
+Arcadia Prime and Crimson Commons Residential environment normalization is complete at selected-presentation level. Harmony Habitat, Elysium Arcology, Scarlet Habitat and Crimson Arcology use versioned deterministic derivatives; the four original Stage II/III architecture masters remain preserved as source records. Across 3,764,694 protected pixels, source/composite comparison reports **0 changed pixels**. Both full Stage I/II/III Residential lineages pass visual review for exact names, progression, supports, elevated private amenities, crown/base framing and future scene-layer reserve.
+
+Four of twenty environment items are closed; sixteen remain. Final NFT certification remains 0/150. No editions, rarities, metadata freeze, wallet, deployment, mint-opening, public-message or game work advanced.
+
+**Exact next action:** normalize both Retail families—Agora Plaza → Lyceum Galleria → Infinite Forum and Commons Market → Ruby Galleria → Cardinal Exchange—using the accepted plates and binary-mask method. Require zero protected-pixel changes for all four derivatives and complete two three-stage comparisons before promotion.
+
+Evidence: `ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md`.
+
+
 ## Current checkpoint — November 26, 2026 (deterministic composite)
 
 Main inspected: `1bd8feaa21894d115c7afd1fc2a3d26f0b1b6db9`. Read this before earlier checkpoints.

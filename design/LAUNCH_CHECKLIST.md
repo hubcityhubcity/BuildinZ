@@ -623,3 +623,14 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [ ] Normalize Elysium Arcology and Crimson Arcology with the accepted plates.
 - [ ] Inspect both complete Stage I/II/III Residential families before candidate promotion or batch application.
 - [ ] Keep the other 16 queued assets, editions and rarities held until both Residential families pass.
+
+
+## 2026-11-27 Residential environment promotion
+
+- [x] Normalize Elysium Arcology and Crimson Arcology with the accepted neighborhood plates.
+- [x] Verify zero protected-pixel changes in both Stage III composites.
+- [x] Inspect Arcadia Prime and Crimson Commons complete Stage I/II/III Residential lineages.
+- [x] Promote four deterministic Stage II/III derivatives while retaining original architecture-source records.
+- [x] Close four environment-normalization queue items; sixteen remain.
+- [ ] Normalize and compare both Retail lineages before promotion.
+- [ ] Keep Technology, Entertainment, Landmark, editions and rarities held until their dependency gates close.

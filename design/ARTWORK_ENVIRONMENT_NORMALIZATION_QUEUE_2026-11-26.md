@@ -62,3 +62,9 @@ Do not repeat whole-image generative editing on the remaining 18 assets. Continu
 Building-free Arcadia Prime and Crimson Commons plates were created, binary masks were derived from the selected Stage II flat fields, and unchanged source RGB pixels were composited over the plates. Harmony Habitat preserves 1,069,843 protected pixels with 0 changes; Scarlet Habitat preserves 747,322 protected pixels with 0 changes. Both pass individual and equal-scale Stage I/II candidate review.
 
 These are candidate derivatives only. Selected paths and final-certification count remain unchanged until Stage III is normalized and each full Residential family passes Stage I/II/III comparison. Evidence: `ARTWORK_ENVIRONMENT_DETERMINISTIC_COMPOSITE_2026-11-26.md`.
+
+## Residential family closure — November 27, 2026
+
+The N09-I01 and N10-I01 Stage II/III presentation items are closed. Harmony Habitat, Elysium Arcology, Scarlet Habitat and Crimson Arcology now use deterministic environment-normalized selected derivatives. Their original architecture sources remain preserved. All four masks are binary; protected-pixel comparisons report 0 changes. Complete Stage I/II/III family comparisons pass exact names, progression, supports, amenities, crown/base framing and scene-layer reserve.
+
+Closed queue items: 4. Remaining queue items: 16. Evidence and source-to-derivative mapping: `ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md`.

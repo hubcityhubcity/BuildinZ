@@ -1,12 +1,12 @@
 {
   "schema_version": "2.0.0",
-  "recorded_date": "2026-11-26",
-  "repository_commit": "1bd8feaa21894d115c7afd1fc2a3d26f0b1b6db9",
+  "recorded_date": "2026-11-27",
+  "repository_commit": "cb00c93eb3577b6634a7fc2241c9dc90e5393271",
   "scope_note": "Canonical repository inventory with historical assets preserved and all 150 current selected architectural masters explicitly recorded. Selected architectural master does not mean final NFT export certification.",
   "integrity_note": "The 150 current selected masters were reconciled against the complete Git tree at repository commit 57d29915d07d1ee8aed9aaac09bafdeab08ac71a. All declared paths, byte counts and Git blob SHAs match; no selected path/blob/recorded SHA-256 duplicates were found. SHA-256 and dimensions are carried from the per-asset inventories and prior local verification, not recomputed from all blobs in this audit.",
   "summary": {
-    "asset_files": 542,
-    "manifest_records": 456,
+    "asset_files": 547,
+    "manifest_records": 461,
     "selected_architectural_master_stage_assets": 150,
     "selected_stage_i_architectural_masters": 50,
     "selected_evolution_architectural_masters": 100,
@@ -18,9 +18,10 @@
     "required_identity_stage_assets": 150,
     "fresh_decode_visual_audited_stage_assets": 150,
     "fresh_decode_visual_audited_neighborhoods": 10,
-    "visual_correction_queued_stage_assets": 20,
-    "environment_normalization_candidate_stage_assets": 2,
-    "rejected_environment_prototype_assets": 2
+    "visual_correction_queued_stage_assets": 16,
+    "environment_normalization_candidate_stage_assets": 0,
+    "rejected_environment_prototype_assets": 2,
+    "environment_normalization_selected_stage_assets": 4
   },
   "production_matrix": [
     {
@@ -6088,21 +6089,22 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "selected-architectural-master",
+      "classification": "preserved-architectural-source-master",
       "neighborhood": "Crimson Commons",
       "identity_id": "N10-I01",
       "identity_name": "Crimson Arcology",
       "stage": 3,
       "building_type": "Residential",
       "selected_for_prototype": false,
-      "selected_for_architectural_master": true,
+      "selected_for_architectural_master": false,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection",
+      "selection_status": "superseded_for_environment_presentation_2026-11-27",
       "decode_audit_status": "passed_2026-11-26",
       "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N09_N10_2026-11-26.md",
-      "visual_audit_status": "environment_normalization_queued_2026-11-26",
-      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md"
+      "visual_audit_status": "source_preserved_environment_replaced_2026-11-27",
+      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md",
+      "architecture_source_for": "assets/candidates/environment-normalization/crimson-arcology-environment-composite-v1.png"
     },
     {
       "path": "assets/pixel-evolutions/crimson-coliseum-v1.png",
@@ -6487,21 +6489,22 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "selected-architectural-master",
+      "classification": "preserved-architectural-source-master",
       "neighborhood": "Arcadia Prime",
       "identity_id": "N09-I01",
       "identity_name": "Elysium Arcology",
       "stage": 3,
       "building_type": "Residential",
       "selected_for_prototype": false,
-      "selected_for_architectural_master": true,
+      "selected_for_architectural_master": false,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection",
+      "selection_status": "superseded_for_environment_presentation_2026-11-27",
       "decode_audit_status": "passed_2026-11-26",
       "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N09_N10_2026-11-26.md",
-      "visual_audit_status": "environment_normalization_queued_2026-11-26",
-      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md"
+      "visual_audit_status": "source_preserved_environment_replaced_2026-11-27",
+      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md",
+      "architecture_source_for": "assets/candidates/environment-normalization/elysium-arcology-environment-composite-v1.png"
     },
     {
       "path": "assets/pixel-evolutions/foundry-palace-v1.png",
@@ -6650,21 +6653,22 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "selected-architectural-master",
+      "classification": "preserved-architectural-source-master",
       "neighborhood": "Arcadia Prime",
       "identity_id": "N09-I01",
       "identity_name": "Harmony Habitat",
       "stage": 2,
       "building_type": "Residential",
       "selected_for_prototype": false,
-      "selected_for_architectural_master": true,
+      "selected_for_architectural_master": false,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection",
+      "selection_status": "superseded_for_environment_presentation_2026-11-27",
       "decode_audit_status": "passed_2026-11-26",
       "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N09_N10_2026-11-26.md",
-      "visual_audit_status": "environment_normalization_queued_2026-11-26",
-      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md"
+      "visual_audit_status": "source_preserved_environment_replaced_2026-11-27",
+      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md",
+      "architecture_source_for": "assets/candidates/environment-normalization/harmony-habitat-environment-composite-v1.png"
     },
     {
       "path": "assets/pixel-evolutions/helios-foundry-v1.png",
@@ -7680,21 +7684,22 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "selected-architectural-master",
+      "classification": "preserved-architectural-source-master",
       "neighborhood": "Crimson Commons",
       "identity_id": "N10-I01",
       "identity_name": "Scarlet Habitat",
       "stage": 2,
       "building_type": "Residential",
       "selected_for_prototype": false,
-      "selected_for_architectural_master": true,
+      "selected_for_architectural_master": false,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection",
+      "selection_status": "superseded_for_environment_presentation_2026-11-27",
       "decode_audit_status": "passed_2026-11-26",
       "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N09_N10_2026-11-26.md",
-      "visual_audit_status": "environment_normalization_queued_2026-11-26",
-      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md"
+      "visual_audit_status": "source_preserved_environment_replaced_2026-11-27",
+      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md",
+      "architecture_source_for": "assets/candidates/environment-normalization/scarlet-habitat-environment-composite-v2.png"
     },
     {
       "path": "assets/pixel-evolutions/scarlet-palace-v1.png",
@@ -9609,15 +9614,20 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "environment-normalization-candidate",
+      "classification": "selected-architectural-master-environment-normalized",
       "neighborhood": "Arcadia Prime",
       "identity_name": "Harmony Habitat",
       "stage": 2,
       "building_type": "Residential",
       "selected_for_prototype": true,
-      "selected_for_architectural_master": false,
+      "selected_for_architectural_master": true,
       "final_nft_certification": false,
-      "evidence": "0 protected pixels changed; Stage I/II candidate review passed; ARTWORK_ENVIRONMENT_DETERMINISTIC_COMPOSITE_2026-11-26.md"
+      "evidence": "design/ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md",
+      "selection_status": "delegated_visual_selection_environment_normalized",
+      "architecture_source_path": "assets/pixel-evolutions/harmony-habitat-v1.png",
+      "environment_mask_path": "assets/qa/environment-normalization/harmony-habitat-mask-v1.png",
+      "protected_pixels": 1069843,
+      "protected_pixels_changed": 0
     },
     {
       "path": "assets/candidates/environment-normalization/scarlet-habitat-environment-composite-v2.png",
@@ -9628,15 +9638,20 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "environment-normalization-candidate",
+      "classification": "selected-architectural-master-environment-normalized",
       "neighborhood": "Crimson Commons",
       "identity_name": "Scarlet Habitat",
       "stage": 2,
       "building_type": "Residential",
       "selected_for_prototype": true,
-      "selected_for_architectural_master": false,
+      "selected_for_architectural_master": true,
       "final_nft_certification": false,
-      "evidence": "0 protected pixels changed; Stage I/II candidate review passed; ARTWORK_ENVIRONMENT_DETERMINISTIC_COMPOSITE_2026-11-26.md"
+      "evidence": "design/ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md",
+      "selection_status": "delegated_visual_selection_environment_normalized",
+      "architecture_source_path": "assets/pixel-evolutions/scarlet-habitat-v1.png",
+      "environment_mask_path": "assets/qa/environment-normalization/scarlet-habitat-mask-v1.png",
+      "protected_pixels": 747322,
+      "protected_pixels_changed": 0
     },
     {
       "path": "assets/qa/environment-normalization/stage-i-ii-residential-comparison-v2.png",
@@ -9655,6 +9670,110 @@
       "selected_for_prototype": false,
       "final_nft_certification": false,
       "evidence": "equal-scale Stage I/II review; ARTWORK_ENVIRONMENT_DETERMINISTIC_COMPOSITE_2026-11-26.md"
+    },
+    {
+      "path": "assets/qa/environment-normalization/elysium-arcology-mask-v1.png",
+      "bytes": 4607,
+      "git_blob_sha": "6e420cd7c6e69cae2f503c24f63740c35fc02577",
+      "sha256": "ce09fc33f592409f6829de85dead314787aeb1eaee308c59c63e54881da9e48c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "binary-environment-mask",
+      "neighborhood": "Arcadia Prime",
+      "identity_name": "Elysium Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": true,
+      "final_nft_certification": false,
+      "evidence": "binary 0/255 alpha; 1,072,722 protected pixels; ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/qa/environment-normalization/crimson-arcology-mask-v1.png",
+      "bytes": 5425,
+      "git_blob_sha": "f1a285c91ace05b03019666eb847539bfe266c5e",
+      "sha256": "5516514022381c7d10a454e6e729cfbe12c0892177cef0aa329781cac8d39c44",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "binary-environment-mask",
+      "neighborhood": "Crimson Commons",
+      "identity_name": "Crimson Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": true,
+      "final_nft_certification": false,
+      "evidence": "binary 0/255 alpha; 874,807 protected pixels; ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/candidates/environment-normalization/elysium-arcology-environment-composite-v1.png",
+      "bytes": 2612383,
+      "git_blob_sha": "8ceff56c5075abe5009bd963264cd04958f46a8f",
+      "sha256": "7d40a092987131d65e40af916df6ce25dc3fbec182e3517c9069dc7d22d5a6a4",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "selected-architectural-master-environment-normalized",
+      "neighborhood": "Arcadia Prime",
+      "identity_id": "N09-I01",
+      "identity_name": "Elysium Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": true,
+      "selected_for_architectural_master": true,
+      "final_nft_certification": false,
+      "selection_status": "delegated_visual_selection_environment_normalized",
+      "architecture_source_path": "assets/pixel-evolutions/elysium-arcology-v1.png",
+      "environment_mask_path": "assets/qa/environment-normalization/elysium-arcology-mask-v1.png",
+      "protected_pixels": 1072722,
+      "protected_pixels_changed": 0,
+      "evidence": "design/ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/candidates/environment-normalization/crimson-arcology-environment-composite-v1.png",
+      "bytes": 2701789,
+      "git_blob_sha": "17f2a987fe30d615d34387fc212c2609e3d277ec",
+      "sha256": "555d27fae10988c3099ef6c8baf6e83ee843bc201748eeab03dd0ee5d8f92150",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "selected-architectural-master-environment-normalized",
+      "neighborhood": "Crimson Commons",
+      "identity_id": "N10-I01",
+      "identity_name": "Crimson Arcology",
+      "stage": 3,
+      "building_type": "Residential",
+      "selected_for_prototype": true,
+      "selected_for_architectural_master": true,
+      "final_nft_certification": false,
+      "selection_status": "delegated_visual_selection_environment_normalized",
+      "architecture_source_path": "assets/pixel-evolutions/crimson-arcology-v1.png",
+      "environment_mask_path": "assets/qa/environment-normalization/crimson-arcology-mask-v1.png",
+      "protected_pixels": 874807,
+      "protected_pixels_changed": 0,
+      "evidence": "design/ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/qa/environment-normalization/residential-stage-i-ii-iii-comparison-v1.png",
+      "bytes": 4521689,
+      "git_blob_sha": "31d9b52b732007446e251274facb8fd76e740bca",
+      "sha256": "5bd35815583e760b9211d3e67c1518ab0472b801ffeab4a09488c80b18c1e36d",
+      "dimensions": {
+        "width": 984,
+        "height": 992
+      },
+      "classification": "lineage-qa-evidence",
+      "neighborhood": "Arcadia Prime / Crimson Commons",
+      "identity_name": "Residential Stage I/II/III",
+      "stage": null,
+      "building_type": "Residential",
+      "selected_for_prototype": false,
+      "final_nft_certification": false,
+      "evidence": "complete six-image equal-scale family review; ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md"
     }
   ]
 }
