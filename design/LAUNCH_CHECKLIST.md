@@ -549,7 +549,8 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Run the same immutable-blob decode, contact-sheet and similarity audit for Shadow Market and Skygarden District.
 - [x] Run the same immutable-blob decode, contact-sheet and similarity audit for Velocity Row and Royal Mirage.
 - [x] Run the same immutable-blob decode, contact-sheet and similarity audit for Old World Steel and Moonline Harbor.
-- [ ] Complete the same immutable-blob decode, contact-sheet and similarity audit for Arcadia Prime and Crimson Commons.
+- [x] Complete the same immutable-blob decode, contact-sheet and similarity audit for Arcadia Prime and Crimson Commons.
+- [ ] Close the 20-asset Arcadia Prime/Crimson Commons Stage II/III environment-normalization queue with versioned derivatives and equal-scale evidence.
 
 
 ## 2026-11-26 Shadow Market and Skygarden District decode/visual audit
@@ -588,3 +589,17 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Resolved and read six exact-title Library composite references; retained them as model-generated context, not standalone selected token art.
 - [x] Recorded no selected-art correction candidates. Smoke/cloud-derived zero-margin readings were visually confirmed as background false positives, not clipping.
 - [ ] Complete Arcadia Prime and Crimson Commons before edition/rarity production.
+
+
+## 2026-11-26 Arcadia Prime and Crimson Commons audit completion
+
+- [x] Retrieved the final 30 exact selected PNG blobs from immutable commit `e93958ced2d4b640425c22a75cfa36432a1bcc6a`; no candidate or composite path was substituted.
+- [x] Independently decoded all 30 as native 1024×1536 RGB PNGs and reproduced every recorded byte count and SHA-256 value.
+- [x] Completed equal-scale contact-sheet inspection for all 150 selected architectural masters across ten neighborhoods.
+- [x] Manually accepted two dHash distance-4 false positives: Arcadian Residences/Muse Hall are different building types; Prime Mind Nexus/Phoenix Nexus are different neighborhood palettes and architectures.
+- [x] Confirmed exact names, distinct functions, architecture progression, supports and crown/base framing for all N09/N10 families.
+- [x] Opened `ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md` for all 20 N09/N10 Stage II/III presentations because flat dark fields break continuity with their Stage I dusk sky/street scenes.
+- [x] Preserved all selected architecture; limited the correction scope to reversible environment normalization.
+- [x] Added `ARTWORK_SELECTED_MASTER_AUDIT_SUMMARY_2026-11-26.md` as the collection-wide evidence index.
+- [ ] Prototype Arcadia Prime Residential and Crimson Commons Residential normalization, then compare both full lineages before batch application.
+- [ ] Keep edition/rarity production blocked until this correction queue closes.

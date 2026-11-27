@@ -2,9 +2,9 @@
 
 ## Current authoritative state — November 26, 2026
 
-Audited against repository commit `57d29915d07d1ee8aed9aaac09bafdeab08ac71a`. The current architectural-master set is **150 selected images**: 50 Stage I bases plus 100 Stage II/III evolutions across 50 complete identity families and 10 neighborhoods. All 150 selected paths exist; recorded byte counts and Git blob SHAs match the complete repository tree; no selected path, blob or recorded SHA-256 is duplicated. Final NFT-certified exports remain **0 of 150**. A fresh immutable-blob decode and equal-scale visual audit has now passed **120 of 150** selected masters: all 15 images in the first eight neighborhoods through Moonline Harbor.
+Audited against repository commit `57d29915d07d1ee8aed9aaac09bafdeab08ac71a`. The current architectural-master set is **150 selected images**: 50 Stage I bases plus 100 Stage II/III evolutions across 50 complete identity families and 10 neighborhoods. All 150 selected paths exist; recorded byte counts and Git blob SHAs match the complete repository tree; no selected path, blob or recorded SHA-256 is duplicated. Final NFT-certified exports remain **0 of 150**. Fresh immutable-blob decode and equal-scale visual inspection now covers **150 of 150** selected masters across all ten neighborhoods. Integrity passes for all 150. Twenty Arcadia Prime/Crimson Commons Stage II/III environment presentations remain in a versioned correction queue; final NFT-certified exports remain 0 of 150.
 
-The machine-readable source of truth is `ASSET_MANIFEST.json`, now schema 2.0.0 with explicit records for all 150 selected masters. `STAGE_I_PIXEL_SOURCE_INVENTORY.json` and `PIXEL_EVOLUTION_INVENTORY.json` remain the selection-specific evidence sources. Full repository-integrity evidence is in `ARTWORK_MASTER_INTEGRITY_AUDIT_2026-11-26.md`; current decode/visual evidence is in the N01/N02, N03/N04, N05/N06 and N07/N08 `ARTWORK_DECODE_VISUAL_AUDIT_*_2026-11-26` reports.
+The machine-readable source of truth is `ASSET_MANIFEST.json`, now schema 2.0.0 with explicit records for all 150 selected masters. `STAGE_I_PIXEL_SOURCE_INVENTORY.json` and `PIXEL_EVOLUTION_INVENTORY.json` remain the selection-specific evidence sources. Full repository-integrity evidence is in `ARTWORK_MASTER_INTEGRITY_AUDIT_2026-11-26.md`; current decode/visual evidence is in all five `ARTWORK_DECODE_VISUAL_AUDIT_*_2026-11-26` batch reports and `ARTWORK_SELECTED_MASTER_AUDIT_SUMMARY_2026-11-26.md`.
 
 | Neighborhood | Stage I | Stage II/III | Selected total | Final certified |
 | --- | ---: | ---: | ---: | ---: |
@@ -22,7 +22,7 @@ The machine-readable source of truth is `ASSET_MANIFEST.json`, now schema 2.0.0 
 
 **Status boundary:** architectural-master coverage and repository identity pass. Fresh decoding, collection-wide visual/safe-area/export inspection, perceptual similarity, edition rendering, metadata, site integration, contracts and release gates remain open.
 
-**Exact next action:** complete the immutable-blob artwork audit with Arcadia Prime (N09) and Crimson Commons (N10); generate equal-scale contact sheets and correction evidence before deciding whether the correction queue is closed.
+**Exact next action:** prototype reversible environment normalization for Arcadia Prime Residential and Crimson Commons Residential under `ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md`; compare both lineages before batch application. Edition/rarity production remains held.
 
 > The earlier candidate-era sections below are preserved as historical production evidence. Their coverage counts, prototype paths and old “next action” lines do not override this current-state section.
 

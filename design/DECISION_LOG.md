@@ -376,3 +376,15 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Delegated decision:** preserve all 30 selected originals and queue no artwork corrections. Library sheets remain model-generated composite references only.
 - **Status boundary:** this advances fresh decode/visual evidence to 120/150 masters across eight neighborhoods; it is not edition, metadata, permanent-storage, contract or launch certification.
 - **Exact next action:** Arcadia Prime and Crimson Commons immutable-blob decode/contact-sheet/perceptual audit.
+
+
+## 2026-11-26 — Arcadia Prime/Crimson Commons audit and collection-wide artwork disposition
+
+- **Scope:** final 30 selected masters from immutable commit `e93958ced2d4b640425c22a75cfa36432a1bcc6a`; fresh decode/hash/contact-sheet coverage now reaches all 150 selected masters.
+- **Integrity result:** all 30 files pass native 1024×1536 RGB PNG decoding, fresh SHA-256 and recorded byte-count checks. Collection-wide integrity evidence now covers 150/150.
+- **Similarity dispositions:** Arcadian Residences/Muse Hall and Prime Mind Nexus/Phoenix Nexus each have dHash distance 4, but manual review confirms distinct building type or neighborhood architecture/palette.
+- **Architecture result:** exact names, functional separation, physical supports, progression and full crown/base framing pass. Preserve all 30 selected masters.
+- **Observed inconsistency:** all 20 N09/N10 Stage II/III images use flat dark presentation fields while their Stage I images use finished dusk sky/street scenes.
+- **Delegated correction:** open a reversible environment-normalization queue for those 20 presentations. Do not regenerate or alter architecture merely to change the environment.
+- **Status boundary:** the architectural selection audit is complete, but final NFT certification remains 0/150 and edition/rarity work remains blocked until the correction queue closes.
+- **Exact next action:** prototype Arcadia Prime Residential and Crimson Commons Residential normalization, then compare both lineages before batch application.

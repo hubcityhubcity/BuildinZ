@@ -1,0 +1,938 @@
+{
+  "schema_version": "1.0.0",
+  "recorded_date": "2026-11-26",
+  "timezone": "America/Chicago",
+  "repository_commit": "e93958ced2d4b640425c22a75cfa36432a1bcc6a",
+  "scope": {
+    "neighborhoods": [
+      {
+        "id": "N09",
+        "name": "Arcadia Prime"
+      },
+      {
+        "id": "N10",
+        "name": "Crimson Commons"
+      }
+    ],
+    "selected_architectural_masters": 30,
+    "stages_per_identity": 3
+  },
+  "result": "integrity_pass_visual_corrections_queued",
+  "collection_wide_fresh_audit": {
+    "selected_masters_audited": 150,
+    "required_selected_masters": 150,
+    "neighborhoods_audited": 10,
+    "neighborhoods_required": 10,
+    "final_nft_certified_stage_assets": 0
+  },
+  "integrity": {
+    "decoded_png": 30,
+    "dimensions_1024x1536": 30,
+    "rgb_mode": 30,
+    "byte_count_matches": 30,
+    "sha256_matches": 30,
+    "duplicate_sha256_pairs": 0,
+    "dhash_pairs_distance_le_5": 2,
+    "manual_similarity_dispositions": [
+      {
+        "pair": [
+          "N09-I01-S1",
+          "N09-I04-S1"
+        ],
+        "distance": 4,
+        "result": "accepted_distinct_cross_type",
+        "evidence": "residential tower versus domed performance hall"
+      },
+      {
+        "pair": [
+          "N09-I03-S3",
+          "N10-I03-S3"
+        ],
+        "distance": 4,
+        "result": "accepted_distinct_cross_neighborhood",
+        "evidence": "white/cobalt Arcadia technology versus crimson/gold Crimson technology"
+      }
+    ]
+  },
+  "visual_findings": {
+    "architecture_and_naming": "passed",
+    "environment_consistency": "correction_required",
+    "queued_assets": 20,
+    "queue_evidence": "design/ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md"
+  },
+  "qa_artifacts": [
+    "assets/qa/arcadia-prime-selected-master-audit-v1.png",
+    "assets/qa/crimson-commons-selected-master-audit-v1.png"
+  ],
+  "library_cross_check": {
+    "exact_results": [
+      {
+        "name": "Arcadia Prime Stage III Upgrades.png",
+        "library_file_id": "libfile_68c8e052d8388191b56466ebedeb46b1",
+        "size_bytes": 2313997,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Arcadia Prime Stage II Upgrades.png",
+        "library_file_id": "libfile_b08efa192e10819195f426899cf0da38",
+        "size_bytes": 1995728,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Arcadia Prime pixel building sprites.png",
+        "library_file_id": "libfile_3453f443a9e881918a8f593973664b20",
+        "size_bytes": 1930888,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Crimson Commons Boxing Arena Sheet.png",
+        "library_file_id": "libfile_4c9d2c22e7348191a211a6e670e86a28",
+        "size_bytes": 2467375,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Crimson Commons Stage III Evolutions.png",
+        "library_file_id": "libfile_098c368ee6a08191b30a1d176ab4d472",
+        "size_bytes": 2440821,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Crimson Commons Stage II sprite sheet.png",
+        "library_file_id": "libfile_84e7d57e49d8819191979a7b1e78b07a",
+        "size_bytes": 2312696,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      },
+      {
+        "name": "Crimson Commons Isometric Building Sprites.png",
+        "library_file_id": "libfile_010fdddab9ac8191b82e974e4ebc711c",
+        "size_bytes": 2050039,
+        "model_generated": true,
+        "dimensions": [
+          1536,
+          1024
+        ]
+      }
+    ],
+    "usage": "model-generated composite references only; not substituted for selected standalone assets"
+  },
+  "correction_queue": [
+    {
+      "identity_id": "N09-I01",
+      "stage": 2,
+      "stage_name": "Harmony Habitat",
+      "path": "assets/pixel-evolutions/harmony-habitat-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N09-I01",
+      "stage": 3,
+      "stage_name": "Elysium Arcology",
+      "path": "assets/pixel-evolutions/elysium-arcology-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N09-I02",
+      "stage": 2,
+      "stage_name": "Lyceum Galleria",
+      "path": "assets/pixel-evolutions/lyceum-galleria-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N09-I02",
+      "stage": 3,
+      "stage_name": "Infinite Forum",
+      "path": "assets/pixel-evolutions/infinite-forum-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N09-I03",
+      "stage": 2,
+      "stage_name": "Oracle Spire",
+      "path": "assets/pixel-evolutions/oracle-spire-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N09-I03",
+      "stage": 3,
+      "stage_name": "Prime Mind Nexus",
+      "path": "assets/pixel-evolutions/prime-mind-nexus-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N09-I04",
+      "stage": 2,
+      "stage_name": "Apollo Palace",
+      "path": "assets/pixel-evolutions/apollo-palace-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N09-I04",
+      "stage": 3,
+      "stage_name": "Olympian Conservatory",
+      "path": "assets/pixel-evolutions/olympian-conservatory-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N09-I05",
+      "stage": 2,
+      "stage_name": "Parthenon Apex",
+      "path": "assets/pixel-evolutions/parthenon-apex-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N09-I05",
+      "stage": 3,
+      "stage_name": "Crown of Olympus",
+      "path": "assets/pixel-evolutions/crown-of-olympus-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "path": "assets/pixel-evolutions/scarlet-habitat-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "path": "assets/pixel-evolutions/crimson-arcology-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "path": "assets/pixel-evolutions/ruby-galleria-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "path": "assets/pixel-evolutions/cardinal-exchange-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "path": "assets/pixel-evolutions/vermilion-spire-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "path": "assets/pixel-evolutions/phoenix-nexus-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "path": "assets/pixel-evolutions/scarlet-palace-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "path": "assets/pixel-evolutions/crimson-coliseum-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "path": "assets/pixel-evolutions/cardinal-apex-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    },
+    {
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "path": "assets/pixel-evolutions/crown-of-flame-v1.png",
+      "issue": "flat dark environment field does not match Stage I neighborhood sky/street presentation",
+      "required_action": "non-destructive environment normalization preserving selected architecture, exact signage, pixel sharpness, crown/base framing and future scene-layer reserve"
+    }
+  ],
+  "assets": [
+    {
+      "identity_id": "N09-I01",
+      "stage": 1,
+      "stage_name": "Arcadian Residences",
+      "path": "assets/pixel-stage-i/arcadian-residences-v2.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/arcadian-residences-v2.png",
+      "bytes": 2508783,
+      "declared_bytes": 2508783,
+      "sha256": "793f971f700216c52343d3e3c9f6544d51637d5f3e1f0424152439b37440622e",
+      "declared_sha256": "793f971f700216c52343d3e3c9f6544d51637d5f3e1f0424152439b37440622e",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "59e98f93130f8e61",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N09-I01",
+      "stage": 2,
+      "stage_name": "Harmony Habitat",
+      "path": "assets/pixel-evolutions/harmony-habitat-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/harmony-habitat-v1.png",
+      "bytes": 2273250,
+      "declared_bytes": 2273250,
+      "sha256": "8b97ddad4ac1041b70a4f2dbb215db8fbe91ad488cebce839b7515f9c1bbc912",
+      "declared_sha256": "8b97ddad4ac1041b70a4f2dbb215db8fbe91ad488cebce839b7515f9c1bbc912",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "a333293333290f1f",
+      "top_clearance_heuristic_px": 117,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N09-I01",
+      "stage": 3,
+      "stage_name": "Elysium Arcology",
+      "path": "assets/pixel-evolutions/elysium-arcology-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/elysium-arcology-v1.png",
+      "bytes": 2468739,
+      "declared_bytes": 2468739,
+      "sha256": "5b5d445930eb034a6d0128e9b7ee3e61898571c8df65b66fb5cca1448fb4dbbf",
+      "declared_sha256": "5b5d445930eb034a6d0128e9b7ee3e61898571c8df65b66fb5cca1448fb4dbbf",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4ccd4d6d6d6d031f",
+      "top_clearance_heuristic_px": 21,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N09-I02",
+      "stage": 1,
+      "stage_name": "Agora Plaza",
+      "path": "assets/pixel-stage-i/agora-plaza-v2.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/agora-plaza-v2.png",
+      "bytes": 2545784,
+      "declared_bytes": 2545784,
+      "sha256": "fba568c92473e8f82caad413c708bbe478e6bb6826792e1c7af850005bf40743",
+      "declared_sha256": "fba568c92473e8f82caad413c708bbe478e6bb6826792e1c7af850005bf40743",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "99d3650b0f0f4907",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N09-I02",
+      "stage": 2,
+      "stage_name": "Lyceum Galleria",
+      "path": "assets/pixel-evolutions/lyceum-galleria-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/lyceum-galleria-v1.png",
+      "bytes": 2300099,
+      "declared_bytes": 2300099,
+      "sha256": "24b62e2fd471ec699e639ee4bfb9730affbfb84621185367e31e2a6d10fe180b",
+      "declared_sha256": "24b62e2fd471ec699e639ee4bfb9730affbfb84621185367e31e2a6d10fe180b",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "618e0f2b49518c4d",
+      "top_clearance_heuristic_px": 200,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N09-I02",
+      "stage": 3,
+      "stage_name": "Infinite Forum",
+      "path": "assets/pixel-evolutions/infinite-forum-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/infinite-forum-v1.png",
+      "bytes": 3053544,
+      "declared_bytes": 3053544,
+      "sha256": "2882acbef0483e7268a59af736353bf835ff68228e298362dc2f8152f3f2cc70",
+      "declared_sha256": "2882acbef0483e7268a59af736353bf835ff68228e298362dc2f8152f3f2cc70",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "8c0f2b49692b944d",
+      "top_clearance_heuristic_px": 18,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N09-I03",
+      "stage": 1,
+      "stage_name": "Axiom Labs",
+      "path": "assets/pixel-stage-i/axiom-labs-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/axiom-labs-v1.png",
+      "bytes": 2801509,
+      "declared_bytes": 2801509,
+      "sha256": "4ba656253e895a607316867631dad71dcaed18ca9dff8059e400ef3e811f0fd1",
+      "declared_sha256": "4ba656253e895a607316867631dad71dcaed18ca9dff8059e400ef3e811f0fd1",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "59f38d476b27272c",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N09-I03",
+      "stage": 2,
+      "stage_name": "Oracle Spire",
+      "path": "assets/pixel-evolutions/oracle-spire-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/oracle-spire-v1.png",
+      "bytes": 1986810,
+      "declared_bytes": 1986810,
+      "sha256": "17f10d6fa37cd23a2363455eb9c7b21c2a86e554d888d95ab509accf4fad26dd",
+      "declared_sha256": "17f10d6fa37cd23a2363455eb9c7b21c2a86e554d888d95ab509accf4fad26dd",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "76a6068b0b2b170f",
+      "top_clearance_heuristic_px": 32,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N09-I03",
+      "stage": 3,
+      "stage_name": "Prime Mind Nexus",
+      "path": "assets/pixel-evolutions/prime-mind-nexus-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/prime-mind-nexus-v1.png",
+      "bytes": 2399970,
+      "declared_bytes": 2399970,
+      "sha256": "22d2fb925d2e414f4cb09b53d481fa93168ad1bc2e70ca1b229bcaf8f094d1ad",
+      "declared_sha256": "22d2fb925d2e414f4cb09b53d481fa93168ad1bc2e70ca1b229bcaf8f094d1ad",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4c8e554d4d5d0f0f",
+      "top_clearance_heuristic_px": 41,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N09-I04",
+      "stage": 1,
+      "stage_name": "Muse Hall",
+      "path": "assets/pixel-stage-i/muse-hall-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/muse-hall-v1.png",
+      "bytes": 2774753,
+      "declared_bytes": 2774753,
+      "sha256": "8924d0d61b580728c937c988eedd1e1f56b06fcf5aa436e1e361f11b2f37f79d",
+      "declared_sha256": "8924d0d61b580728c937c988eedd1e1f56b06fcf5aa436e1e361f11b2f37f79d",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "59e98e13330f8e71",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N09-I04",
+      "stage": 2,
+      "stage_name": "Apollo Palace",
+      "path": "assets/pixel-evolutions/apollo-palace-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/apollo-palace-v1.png",
+      "bytes": 2370455,
+      "declared_bytes": 2370455,
+      "sha256": "20d9d9f545bb9e4c909aace19c7b0475d2c6f902a272825da24c23f4af3b4431",
+      "declared_sha256": "20d9d9f545bb9e4c909aace19c7b0475d2c6f902a272825da24c23f4af3b4431",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "cc0e3b694d2d0f0f",
+      "top_clearance_heuristic_px": 203,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N09-I04",
+      "stage": 3,
+      "stage_name": "Olympian Conservatory",
+      "path": "assets/pixel-evolutions/olympian-conservatory-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/olympian-conservatory-v1.png",
+      "bytes": 2694139,
+      "declared_bytes": 2694139,
+      "sha256": "09bdbb2189ecdb18e73eabf475a8f993a8ba0dd1c2eb0e6b4f90168a0fb0fe4d",
+      "declared_sha256": "09bdbb2189ecdb18e73eabf475a8f993a8ba0dd1c2eb0e6b4f90168a0fb0fe4d",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "c61f336ba8692b0f",
+      "top_clearance_heuristic_px": 126,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N09-I05",
+      "stage": 1,
+      "stage_name": "Arcadia Beacon",
+      "path": "assets/pixel-stage-i/arcadia-beacon-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/arcadia-beacon-v1.png",
+      "bytes": 2658121,
+      "declared_bytes": 2658121,
+      "sha256": "6fa6daff368bde34313c997ea7c5e679f1febc2550afb9d185481199baa3e01e",
+      "declared_sha256": "6fa6daff368bde34313c997ea7c5e679f1febc2550afb9d185481199baa3e01e",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "59ebcccc8e070787",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N09-I05",
+      "stage": 2,
+      "stage_name": "Parthenon Apex",
+      "path": "assets/pixel-evolutions/parthenon-apex-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/parthenon-apex-v1.png",
+      "bytes": 2012922,
+      "declared_bytes": 2012922,
+      "sha256": "9f473cecedce3a2d8672c7d8ae8c251af0d7bd71ac280600bdc4695bb7b4e1f9",
+      "declared_sha256": "9f473cecedce3a2d8672c7d8ae8c251af0d7bd71ac280600bdc4695bb7b4e1f9",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4d4d4c4dcc0f0f0f",
+      "top_clearance_heuristic_px": 27,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N09-I05",
+      "stage": 3,
+      "stage_name": "Crown of Olympus",
+      "path": "assets/pixel-evolutions/crown-of-olympus-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/arcadia-prime/crown-of-olympus-v1.png",
+      "bytes": 2143958,
+      "declared_bytes": 2143958,
+      "sha256": "e0ddd5a4014ab9d1377b0d3559d17cc925094a6aba9052103c0de9f259aea718",
+      "declared_sha256": "e0ddd5a4014ab9d1377b0d3559d17cc925094a6aba9052103c0de9f259aea718",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4d4d0c8e0b0f0f0f",
+      "top_clearance_heuristic_px": 11,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N10-I01",
+      "stage": 1,
+      "stage_name": "Ember Residences",
+      "path": "assets/pixel-stage-i/ember-residences-v3.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/ember-residences-v3.png",
+      "bytes": 2663893,
+      "declared_bytes": 2663893,
+      "sha256": "60791932192ebcaa04a9f60a2012ff5ce26bd65e5885f2d6cc719694c5df4de9",
+      "declared_sha256": "60791932192ebcaa04a9f60a2012ff5ce26bd65e5885f2d6cc719694c5df4de9",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "6051450f650f0733",
+      "top_clearance_heuristic_px": 12,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N10-I01",
+      "stage": 2,
+      "stage_name": "Scarlet Habitat",
+      "path": "assets/pixel-evolutions/scarlet-habitat-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/scarlet-habitat-v1.png",
+      "bytes": 2102474,
+      "declared_bytes": 2102474,
+      "sha256": "86772b9386032aa50d9735f8062d1bf758b0b8a600deda142723e765d5e6d76f",
+      "declared_sha256": "86772b9386032aa50d9735f8062d1bf758b0b8a600deda142723e765d5e6d76f",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "9e333373735d1fe4",
+      "top_clearance_heuristic_px": 29,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N10-I01",
+      "stage": 3,
+      "stage_name": "Crimson Arcology",
+      "path": "assets/pixel-evolutions/crimson-arcology-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/crimson-arcology-v1.png",
+      "bytes": 2534653,
+      "declared_bytes": 2534653,
+      "sha256": "1183b42ae34a88354cb669b516d56278095db7373602069d2cd2f3a99942c79b",
+      "declared_sha256": "1183b42ae34a88354cb669b516d56278095db7373602069d2cd2f3a99942c79b",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "0f8e4e4949490b86",
+      "top_clearance_heuristic_px": 28,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N10-I02",
+      "stage": 1,
+      "stage_name": "Commons Market",
+      "path": "assets/pixel-stage-i/commons-market-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/commons-market-v1.png",
+      "bytes": 2520853,
+      "declared_bytes": 2520853,
+      "sha256": "872973a4fd7f810eb39ee360b199c0b7e4eed6d39c02ed98995b4807f33bc204",
+      "declared_sha256": "872973a4fd7f810eb39ee360b199c0b7e4eed6d39c02ed98995b4807f33bc204",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "453fbd210b1f0f07",
+      "top_clearance_heuristic_px": 10,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N10-I02",
+      "stage": 2,
+      "stage_name": "Ruby Galleria",
+      "path": "assets/pixel-evolutions/ruby-galleria-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/ruby-galleria-v1.png",
+      "bytes": 2687275,
+      "declared_bytes": 2687275,
+      "sha256": "e14b521684cb211b3b1e0e8348a0c3a0a6d21a336b3f8e7ab110456787a3ce79",
+      "declared_sha256": "e14b521684cb211b3b1e0e8348a0c3a0a6d21a336b3f8e7ab110456787a3ce79",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "c3074d4b4d1f1f07",
+      "top_clearance_heuristic_px": 135,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N10-I02",
+      "stage": 3,
+      "stage_name": "Cardinal Exchange",
+      "path": "assets/pixel-evolutions/cardinal-exchange-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/cardinal-exchange-v1.png",
+      "bytes": 3083791,
+      "declared_bytes": 3083791,
+      "sha256": "e03f4be2dda857914ca6c942e51899804c510d0ca4a67cbf37fb390a019d24f2",
+      "declared_sha256": "e03f4be2dda857914ca6c942e51899804c510d0ca4a67cbf37fb390a019d24f2",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "c703390d4f4f1f03",
+      "top_clearance_heuristic_px": 53,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N10-I03",
+      "stage": 1,
+      "stage_name": "Redline Labs",
+      "path": "assets/pixel-stage-i/redline-labs-v2.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/redline-labs-v2.png",
+      "bytes": 2400572,
+      "declared_bytes": 2400572,
+      "sha256": "07d51a987596b632571dbab5f8331480222be340d3b9a4d18b9c6b73824beea3",
+      "declared_sha256": "07d51a987596b632571dbab5f8331480222be340d3b9a4d18b9c6b73824beea3",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "e12f231b0faf4515",
+      "top_clearance_heuristic_px": 5,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N10-I03",
+      "stage": 2,
+      "stage_name": "Vermilion Spire",
+      "path": "assets/pixel-evolutions/vermilion-spire-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/vermilion-spire-v1.png",
+      "bytes": 1924118,
+      "declared_bytes": 1924118,
+      "sha256": "85e420e3a2187385d881f35805f79ee850800adf2342f99c6f08f2954daf8e1b",
+      "declared_sha256": "85e420e3a2187385d881f35805f79ee850800adf2342f99c6f08f2954daf8e1b",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "294c8f8f8f2f1707",
+      "top_clearance_heuristic_px": 15,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N10-I03",
+      "stage": 3,
+      "stage_name": "Phoenix Nexus",
+      "path": "assets/pixel-evolutions/phoenix-nexus-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/phoenix-nexus-v1.png",
+      "bytes": 2363317,
+      "declared_bytes": 2363317,
+      "sha256": "0d43751fe8849e4e00a96ffe76bbc35e50654a0cd781a3c0203fc43bbbb9c910",
+      "declared_sha256": "0d43751fe8849e4e00a96ffe76bbc35e50654a0cd781a3c0203fc43bbbb9c910",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4d8e4d4d4d4d0f0f",
+      "top_clearance_heuristic_px": 14,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N10-I04",
+      "stage": 1,
+      "stage_name": "Ember Hall",
+      "path": "assets/pixel-stage-i/ember-hall-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/ember-hall-v1.png",
+      "bytes": 2654046,
+      "declared_bytes": 2654046,
+      "sha256": "20398ef30e8b6e7e656607852ced624c888dea533858e96be3136047c20f1668",
+      "declared_sha256": "20398ef30e8b6e7e656607852ced624c888dea533858e96be3136047c20f1668",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "652f7f27610d0f43",
+      "top_clearance_heuristic_px": 15,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N10-I04",
+      "stage": 2,
+      "stage_name": "Scarlet Palace",
+      "path": "assets/pixel-evolutions/scarlet-palace-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/scarlet-palace-v1.png",
+      "bytes": 2571488,
+      "declared_bytes": 2571488,
+      "sha256": "db50473a32f19e9c6669d97ef35bb8b3021c06f3d0926c49a20f7aa5c71ce1c5",
+      "declared_sha256": "db50473a32f19e9c6669d97ef35bb8b3021c06f3d0926c49a20f7aa5c71ce1c5",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "8e0f4d4d4d690f0f",
+      "top_clearance_heuristic_px": 59,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N10-I04",
+      "stage": 3,
+      "stage_name": "Crimson Coliseum",
+      "path": "assets/pixel-evolutions/crimson-coliseum-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/crimson-coliseum-v1.png",
+      "bytes": 2808185,
+      "declared_bytes": 2808185,
+      "sha256": "677e3e6dcebbd607eab855c06e8978afb0ec4b2fd9815c3b93880a222f455d86",
+      "declared_sha256": "677e3e6dcebbd607eab855c06e8978afb0ec4b2fd9815c3b93880a222f455d86",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "8e0f694d69a80f0f",
+      "top_clearance_heuristic_px": 31,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N10-I05",
+      "stage": 1,
+      "stage_name": "Bloodmoon Beacon",
+      "path": "assets/pixel-stage-i/bloodmoon-beacon-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/bloodmoon-beacon-v1.png",
+      "bytes": 2235228,
+      "declared_bytes": 2235228,
+      "sha256": "8f9a2df8b94f1fc81b7f6eb36d6256729f163ec9b5ca54655b9e2ff21bead0b8",
+      "declared_sha256": "8f9a2df8b94f1fc81b7f6eb36d6256729f163ec9b5ca54655b9e2ff21bead0b8",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "684c4520a50b4b15",
+      "top_clearance_heuristic_px": 0,
+      "integrity_result": "passed",
+      "visual_result": "passed"
+    },
+    {
+      "identity_id": "N10-I05",
+      "stage": 2,
+      "stage_name": "Cardinal Apex",
+      "path": "assets/pixel-evolutions/cardinal-apex-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/cardinal-apex-v1.png",
+      "bytes": 2196805,
+      "declared_bytes": 2196805,
+      "sha256": "e14c6376ebbdb6b65b368401dc3731a7d1e7aa157124dd830f770c6fbc364da8",
+      "declared_sha256": "e14c6376ebbdb6b65b368401dc3731a7d1e7aa157124dd830f770c6fbc364da8",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4d8e8e8e0f731519",
+      "top_clearance_heuristic_px": 16,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    },
+    {
+      "identity_id": "N10-I05",
+      "stage": 3,
+      "stage_name": "Crown of Flame",
+      "path": "assets/pixel-evolutions/crown-of-flame-v1.png",
+      "local": "/workspace/scratch/2241ce8ad795/audit-n910/crimson-commons/crown-of-flame-v1.png",
+      "bytes": 2486461,
+      "declared_bytes": 2486461,
+      "sha256": "9dca54b01b7af7cd5bdb29fe5032464bc756a4661663cabb60a71c8dc513a5f3",
+      "declared_sha256": "9dca54b01b7af7cd5bdb29fe5032464bc756a4661663cabb60a71c8dc513a5f3",
+      "format": "PNG",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "dhash": "4d8e0f4d4d713317",
+      "top_clearance_heuristic_px": 12,
+      "integrity_result": "passed",
+      "visual_result": "architecture_pass_environment_correction_queued"
+    }
+  ],
+  "next_action": "Prototype reversible environment normalization for Arcadia Prime Residential and Crimson Commons Residential."
+}
+

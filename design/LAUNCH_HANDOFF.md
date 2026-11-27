@@ -1381,3 +1381,12 @@ All 15 Old World Steel and 15 Moonline Harbor selected masters were retrieved fr
 Moondeck Palace/Eclipse Marina was the sole dHash distance-5 threshold trigger at distance 4. Manual comparison confirms distinct Stage III growth: broader three-shell mass, enlarged side volumes, added upper audience tiers and a materially larger crown. Background-derived zero top-margin readings came from smoke/cloud pixels at the edge; manual inspection confirms complete crowns. Six exact-title Library sheets were resolved and read as model-generated composite references only. No selected artwork correction was justified. Evidence: `ARTWORK_DECODE_VISUAL_AUDIT_N07_N08_2026-11-26.md`, its JSON companion and the two neighborhood QA boards.
 
 Fresh decode/visual audit progress is now 120 of 150 masters across eight of ten neighborhoods. Next: Arcadia Prime and Crimson Commons. Edition/rarity production remains held until the artwork audit and correction queue are closed.
+
+
+## 2026-11-26 N09/N10 audit and collection-wide selected-master checkpoint
+
+All 15 Arcadia Prime and 15 Crimson Commons selected masters were retrieved from immutable commit `e93958ced2d4b640425c22a75cfa36432a1bcc6a`, freshly decoded and hashed. Every image is a 1024×1536 RGB PNG; byte counts and SHA-256 values match the canonical inventories. Exact names, building-type separation, supported architecture, progression and crown/base framing pass. Two distance-4 dHash pairs were manually accepted as distinct cross-type or cross-neighborhood designs.
+
+The audit found one collection-level defect: all 20 N09/N10 Stage II/III presentations use flat dark environment fields while their Stage I lineages use finished dusk sky/street scenes. The selected architecture remains valid, but final export consistency does not. `ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md` limits correction to reversible environment normalization and prohibits architecture regeneration for presentation alone.
+
+Fresh decode/hash/contact-sheet evidence now covers all 150 selected masters across ten neighborhoods. Final NFT-certified assets remain 0/150 because the 20-asset environment queue, edition production, permanent URIs and downstream release gates remain open. Evidence index: `ARTWORK_SELECTED_MASTER_AUDIT_SUMMARY_2026-11-26.md`. Exact next action: prototype and compare Arcadia Prime Residential and Crimson Commons Residential environment normalization before batch application. Edition/rarity production remains held.
