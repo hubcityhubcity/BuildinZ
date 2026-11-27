@@ -612,3 +612,14 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Preserve selected masters and record the rejected method, output hashes and exact next action.
 - [ ] Build building-free neighborhood plates and deterministic architecture masks; prove protected pixels remain unchanged before promotion.
 - [ ] Keep Stage III, the other 18 queued assets, editions and rarities held until both Stage II composites pass.
+
+
+## 2026-11-26 deterministic Stage II Residential composites
+
+- [x] Create reusable building-free Arcadia Prime and Crimson Commons environment plates.
+- [x] Derive binary masks for Harmony Habitat and Scarlet Habitat from the selected flat dark fields.
+- [x] Prove zero changed protected architecture pixels in both Stage II composites.
+- [x] Complete equal-scale Stage I/II visual comparison and retain both as versioned candidates.
+- [ ] Normalize Elysium Arcology and Crimson Arcology with the accepted plates.
+- [ ] Inspect both complete Stage I/II/III Residential families before candidate promotion or batch application.
+- [ ] Keep the other 16 queued assets, editions and rarities held until both Residential families pass.

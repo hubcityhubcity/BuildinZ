@@ -56,3 +56,9 @@ This queue blocks edition/rarity rendering and final NFT export certification. I
 Reference-guided whole-image editing was tested on Harmony Habitat and Scarlet Habitat using their selected Stage I environment references. Both outputs introduced the requested atmosphere but substantially redrew architecture, composition and sign placement. Both are rejected QA evidence only; selected paths and certification counts are unchanged.
 
 Do not repeat whole-image generative editing on the remaining 18 assets. Continue with deterministic masks, reusable building-free environment plates, unchanged source pixels and protected-region pixel-diff evidence. Full findings and hashes: `ARTWORK_ENVIRONMENT_NORMALIZATION_PROTOTYPE_2026-11-26.md`.
+
+## Deterministic Stage II Residential checkpoint — November 26, 2026
+
+Building-free Arcadia Prime and Crimson Commons plates were created, binary masks were derived from the selected Stage II flat fields, and unchanged source RGB pixels were composited over the plates. Harmony Habitat preserves 1,069,843 protected pixels with 0 changes; Scarlet Habitat preserves 747,322 protected pixels with 0 changes. Both pass individual and equal-scale Stage I/II candidate review.
+
+These are candidate derivatives only. Selected paths and final-certification count remain unchanged until Stage III is normalized and each full Residential family passes Stage I/II/III comparison. Evidence: `ARTWORK_ENVIRONMENT_DETERMINISTIC_COMPOSITE_2026-11-26.md`.

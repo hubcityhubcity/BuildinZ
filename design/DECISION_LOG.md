@@ -398,3 +398,14 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Preservation:** selected masters, manifest records and final-certification count remain unchanged; rejected images are QA evidence only.
 - **Next method:** deterministic masks plus reusable building-free environment plates, with unchanged protected architecture pixels and quantified pixel-diff evidence.
 - **Evidence:** `ARTWORK_ENVIRONMENT_NORMALIZATION_PROTOTYPE_2026-11-26.md`.
+
+
+## 2026-11-26 — Deterministic Stage II environment-composite method
+
+- **Correction to prior method:** retain the rejection of whole-image generative editing; use generation only for building-free neighborhood plates.
+- **Deterministic rule:** binary-mask the flat environment and composite the original selected architecture pixels without blending or redraw.
+- **Verification:** Harmony Habitat protects 1,069,843 pixels and Scarlet Habitat protects 747,322 pixels; source/composite RGB comparison reports 0 protected-pixel changes for both.
+- **Visual result:** both candidates pass individual and equal-scale Stage I/II review; the first Crimson plate was rejected and replaced before acceptance.
+- **Authority boundary:** candidate derivatives are delegated reversible corrections, not prior owner approvals, selected-master replacements or final NFT certification.
+- **Evidence:** `ARTWORK_ENVIRONMENT_DETERMINISTIC_COMPOSITE_2026-11-26.md` plus versioned plates, masks, candidates and QA sheet.
+- **Exact next action:** normalize Elysium Arcology and Crimson Arcology with the accepted plates, then review both complete Residential families.

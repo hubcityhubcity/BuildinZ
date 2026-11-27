@@ -1,5 +1,16 @@
 # Genesis production handoff
 
+## Current checkpoint — November 26, 2026 (deterministic composite)
+
+Main inspected: `1bd8feaa21894d115c7afd1fc2a3d26f0b1b6db9`. Read this before earlier checkpoints.
+
+The whole-image generative method remains rejected. A deterministic replacement now passes the bounded Stage II Residential candidate gate: Harmony Habitat and Scarlet Habitat were masked from their flat dark fields and composited over building-free neighborhood plates. Pixel verification found **0 changed protected pixels** across 1,069,843 Harmony pixels and 747,322 Scarlet pixels. Exact signs, architecture, pools, supports, entry and foundations remain source-identical. Both candidates also pass equal-scale Stage I/II visual comparison.
+
+No selected-master path, manifest selection, final-certification count, rarity, edition or metadata changed. Candidate files, masks, plates and QA comparison are recorded in the asset manifest and `ARTWORK_ENVIRONMENT_DETERMINISTIC_COMPOSITE_2026-11-26.md`.
+
+**Exact next action:** apply the same deterministic method to Elysium Arcology and Crimson Arcology using the accepted plates; require zero protected-pixel changes and inspect complete Stage I/II/III Residential families before promotion or other queued identities. Edition/rarity production remains held.
+
+
 ## Current checkpoint — November 26, 2026
 
 Main inspected: `c468d1f277dedf32cca1735e2147457f0d4fd30b`. Read this before historical checkpoints.
