@@ -68,3 +68,9 @@ These are candidate derivatives only. Selected paths and final-certification cou
 The N09-I01 and N10-I01 Stage II/III presentation items are closed. Harmony Habitat, Elysium Arcology, Scarlet Habitat and Crimson Arcology now use deterministic environment-normalized selected derivatives. Their original architecture sources remain preserved. All four masks are binary; protected-pixel comparisons report 0 changes. Complete Stage I/II/III family comparisons pass exact names, progression, supports, amenities, crown/base framing and scene-layer reserve.
 
 Closed queue items: 4. Remaining queue items: 16. Evidence and source-to-derivative mapping: `ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md`.
+
+## Retail family closure — November 27, 2026
+
+The N09-I02 and N10-I02 Stage II/III presentation items are closed. Lyceum Galleria, Infinite Forum, Ruby Galleria and Cardinal Exchange now use deterministic environment-normalized selected derivatives. All original architecture sources remain preserved. Binary-mask protected-pixel comparisons report 0 changes across 4,854,434 pixels. Complete Stage I/II/III Retail comparisons pass exact names, progression, circulation, roof/base framing and scene-layer reserve.
+
+Closed queue items to date: 8. Remaining queue items: 12. Evidence: `ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md`.

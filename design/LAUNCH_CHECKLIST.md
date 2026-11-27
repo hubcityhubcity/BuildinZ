@@ -634,3 +634,14 @@ Verified15 unique Crimson type/stage slots against actual repository blobs/sizes
 - [x] Close four environment-normalization queue items; sixteen remain.
 - [ ] Normalize and compare both Retail lineages before promotion.
 - [ ] Keep Technology, Entertainment, Landmark, editions and rarities held until their dependency gates close.
+
+
+## 2026-11-27 Retail environment promotion
+
+- [x] Normalize Lyceum Galleria, Infinite Forum, Ruby Galleria and Cardinal Exchange.
+- [x] Verify zero protected-pixel changes across all four derivatives.
+- [x] Inspect both complete Stage I/II/III Retail lineages.
+- [x] Promote four deterministic derivatives while retaining original source records.
+- [x] Close eight cumulative environment-normalization items; twelve remain.
+- [ ] Normalize and compare both Technology lineages before promotion.
+- [ ] Keep Entertainment, Landmark, editions and rarities held until their dependency gates close.

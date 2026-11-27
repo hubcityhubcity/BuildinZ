@@ -420,3 +420,14 @@ A later decision may supersede an entry only by adding a new dated entry that na
 - **Queue effect:** close four of twenty N09/N10 environment items; sixteen remain.
 - **Status boundary:** this is not final NFT export certification and does not unblock editions/rarities or metadata freeze.
 - **Evidence:** `ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md`.
+
+
+## 2026-11-27 — Retail environment-normalization promotion
+
+- **Delegated selection:** promote deterministic derivatives for Lyceum Galleria, Infinite Forum, Ruby Galleria and Cardinal Exchange as selected presentation masters.
+- **Preservation:** retain all four originals as architectural source masters with explicit source-to-derivative links.
+- **Verification:** binary masks protect 4,854,434 source pixels with 0 changes.
+- **Visual acceptance:** both complete Retail lineages pass naming, stage escalation, retail circulation, roof/base framing and scene-reserve checks.
+- **Queue effect:** eight of twenty N09/N10 environment items are now closed; twelve remain.
+- **Status boundary:** no final NFT certification, edition/rarity production or metadata freeze is advanced.
+- **Evidence:** `ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md`.

@@ -1,12 +1,12 @@
 {
   "schema_version": "2.0.0",
   "recorded_date": "2026-11-27",
-  "repository_commit": "cb00c93eb3577b6634a7fc2241c9dc90e5393271",
+  "repository_commit": "59226b81eb97727cd5dac6d6f0b99795368a4a03",
   "scope_note": "Canonical repository inventory with historical assets preserved and all 150 current selected architectural masters explicitly recorded. Selected architectural master does not mean final NFT export certification.",
   "integrity_note": "The 150 current selected masters were reconciled against the complete Git tree at repository commit 57d29915d07d1ee8aed9aaac09bafdeab08ac71a. All declared paths, byte counts and Git blob SHAs match; no selected path/blob/recorded SHA-256 duplicates were found. SHA-256 and dimensions are carried from the per-asset inventories and prior local verification, not recomputed from all blobs in this audit.",
   "summary": {
-    "asset_files": 547,
-    "manifest_records": 461,
+    "asset_files": 556,
+    "manifest_records": 470,
     "selected_architectural_master_stage_assets": 150,
     "selected_stage_i_architectural_masters": 50,
     "selected_evolution_architectural_masters": 100,
@@ -18,10 +18,10 @@
     "required_identity_stage_assets": 150,
     "fresh_decode_visual_audited_stage_assets": 150,
     "fresh_decode_visual_audited_neighborhoods": 10,
-    "visual_correction_queued_stage_assets": 16,
+    "visual_correction_queued_stage_assets": 12,
     "environment_normalization_candidate_stage_assets": 0,
     "rejected_environment_prototype_assets": 2,
-    "environment_normalization_selected_stage_assets": 4
+    "environment_normalization_selected_stage_assets": 8
   },
   "production_matrix": [
     {
@@ -5972,21 +5972,22 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "selected-architectural-master",
+      "classification": "preserved-architectural-source-master",
       "neighborhood": "Crimson Commons",
       "identity_id": "N10-I02",
       "identity_name": "Cardinal Exchange",
       "stage": 3,
       "building_type": "Retail",
       "selected_for_prototype": false,
-      "selected_for_architectural_master": true,
+      "selected_for_architectural_master": false,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection",
+      "selection_status": "superseded_for_environment_presentation_2026-11-27",
       "decode_audit_status": "passed_2026-11-26",
       "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N09_N10_2026-11-26.md",
-      "visual_audit_status": "environment_normalization_queued_2026-11-26",
-      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md"
+      "visual_audit_status": "source_preserved_environment_replaced_2026-11-27",
+      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md",
+      "architecture_source_for": "assets/candidates/environment-normalization/cardinal-exchange-environment-composite-v1.png"
     },
     {
       "path": "assets/pixel-evolutions/celestial-conservatory-v1.png",
@@ -6817,21 +6818,22 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "selected-architectural-master",
+      "classification": "preserved-architectural-source-master",
       "neighborhood": "Arcadia Prime",
       "identity_id": "N09-I02",
       "identity_name": "Infinite Forum",
       "stage": 3,
       "building_type": "Retail",
       "selected_for_prototype": false,
-      "selected_for_architectural_master": true,
+      "selected_for_architectural_master": false,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection",
+      "selection_status": "superseded_for_environment_presentation_2026-11-27",
       "decode_audit_status": "passed_2026-11-26",
       "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N09_N10_2026-11-26.md",
-      "visual_audit_status": "environment_normalization_queued_2026-11-26",
-      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md"
+      "visual_audit_status": "source_preserved_environment_replaced_2026-11-27",
+      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md",
+      "architecture_source_for": "assets/candidates/environment-normalization/infinite-forum-environment-composite-v1.png"
     },
     {
       "path": "assets/pixel-evolutions/infinity-bazaar-v1.png",
@@ -6980,21 +6982,22 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "selected-architectural-master",
+      "classification": "preserved-architectural-source-master",
       "neighborhood": "Arcadia Prime",
       "identity_id": "N09-I02",
       "identity_name": "Lyceum Galleria",
       "stage": 2,
       "building_type": "Retail",
       "selected_for_prototype": false,
-      "selected_for_architectural_master": true,
+      "selected_for_architectural_master": false,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection",
+      "selection_status": "superseded_for_environment_presentation_2026-11-27",
       "decode_audit_status": "passed_2026-11-26",
       "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N09_N10_2026-11-26.md",
-      "visual_audit_status": "environment_normalization_queued_2026-11-26",
-      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md"
+      "visual_audit_status": "source_preserved_environment_replaced_2026-11-27",
+      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md",
+      "architecture_source_for": "assets/candidates/environment-normalization/lyceum-galleria-environment-composite-v1.png"
     },
     {
       "path": "assets/pixel-evolutions/mach-horizon-v1.png",
@@ -7659,21 +7662,22 @@
         "width": 1024,
         "height": 1536
       },
-      "classification": "selected-architectural-master",
+      "classification": "preserved-architectural-source-master",
       "neighborhood": "Crimson Commons",
       "identity_id": "N10-I02",
       "identity_name": "Ruby Galleria",
       "stage": 2,
       "building_type": "Retail",
       "selected_for_prototype": false,
-      "selected_for_architectural_master": true,
+      "selected_for_architectural_master": false,
       "final_nft_certification": false,
       "evidence": "design/PIXEL_EVOLUTION_INVENTORY.json",
-      "selection_status": "delegated_visual_selection",
+      "selection_status": "superseded_for_environment_presentation_2026-11-27",
       "decode_audit_status": "passed_2026-11-26",
       "decode_audit_evidence": "design/ARTWORK_DECODE_VISUAL_AUDIT_N09_N10_2026-11-26.md",
-      "visual_audit_status": "environment_normalization_queued_2026-11-26",
-      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_NORMALIZATION_QUEUE_2026-11-26.md"
+      "visual_audit_status": "source_preserved_environment_replaced_2026-11-27",
+      "visual_audit_evidence": "design/ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md",
+      "architecture_source_for": "assets/candidates/environment-normalization/ruby-galleria-environment-composite-v1.png"
     },
     {
       "path": "assets/pixel-evolutions/scarlet-habitat-v1.png",
@@ -9774,6 +9778,204 @@
       "selected_for_prototype": false,
       "final_nft_certification": false,
       "evidence": "complete six-image equal-scale family review; ARTWORK_ENVIRONMENT_RESIDENTIAL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/qa/environment-normalization/lyceum-galleria-mask-v1.png",
+      "bytes": 4401,
+      "git_blob_sha": "6e9d6ce7253c86028d6a1f4079879cbce45529da",
+      "sha256": "714252ad743156c7d6266a4c7217f8458a5f7ae06a8165047895bb1f084d626c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "binary-environment-mask",
+      "neighborhood": "Arcadia Prime",
+      "identity_id": "N09-I02",
+      "identity_name": "Lyceum Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": true,
+      "final_nft_certification": false,
+      "evidence": "binary 0/255 alpha; 1,055,794 protected pixels; ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/candidates/environment-normalization/lyceum-galleria-environment-composite-v1.png",
+      "bytes": 2708762,
+      "git_blob_sha": "0fc1f4f4392e0250f5b7296c1626c4917bf047cd",
+      "sha256": "a9a8ab26c0d1dd2d1353c06f1427b6527a274f7ebb78ad8f8a890364eff67560",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "selected-architectural-master-environment-normalized",
+      "neighborhood": "Arcadia Prime",
+      "identity_id": "N09-I02",
+      "identity_name": "Lyceum Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": true,
+      "selected_for_architectural_master": true,
+      "final_nft_certification": false,
+      "selection_status": "delegated_visual_selection_environment_normalized",
+      "architecture_source_path": "assets/pixel-evolutions/lyceum-galleria-v1.png",
+      "environment_mask_path": "assets/qa/environment-normalization/lyceum-galleria-mask-v1.png",
+      "environment_plate_path": "assets/qa/environment-normalization/arcadia-prime-environment-plate-v1.png",
+      "protected_pixels": 1055794,
+      "protected_pixels_changed": 0,
+      "evidence": "design/ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/qa/environment-normalization/infinite-forum-mask-v1.png",
+      "bytes": 3691,
+      "git_blob_sha": "5ce5541422cfb224d06f3c755212aea2d0a4bcc6",
+      "sha256": "3f6c2f01016f0cafaa3b5602268a0ac373be9d63a95e0b41def844b2b0d191a6",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "binary-environment-mask",
+      "neighborhood": "Arcadia Prime",
+      "identity_id": "N09-I02",
+      "identity_name": "Infinite Forum",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": true,
+      "final_nft_certification": false,
+      "evidence": "binary 0/255 alpha; 1,233,847 protected pixels; ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/candidates/environment-normalization/infinite-forum-environment-composite-v1.png",
+      "bytes": 3038697,
+      "git_blob_sha": "f2f5a050ff3e8440e53540c6a89219ed81813daf",
+      "sha256": "1ae10125f1acea71c9241424fd92d3c7db9f7d6840d66731477e228199013cb0",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "selected-architectural-master-environment-normalized",
+      "neighborhood": "Arcadia Prime",
+      "identity_id": "N09-I02",
+      "identity_name": "Infinite Forum",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": true,
+      "selected_for_architectural_master": true,
+      "final_nft_certification": false,
+      "selection_status": "delegated_visual_selection_environment_normalized",
+      "architecture_source_path": "assets/pixel-evolutions/infinite-forum-v1.png",
+      "environment_mask_path": "assets/qa/environment-normalization/infinite-forum-mask-v1.png",
+      "environment_plate_path": "assets/qa/environment-normalization/arcadia-prime-environment-plate-v1.png",
+      "protected_pixels": 1233847,
+      "protected_pixels_changed": 0,
+      "evidence": "design/ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/qa/environment-normalization/ruby-galleria-mask-v1.png",
+      "bytes": 2885,
+      "git_blob_sha": "0e6e166c94e65bfbe2106f420049202e7ab04e57",
+      "sha256": "989f3b2196b57588c31105aecbd15c5731237fa098b65065ba405dea59e72408",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "binary-environment-mask",
+      "neighborhood": "Crimson Commons",
+      "identity_id": "N10-I02",
+      "identity_name": "Ruby Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": true,
+      "final_nft_certification": false,
+      "evidence": "binary 0/255 alpha; 1,265,024 protected pixels; ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/candidates/environment-normalization/ruby-galleria-environment-composite-v1.png",
+      "bytes": 2631915,
+      "git_blob_sha": "56817e6c4a521ceac5ed653374e4a348a7b9f105",
+      "sha256": "d0c39e3e146fc7379d960d1290f4107f709bb693e6499dedc7f383feb2ba9200",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "selected-architectural-master-environment-normalized",
+      "neighborhood": "Crimson Commons",
+      "identity_id": "N10-I02",
+      "identity_name": "Ruby Galleria",
+      "stage": 2,
+      "building_type": "Retail",
+      "selected_for_prototype": true,
+      "selected_for_architectural_master": true,
+      "final_nft_certification": false,
+      "selection_status": "delegated_visual_selection_environment_normalized",
+      "architecture_source_path": "assets/pixel-evolutions/ruby-galleria-v1.png",
+      "environment_mask_path": "assets/qa/environment-normalization/ruby-galleria-mask-v1.png",
+      "environment_plate_path": "assets/qa/environment-normalization/crimson-commons-environment-plate-v2.png",
+      "protected_pixels": 1265024,
+      "protected_pixels_changed": 0,
+      "evidence": "design/ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/qa/environment-normalization/cardinal-exchange-mask-v1.png",
+      "bytes": 3144,
+      "git_blob_sha": "a8e46631cf57486e2c485966a96ab8032bab7d09",
+      "sha256": "9f7137882bcc292f0ddbbac2e15656b136325fb63b9f25fefa52467a7b2e062c",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "binary-environment-mask",
+      "neighborhood": "Crimson Commons",
+      "identity_id": "N10-I02",
+      "identity_name": "Cardinal Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": true,
+      "final_nft_certification": false,
+      "evidence": "binary 0/255 alpha; 1,299,769 protected pixels; ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/candidates/environment-normalization/cardinal-exchange-environment-composite-v1.png",
+      "bytes": 2967984,
+      "git_blob_sha": "77cfce4b9e79f1ef9ca1950e40d18d2561e3d79f",
+      "sha256": "2a1ac4f95bc5dae3c0379868ffea050912e422c777e81ca070450a34b8870e41",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "classification": "selected-architectural-master-environment-normalized",
+      "neighborhood": "Crimson Commons",
+      "identity_id": "N10-I02",
+      "identity_name": "Cardinal Exchange",
+      "stage": 3,
+      "building_type": "Retail",
+      "selected_for_prototype": true,
+      "selected_for_architectural_master": true,
+      "final_nft_certification": false,
+      "selection_status": "delegated_visual_selection_environment_normalized",
+      "architecture_source_path": "assets/pixel-evolutions/cardinal-exchange-v1.png",
+      "environment_mask_path": "assets/qa/environment-normalization/cardinal-exchange-mask-v1.png",
+      "environment_plate_path": "assets/qa/environment-normalization/crimson-commons-environment-plate-v2.png",
+      "protected_pixels": 1299769,
+      "protected_pixels_changed": 0,
+      "evidence": "design/ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md"
+    },
+    {
+      "path": "assets/qa/environment-normalization/retail-stage-i-ii-iii-comparison-v1.png",
+      "bytes": 4716270,
+      "git_blob_sha": "fe1e0130e4de5a704c5456116cb02bb979ccf7d2",
+      "sha256": "d9d4909290df2b2540814738f7789eed02a2185df56a6fcd8f9e616056a896bb",
+      "dimensions": {
+        "width": 984,
+        "height": 992
+      },
+      "classification": "lineage-qa-evidence",
+      "neighborhood": "Arcadia Prime / Crimson Commons",
+      "identity_name": "Retail Stage I/II/III",
+      "stage": null,
+      "building_type": "Retail",
+      "selected_for_prototype": false,
+      "final_nft_certification": false,
+      "evidence": "complete six-image equal-scale family review; ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md"
     }
   ]
 }

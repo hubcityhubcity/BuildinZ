@@ -1,5 +1,18 @@
 # Genesis production handoff
 
+## Current checkpoint — November 27, 2026 (Retail promotion)
+
+Main inspected: `59226b81eb97727cd5dac6d6f0b99795368a4a03`. Read this before earlier checkpoints.
+
+Arcadia Prime and Crimson Commons Retail environment normalization is complete at selected-presentation level. Lyceum Galleria, Infinite Forum, Ruby Galleria and Cardinal Exchange use deterministic derivatives; original Stage II/III architecture sources remain preserved. Across 4,854,434 protected pixels, source/composite comparison reports **0 changed pixels**. Both complete Stage I/II/III Retail lineages pass exact-name, progression, circulation, roof/base framing and future scene-layer checks.
+
+Eight of twenty environment items are closed; twelve remain. Final NFT certification remains 0/150. Editions, rarities and downstream launch gates remain held.
+
+**Exact next action:** normalize both Technology families—Athena Labs → Oracle Spire → Prime Mind Nexus and Ember Labs → Vermilion Spire → Phoenix Nexus—using the accepted plates and binary masks. Require zero protected-pixel changes for all four derivatives and complete both three-stage comparisons before promotion.
+
+Evidence: `ARTWORK_ENVIRONMENT_RETAIL_PROMOTION_2026-11-27.md`.
+
+
 ## Current checkpoint — November 27, 2026 (Residential promotion)
 
 Main inspected: `cb00c93eb3577b6634a7fc2241c9dc90e5393271`. Read this before earlier checkpoints.
